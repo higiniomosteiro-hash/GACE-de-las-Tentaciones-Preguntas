@@ -19766,5 +19766,3605 @@
     "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
     "explanation": "La regla general para el umbral SARA es atender al VE acumulado de los lotes.",
     "format": "inap"
+  },
+  {
+    "id": 1127,
+    "question": "¿Qué artículo regula el órgano de contratación?",
+    "answer": "Artículo 61",
+    "options": [
+      "Artículo 62",
+      "Artículo 61",
+      "Artículo 63",
+      "Artículo 69"
+    ],
+    "reference": "LCSP 61",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 61». Fundamento: LCSP 61. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1128,
+    "question": "El órgano con facultades legalmente atribuidas para celebrar contratos en nombre de una entidad se regula en el:",
+    "answer": "Artículo 61",
+    "options": [
+      "Artículo 62",
+      "Artículo 63",
+      "Artículo 61",
+      "Artículo 69"
+    ],
+    "reference": "LCSP 61",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 61». Fundamento: LCSP 61. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1129,
+    "question": "¿Qué se conserva en una delegación de competencia?",
+    "answer": "La titularidad de la competencia",
+    "options": [
+      "La titularidad de la competencia",
+      "El ejercicio exclusivo de todos los actos delegados",
+      "La firma del adjudicatario",
+      "La personalidad del contratista"
+    ],
+    "reference": "LCSP 61 y régimen de delegación",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «La titularidad de la competencia». Fundamento: LCSP 61 y régimen de delegación. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1130,
+    "question": "Un órgano delega la facultad de contratar. ¿Qué conserva el órgano delegante?",
+    "answer": "La titularidad de la competencia",
+    "options": [
+      "El ejercicio exclusivo de todos los actos delegados",
+      "La firma del adjudicatario",
+      "La personalidad del contratista",
+      "La titularidad de la competencia"
+    ],
+    "reference": "LCSP 61 y régimen de delegación",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «La titularidad de la competencia». Fundamento: LCSP 61 y régimen de delegación. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1131,
+    "question": "¿Qué cambia mediante desconcentración?",
+    "answer": "La titularidad de la competencia",
+    "options": [
+      "Solo la firma, nunca la titularidad",
+      "La titularidad de la competencia",
+      "La solvencia del contratista",
+      "La garantía de ejecución"
+    ],
+    "reference": "LCSP 61",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «La titularidad de la competencia». Fundamento: LCSP 61. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1132,
+    "question": "El traslado reglado de la titularidad de competencias a órganos distintos constituye:",
+    "answer": "La titularidad de la competencia",
+    "options": [
+      "Solo la firma, nunca la titularidad",
+      "La solvencia del contratista",
+      "La titularidad de la competencia",
+      "La garantía de ejecución"
+    ],
+    "reference": "LCSP 61",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «La titularidad de la competencia». Fundamento: LCSP 61. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1133,
+    "question": "¿Qué artículo regula al responsable del contrato?",
+    "answer": "Artículo 62",
+    "options": [
+      "Artículo 62",
+      "Artículo 61",
+      "Artículo 323",
+      "Artículo 100"
+    ],
+    "reference": "LCSP 62",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 62». Fundamento: LCSP 62. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1134,
+    "question": "La supervisión de la ejecución contractual y las instrucciones al contratista se contemplan específicamente en el:",
+    "answer": "Artículo 62",
+    "options": [
+      "Artículo 61",
+      "Artículo 323",
+      "Artículo 100",
+      "Artículo 62"
+    ],
+    "reference": "LCSP 62",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 62». Fundamento: LCSP 62. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1135,
+    "question": "¿Quién ejerce las funciones del responsable del contrato de obras?",
+    "answer": "Director facultativo",
+    "options": [
+      "Presidente de la mesa",
+      "Director facultativo",
+      "Tribunal de Cuentas",
+      "Representante sindical"
+    ],
+    "reference": "LCSP 62",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Director facultativo». Fundamento: LCSP 62. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1136,
+    "question": "En contratos de obras, las atribuciones del responsable del artículo 62 corresponden al:",
+    "answer": "Director facultativo",
+    "options": [
+      "Presidente de la mesa",
+      "Tribunal de Cuentas",
+      "Director facultativo",
+      "Representante sindical"
+    ],
+    "reference": "LCSP 62",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Director facultativo». Fundamento: LCSP 62. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1137,
+    "question": "¿Puede ser externo a la Administración el responsable del contrato?",
+    "answer": "Sí, puede ser persona física o jurídica, interna o externa",
+    "options": [
+      "Sí, puede ser persona física o jurídica, interna o externa",
+      "No, solo funcionarios A1",
+      "No, solo interventores",
+      "No, siempre el presidente de la mesa"
+    ],
+    "reference": "LCSP 62",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Sí, puede ser persona física o jurídica, interna o externa». Fundamento: LCSP 62. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1138,
+    "question": "Una Administración designa a una persona jurídica externa para supervisar un servicio. ¿Qué permite el artículo 62?",
+    "answer": "Sí, puede ser persona física o jurídica, interna o externa",
+    "options": [
+      "No, solo funcionarios A1",
+      "No, solo interventores",
+      "No, siempre el presidente de la mesa",
+      "Sí, puede ser persona física o jurídica, interna o externa"
+    ],
+    "reference": "LCSP 62",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Sí, puede ser persona física o jurídica, interna o externa». Fundamento: LCSP 62. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1139,
+    "question": "¿Qué artículo regula el perfil de contratante?",
+    "answer": "Artículo 63",
+    "options": [
+      "Artículo 347 exclusivamente",
+      "Artículo 63",
+      "Artículo 337",
+      "Artículo 107"
+    ],
+    "reference": "LCSP 63",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 63». Fundamento: LCSP 63. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1140,
+    "question": "El espacio de difusión en Internet de anuncios, pliegos y actividad contractual de cada órgano corresponde al:",
+    "answer": "Artículo 63",
+    "options": [
+      "Artículo 347 exclusivamente",
+      "Artículo 337",
+      "Artículo 63",
+      "Artículo 107"
+    ],
+    "reference": "LCSP 63",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 63». Fundamento: LCSP 63. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1141,
+    "question": "¿Qué artículo regula la Plataforma de Contratación del Sector Público?",
+    "answer": "Artículo 347",
+    "options": [
+      "Artículo 347",
+      "Artículo 63 exclusivamente",
+      "Artículo 82",
+      "Artículo 99"
+    ],
+    "reference": "LCSP 347",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 347». Fundamento: LCSP 347. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1142,
+    "question": "La plataforma electrónica estatal que aloja los perfiles de contratante se regula en:",
+    "answer": "Artículo 347",
+    "options": [
+      "Artículo 63 exclusivamente",
+      "Artículo 82",
+      "Artículo 99",
+      "Artículo 347"
+    ],
+    "reference": "LCSP 347",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 347». Fundamento: LCSP 347. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1143,
+    "question": "¿Dónde se alojan los perfiles de las entidades del sector público estatal?",
+    "answer": "En la Plataforma de Contratación del Sector Público estatal",
+    "options": [
+      "Únicamente en el Registro Mercantil",
+      "En la Plataforma de Contratación del Sector Público estatal",
+      "En la sede judicial de su territorio",
+      "Solo en su boletín interno"
+    ],
+    "reference": "LCSP 347",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «En la Plataforma de Contratación del Sector Público estatal». Fundamento: LCSP 347. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1144,
+    "question": "Un organismo estatal quiere difundir su perfil fuera de la plataforma estatal como único soporte. ¿Cuál es la regla?",
+    "answer": "En la Plataforma de Contratación del Sector Público estatal",
+    "options": [
+      "Únicamente en el Registro Mercantil",
+      "En la sede judicial de su territorio",
+      "En la Plataforma de Contratación del Sector Público estatal",
+      "Solo en su boletín interno"
+    ],
+    "reference": "LCSP 347",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «En la Plataforma de Contratación del Sector Público estatal». Fundamento: LCSP 347. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1145,
+    "question": "¿Pueden las CCAA utilizar su plataforma propia de contratación?",
+    "answer": "Sí, con las obligaciones de comunicación previstas",
+    "options": [
+      "Sí, con las obligaciones de comunicación previstas",
+      "No, está prohibido cualquier sistema autonómico",
+      "Sí, pero puede omitir todas las convocatorias",
+      "Solo si elimina su perfil de contratante"
+    ],
+    "reference": "LCSP 347",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Sí, con las obligaciones de comunicación previstas». Fundamento: LCSP 347. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1146,
+    "question": "Una comunidad autónoma usa su plataforma y comunica a la estatal los datos legalmente exigidos. ¿Es compatible con la LCSP?",
+    "answer": "Sí, con las obligaciones de comunicación previstas",
+    "options": [
+      "No, está prohibido cualquier sistema autonómico",
+      "Sí, pero puede omitir todas las convocatorias",
+      "Solo si elimina su perfil de contratante",
+      "Sí, con las obligaciones de comunicación previstas"
+    ],
+    "reference": "LCSP 347",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Sí, con las obligaciones de comunicación previstas». Fundamento: LCSP 347. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1147,
+    "question": "¿Quién contrata en los ministerios del Estado?",
+    "answer": "Ministros y secretarios de Estado dentro de sus competencias",
+    "options": [
+      "Solo al presidente del Gobierno",
+      "Ministros y secretarios de Estado dentro de sus competencias",
+      "Siempre a la mesa de contratación",
+      "Solo al Tribunal de Cuentas"
+    ],
+    "reference": "LCSP 323",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Ministros y secretarios de Estado dentro de sus competencias». Fundamento: LCSP 323. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1148,
+    "question": "La competencia ordinaria para contratar en el ámbito ministerial corresponde a:",
+    "answer": "Ministros y secretarios de Estado dentro de sus competencias",
+    "options": [
+      "Solo al presidente del Gobierno",
+      "Siempre a la mesa de contratación",
+      "Ministros y secretarios de Estado dentro de sus competencias",
+      "Solo al Tribunal de Cuentas"
+    ],
+    "reference": "LCSP 323",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Ministros y secretarios de Estado dentro de sus competencias». Fundamento: LCSP 323. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1149,
+    "question": "¿Quién contrata ordinariamente en organismos autónomos estatales?",
+    "answer": "Presidente o director",
+    "options": [
+      "Presidente o director",
+      "Juez decano",
+      "Jefe de protocolo",
+      "Presidente del Congreso"
+    ],
+    "reference": "LCSP 323",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Presidente o director». Fundamento: LCSP 323. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1150,
+    "question": "Salvo disposición específica en contra, la facultad contractual de un organismo autónomo corresponde a su:",
+    "answer": "Presidente o director",
+    "options": [
+      "Juez decano",
+      "Jefe de protocolo",
+      "Presidente del Congreso",
+      "Presidente o director"
+    ],
+    "reference": "LCSP 323",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Presidente o director». Fundamento: LCSP 323. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1151,
+    "question": "¿Quién contrata en entidades gestoras y servicios comunes de la Seguridad Social?",
+    "answer": "Directores generales",
+    "options": [
+      "Subdelegados del Gobierno",
+      "Directores generales",
+      "Secretarios de la mesa",
+      "Presidente del Tribunal Constitucional"
+    ],
+    "reference": "LCSP 323",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Directores generales». Fundamento: LCSP 323. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1152,
+    "question": "En el ámbito de la Seguridad Social, los órganos ordinarios de contratación previstos en la LCSP son los:",
+    "answer": "Directores generales",
+    "options": [
+      "Subdelegados del Gobierno",
+      "Secretarios de la mesa",
+      "Directores generales",
+      "Presidente del Tribunal Constitucional"
+    ],
+    "reference": "LCSP 323",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Directores generales». Fundamento: LCSP 323. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1153,
+    "question": "¿Qué órgano interviene en el sistema estatal de contratación centralizada?",
+    "answer": "Junta de Contratación Centralizada",
+    "options": [
+      "Junta de Contratación Centralizada",
+      "Oficina Nacional de Evaluación",
+      "Defensor del Pueblo",
+      "ROLECSP"
+    ],
+    "reference": "LCSP 229-230 y 323",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Junta de Contratación Centralizada». Fundamento: LCSP 229-230 y 323. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1154,
+    "question": "La contratación centralizada estatal no se confunde con la mesa ordinaria. ¿Qué órgano específico interviene?",
+    "answer": "Junta de Contratación Centralizada",
+    "options": [
+      "Oficina Nacional de Evaluación",
+      "Defensor del Pueblo",
+      "ROLECSP",
+      "Junta de Contratación Centralizada"
+    ],
+    "reference": "LCSP 229-230 y 323",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Junta de Contratación Centralizada». Fundamento: LCSP 229-230 y 323. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1155,
+    "question": "¿Desde qué VE se requiere ordinariamente autorización del Consejo de Ministros para contratos estatales?",
+    "answer": "12.000.000 € o más",
+    "options": [
+      "Más de 15.000.000 €",
+      "12.000.000 € o más",
+      "Desde 900.000 € sin excepción",
+      "Más de 5.404.000 € en todos los casos"
+    ],
+    "reference": "LCSP 324",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «12.000.000 € o más». Fundamento: LCSP 324. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1156,
+    "question": "Una entidad estatal poder adjudicador prepara un contrato con VE de 12 millones de euros. ¿Qué autorización exige el artículo 324?",
+    "answer": "12.000.000 € o más",
+    "options": [
+      "Más de 15.000.000 €",
+      "Desde 900.000 € sin excepción",
+      "12.000.000 € o más",
+      "Más de 5.404.000 € en todos los casos"
+    ],
+    "reference": "LCSP 324",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «12.000.000 € o más». Fundamento: LCSP 324. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1157,
+    "question": "¿Cuántas anualidades debe superar un leasing estatal para exigir autorización del Consejo de Ministros por este motivo?",
+    "answer": "Más de 4 anualidades",
+    "options": [
+      "Más de 4 anualidades",
+      "Más de 2 anualidades",
+      "Más de 6 anualidades",
+      "Al menos 10 anualidades"
+    ],
+    "reference": "LCSP 324",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Más de 4 anualidades». Fundamento: LCSP 324. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1158,
+    "question": "Un arrendamiento financiero de VE inferior a 12 millones se celebra en cinco anualidades. ¿Qué dato activa autorización del Consejo de Ministros?",
+    "answer": "Más de 4 anualidades",
+    "options": [
+      "Más de 2 anualidades",
+      "Más de 6 anualidades",
+      "Al menos 10 anualidades",
+      "Más de 4 anualidades"
+    ],
+    "reference": "LCSP 324",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Más de 4 anualidades». Fundamento: LCSP 324. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1159,
+    "question": "¿Cuál es la cuantía transitoria de autorización ministerial o de Secretaría de Estado de adscripción?",
+    "answer": "900.000 €",
+    "options": [
+      "500.000 €",
+      "900.000 €",
+      "140.000 €",
+      "12.000.000 €"
+    ],
+    "reference": "LCSP DT 2 y 324",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «900.000 €». Fundamento: LCSP DT 2 y 324. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1160,
+    "question": "Mientras no se fije otra cuantía conforme a la LCSP, la disposición transitoria segunda establece un VE de:",
+    "answer": "900.000 €",
+    "options": [
+      "500.000 €",
+      "140.000 €",
+      "900.000 €",
+      "12.000.000 €"
+    ],
+    "reference": "LCSP DT 2 y 324",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «900.000 €». Fundamento: LCSP DT 2 y 324. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1161,
+    "question": "¿Qué modificación no prevista de un contrato autorizado por el Consejo de Ministros requiere nueva autorización de ese órgano?",
+    "answer": "El 10 % del precio inicial sin IVA",
+    "options": [
+      "El 10 % del precio inicial sin IVA",
+      "El 3 % del PBL",
+      "El 20 % del VE",
+      "El 50 % de las anualidades"
+    ],
+    "reference": "LCSP 324",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «El 10 % del precio inicial sin IVA». Fundamento: LCSP 324. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1162,
+    "question": "Un contrato autorizado por el Consejo de Ministros se modifica sin previsión por el 11 % del precio inicial sin IVA. La regla de autorización adicional se activa al superar:",
+    "answer": "El 10 % del precio inicial sin IVA",
+    "options": [
+      "El 3 % del PBL",
+      "El 20 % del VE",
+      "El 50 % de las anualidades",
+      "El 10 % del precio inicial sin IVA"
+    ],
+    "reference": "LCSP 324",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «El 10 % del precio inicial sin IVA». Fundamento: LCSP 324. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1163,
+    "question": "¿Desde qué VE se exige informe vinculante de Hacienda para determinadas concesiones estatales?",
+    "answer": "12.000.000 €",
+    "options": [
+      "900.000 €",
+      "12.000.000 €",
+      "216.000 €",
+      "600.000 €"
+    ],
+    "reference": "LCSP 324",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «12.000.000 €». Fundamento: LCSP 324. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1164,
+    "question": "Para una concesión estatal sin otras ayudas o aportaciones, ¿a partir de qué valor estimado procede el informe de Hacienda del art. 324?",
+    "answer": "12.000.000 €",
+    "options": [
+      "900.000 €",
+      "216.000 €",
+      "12.000.000 €",
+      "600.000 €"
+    ],
+    "reference": "LCSP 324",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «12.000.000 €». Fundamento: LCSP 324. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1165,
+    "question": "¿Qué sucede con el informe de Hacienda si una concesión estatal recibe aportación o préstamo públicos?",
+    "answer": "Puede exigirse con independencia del VE",
+    "options": [
+      "Puede exigirse con independencia del VE",
+      "No procede por ser inferior a 12 millones",
+      "Se sustituye por informe ROLECSP",
+      "Solo procede si hay contrato menor"
+    ],
+    "reference": "LCSP 324",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Puede exigirse con independencia del VE». Fundamento: LCSP 324. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1166,
+    "question": "Una concesión estatal con VE de 8 millones recibe un préstamo estatal. ¿Qué regla especial se aplica?",
+    "answer": "Puede exigirse con independencia del VE",
+    "options": [
+      "No procede por ser inferior a 12 millones",
+      "Se sustituye por informe ROLECSP",
+      "Solo procede si hay contrato menor",
+      "Puede exigirse con independencia del VE"
+    ],
+    "reference": "LCSP 324",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Puede exigirse con independencia del VE». Fundamento: LCSP 324. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1167,
+    "question": "¿Qué función cumple una mesa de contratación?",
+    "answer": "Asistencia al órgano de contratación",
+    "options": [
+      "Adjudicación judicial definitiva",
+      "Asistencia al órgano de contratación",
+      "Aprobación de la Ley de Presupuestos",
+      "Control constitucional"
+    ],
+    "reference": "LCSP 326",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Asistencia al órgano de contratación». Fundamento: LCSP 326. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1168,
+    "question": "En procedimiento abierto de una AAPP, la mesa se configura como órgano de:",
+    "answer": "Asistencia al órgano de contratación",
+    "options": [
+      "Adjudicación judicial definitiva",
+      "Aprobación de la Ley de Presupuestos",
+      "Asistencia al órgano de contratación",
+      "Control constitucional"
+    ],
+    "reference": "LCSP 326",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Asistencia al órgano de contratación». Fundamento: LCSP 326. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1169,
+    "question": "¿Es obligatoria la mesa de contratación en el simplificado abreviado 159.6?",
+    "answer": "Su constitución es potestativa",
+    "options": [
+      "Su constitución es potestativa",
+      "Debe constituirse siempre",
+      "Está prohibida en todos los procedimientos",
+      "Decide la CNMC su composición"
+    ],
+    "reference": "LCSP 159.6 y 326",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Su constitución es potestativa». Fundamento: LCSP 159.6 y 326. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1170,
+    "question": "Un órgano tramita el procedimiento 159.6 y prescinde de mesa. ¿Qué dice la LCSP?",
+    "answer": "Su constitución es potestativa",
+    "options": [
+      "Debe constituirse siempre",
+      "Está prohibida en todos los procedimientos",
+      "Decide la CNMC su composición",
+      "Su constitución es potestativa"
+    ],
+    "reference": "LCSP 159.6 y 326",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Su constitución es potestativa». Fundamento: LCSP 159.6 y 326. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1171,
+    "question": "¿En qué negociado sin publicidad se exige mesa a pesar de su carácter normalmente potestativo?",
+    "answer": "Obligatoria",
+    "options": [
+      "Prohibida",
+      "Obligatoria",
+      "Siempre potestativa",
+      "Competencia de la ONE"
+    ],
+    "reference": "LCSP 326",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Obligatoria». Fundamento: LCSP 326. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1172,
+    "question": "Por la imperiosa urgencia del artículo 168.b.1, la constitución de mesa pasa a ser:",
+    "answer": "Obligatoria",
+    "options": [
+      "Prohibida",
+      "Siempre potestativa",
+      "Obligatoria",
+      "Competencia de la ONE"
+    ],
+    "reference": "LCSP 326",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Obligatoria». Fundamento: LCSP 326. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1173,
+    "question": "¿Qué proporción mínima de expertos tiene la mesa especial del diálogo competitivo?",
+    "answer": "Un tercio",
+    "options": [
+      "Un tercio",
+      "Una quinta parte",
+      "La mitad exactamente",
+      "Dos tercios"
+    ],
+    "reference": "LCSP 327",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Un tercio». Fundamento: LCSP 327. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1174,
+    "question": "Una mesa especial para diálogo competitivo incorpora expertos con voz y voto. ¿Qué mínimo representa sobre sus componentes?",
+    "answer": "Un tercio",
+    "options": [
+      "Una quinta parte",
+      "La mitad exactamente",
+      "Dos tercios",
+      "Un tercio"
+    ],
+    "reference": "LCSP 327",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Un tercio». Fundamento: LCSP 327. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1175,
+    "question": "¿Qué artículo regula la JCCPE?",
+    "answer": "Artículo 328",
+    "options": [
+      "Artículo 329",
+      "Artículo 328",
+      "Artículo 332",
+      "Artículo 333"
+    ],
+    "reference": "LCSP 328",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 328». Fundamento: LCSP 328. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1176,
+    "question": "La Junta Consultiva de Contratación Pública del Estado, órgano de consulta en materia contractual, se regula en:",
+    "answer": "Artículo 328",
+    "options": [
+      "Artículo 329",
+      "Artículo 332",
+      "Artículo 328",
+      "Artículo 333"
+    ],
+    "reference": "LCSP 328",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 328». Fundamento: LCSP 328. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1177,
+    "question": "¿Cada cuánto remite la JCCPE el informe sobre contratación SARA a la Comisión Europea?",
+    "answer": "Cada 3 años",
+    "options": [
+      "Cada 3 años",
+      "Cada año",
+      "Cada 2 años",
+      "Cada 6 años"
+    ],
+    "reference": "LCSP 328",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Cada 3 años». Fundamento: LCSP 328. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1178,
+    "question": "La periodicidad del informe de licitación y ejecución SARA que la JCCPE envía a la Comisión Europea es:",
+    "answer": "Cada 3 años",
+    "options": [
+      "Cada año",
+      "Cada 2 años",
+      "Cada 6 años",
+      "Cada 3 años"
+    ],
+    "reference": "LCSP 328",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Cada 3 años». Fundamento: LCSP 328. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1179,
+    "question": "¿En qué órgano se integra el Comité de Cooperación en materia de contratación?",
+    "answer": "JCCPE",
+    "options": [
+      "Tribunal de Cuentas",
+      "JCCPE",
+      "Oficina Nacional de Evaluación",
+      "CNMC exclusivamente"
+    ],
+    "reference": "LCSP 329",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «JCCPE». Fundamento: LCSP 329. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1180,
+    "question": "El Comité para articular cooperación con CCAA y entidades locales se constituye en el seno de:",
+    "answer": "JCCPE",
+    "options": [
+      "Tribunal de Cuentas",
+      "Oficina Nacional de Evaluación",
+      "JCCPE",
+      "CNMC exclusivamente"
+    ],
+    "reference": "LCSP 329",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «JCCPE». Fundamento: LCSP 329. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1181,
+    "question": "¿Qué organismo supervisa independientemente la contratación pública?",
+    "answer": "OIReScon",
+    "options": [
+      "OIReScon",
+      "ROLECSP",
+      "Mesa de contratación",
+      "Secretaría de Estado de Seguridad"
+    ],
+    "reference": "LCSP 332",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «OIReScon». Fundamento: LCSP 332. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1182,
+    "question": "Se detectan patrones de irregularidad en licitaciones. ¿Qué órgano es el supervisor independiente de la contratación?",
+    "answer": "OIReScon",
+    "options": [
+      "ROLECSP",
+      "Mesa de contratación",
+      "Secretaría de Estado de Seguridad",
+      "OIReScon"
+    ],
+    "reference": "LCSP 332",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «OIReScon». Fundamento: LCSP 332. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1183,
+    "question": "¿Cuál es la duración del mandato de miembros independientes de OIReScon?",
+    "answer": "6 años",
+    "options": [
+      "3 años",
+      "6 años",
+      "4 años",
+      "9 años"
+    ],
+    "reference": "LCSP 332",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «6 años». Fundamento: LCSP 332. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1184,
+    "question": "La presidencia y vocalías independientes de la Oficina de Supervisión son nombradas por un mandato de:",
+    "answer": "6 años",
+    "options": [
+      "3 años",
+      "4 años",
+      "6 años",
+      "9 años"
+    ],
+    "reference": "LCSP 332",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «6 años». Fundamento: LCSP 332. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1185,
+    "question": "¿Qué órgano analiza la sostenibilidad financiera de determinadas concesiones?",
+    "answer": "Oficina Nacional de Evaluación",
+    "options": [
+      "Oficina Nacional de Evaluación",
+      "Oficina de Presupuestos de las Cortes",
+      "Registro de Licitadores",
+      "Mesa especial"
+    ],
+    "reference": "LCSP 333",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Oficina Nacional de Evaluación». Fundamento: LCSP 333. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1186,
+    "question": "La evaluación de la sostenibilidad financiera de concesiones corresponde a la oficina integrada en OIReScon denominada:",
+    "answer": "Oficina Nacional de Evaluación",
+    "options": [
+      "Oficina de Presupuestos de las Cortes",
+      "Registro de Licitadores",
+      "Mesa especial",
+      "Oficina Nacional de Evaluación"
+    ],
+    "reference": "LCSP 333",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Oficina Nacional de Evaluación». Fundamento: LCSP 333. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1187,
+    "question": "¿Quién prepara la propuesta de Estrategia Nacional de Contratación Pública?",
+    "answer": "Comité de Cooperación",
+    "options": [
+      "Oficina Nacional de Evaluación",
+      "Comité de Cooperación",
+      "ROLECSP",
+      "Tribunal Constitucional"
+    ],
+    "reference": "LCSP 329 y 334",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Comité de Cooperación». Fundamento: LCSP 329 y 334. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1188,
+    "question": "En la arquitectura de gobernanza contractual, ¿qué órgano propone la Estrategia Nacional?",
+    "answer": "Comité de Cooperación",
+    "options": [
+      "Oficina Nacional de Evaluación",
+      "ROLECSP",
+      "Comité de Cooperación",
+      "Tribunal Constitucional"
+    ],
+    "reference": "LCSP 329 y 334",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Comité de Cooperación». Fundamento: LCSP 329 y 334. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1189,
+    "question": "¿Quién aprueba la Estrategia Nacional de Contratación Pública?",
+    "answer": "OIReScon",
+    "options": [
+      "OIReScon",
+      "Registro de Contratos",
+      "Secretario de la mesa",
+      "Tribunal de Cuentas"
+    ],
+    "reference": "LCSP 334",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «OIReScon». Fundamento: LCSP 334. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1190,
+    "question": "Tras recibir la propuesta del Comité de Cooperación, ¿quién aprueba la Estrategia Nacional?",
+    "answer": "OIReScon",
+    "options": [
+      "Registro de Contratos",
+      "Secretario de la mesa",
+      "Tribunal de Cuentas",
+      "OIReScon"
+    ],
+    "reference": "LCSP 334",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «OIReScon». Fundamento: LCSP 334. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1191,
+    "question": "¿Qué registro incorpora datos de licitadores y empresas clasificadas?",
+    "answer": "ROLECSP",
+    "options": [
+      "Registro de Contratos",
+      "ROLECSP",
+      "Registro de la Propiedad",
+      "Registro Civil"
+    ],
+    "reference": "LCSP 337-345",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «ROLECSP». Fundamento: LCSP 337-345. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1192,
+    "question": "Se trata de consultar clasificación y aptitud inscritas de una empresa. ¿Qué registro es el específico?",
+    "answer": "ROLECSP",
+    "options": [
+      "Registro de Contratos",
+      "Registro de la Propiedad",
+      "ROLECSP",
+      "Registro Civil"
+    ],
+    "reference": "LCSP 337-345",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «ROLECSP». Fundamento: LCSP 337-345. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1193,
+    "question": "¿Qué registro recoge los contratos adjudicados por el sector público?",
+    "answer": "Registro de Contratos del Sector Público",
+    "options": [
+      "Registro de Contratos del Sector Público",
+      "ROLECSP",
+      "Registro de la Propiedad",
+      "Registro de Personal"
+    ],
+    "reference": "LCSP 346",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Registro de Contratos del Sector Público». Fundamento: LCSP 346. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1194,
+    "question": "Una Administración comunica datos básicos de sus contratos adjudicados. ¿A qué registro se refiere el artículo 346?",
+    "answer": "Registro de Contratos del Sector Público",
+    "options": [
+      "ROLECSP",
+      "Registro de la Propiedad",
+      "Registro de Personal",
+      "Registro de Contratos del Sector Público"
+    ],
+    "reference": "LCSP 346",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Registro de Contratos del Sector Público». Fundamento: LCSP 346. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1195,
+    "question": "¿Qué importe permite la excepción de comunicación al Registro de Contratos si se paga por caja fija?",
+    "answer": "5.000 €",
+    "options": [
+      "15.000 €",
+      "5.000 €",
+      "40.000 €",
+      "35.000 €"
+    ],
+    "reference": "LCSP 346",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «5.000 €». Fundamento: LCSP 346. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1196,
+    "question": "Una adquisición se paga por anticipo de caja fija. ¿Qué cuantía debe no alcanzar, IVA incluido, para aplicar la excepción?",
+    "answer": "5.000 €",
+    "options": [
+      "15.000 €",
+      "40.000 €",
+      "5.000 €",
+      "35.000 €"
+    ],
+    "reference": "LCSP 346",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «5.000 €». Fundamento: LCSP 346. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1197,
+    "question": "¿Cuál es el plazo de remisión de copias de determinados contratos al Tribunal de Cuentas?",
+    "answer": "3 meses",
+    "options": [
+      "3 meses",
+      "15 días",
+      "6 meses",
+      "1 año"
+    ],
+    "reference": "LCSP 335",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «3 meses». Fundamento: LCSP 335. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1198,
+    "question": "Una contratación supera los límites del art. 335. ¿Cuándo se remiten copia y extracto respecto de la formalización?",
+    "answer": "3 meses",
+    "options": [
+      "15 días",
+      "6 meses",
+      "1 año",
+      "3 meses"
+    ],
+    "reference": "LCSP 335",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «3 meses». Fundamento: LCSP 335. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1199,
+    "question": "¿Qué precio deben superar obras y concesiones para remitir copia al Tribunal de Cuentas?",
+    "answer": "Más de 600.000 €",
+    "options": [
+      "600.000 € o más",
+      "Más de 600.000 €",
+      "Más de 450.000 €",
+      "Más de 150.000 €"
+    ],
+    "reference": "LCSP 335",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Más de 600.000 €». Fundamento: LCSP 335. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1200,
+    "question": "Se adjudica una obra por 600.000 € exactos. ¿Qué umbral utiliza la norma para exigir copia por cuantía?",
+    "answer": "Más de 600.000 €",
+    "options": [
+      "600.000 € o más",
+      "Más de 450.000 €",
+      "Más de 600.000 €",
+      "Más de 150.000 €"
+    ],
+    "reference": "LCSP 335",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Más de 600.000 €». Fundamento: LCSP 335. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1201,
+    "question": "¿Qué precio deben superar los suministros para remitir copia al Tribunal de Cuentas?",
+    "answer": "Más de 450.000 €",
+    "options": [
+      "Más de 450.000 €",
+      "450.000 € o más",
+      "Más de 600.000 €",
+      "Más de 150.000 €"
+    ],
+    "reference": "LCSP 335",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Más de 450.000 €». Fundamento: LCSP 335. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1202,
+    "question": "Se adjudica un suministro por 450.000 € exactos. ¿Qué límite rige para la remisión específica por cuantía?",
+    "answer": "Más de 450.000 €",
+    "options": [
+      "450.000 € o más",
+      "Más de 600.000 €",
+      "Más de 150.000 €",
+      "Más de 450.000 €"
+    ],
+    "reference": "LCSP 335",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Más de 450.000 €». Fundamento: LCSP 335. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1203,
+    "question": "¿Qué precio deben superar los servicios para remitir copia al Tribunal de Cuentas?",
+    "answer": "Más de 150.000 €",
+    "options": [
+      "150.000 € o más",
+      "Más de 150.000 €",
+      "Más de 100.000 €",
+      "Más de 450.000 €"
+    ],
+    "reference": "LCSP 335",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Más de 150.000 €». Fundamento: LCSP 335. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1204,
+    "question": "Se adjudica un servicio por 150.000 € exactos. ¿Cuál es el umbral estricto aplicable al envío de copia?",
+    "answer": "Más de 150.000 €",
+    "options": [
+      "150.000 € o más",
+      "Más de 100.000 €",
+      "Más de 150.000 €",
+      "Más de 450.000 €"
+    ],
+    "reference": "LCSP 335",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Más de 150.000 €». Fundamento: LCSP 335. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1205,
+    "question": "¿Qué magnitud y umbral se usa para remitir acuerdos marco al Tribunal de Cuentas?",
+    "answer": "VE superior a 600.000 €",
+    "options": [
+      "VE superior a 600.000 €",
+      "VE igual o superior a 600.000 €",
+      "Precio superior a 150.000 €",
+      "PBL superior a 216.000 €"
+    ],
+    "reference": "LCSP 335",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «VE superior a 600.000 €». Fundamento: LCSP 335. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1206,
+    "question": "En un acuerdo marco cuyo VE es de exactamente 600.000 €, ¿qué umbral exige el art. 335 para la remisión específica?",
+    "answer": "VE superior a 600.000 €",
+    "options": [
+      "VE igual o superior a 600.000 €",
+      "Precio superior a 150.000 €",
+      "PBL superior a 216.000 €",
+      "VE superior a 600.000 €"
+    ],
+    "reference": "LCSP 335",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «VE superior a 600.000 €». Fundamento: LCSP 335. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1207,
+    "question": "¿Qué artículo fija las condiciones generales de aptitud para contratar?",
+    "answer": "Artículo 65",
+    "options": [
+      "Artículo 99",
+      "Artículo 65",
+      "Artículo 107",
+      "Artículo 124"
+    ],
+    "reference": "LCSP 65",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 65». Fundamento: LCSP 65. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1208,
+    "question": "Un licitador es solvente pero no tiene habilitación profesional exigida. ¿En qué precepto se exige aptitud completa?",
+    "answer": "Artículo 65",
+    "options": [
+      "Artículo 99",
+      "Artículo 107",
+      "Artículo 65",
+      "Artículo 124"
+    ],
+    "reference": "LCSP 65",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 65». Fundamento: LCSP 65. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1209,
+    "question": "¿Qué deben abarcar los fines u objeto social de una persona jurídica para contratar?",
+    "answer": "Comprender la actividad contractual",
+    "options": [
+      "Comprender la actividad contractual",
+      "Coincidir solo con el domicilio del ayuntamiento",
+      "Incluir exactamente diez trabajadores",
+      "Ser miembro de una UTE en todo caso"
+    ],
+    "reference": "LCSP 66",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Comprender la actividad contractual». Fundamento: LCSP 66. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1210,
+    "question": "Una sociedad pretende concurrir a una prestación ajena a su objeto estatutario. ¿Qué regla de capacidad debe verificar?",
+    "answer": "Comprender la actividad contractual",
+    "options": [
+      "Coincidir solo con el domicilio del ayuntamiento",
+      "Incluir exactamente diez trabajadores",
+      "Ser miembro de una UTE en todo caso",
+      "Comprender la actividad contractual"
+    ],
+    "reference": "LCSP 66",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Comprender la actividad contractual». Fundamento: LCSP 66. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1211,
+    "question": "¿Cómo acredita normalmente capacidad una empresa de la UE o el EEE?",
+    "answer": "Registro o certificación de su Estado de establecimiento",
+    "options": [
+      "DNI de todos sus empleados",
+      "Registro o certificación de su Estado de establecimiento",
+      "Aprobación del Senado español",
+      "Solo una declaración de su alcalde"
+    ],
+    "reference": "LCSP 67 y 84",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Registro o certificación de su Estado de establecimiento». Fundamento: LCSP 67 y 84. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1212,
+    "question": "Una firma italiana licita en España. ¿Qué vía específica de acreditación resulta normalmente pertinente?",
+    "answer": "Registro o certificación de su Estado de establecimiento",
+    "options": [
+      "DNI de todos sus empleados",
+      "Aprobación del Senado español",
+      "Registro o certificación de su Estado de establecimiento",
+      "Solo una declaración de su alcalde"
+    ],
+    "reference": "LCSP 67 y 84",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Registro o certificación de su Estado de establecimiento». Fundamento: LCSP 67 y 84. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1213,
+    "question": "¿Qué acreditación particular se exige a empresas extranjeras de terceros países?",
+    "answer": "Informe diplomático o consular y reciprocidad con excepciones",
+    "options": [
+      "Informe diplomático o consular y reciprocidad con excepciones",
+      "Acreditar clasificación como obra sin excepción",
+      "Ser entidad local española",
+      "Únicamente inscribirse en el padrón"
+    ],
+    "reference": "LCSP 68 y 84",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Informe diplomático o consular y reciprocidad con excepciones». Fundamento: LCSP 68 y 84. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1214,
+    "question": "Una licitadora de un país ajeno a UE/EEE debe atender a las reglas propias de capacidad. ¿Qué aparece entre ellas?",
+    "answer": "Informe diplomático o consular y reciprocidad con excepciones",
+    "options": [
+      "Acreditar clasificación como obra sin excepción",
+      "Ser entidad local española",
+      "Únicamente inscribirse en el padrón",
+      "Informe diplomático o consular y reciprocidad con excepciones"
+    ],
+    "reference": "LCSP 68 y 84",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Informe diplomático o consular y reciprocidad con excepciones». Fundamento: LCSP 68 y 84. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1215,
+    "question": "¿Qué artículo enumera medios de solvencia económica y financiera?",
+    "answer": "Artículo 87",
+    "options": [
+      "Artículo 88",
+      "Artículo 87",
+      "Artículo 89",
+      "Artículo 90"
+    ],
+    "reference": "LCSP 87",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 87». Fundamento: LCSP 87. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1216,
+    "question": "Entre los medios para acreditar capacidad económica del empresario figuran volumen de negocio y seguro profesional. ¿Artículo?",
+    "answer": "Artículo 87",
+    "options": [
+      "Artículo 88",
+      "Artículo 89",
+      "Artículo 87",
+      "Artículo 90"
+    ],
+    "reference": "LCSP 87",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 87». Fundamento: LCSP 87. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1217,
+    "question": "¿Cuántos años comprende ordinariamente la experiencia técnica de obras?",
+    "answer": "5 años",
+    "options": [
+      "5 años",
+      "3 años",
+      "2 años",
+      "10 años"
+    ],
+    "reference": "LCSP 88",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «5 años». Fundamento: LCSP 88. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1218,
+    "question": "Para acreditar solvencia de obras con certificados de obras ejecutadas, ¿qué horizonte habitual establece el art. 88?",
+    "answer": "5 años",
+    "options": [
+      "3 años",
+      "2 años",
+      "10 años",
+      "5 años"
+    ],
+    "reference": "LCSP 88",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «5 años». Fundamento: LCSP 88. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1219,
+    "question": "¿Cuántos años comprende ordinariamente la experiencia técnica de suministro?",
+    "answer": "3 años",
+    "options": [
+      "5 años",
+      "3 años",
+      "10 años",
+      "1 año"
+    ],
+    "reference": "LCSP 89",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «3 años». Fundamento: LCSP 89. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1220,
+    "question": "Se aportan suministros similares realizados para acreditar solvencia técnica. ¿Qué período ordinario rige?",
+    "answer": "3 años",
+    "options": [
+      "5 años",
+      "10 años",
+      "3 años",
+      "1 año"
+    ],
+    "reference": "LCSP 89",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «3 años». Fundamento: LCSP 89. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1221,
+    "question": "¿Cuántos años comprende ordinariamente la experiencia técnica de servicios?",
+    "answer": "3 años",
+    "options": [
+      "3 años",
+      "5 años",
+      "8 años",
+      "1 año"
+    ],
+    "reference": "LCSP 90",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «3 años». Fundamento: LCSP 90. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1222,
+    "question": "Una empresa de servicios aporta contratos similares anteriores. ¿Cuál es la regla temporal ordinaria?",
+    "answer": "3 años",
+    "options": [
+      "5 años",
+      "8 años",
+      "1 año",
+      "3 años"
+    ],
+    "reference": "LCSP 90",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «3 años». Fundamento: LCSP 90. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1223,
+    "question": "¿Qué VE de obras permite la exención reglamentaria de acreditar solvencia, salvo pliego?",
+    "answer": "Hasta 80.000 €",
+    "options": [
+      "Menos de 35.000 €",
+      "Hasta 80.000 €",
+      "Hasta 500.000 €",
+      "Solo hasta 40.000 €"
+    ],
+    "reference": "RD 1098/2001 11.5; resumen Tema 2",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Hasta 80.000 €». Fundamento: RD 1098/2001 11.5; resumen Tema 2. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1224,
+    "question": "Una obra tiene VE de 80.000 € y el pliego no exige solvencia. ¿Qué límite inclusivo recoge la regla reglamentaria?",
+    "answer": "Hasta 80.000 €",
+    "options": [
+      "Menos de 35.000 €",
+      "Hasta 500.000 €",
+      "Hasta 80.000 €",
+      "Solo hasta 40.000 €"
+    ],
+    "reference": "RD 1098/2001 11.5; resumen Tema 2",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Hasta 80.000 €». Fundamento: RD 1098/2001 11.5; resumen Tema 2. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1225,
+    "question": "¿Qué VE de contratos distintos de obras permite la exención reglamentaria de acreditar solvencia, salvo pliego?",
+    "answer": "Hasta 35.000 €",
+    "options": [
+      "Hasta 35.000 €",
+      "Hasta 80.000 €",
+      "Hasta 60.000 €",
+      "Hasta 140.000 €"
+    ],
+    "reference": "RD 1098/2001 11.5; resumen Tema 2",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Hasta 35.000 €». Fundamento: RD 1098/2001 11.5; resumen Tema 2. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1226,
+    "question": "Un servicio tiene VE de 35.000 € y no hay exigencia especial en pliegos. ¿Qué tope inclusivo fija la regla?",
+    "answer": "Hasta 35.000 €",
+    "options": [
+      "Hasta 80.000 €",
+      "Hasta 60.000 €",
+      "Hasta 140.000 €",
+      "Hasta 35.000 €"
+    ],
+    "reference": "RD 1098/2001 11.5; resumen Tema 2",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Hasta 35.000 €». Fundamento: RD 1098/2001 11.5; resumen Tema 2. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1227,
+    "question": "¿Desde qué VE es obligatoria la clasificación en contratos de obras, como regla general?",
+    "answer": "500.000 € o más",
+    "options": [
+      "Más de 600.000 €",
+      "500.000 € o más",
+      "80.000 € o más",
+      "Nunca se exige"
+    ],
+    "reference": "LCSP 77",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «500.000 € o más». Fundamento: LCSP 77. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1228,
+    "question": "Un contrato de obras tiene VE de exactamente 500.000 €. ¿Qué regla de clasificación se aplica?",
+    "answer": "500.000 € o más",
+    "options": [
+      "Más de 600.000 €",
+      "80.000 € o más",
+      "500.000 € o más",
+      "Nunca se exige"
+    ],
+    "reference": "LCSP 77",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «500.000 € o más». Fundamento: LCSP 77. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1229,
+    "question": "¿Es obligatoria la clasificación empresarial para contratos de servicios?",
+    "answer": "No es exigible como clasificación obligatoria",
+    "options": [
+      "No es exigible como clasificación obligatoria",
+      "Siempre se exige desde 500.000 €",
+      "Se exige desde 35.000 €",
+      "Se exige para todo servicio SARA"
+    ],
+    "reference": "LCSP 77",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «No es exigible como clasificación obligatoria». Fundamento: LCSP 77. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1230,
+    "question": "Una empresa concurre a servicios por VE superior a medio millón. ¿Se exige clasificación por ese importe?",
+    "answer": "No es exigible como clasificación obligatoria",
+    "options": [
+      "Siempre se exige desde 500.000 €",
+      "Se exige desde 35.000 €",
+      "Se exige para todo servicio SARA",
+      "No es exigible como clasificación obligatoria"
+    ],
+    "reference": "LCSP 77",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «No es exigible como clasificación obligatoria». Fundamento: LCSP 77. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1231,
+    "question": "¿Cuánto dura una clasificación empresarial mientras se mantienen las condiciones?",
+    "answer": "Indefinida",
+    "options": [
+      "1 año improrrogable",
+      "Indefinida",
+      "3 años improrrogables",
+      "10 años exactos"
+    ],
+    "reference": "LCSP 82",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Indefinida». Fundamento: LCSP 82. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1232,
+    "question": "Se mantiene acreditada la solvencia que justificó la clasificación. ¿Qué vigencia tiene esta?",
+    "answer": "Indefinida",
+    "options": [
+      "1 año improrrogable",
+      "3 años improrrogables",
+      "Indefinida",
+      "10 años exactos"
+    ],
+    "reference": "LCSP 82",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Indefinida». Fundamento: LCSP 82. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1233,
+    "question": "¿Cada cuánto se acredita mantenimiento de solvencia económica para clasificación?",
+    "answer": "Cada año",
+    "options": [
+      "Cada año",
+      "Cada 3 años",
+      "Cada 5 años",
+      "Solo al presentar ofertas"
+    ],
+    "reference": "LCSP 82",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Cada año». Fundamento: LCSP 82. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1234,
+    "question": "Una empresa clasificada aporta documentación periódica económica y financiera. ¿Cada cuánto?",
+    "answer": "Cada año",
+    "options": [
+      "Cada 3 años",
+      "Cada 5 años",
+      "Solo al presentar ofertas",
+      "Cada año"
+    ],
+    "reference": "LCSP 82",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Cada año». Fundamento: LCSP 82. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1235,
+    "question": "¿Cada cuánto se acredita mantenimiento de solvencia técnica para clasificación?",
+    "answer": "Cada 3 años",
+    "options": [
+      "Cada año",
+      "Cada 3 años",
+      "Cada 6 meses",
+      "Cada 5 años"
+    ],
+    "reference": "LCSP 82",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Cada 3 años». Fundamento: LCSP 82. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1236,
+    "question": "Una empresa clasificada debe acreditar periódicamente su capacidad técnica o profesional. ¿Cuál es el plazo?",
+    "answer": "Cada 3 años",
+    "options": [
+      "Cada año",
+      "Cada 6 meses",
+      "Cada 3 años",
+      "Cada 5 años"
+    ],
+    "reference": "LCSP 82",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Cada 3 años». Fundamento: LCSP 82. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1237,
+    "question": "¿La UTE tiene personalidad jurídica propia?",
+    "answer": "No tiene personalidad propia",
+    "options": [
+      "No tiene personalidad propia",
+      "Tiene personalidad jurídica pública",
+      "Es siempre una sociedad anónima",
+      "Es un órgano de la Administración"
+    ],
+    "reference": "LCSP 69",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «No tiene personalidad propia». Fundamento: LCSP 69. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1238,
+    "question": "Dos empresas presentan una oferta como UTE. ¿Qué naturaleza jurídica caracteriza su unión temporal?",
+    "answer": "No tiene personalidad propia",
+    "options": [
+      "Tiene personalidad jurídica pública",
+      "Es siempre una sociedad anónima",
+      "Es un órgano de la Administración",
+      "No tiene personalidad propia"
+    ],
+    "reference": "LCSP 69",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «No tiene personalidad propia». Fundamento: LCSP 69. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1239,
+    "question": "¿Cómo responden los empresarios integrantes de una UTE?",
+    "answer": "Solidariamente",
+    "options": [
+      "Nunca responden por deudas comunes",
+      "Solidariamente",
+      "Solo por sus porcentajes en todos los casos",
+      "Responde exclusivamente la mesa"
+    ],
+    "reference": "LCSP 69",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Solidariamente». Fundamento: LCSP 69. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1240,
+    "question": "Una UTE incumple una prestación de obra. ¿Qué responsabilidad asumen sus empresas ante la Administración?",
+    "answer": "Solidariamente",
+    "options": [
+      "Nunca responden por deudas comunes",
+      "Solo por sus porcentajes en todos los casos",
+      "Solidariamente",
+      "Responde exclusivamente la mesa"
+    ],
+    "reference": "LCSP 69",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Solidariamente». Fundamento: LCSP 69. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1241,
+    "question": "¿Cuándo debe otorgar escritura pública una UTE?",
+    "answer": "Tras adjudicación, antes de formalizar el contrato",
+    "options": [
+      "Tras adjudicación, antes de formalizar el contrato",
+      "Antes de presentar la oferta",
+      "Solo al resolver el contrato",
+      "Después de finalizar ejecución"
+    ],
+    "reference": "LCSP 69",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Tras adjudicación, antes de formalizar el contrato». Fundamento: LCSP 69. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1242,
+    "question": "Dos empresas se comprometen a concurrir unidas. ¿Cuándo se exige escritura pública de UTE?",
+    "answer": "Tras adjudicación, antes de formalizar el contrato",
+    "options": [
+      "Antes de presentar la oferta",
+      "Solo al resolver el contrato",
+      "Después de finalizar ejecución",
+      "Tras adjudicación, antes de formalizar el contrato"
+    ],
+    "reference": "LCSP 69",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Tras adjudicación, antes de formalizar el contrato». Fundamento: LCSP 69. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1243,
+    "question": "¿Cuál es el mínimo de ejecución ordinario para cambiar composición de UTE tras formalización?",
+    "answer": "Al menos 20 %",
+    "options": [
+      "Al menos 5 %",
+      "Al menos 20 %",
+      "Al menos 10 %",
+      "Más del 50 %"
+    ],
+    "reference": "LCSP 69",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Al menos 20 %». Fundamento: LCSP 69. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1244,
+    "question": "Se pretende modificar una UTE adjudicataria una vez formalizado el contrato. ¿Qué porcentaje general de ejecución es exigible?",
+    "answer": "Al menos 20 %",
+    "options": [
+      "Al menos 5 %",
+      "Al menos 10 %",
+      "Al menos 20 %",
+      "Más del 50 %"
+    ],
+    "reference": "LCSP 69",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Al menos 20 %». Fundamento: LCSP 69. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1245,
+    "question": "¿Está permitido fraccionar un contrato para eludir las reglas de publicidad?",
+    "answer": "Está prohibido",
+    "options": [
+      "Está prohibido",
+      "Está autorizado si las facturas son distintas",
+      "Es obligatorio en las obras",
+      "Se convalida siempre pagando el IVA"
+    ],
+    "reference": "LCSP 99",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Está prohibido». Fundamento: LCSP 99. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1246,
+    "question": "El órgano contrata artificialmente una necesidad única en varios menores para evitar concurrencia. ¿Qué dispone la LCSP?",
+    "answer": "Está prohibido",
+    "options": [
+      "Está autorizado si las facturas son distintas",
+      "Es obligatorio en las obras",
+      "Se convalida siempre pagando el IVA",
+      "Está prohibido"
+    ],
+    "reference": "LCSP 99",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Está prohibido». Fundamento: LCSP 99. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1247,
+    "question": "¿Es necesario motivar no dividir en lotes cuando el objeto permite su división?",
+    "answer": "Motivación válida de la no división",
+    "options": [
+      "Prohibición absoluta de dividir",
+      "Motivación válida de la no división",
+      "Uso forzoso de contratación menor",
+      "Ausencia de publicidad de la decisión"
+    ],
+    "reference": "LCSP 99",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Motivación válida de la no división». Fundamento: LCSP 99. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1248,
+    "question": "Un contrato divisible no se licita por lotes. ¿Qué exige la regla general del artículo 99?",
+    "answer": "Motivación válida de la no división",
+    "options": [
+      "Prohibición absoluta de dividir",
+      "Uso forzoso de contratación menor",
+      "Motivación válida de la no división",
+      "Ausencia de publicidad de la decisión"
+    ],
+    "reference": "LCSP 99",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Motivación válida de la no división». Fundamento: LCSP 99. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1249,
+    "question": "¿Qué magnitud compone el valor estimado de una concesión?",
+    "answer": "Cifra de negocios neta estimada de la concesión",
+    "options": [
+      "Cifra de negocios neta estimada de la concesión",
+      "Solo la aportación inicial de la Administración",
+      "La garantía definitiva",
+      "El IVA de sus ingresos"
+    ],
+    "reference": "LCSP 101",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Cifra de negocios neta estimada de la concesión». Fundamento: LCSP 101. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1250,
+    "question": "Una empresa explotará una concesión con pagos de usuarios. ¿Cómo se determina el VE?",
+    "answer": "Cifra de negocios neta estimada de la concesión",
+    "options": [
+      "Solo la aportación inicial de la Administración",
+      "La garantía definitiva",
+      "El IVA de sus ingresos",
+      "Cifra de negocios neta estimada de la concesión"
+    ],
+    "reference": "LCSP 101",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Cifra de negocios neta estimada de la concesión». Fundamento: LCSP 101. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1251,
+    "question": "¿Deben contarse las prórrogas previstas en el valor estimado?",
+    "answer": "Toda la duración potencial, incluidas prórrogas previstas",
+    "options": [
+      "Solo los tres primeros años",
+      "Toda la duración potencial, incluidas prórrogas previstas",
+      "Solo el primer año",
+      "Solo las prórrogas"
+    ],
+    "reference": "LCSP 101",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Toda la duración potencial, incluidas prórrogas previstas». Fundamento: LCSP 101. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1252,
+    "question": "Un contrato tiene tres años iniciales y una prórroga prevista de dos. ¿Qué período contempla el VE en general?",
+    "answer": "Toda la duración potencial, incluidas prórrogas previstas",
+    "options": [
+      "Solo los tres primeros años",
+      "Solo el primer año",
+      "Toda la duración potencial, incluidas prórrogas previstas",
+      "Solo las prórrogas"
+    ],
+    "reference": "LCSP 101",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Toda la duración potencial, incluidas prórrogas previstas». Fundamento: LCSP 101. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1253,
+    "question": "¿Qué impuesto incluye ordinariamente el PBL?",
+    "answer": "Se incluye, salvo disposición contraria",
+    "options": [
+      "Se incluye, salvo disposición contraria",
+      "Se excluye siempre como en el VE",
+      "Se multiplica por dos",
+      "No puede constar en ninguna licitación"
+    ],
+    "reference": "LCSP 100",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Se incluye, salvo disposición contraria». Fundamento: LCSP 100. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1254,
+    "question": "Al fijar el límite máximo de gasto que el órgano puede comprometer, ¿cómo trata la LCSP el IVA?",
+    "answer": "Se incluye, salvo disposición contraria",
+    "options": [
+      "Se excluye siempre como en el VE",
+      "Se multiplica por dos",
+      "No puede constar en ninguna licitación",
+      "Se incluye, salvo disposición contraria"
+    ],
+    "reference": "LCSP 100",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Se incluye, salvo disposición contraria». Fundamento: LCSP 100. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1255,
+    "question": "¿Qué caracteriza el precio del contrato?",
+    "answer": "Cierta y adecuada al mercado",
+    "options": [
+      "Igual siempre al valor estimado",
+      "Cierta y adecuada al mercado",
+      "Obligatoriamente aplazada",
+      "Invariable incluso ante revisiones permitidas"
+    ],
+    "reference": "LCSP 102",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Cierta y adecuada al mercado». Fundamento: LCSP 102. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1256,
+    "question": "Después de adjudicar, la contraprestación pactada y pagadera según ejecución debe ser:",
+    "answer": "Cierta y adecuada al mercado",
+    "options": [
+      "Igual siempre al valor estimado",
+      "Obligatoriamente aplazada",
+      "Cierta y adecuada al mercado",
+      "Invariable incluso ante revisiones permitidas"
+    ],
+    "reference": "LCSP 102",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Cierta y adecuada al mercado». Fundamento: LCSP 102. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1257,
+    "question": "¿Cuánto debe haberse ejecutado normalmente para revisar precios?",
+    "answer": "Al menos 20 %",
+    "options": [
+      "Al menos 20 %",
+      "Al menos 10 %",
+      "Más del 50 %",
+      "Al menos 5 %"
+    ],
+    "reference": "LCSP 103",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Al menos 20 %». Fundamento: LCSP 103. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1258,
+    "question": "La revisión ordinaria de precios de obras exige, sin excepciones especiales, ¿qué avance mínimo?",
+    "answer": "Al menos 20 %",
+    "options": [
+      "Al menos 10 %",
+      "Más del 50 %",
+      "Al menos 5 %",
+      "Al menos 20 %"
+    ],
+    "reference": "LCSP 103",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Al menos 20 %». Fundamento: LCSP 103. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1259,
+    "question": "¿Cuánto tiempo desde formalización se exige normalmente para revisar precios?",
+    "answer": "1 año desde formalización",
+    "options": [
+      "3 meses desde anuncio",
+      "1 año desde formalización",
+      "2 años desde adjudicación",
+      "5 años desde liquidación"
+    ],
+    "reference": "LCSP 103",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «1 año desde formalización». Fundamento: LCSP 103. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1260,
+    "question": "Un contrato de obras lleva 30 % ejecutado, pero solo diez meses formalizado. ¿Qué período mínimo falta?",
+    "answer": "1 año desde formalización",
+    "options": [
+      "3 meses desde anuncio",
+      "2 años desde adjudicación",
+      "1 año desde formalización",
+      "5 años desde liquidación"
+    ],
+    "reference": "LCSP 103",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «1 año desde formalización». Fundamento: LCSP 103. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1261,
+    "question": "¿Qué proporción del PBL deben superar conjuntamente materias primas, bienes intermedios y energía para ciertos supuestos de revisión?",
+    "answer": "Más del 20 %",
+    "options": [
+      "Más del 20 %",
+      "Más del 5 %",
+      "Más del 50 %",
+      "Exactamente el 10 %"
+    ],
+    "reference": "LCSP 103",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Más del 20 %». Fundamento: LCSP 103. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1262,
+    "question": "Los materiales y la energía superan una proporción del PBL y pueden activar revisión excepcional justificada de esa parte. ¿Cuál?",
+    "answer": "Más del 20 %",
+    "options": [
+      "Más del 5 %",
+      "Más del 50 %",
+      "Exactamente el 10 %",
+      "Más del 20 %"
+    ],
+    "reference": "LCSP 103",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Más del 20 %». Fundamento: LCSP 103. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1263,
+    "question": "¿Qué partidas no son revisables en las fórmulas de revisión de precios?",
+    "answer": "Amortizaciones, costes financieros, gastos generales y beneficio industrial",
+    "options": [
+      "Materias primas y energía en todos los casos",
+      "Amortizaciones, costes financieros, gastos generales y beneficio industrial",
+      "Precios de obra en todo caso",
+      "Costes técnicos directos en todos los casos"
+    ],
+    "reference": "LCSP 103",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Amortizaciones, costes financieros, gastos generales y beneficio industrial». Fundamento: LCSP 103. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1264,
+    "question": "¿Qué conjunto de conceptos excluye el artículo 103 de la revisión contractual?",
+    "answer": "Amortizaciones, costes financieros, gastos generales y beneficio industrial",
+    "options": [
+      "Materias primas y energía en todos los casos",
+      "Precios de obra en todo caso",
+      "Amortizaciones, costes financieros, gastos generales y beneficio industrial",
+      "Costes técnicos directos en todos los casos"
+    ],
+    "reference": "LCSP 103",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Amortizaciones, costes financieros, gastos generales y beneficio industrial». Fundamento: LCSP 103. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1265,
+    "question": "¿Cuál es el máximo de garantía provisional excepcional en la LCSP?",
+    "answer": "3 %",
+    "options": [
+      "3 %",
+      "5 %",
+      "10 %",
+      "20 %"
+    ],
+    "reference": "LCSP 106",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «3 %». Fundamento: LCSP 106. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1266,
+    "question": "Una AAPP exige garantía provisional por interés público excepcional y motivado. ¿Cuál es el tope sobre PBL sin IVA?",
+    "answer": "3 %",
+    "options": [
+      "5 %",
+      "10 %",
+      "20 %",
+      "3 %"
+    ],
+    "reference": "LCSP 106",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «3 %». Fundamento: LCSP 106. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1267,
+    "question": "¿Cuál es el porcentaje general de garantía definitiva sobre precio final ofertado sin IVA?",
+    "answer": "5 %",
+    "options": [
+      "3 %",
+      "5 %",
+      "10 %",
+      "20 %"
+    ],
+    "reference": "LCSP 107",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «5 %». Fundamento: LCSP 107. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1268,
+    "question": "En un suministro ordinario adjudicado por AAPP, ¿cuál es la garantía definitiva normal?",
+    "answer": "5 %",
+    "options": [
+      "3 %",
+      "10 %",
+      "5 %",
+      "20 %"
+    ],
+    "reference": "LCSP 107",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «5 %». Fundamento: LCSP 107. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1269,
+    "question": "¿Cuál es el máximo adicional de garantía complementaria ordinaria?",
+    "answer": "Hasta otro 5 %",
+    "options": [
+      "Hasta otro 5 %",
+      "Hasta otro 3 %",
+      "Hasta otro 10 %",
+      "Hasta otro 20 %"
+    ],
+    "reference": "LCSP 107",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Hasta otro 5 %». Fundamento: LCSP 107. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1270,
+    "question": "En un caso especial motivado, ¿qué porcentaje adicional al 5 % definitivo puede exigirse como complementaria?",
+    "answer": "Hasta otro 5 %",
+    "options": [
+      "Hasta otro 3 %",
+      "Hasta otro 10 %",
+      "Hasta otro 20 %",
+      "Hasta otro 5 %"
+    ],
+    "reference": "LCSP 107",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Hasta otro 5 %». Fundamento: LCSP 107. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1271,
+    "question": "¿Qué base usa la garantía definitiva en contratos a precios unitarios?",
+    "answer": "PBL sin IVA",
+    "options": [
+      "VE de todas las prórrogas",
+      "PBL sin IVA",
+      "Precio final con IVA exclusivamente",
+      "Presupuesto de gasto con impuestos multiplicado por dos"
+    ],
+    "reference": "LCSP 107",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «PBL sin IVA». Fundamento: LCSP 107. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1272,
+    "question": "La garantía definitiva de un suministro por unidades se calcula conforme a la regla especial sobre:",
+    "answer": "PBL sin IVA",
+    "options": [
+      "VE de todas las prórrogas",
+      "Precio final con IVA exclusivamente",
+      "PBL sin IVA",
+      "Presupuesto de gasto con impuestos multiplicado por dos"
+    ],
+    "reference": "LCSP 107",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «PBL sin IVA». Fundamento: LCSP 107. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1273,
+    "question": "¿En cuántos días se repone o reajusta la garantía tras las circunstancias del artículo 109?",
+    "answer": "15 días",
+    "options": [
+      "15 días",
+      "5 días",
+      "30 días",
+      "2 meses"
+    ],
+    "reference": "LCSP 109",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «15 días». Fundamento: LCSP 109. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1274,
+    "question": "Se ejecuta una parte de la garantía o se modifica el precio del contrato. ¿Qué plazo rige para reposición/reajuste?",
+    "answer": "15 días",
+    "options": [
+      "5 días",
+      "30 días",
+      "2 meses",
+      "15 días"
+    ],
+    "reference": "LCSP 109",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «15 días». Fundamento: LCSP 109. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1275,
+    "question": "¿En qué plazo se acuerda la devolución de garantía tras terminar correctamente el período de garantía?",
+    "answer": "2 meses",
+    "options": [
+      "15 días",
+      "2 meses",
+      "1 año en todo caso",
+      "3 meses"
+    ],
+    "reference": "LCSP 111",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «2 meses». Fundamento: LCSP 111. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1276,
+    "question": "Un contrato termina satisfactoriamente y vence el plazo de garantía sin responsabilidades. ¿Qué plazo hay para acordar devolución?",
+    "answer": "2 meses",
+    "options": [
+      "15 días",
+      "1 año en todo caso",
+      "2 meses",
+      "3 meses"
+    ],
+    "reference": "LCSP 111",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «2 meses». Fundamento: LCSP 111. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1277,
+    "question": "¿Qué artículo regula pliegos de cláusulas administrativas particulares?",
+    "answer": "Artículo 122",
+    "options": [
+      "Artículo 122",
+      "Artículo 121",
+      "Artículo 123",
+      "Artículo 124"
+    ],
+    "reference": "LCSP 122",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 122». Fundamento: LCSP 122. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1278,
+    "question": "Las obligaciones, criterios de adjudicación y condiciones jurídico-económicas de un contrato concreto constan en el:",
+    "answer": "Artículo 122",
+    "options": [
+      "Artículo 121",
+      "Artículo 123",
+      "Artículo 124",
+      "Artículo 122"
+    ],
+    "reference": "LCSP 122",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 122». Fundamento: LCSP 122. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1279,
+    "question": "¿Qué artículo regula pliegos de prescripciones técnicas particulares?",
+    "answer": "Artículo 124",
+    "options": [
+      "Artículo 123",
+      "Artículo 124",
+      "Artículo 122",
+      "Artículo 121"
+    ],
+    "reference": "LCSP 124",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 124». Fundamento: LCSP 124. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1280,
+    "question": "Las prestaciones técnicas exigidas para un suministro concreto se incorporan a pliego regulado en:",
+    "answer": "Artículo 124",
+    "options": [
+      "Artículo 123",
+      "Artículo 122",
+      "Artículo 124",
+      "Artículo 121"
+    ],
+    "reference": "LCSP 124",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 124». Fundamento: LCSP 124. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1281,
+    "question": "¿Qué artículo regula pliegos de cláusulas administrativas generales?",
+    "answer": "Artículo 121",
+    "options": [
+      "Artículo 121",
+      "Artículo 122",
+      "Artículo 123",
+      "Artículo 124"
+    ],
+    "reference": "LCSP 121",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 121». Fundamento: LCSP 121. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1282,
+    "question": "Las condiciones jurídicas generales para clases de contratos de AGE se regulan en:",
+    "answer": "Artículo 121",
+    "options": [
+      "Artículo 122",
+      "Artículo 123",
+      "Artículo 124",
+      "Artículo 121"
+    ],
+    "reference": "LCSP 121",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 121». Fundamento: LCSP 121. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1283,
+    "question": "¿Qué artículo regula pliegos de prescripciones técnicas generales?",
+    "answer": "Artículo 123",
+    "options": [
+      "Artículo 121",
+      "Artículo 123",
+      "Artículo 122",
+      "Artículo 124"
+    ],
+    "reference": "LCSP 123",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 123». Fundamento: LCSP 123. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1284,
+    "question": "Las especificaciones técnicas generales para una clase de contratos se contienen en el:",
+    "answer": "Artículo 123",
+    "options": [
+      "Artículo 121",
+      "Artículo 122",
+      "Artículo 123",
+      "Artículo 124"
+    ],
+    "reference": "LCSP 123",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Artículo 123». Fundamento: LCSP 123. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1285,
+    "question": "¿Qué correcciones permiten los pliegos ya aprobados sin retroacción por cambios sustanciales?",
+    "answer": "Material, de hecho o aritmético",
+    "options": [
+      "Material, de hecho o aritmético",
+      "Cambio libre de los criterios de adjudicación",
+      "Cambio discrecional del objeto",
+      "Alteración libre de la solvencia exigida"
+    ],
+    "reference": "LCSP 122 y 124",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Material, de hecho o aritmético». Fundamento: LCSP 122 y 124. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1286,
+    "question": "Tras aprobar pliegos se detecta una errata puramente aritmética. ¿Qué clase de error puede corregirse sin tratarlo como modificación sustancial?",
+    "answer": "Material, de hecho o aritmético",
+    "options": [
+      "Cambio libre de los criterios de adjudicación",
+      "Cambio discrecional del objeto",
+      "Alteración libre de la solvencia exigida",
+      "Material, de hecho o aritmético"
+    ],
+    "reference": "LCSP 122 y 124",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Material, de hecho o aritmético». Fundamento: LCSP 122 y 124. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1287,
+    "question": "¿Cómo debe ser ordinariamente el acceso electrónico a pliegos?",
+    "answer": "Libre, directo, completo y gratuito",
+    "options": [
+      "Limitado a una tasa de inscripción",
+      "Libre, directo, completo y gratuito",
+      "Solo presencial",
+      "Solo a adjudicatarios"
+    ],
+    "reference": "LCSP 138",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Libre, directo, completo y gratuito». Fundamento: LCSP 138. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1288,
+    "question": "Desde la publicidad del anuncio, ¿cómo debe darse acceso electrónico a documentación de licitación como regla?",
+    "answer": "Libre, directo, completo y gratuito",
+    "options": [
+      "Limitado a una tasa de inscripción",
+      "Solo presencial",
+      "Libre, directo, completo y gratuito",
+      "Solo a adjudicatarios"
+    ],
+    "reference": "LCSP 138",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «Libre, directo, completo y gratuito». Fundamento: LCSP 138. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1289,
+    "question": "¿Cuántos días se amplía el plazo de ofertas en supuestos legales de acceso no electrónico justificado?",
+    "answer": "5 días",
+    "options": [
+      "5 días",
+      "1 día",
+      "15 días",
+      "1 mes"
+    ],
+    "reference": "LCSP 138",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «5 días». Fundamento: LCSP 138. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "memoria"
+  },
+  {
+    "id": 1290,
+    "question": "En las excepciones a acceso electrónico contempladas en el art. 138, ¿qué ampliación del plazo puede ser obligatoria?",
+    "answer": "5 días",
+    "options": [
+      "1 día",
+      "15 días",
+      "1 mes",
+      "5 días"
+    ],
+    "reference": "LCSP 138",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La respuesta prevista es «5 días». Fundamento: LCSP 138. Revisa el supuesto, la base de cálculo y las excepciones.",
+    "format": "inap"
+  },
+  {
+    "id": 1291,
+    "question": "Un servicio de 100.000 € anuales sin IVA se contrata 3 años iniciales, con 1 de prórroga prevista. Sin otras opciones, ¿cuál es el VE?",
+    "answer": "400.000 €",
+    "options": [
+      "300.000 €",
+      "400.000 €",
+      "363.000 €",
+      "484.000 €"
+    ],
+    "reference": "LCSP 101",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "El valor estimado incluye 4 anualidades sin IVA: 100.000 € × 4 = 400.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1292,
+    "question": "Un servicio de 80.000 € anuales sin IVA se contrata 2 años iniciales, con 2 de prórroga prevista. Sin otras opciones, ¿cuál es el VE?",
+    "answer": "320.000 €",
+    "options": [
+      "160.000 €",
+      "193.600 €",
+      "320.000 €",
+      "387.200 €"
+    ],
+    "reference": "LCSP 101",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "El valor estimado incluye 4 anualidades sin IVA: 80.000 € × 4 = 320.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1293,
+    "question": "Un servicio de 125.000 € anuales sin IVA se contrata 2 años iniciales, con 1 de prórroga prevista. Sin otras opciones, ¿cuál es el VE?",
+    "answer": "375.000 €",
+    "options": [
+      "375.000 €",
+      "250.000 €",
+      "302.500 €",
+      "453.750 €"
+    ],
+    "reference": "LCSP 101",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "El valor estimado incluye 3 anualidades sin IVA: 125.000 € × 3 = 375.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1294,
+    "question": "Un servicio de 60.000 € anuales sin IVA se contrata 4 años iniciales, con 1 de prórroga prevista. Sin otras opciones, ¿cuál es el VE?",
+    "answer": "300.000 €",
+    "options": [
+      "240.000 €",
+      "290.400 €",
+      "363.000 €",
+      "300.000 €"
+    ],
+    "reference": "LCSP 101",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "El valor estimado incluye 5 anualidades sin IVA: 60.000 € × 5 = 300.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1295,
+    "question": "Un servicio de 130.000 € anuales sin IVA se contrata 1 años iniciales, con 3 de prórroga prevista. Sin otras opciones, ¿cuál es el VE?",
+    "answer": "520.000 €",
+    "options": [
+      "130.000 €",
+      "520.000 €",
+      "157.300 €",
+      "629.200 €"
+    ],
+    "reference": "LCSP 101",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "El valor estimado incluye 4 anualidades sin IVA: 130.000 € × 4 = 520.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1296,
+    "question": "Un servicio de 75.000 € anuales sin IVA se contrata 3 años iniciales, con 2 de prórroga prevista. Sin otras opciones, ¿cuál es el VE?",
+    "answer": "375.000 €",
+    "options": [
+      "225.000 €",
+      "272.250 €",
+      "375.000 €",
+      "453.750 €"
+    ],
+    "reference": "LCSP 101",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "El valor estimado incluye 5 anualidades sin IVA: 75.000 € × 5 = 375.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1297,
+    "question": "Se licita un suministro de 3 años iniciales por 100.000 € anuales sin IVA (tipo de IVA 21 %), sin prórrogas dentro del presupuesto inicial. ¿Cuál es el PBL inicial?",
+    "answer": "363.000 €",
+    "options": [
+      "363.000 €",
+      "300.000 €",
+      "330.000 €",
+      "309.000 €"
+    ],
+    "reference": "LCSP 100",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "El PBL inicial incluye el IVA: 300.000 € × 1,21 = 363.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1298,
+    "question": "Se licita un suministro de 2 años iniciales por 50.000 € anuales sin IVA (tipo de IVA 21 %), sin prórrogas dentro del presupuesto inicial. ¿Cuál es el PBL inicial?",
+    "answer": "121.000 €",
+    "options": [
+      "100.000 €",
+      "110.000 €",
+      "103.000 €",
+      "121.000 €"
+    ],
+    "reference": "LCSP 100",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "El PBL inicial incluye el IVA: 100.000 € × 1,21 = 121.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1299,
+    "question": "Se licita un suministro de 2 años iniciales por 90.000 € anuales sin IVA (tipo de IVA 21 %), sin prórrogas dentro del presupuesto inicial. ¿Cuál es el PBL inicial?",
+    "answer": "217.800 €",
+    "options": [
+      "180.000 €",
+      "217.800 €",
+      "198.000 €",
+      "185.400 €"
+    ],
+    "reference": "LCSP 100",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "El PBL inicial incluye el IVA: 180.000 € × 1,21 = 217.800 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1300,
+    "question": "Se licita un suministro de 3 años iniciales por 80.000 € anuales sin IVA (tipo de IVA 21 %), sin prórrogas dentro del presupuesto inicial. ¿Cuál es el PBL inicial?",
+    "answer": "290.400 €",
+    "options": [
+      "240.000 €",
+      "264.000 €",
+      "290.400 €",
+      "247.200 €"
+    ],
+    "reference": "LCSP 100",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "El PBL inicial incluye el IVA: 240.000 € × 1,21 = 290.400 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1301,
+    "question": "Se licita un suministro de 1 años iniciales por 60.000 € anuales sin IVA (tipo de IVA 21 %), sin prórrogas dentro del presupuesto inicial. ¿Cuál es el PBL inicial?",
+    "answer": "72.600 €",
+    "options": [
+      "72.600 €",
+      "60.000 €",
+      "66.000 €",
+      "61.800 €"
+    ],
+    "reference": "LCSP 100",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "El PBL inicial incluye el IVA: 60.000 € × 1,21 = 72.600 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1302,
+    "question": "Se licita un suministro de 2 años iniciales por 110.000 € anuales sin IVA (tipo de IVA 21 %), sin prórrogas dentro del presupuesto inicial. ¿Cuál es el PBL inicial?",
+    "answer": "266.200 €",
+    "options": [
+      "220.000 €",
+      "242.000 €",
+      "226.600 €",
+      "266.200 €"
+    ],
+    "reference": "LCSP 100",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "El PBL inicial incluye el IVA: 220.000 € × 1,21 = 266.200 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1303,
+    "question": "En una licitación con base de 80.000 €, ¿cuánto resulta por garantía definitiva ordinaria sobre precio final ofertado sin IVA?",
+    "answer": "4000 €",
+    "options": [
+      "2400 €",
+      "4000 €",
+      "8000 €",
+      "16.000 €"
+    ],
+    "reference": "LCSP 106-107",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La base indicada multiplicada por 5 % da 4000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1304,
+    "question": "En una licitación con base de 240.000 €, ¿cuánto resulta por garantía definitiva ordinaria sobre precio final ofertado sin IVA?",
+    "answer": "12.000 €",
+    "options": [
+      "7200 €",
+      "24.000 €",
+      "12.000 €",
+      "48.000 €"
+    ],
+    "reference": "LCSP 106-107",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La base indicada multiplicada por 5 % da 12.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1305,
+    "question": "En una licitación con base de 200.000 €, ¿cuánto resulta por garantía provisional excepcional sobre PBL sin IVA?",
+    "answer": "6000 €",
+    "options": [
+      "6000 €",
+      "10.000 €",
+      "20.000 €",
+      "40.000 €"
+    ],
+    "reference": "LCSP 106-107",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La base indicada multiplicada por 3 % da 6000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1306,
+    "question": "En una licitación con base de 50.000 €, ¿cuánto resulta por garantía provisional excepcional sobre PBL sin IVA?",
+    "answer": "1500 €",
+    "options": [
+      "2500 €",
+      "5000 €",
+      "10.000 €",
+      "1500 €"
+    ],
+    "reference": "LCSP 106-107",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La base indicada multiplicada por 3 % da 1500 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1307,
+    "question": "En una licitación con base de 100.000 €, ¿cuánto resulta por garantía definitiva y complementaria máxima motivada sobre precio sin IVA?",
+    "answer": "10.000 €",
+    "options": [
+      "3000 €",
+      "10.000 €",
+      "5000 €",
+      "20.000 €"
+    ],
+    "reference": "LCSP 106-107",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La base indicada multiplicada por 10 % da 10.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1308,
+    "question": "En una licitación con base de 90.000 €, ¿cuánto resulta por garantía definitiva en contrato a precios unitarios sobre PBL sin IVA?",
+    "answer": "4500 €",
+    "options": [
+      "2700 €",
+      "9000 €",
+      "4500 €",
+      "18.000 €"
+    ],
+    "reference": "LCSP 106-107",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La base indicada multiplicada por 5 % da 4500 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1309,
+    "question": "Un contrato de obra tiene precio de adjudicación de 600.000 €. Solo por cuantía, ¿corresponde remitir copia certificada y extracto al Tribunal de Cuentas?",
+    "answer": "No, el límite exige que exceda esa cuantía",
+    "options": [
+      "No, el límite exige que exceda esa cuantía",
+      "Sí, basta igualar el umbral",
+      "Sí, se remite en 15 días",
+      "No, solo se remiten contratos de obras"
+    ],
+    "reference": "LCSP 335",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "El umbral de obra es superior a 600.000 € (no igual). No se supera.",
+    "format": "inap"
+  },
+  {
+    "id": 1310,
+    "question": "Un contrato de obra tiene precio de adjudicación de 600.001 €. Solo por cuantía, ¿corresponde remitir copia certificada y extracto al Tribunal de Cuentas?",
+    "answer": "Sí, remisión en 3 meses desde formalización",
+    "options": [
+      "No, el precio debe duplicar el límite",
+      "No, solo cuentan los contratos SARA",
+      "Sí, pero el plazo general es de 6 meses",
+      "Sí, remisión en 3 meses desde formalización"
+    ],
+    "reference": "LCSP 335",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "El umbral de obra es superior a 600.000 € (no igual). Se supera.",
+    "format": "inap"
+  },
+  {
+    "id": 1311,
+    "question": "Un contrato de suministro tiene precio de adjudicación de 450.000 €. Solo por cuantía, ¿corresponde remitir copia certificada y extracto al Tribunal de Cuentas?",
+    "answer": "No, el límite exige que exceda esa cuantía",
+    "options": [
+      "Sí, basta igualar el umbral",
+      "No, el límite exige que exceda esa cuantía",
+      "Sí, se remite en 15 días",
+      "No, solo se remiten contratos de obras"
+    ],
+    "reference": "LCSP 335",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "El umbral de suministro es superior a 450.000 € (no igual). No se supera.",
+    "format": "inap"
+  },
+  {
+    "id": 1312,
+    "question": "Un contrato de suministro tiene precio de adjudicación de 450.001 €. Solo por cuantía, ¿corresponde remitir copia certificada y extracto al Tribunal de Cuentas?",
+    "answer": "Sí, remisión en 3 meses desde formalización",
+    "options": [
+      "No, el precio debe duplicar el límite",
+      "No, solo cuentan los contratos SARA",
+      "Sí, remisión en 3 meses desde formalización",
+      "Sí, pero el plazo general es de 6 meses"
+    ],
+    "reference": "LCSP 335",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "El umbral de suministro es superior a 450.000 € (no igual). Se supera.",
+    "format": "inap"
+  },
+  {
+    "id": 1313,
+    "question": "Un contrato de servicios tiene precio de adjudicación de 150.000 €. Solo por cuantía, ¿corresponde remitir copia certificada y extracto al Tribunal de Cuentas?",
+    "answer": "No, el límite exige que exceda esa cuantía",
+    "options": [
+      "No, el límite exige que exceda esa cuantía",
+      "Sí, basta igualar el umbral",
+      "Sí, se remite en 15 días",
+      "No, solo se remiten contratos de obras"
+    ],
+    "reference": "LCSP 335",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "El umbral de servicios es superior a 150.000 € (no igual). No se supera.",
+    "format": "inap"
+  },
+  {
+    "id": 1314,
+    "question": "Un contrato de servicios tiene precio de adjudicación de 150.001 €. Solo por cuantía, ¿corresponde remitir copia certificada y extracto al Tribunal de Cuentas?",
+    "answer": "Sí, remisión en 3 meses desde formalización",
+    "options": [
+      "No, el precio debe duplicar el límite",
+      "No, solo cuentan los contratos SARA",
+      "Sí, pero el plazo general es de 6 meses",
+      "Sí, remisión en 3 meses desde formalización"
+    ],
+    "reference": "LCSP 335",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "El umbral de servicios es superior a 150.000 € (no igual). Se supera.",
+    "format": "inap"
+  },
+  {
+    "id": 1315,
+    "question": "Una empresa española concurre a una obra de VE 499.999 €. ¿Qué regla de clasificación debe aplicar?",
+    "answer": "Por VE, no se exige clasificación obligatoria en obras",
+    "options": [
+      "La clasificación es siempre obligatoria desde 80.000 €",
+      "Por VE, no se exige clasificación obligatoria en obras",
+      "Solo se permite concurrir mediante UTE",
+      "La solvencia queda dispensada en todas las obras"
+    ],
+    "reference": "LCSP 77-78",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La regla general exige clasificación en obras desde VE 500.000 €, inclusivo; aquí VE=499.999 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1316,
+    "question": "Una empresa española concurre a una obra de VE 500.000 €. ¿Qué regla de clasificación debe aplicar?",
+    "answer": "En principio, se exige clasificación en obras",
+    "options": [
+      "Nunca se exige clasificación en obras",
+      "Solo es obligatoria por encima de 600.000 €",
+      "En principio, se exige clasificación en obras",
+      "Se sustituye obligatoriamente por garantía provisional"
+    ],
+    "reference": "LCSP 77-78",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La regla general exige clasificación en obras desde VE 500.000 €, inclusivo; aquí VE=500.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1317,
+    "question": "Una empresa española concurre a una obra de VE 520.000 €. ¿Qué regla de clasificación debe aplicar?",
+    "answer": "En principio, se exige clasificación en obras",
+    "options": [
+      "En principio, se exige clasificación en obras",
+      "Nunca se exige clasificación en obras",
+      "Solo es obligatoria por encima de 600.000 €",
+      "Se sustituye obligatoriamente por garantía provisional"
+    ],
+    "reference": "LCSP 77-78",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La regla general exige clasificación en obras desde VE 500.000 €, inclusivo; aquí VE=520.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1318,
+    "question": "Una empresa de la UE/EEE concurre a una obra de VE 900.000 €. ¿Qué regla de clasificación debe aplicar?",
+    "answer": "Las empresas UE/EEE tienen exención específica de clasificación, pero acreditan solvencia",
+    "options": [
+      "La clasificación española es siempre obligatoria sin excepción",
+      "No debe acreditar solvencia de ningún tipo",
+      "Solo se exige clasificación en servicios",
+      "Las empresas UE/EEE tienen exención específica de clasificación, pero acreditan solvencia"
+    ],
+    "reference": "LCSP 77-78",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "Las empresas UE/EEE gozan de tratamiento específico de exención de clasificación, sin quedar exentas de solvencia.",
+    "format": "inap"
+  },
+  {
+    "id": 1319,
+    "question": "Una empresa española concurre a una obra de VE 80.000 €. ¿Qué regla de clasificación debe aplicar?",
+    "answer": "Por VE, no se exige clasificación obligatoria en obras",
+    "options": [
+      "La clasificación es siempre obligatoria desde 80.000 €",
+      "Por VE, no se exige clasificación obligatoria en obras",
+      "Solo se permite concurrir mediante UTE",
+      "La solvencia queda dispensada en todas las obras"
+    ],
+    "reference": "LCSP 77-78",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La regla general exige clasificación en obras desde VE 500.000 €, inclusivo; aquí VE=80.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1320,
+    "question": "Una empresa de la UE/EEE concurre a una obra de VE 1.000.000 €. ¿Qué regla de clasificación debe aplicar?",
+    "answer": "Las empresas UE/EEE tienen exención específica de clasificación, pero acreditan solvencia",
+    "options": [
+      "La clasificación española es siempre obligatoria sin excepción",
+      "No debe acreditar solvencia de ningún tipo",
+      "Las empresas UE/EEE tienen exención específica de clasificación, pero acreditan solvencia",
+      "Solo se exige clasificación en servicios"
+    ],
+    "reference": "LCSP 77-78",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "Las empresas UE/EEE gozan de tratamiento específico de exención de clasificación, sin quedar exentas de solvencia.",
+    "format": "inap"
+  },
+  {
+    "id": 1321,
+    "question": "Un ayuntamiento licita el mantenimiento de jardines con pago fijo que elimina el riesgo operacional del contratista. ¿Cómo se califica según el criterio esencial?",
+    "answer": "Contrato de servicios, no concesión",
+    "options": [
+      "Contrato de servicios, no concesión",
+      "Concesión de servicios por cobrar del ayuntamiento",
+      "Concesión de obras",
+      "Suministro"
+    ],
+    "reference": "LCSP 15 y 17",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "Sin transferencia del riesgo operacional, es servicio.",
+    "format": "inap"
+  },
+  {
+    "id": 1322,
+    "question": "Una empresa desea concurrir a un contrato de vigilancia que exige habilitación profesional, pero solo acredita volumen de negocio. ¿Qué sucede?",
+    "answer": "La solvencia no sustituye a la habilitación exigida",
+    "options": [
+      "El volumen de negocio equivale siempre a una autorización",
+      "La habilitación solo importa en obras SARA",
+      "Se exime por ser empresa española",
+      "La solvencia no sustituye a la habilitación exigida"
+    ],
+    "reference": "LCSP 65",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "Capacidad, solvencia y habilitación son requisitos diferenciados.",
+    "format": "inap"
+  },
+  {
+    "id": 1323,
+    "question": "Dos empresas desean ofertar como UTE, pero todavía no saben si serán adjudicatarias. ¿Deben constituirla ya por escritura pública?",
+    "answer": "No, basta compromiso durante la licitación",
+    "options": [
+      "Sí, siempre antes de presentar oferta",
+      "No, basta compromiso durante la licitación",
+      "No, la escritura solo se otorga al extinguir",
+      "Deben constituir sociedad anónima"
+    ],
+    "reference": "LCSP 69",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La escritura se exige tras adjudicación y antes de formalización.",
+    "format": "inap"
+  },
+  {
+    "id": 1324,
+    "question": "Un órgano tramita abierto simplificado abreviado y pretende exigir garantía definitiva ordinaria de 5 %. ¿Qué regla especial aplica?",
+    "answer": "El artículo 159.6 exime de garantía definitiva",
+    "options": [
+      "El 5 % es obligatorio en todo caso",
+      "Debe exigirse 10 %",
+      "El artículo 159.6 exime de garantía definitiva",
+      "Solo procede una provisional de 3 %"
+    ],
+    "reference": "LCSP 159.6",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "La garantía definitiva no se requiere en el simplificado abreviado.",
+    "format": "inap"
+  },
+  {
+    "id": 1325,
+    "question": "Se corrige el precio de una partida del pliego por error aritmético evidente, sin modificar las reglas sustantivas. ¿Qué tratamiento corresponde?",
+    "answer": "Rectificación del error material o aritmético",
+    "options": [
+      "Rectificación del error material o aritmético",
+      "Modificación libre de los criterios de adjudicación",
+      "Obligatoria adjudicación directa",
+      "Nulidad automática del contrato siempre"
+    ],
+    "reference": "LCSP 122 y 124",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "Las rectificaciones de errores materiales se distinguen de cambios sustanciales.",
+    "format": "inap"
+  },
+  {
+    "id": 1326,
+    "question": "Una licitación exige una prestación nueva y distinta en el PPT después de publicar los pliegos. ¿Puede cambiarse sin retroacción como simple errata?",
+    "answer": "No, la modificación sustancial exige retroacción",
+    "options": [
+      "Sí, cualquier pliego puede cambiarse libremente",
+      "Sí, bastaría acordarlo verbalmente",
+      "Sí, se atribuye la competencia al ROLECSP",
+      "No, la modificación sustancial exige retroacción"
+    ],
+    "reference": "LCSP 122 y 124",
+    "category": "Contratos del Sector Público · Tema 2",
+    "topic": "Libros I y IV",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026), resumen visual Tema 2",
+    "explanation": "Una modificación sustancial no es simple rectificación de error.",
+    "format": "inap"
   }
 ]
