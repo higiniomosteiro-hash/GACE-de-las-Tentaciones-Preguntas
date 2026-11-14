@@ -1,0 +1,682 @@
+[
+  {
+    "question": "¿Qué artículo del TREBEP regula los registros de personal y la gestión integrada de recursos humanos?",
+    "answer": "Artículo 71",
+    "options": [
+      "Artículo 71",
+      "Convenio de Conferencia Sectorial",
+      "Información agregada",
+      "Entidades locales sin capacidad suficiente"
+    ],
+    "reference": "TREBEP art. 71",
+    "category": "RRHH",
+    "topic": "Registros · Artículo 71",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según TREBEP art. 71: Artículo 71",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué herramienta permite homogeneizar contenidos mínimos e intercambios entre registros públicos?",
+    "answer": "Convenio de Conferencia Sectorial",
+    "options": [
+      "Convenio de Conferencia Sectorial",
+      "Protección de datos",
+      "Homogeneidad e interoperabilidad",
+      "Artículo 71"
+    ],
+    "reference": "TREBEP art. 71",
+    "category": "RRHH",
+    "topic": "Registros · Artículo 71",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según TREBEP art. 71: Convenio de Conferencia Sectorial",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué principio obliga a proteger la información personal intercambiada entre registros?",
+    "answer": "Protección de datos",
+    "options": [
+      "Protección de datos",
+      "Registro de personal",
+      "Gestión integrada",
+      "Convenio de Conferencia Sectorial"
+    ],
+    "reference": "TREBEP art. 71",
+    "category": "RRHH",
+    "topic": "Registros · Artículo 71",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según TREBEP art. 71: Protección de datos",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué deben establecer las Administraciones respecto de sus empleados según el artículo 71.1?",
+    "answer": "Registro de personal",
+    "options": [
+      "Registro de personal",
+      "Información agregada",
+      "Entidades locales sin capacidad suficiente",
+      "Protección de datos"
+    ],
+    "reference": "TREBEP art. 71",
+    "category": "RRHH",
+    "topic": "Registros · Artículo 71",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según TREBEP art. 71: Registro de personal",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué información conjunta de recursos humanos puede incluir el registro además de datos individuales?",
+    "answer": "Información agregada",
+    "options": [
+      "Información agregada",
+      "Homogeneidad e interoperabilidad",
+      "Artículo 71",
+      "Registro de personal"
+    ],
+    "reference": "TREBEP art. 71",
+    "category": "RRHH",
+    "topic": "Registros · Artículo 71",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según TREBEP art. 71: Información agregada",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué características deben tener los datos intercambiados entre Administraciones?",
+    "answer": "Homogeneidad e interoperabilidad",
+    "options": [
+      "Homogeneidad e interoperabilidad",
+      "Gestión integrada",
+      "Convenio de Conferencia Sectorial",
+      "Información agregada"
+    ],
+    "reference": "TREBEP art. 71",
+    "category": "RRHH",
+    "topic": "Registros · Artículo 71",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según TREBEP art. 71: Homogeneidad e interoperabilidad",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué tipo de gestión de recursos humanos promueve el artículo 71.4?",
+    "answer": "Gestión integrada",
+    "options": [
+      "Gestión integrada",
+      "Entidades locales sin capacidad suficiente",
+      "Protección de datos",
+      "Homogeneidad e interoperabilidad"
+    ],
+    "reference": "TREBEP art. 71",
+    "category": "RRHH",
+    "topic": "Registros · Artículo 71",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según TREBEP art. 71: Gestión integrada",
+    "format": "corta"
+  },
+  {
+    "question": "¿A quién deben apoyar Estado y CCAA si faltan medios locales para registrar al personal?",
+    "answer": "Entidades locales sin capacidad suficiente",
+    "options": [
+      "Entidades locales sin capacidad suficiente",
+      "Artículo 71",
+      "Registro de personal",
+      "Gestión integrada"
+    ],
+    "reference": "TREBEP art. 71",
+    "category": "RRHH",
+    "topic": "Registros · Artículo 71",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según TREBEP art. 71: Entidades locales sin capacidad suficiente",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué norma reglamenta específicamente el Registro Central de Personal estatal?",
+    "answer": "Real Decreto 2073/1999",
+    "options": [
+      "Real Decreto 2073/1999",
+      "Artículo 13",
+      "Oficina central y oficinas delegadas",
+      "Órgano competente de personal"
+    ],
+    "reference": "TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999",
+    "category": "RRHH",
+    "topic": "Registro Central · Naturaleza",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999: Real Decreto 2073/1999",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué artículo de la Ley 30/1984 se cita como base específica del Registro Central de Personal?",
+    "answer": "Artículo 13",
+    "options": [
+      "Artículo 13",
+      "Registro Central de Personal",
+      "Registro de personal autonómico",
+      "Real Decreto 2073/1999"
+    ],
+    "reference": "TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999",
+    "category": "RRHH",
+    "topic": "Registro Central · Naturaleza",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999: Artículo 13",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué institución deja constancia registral de la vida administrativa del personal estatal incluido?",
+    "answer": "Registro Central de Personal",
+    "options": [
+      "Registro Central de Personal",
+      "Dirección General de la Función Pública",
+      "No lo sustituye ni convalida",
+      "Artículo 13"
+    ],
+    "reference": "TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999",
+    "category": "RRHH",
+    "topic": "Registro Central · Naturaleza",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999: Registro Central de Personal",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué unidad administrativa gestiona el RCP en el ámbito ministerial correspondiente?",
+    "answer": "Dirección General de la Función Pública",
+    "options": [
+      "Dirección General de la Función Pública",
+      "Oficina central y oficinas delegadas",
+      "Órgano competente de personal",
+      "Registro Central de Personal"
+    ],
+    "reference": "TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999",
+    "category": "RRHH",
+    "topic": "Registro Central · Naturaleza",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999: Dirección General de la Función Pública",
+    "format": "corta"
+  },
+  {
+    "question": "¿Cómo se organiza territorialmente el RCP para gestionar asientos de personal?",
+    "answer": "Oficina central y oficinas delegadas",
+    "options": [
+      "Oficina central y oficinas delegadas",
+      "Registro de personal autonómico",
+      "Real Decreto 2073/1999",
+      "Dirección General de la Función Pública"
+    ],
+    "reference": "TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999",
+    "category": "RRHH",
+    "topic": "Registro Central · Naturaleza",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999: Oficina central y oficinas delegadas",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué sistema registra a empleados de una comunidad autónoma que no prestan servicio en la AGE?",
+    "answer": "Registro de personal autonómico",
+    "options": [
+      "Registro de personal autonómico",
+      "No lo sustituye ni convalida",
+      "Artículo 13",
+      "Oficina central y oficinas delegadas"
+    ],
+    "reference": "TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999",
+    "category": "RRHH",
+    "topic": "Registro Central · Naturaleza",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999: Registro de personal autonómico",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué característica jurídica tiene el RCP respecto del acto de reconocimiento de trienios?",
+    "answer": "No lo sustituye ni convalida",
+    "options": [
+      "No lo sustituye ni convalida",
+      "Órgano competente de personal",
+      "Registro Central de Personal",
+      "Registro de personal autonómico"
+    ],
+    "reference": "TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999",
+    "category": "RRHH",
+    "topic": "Registro Central · Naturaleza",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999: No lo sustituye ni convalida",
+    "format": "corta"
+  },
+  {
+    "question": "¿Quién dicta el acto de personal que posteriormente se comunica al Registro?",
+    "answer": "Órgano competente de personal",
+    "options": [
+      "Órgano competente de personal",
+      "Real Decreto 2073/1999",
+      "Dirección General de la Función Pública",
+      "No lo sustituye ni convalida"
+    ],
+    "reference": "TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999",
+    "category": "RRHH",
+    "topic": "Registro Central · Naturaleza",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999: Órgano competente de personal",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué sigla identifica a la persona durante su vida administrativa?",
+    "answer": "NIP",
+    "options": [
+      "NIP",
+      "NRP",
+      "Código de identificación del vínculo",
+      "Puede haber varios"
+    ],
+    "reference": "RD 2073/1999; apuntes del profesor, Registro p. 9",
+    "category": "RRHH",
+    "topic": "Registro · Identificadores",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes del profesor, Registro p. 9: NIP",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué sigla identifica una relación de servicios concreta en el registro?",
+    "answer": "NRP",
+    "options": [
+      "NRP",
+      "A la persona",
+      "Dos dígitos adicionales",
+      "NIP"
+    ],
+    "reference": "RD 2073/1999; apuntes del profesor, Registro p. 9",
+    "category": "RRHH",
+    "topic": "Registro · Identificadores",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes del profesor, Registro p. 9: NRP",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué identifica el NIP aunque se cambie de cuerpo y de puesto?",
+    "answer": "A la persona",
+    "options": [
+      "A la persona",
+      "La relación de servicios",
+      "Se conserva",
+      "NRP"
+    ],
+    "reference": "RD 2073/1999; apuntes del profesor, Registro p. 9",
+    "category": "RRHH",
+    "topic": "Registro · Identificadores",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes del profesor, Registro p. 9: A la persona",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué identifica el NRP cuando una persona tiene varios vínculos sucesivos?",
+    "answer": "La relación de servicios",
+    "options": [
+      "La relación de servicios",
+      "Código de identificación del vínculo",
+      "Puede haber varios",
+      "A la persona"
+    ],
+    "reference": "RD 2073/1999; apuntes del profesor, Registro p. 9",
+    "category": "RRHH",
+    "topic": "Registro · Identificadores",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes del profesor, Registro p. 9: La relación de servicios",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué elemento del NRP identifica el cuerpo, escala, convenio o categoría?",
+    "answer": "Código de identificación del vínculo",
+    "options": [
+      "Código de identificación del vínculo",
+      "Dos dígitos adicionales",
+      "NIP",
+      "La relación de servicios"
+    ],
+    "reference": "RD 2073/1999; apuntes del profesor, Registro p. 9",
+    "category": "RRHH",
+    "topic": "Registro · Identificadores",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes del profesor, Registro p. 9: Código de identificación del vínculo",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué se añade a la parte identificativa del NRP para control de duplicidades?",
+    "answer": "Dos dígitos adicionales",
+    "options": [
+      "Dos dígitos adicionales",
+      "Se conserva",
+      "NRP",
+      "Código de identificación del vínculo"
+    ],
+    "reference": "RD 2073/1999; apuntes del profesor, Registro p. 9",
+    "category": "RRHH",
+    "topic": "Registro · Identificadores",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes del profesor, Registro p. 9: Dos dígitos adicionales",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué ocurre con el NIP al cambiar de C1 a A2 en el ejemplo del profesor?",
+    "answer": "Se conserva",
+    "options": [
+      "Se conserva",
+      "Puede haber varios",
+      "A la persona",
+      "Dos dígitos adicionales"
+    ],
+    "reference": "RD 2073/1999; apuntes del profesor, Registro p. 9",
+    "category": "RRHH",
+    "topic": "Registro · Identificadores",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes del profesor, Registro p. 9: Se conserva",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué puede ocurrir con el NRP al tener relaciones de servicio distintas?",
+    "answer": "Puede haber varios",
+    "options": [
+      "Puede haber varios",
+      "NIP",
+      "La relación de servicios",
+      "Se conserva"
+    ],
+    "reference": "RD 2073/1999; apuntes del profesor, Registro p. 9",
+    "category": "RRHH",
+    "topic": "Registro · Identificadores",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes del profesor, Registro p. 9: Puede haber varios",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué asiento refleja el nacimiento de una relación funcionarial o laboral?",
+    "answer": "Inscripción",
+    "options": [
+      "Inscripción",
+      "Anotación",
+      "Ordinaria",
+      "Marginal"
+    ],
+    "reference": "RD 2073/1999; apuntes profesor, p. 9-11",
+    "category": "RRHH",
+    "topic": "Registro · Asientos",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes profesor, p. 9-11: Inscripción",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué asiento refleja una toma de posesión posterior al nombramiento?",
+    "answer": "Anotación",
+    "options": [
+      "Anotación",
+      "Inscripción",
+      "Ordinaria",
+      "Marginal"
+    ],
+    "reference": "RD 2073/1999; apuntes profesor, p. 9-11",
+    "category": "RRHH",
+    "topic": "Registro · Asientos",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes profesor, p. 9-11: Anotación",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué anotación refleja normalmente un acto comunicado formalmente al RCP?",
+    "answer": "Ordinaria",
+    "options": [
+      "Ordinaria",
+      "Inscripción",
+      "Anotación",
+      "Marginal"
+    ],
+    "reference": "RD 2073/1999; apuntes profesor, p. 9-11",
+    "category": "RRHH",
+    "topic": "Registro · Asientos",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes profesor, p. 9-11: Ordinaria",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué anotación sirve para aclarar o completar otro asiento ya existente?",
+    "answer": "Marginal",
+    "options": [
+      "Marginal",
+      "Inscripción",
+      "Anotación",
+      "Ordinaria"
+    ],
+    "reference": "RD 2073/1999; apuntes profesor, p. 9-11",
+    "category": "RRHH",
+    "topic": "Registro · Asientos",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes profesor, p. 9-11: Marginal",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué anotación puede usarse cuando falta un documento formal pero hay certeza y coherencia?",
+    "answer": "Provisional",
+    "options": [
+      "Provisional",
+      "Inscripción",
+      "Anotación",
+      "Ordinaria"
+    ],
+    "reference": "RD 2073/1999; apuntes profesor, p. 9-11",
+    "category": "RRHH",
+    "topic": "Registro · Asientos",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes profesor, p. 9-11: Provisional",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué asiento se practica al formalizar un nuevo contrato laboral en el ámbito del RCP?",
+    "answer": "Inscripción",
+    "options": [
+      "Inscripción",
+      "Anotación",
+      "Ordinaria",
+      "Marginal"
+    ],
+    "reference": "RD 2073/1999; apuntes profesor, p. 9-11",
+    "category": "RRHH",
+    "topic": "Registro · Asientos",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes profesor, p. 9-11: Inscripción",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué asiento refleja el reconocimiento posterior de un trienio?",
+    "answer": "Anotación ordinaria",
+    "options": [
+      "Anotación ordinaria",
+      "Inscripción",
+      "Anotación",
+      "Ordinaria"
+    ],
+    "reference": "RD 2073/1999; apuntes profesor, p. 9-11",
+    "category": "RRHH",
+    "topic": "Registro · Asientos",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes profesor, p. 9-11: Anotación ordinaria",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué se practica si debe eliminarse un asiento por anulación del acto registrado?",
+    "answer": "Cancelación",
+    "options": [
+      "Cancelación",
+      "Inscripción",
+      "Anotación",
+      "Ordinaria"
+    ],
+    "reference": "RD 2073/1999; apuntes profesor, p. 9-11",
+    "category": "RRHH",
+    "topic": "Registro · Asientos",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes profesor, p. 9-11: Cancelación",
+    "format": "corta"
+  },
+  {
+    "question": "¿En cuántos días como máximo debe comunicar el órgano un acto registrable al RCP según los apuntes?",
+    "answer": "Tres días",
+    "options": [
+      "Tres días",
+      "Noventa días naturales",
+      "Otros noventa días",
+      "15 de julio de 2020"
+    ],
+    "reference": "RD 2073/1999; apuntes profesor, pp. 10-12",
+    "category": "RRHH",
+    "topic": "Registro · Plazos y gestión",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes profesor, pp. 10-12: Tres días",
+    "format": "corta"
+  },
+  {
+    "question": "¿En cuántos días como máximo debe practicar el RCP un asiento tras recibir su comunicación?",
+    "answer": "Tres días",
+    "options": [
+      "Tres días",
+      "Noventa días naturales",
+      "Otros noventa días",
+      "15 de julio de 2020"
+    ],
+    "reference": "RD 2073/1999; apuntes profesor, pp. 10-12",
+    "category": "RRHH",
+    "topic": "Registro · Plazos y gestión",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes profesor, pp. 10-12: Tres días",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué plazo inicial puede durar una anotación provisional?",
+    "answer": "Noventa días naturales",
+    "options": [
+      "Noventa días naturales",
+      "Tres días",
+      "Otros noventa días",
+      "15 de julio de 2020"
+    ],
+    "reference": "RD 2073/1999; apuntes profesor, pp. 10-12",
+    "category": "RRHH",
+    "topic": "Registro · Plazos y gestión",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes profesor, pp. 10-12: Noventa días naturales",
+    "format": "corta"
+  },
+  {
+    "question": "¿Por cuántos días más puede prorrogarse una anotación provisional en los casos previstos?",
+    "answer": "Otros noventa días",
+    "options": [
+      "Otros noventa días",
+      "Tres días",
+      "Noventa días naturales",
+      "15 de julio de 2020"
+    ],
+    "reference": "RD 2073/1999; apuntes profesor, pp. 10-12",
+    "category": "RRHH",
+    "topic": "Registro · Plazos y gestión",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes profesor, pp. 10-12: Otros noventa días",
+    "format": "corta"
+  },
+  {
+    "question": "¿Desde qué fecha recibe el RCP estatal comunicaciones de personal solo por vía electrónica?",
+    "answer": "15 de julio de 2020",
+    "options": [
+      "15 de julio de 2020",
+      "Tres días",
+      "Noventa días naturales",
+      "Otros noventa días"
+    ],
+    "reference": "RD 2073/1999; apuntes profesor, pp. 10-12",
+    "category": "RRHH",
+    "topic": "Registro · Plazos y gestión",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes profesor, pp. 10-12: 15 de julio de 2020",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué herramienta de las citadas por el profesor sirve para enviar documentos registrales?",
+    "answer": "Anot@RCP",
+    "options": [
+      "Anot@RCP",
+      "Tres días",
+      "Noventa días naturales",
+      "Otros noventa días"
+    ],
+    "reference": "RD 2073/1999; apuntes profesor, pp. 10-12",
+    "category": "RRHH",
+    "topic": "Registro · Plazos y gestión",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes profesor, pp. 10-12: Anot@RCP",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué herramienta permite consultar información registral por los cauces habilitados?",
+    "answer": "Consult@RCP",
+    "options": [
+      "Consult@RCP",
+      "Tres días",
+      "Noventa días naturales",
+      "Otros noventa días"
+    ],
+    "reference": "RD 2073/1999; apuntes profesor, pp. 10-12",
+    "category": "RRHH",
+    "topic": "Registro · Plazos y gestión",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes profesor, pp. 10-12: Consult@RCP",
+    "format": "corta"
+  },
+  {
+    "question": "¿Qué herramienta se emplea para generar documentos registrales?",
+    "answer": "Edit@RCP",
+    "options": [
+      "Edit@RCP",
+      "Tres días",
+      "Noventa días naturales",
+      "Otros noventa días"
+    ],
+    "reference": "RD 2073/1999; apuntes profesor, pp. 10-12",
+    "category": "RRHH",
+    "topic": "Registro · Plazos y gestión",
+    "difficulty": 2,
+    "source": "Tema 1 apuntes profesor: Registro Central de Personal, pp. finales; TREBEP 71",
+    "explanation": "Según RD 2073/1999; apuntes profesor, pp. 10-12: Edit@RCP",
+    "format": "corta"
+  }
+]
