@@ -16,18 +16,19 @@
   },
   {
     "id": 2,
-    "question": "¿De cuántos miembros se compone el Tribunal Constitucional?",
-    "answer": "12",
+    "question": "¿Qué ley orgánica regula el Tribunal Constitucional?",
+    "answer": "Ley Orgánica 2/1979",
     "options": [
-      "10",
-      "20",
-      "12",
-      "15"
+      "Ley Orgánica 1/1985",
+      "Ley Orgánica 6/1985",
+      "Ley Orgánica 2/1979",
+      "Ley Orgánica 3/1981"
     ],
-    "reference": "CE 159.1",
+    "reference": "LOTC",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 2
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 3,
@@ -46,18 +47,19 @@
   },
   {
     "id": 4,
-    "question": "¿Cuántos integrantes del Tribunal Constitucional son propuestos por el Congreso?",
-    "answer": "4",
+    "question": "¿En qué fecha se aprobó la Ley Orgánica del Tribunal Constitucional?",
+    "answer": "3 de octubre de 1979",
     "options": [
-      "4",
-      "2",
-      "6",
-      "3"
+      "3 de octubre de 1979",
+      "6 de diciembre de 1978",
+      "24 de mayo de 2007",
+      "3 de octubre de 1981"
     ],
-    "reference": "CE 159.1",
+    "reference": "LOTC",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 2
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 5,
@@ -76,18 +78,19 @@
   },
   {
     "id": 6,
-    "question": "En la composición del TC, ¿cuántos magistrados corresponde proponer al Senado?",
-    "answer": "4",
+    "question": "¿En qué título de la Constitución se regula el Tribunal Constitucional?",
+    "answer": "Título IX",
     "options": [
-      "3",
-      "4",
-      "6",
-      "2"
+      "Título VI",
+      "Título VIII",
+      "Título IX",
+      "Título X"
     ],
-    "reference": "CE 159.1",
+    "reference": "CE, Título IX",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 1
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 7,
@@ -106,18 +109,19 @@
   },
   {
     "id": 8,
-    "question": "En la designación del TC, ¿cuántos magistrados corresponden al Gobierno?",
-    "answer": "2",
+    "question": "¿Qué artículo constitucional regula la composición del TC?",
+    "answer": "159",
     "options": [
-      "4",
-      "3",
-      "6",
-      "2"
+      "159",
+      "160",
+      "161",
+      "165"
     ],
-    "reference": "CE 159.1",
+    "reference": "CE 159",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 1
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 9,
@@ -136,18 +140,19 @@
   },
   {
     "id": 10,
-    "question": "¿Cuántos magistrados del Tribunal Constitucional son propuestos por el CGPJ?",
-    "answer": "2",
+    "question": "¿Qué artículo de la Constitución enumera las competencias del TC?",
+    "answer": "161",
     "options": [
-      "6",
-      "2",
-      "3",
-      "4"
+      "159",
+      "160",
+      "161",
+      "164"
     ],
-    "reference": "CE 159.1",
+    "reference": "CE 161",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 1
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 11,
@@ -166,18 +171,19 @@
   },
   {
     "id": 12,
-    "question": "Para designar a los magistrados del TC, ¿qué mayoría debe alcanzar el Congreso?",
-    "answer": "3/5",
+    "question": "¿Qué artículo constitucional regula el valor de las sentencias del TC?",
+    "answer": "164",
     "options": [
-      "2/3",
-      "mayoría simple",
-      "mayoría absoluta",
-      "3/5"
+      "164",
+      "161",
+      "162",
+      "165"
     ],
-    "reference": "CE 159.1",
+    "reference": "CE 164",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 2
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 13,
@@ -196,18 +202,19 @@
   },
   {
     "id": 14,
-    "question": "En la propuesta de magistrados del TC, ¿qué mayoría debe alcanzar el Senado?",
-    "answer": "3/5",
+    "question": "¿Qué artículo de la Constitución remite a una ley orgánica la regulación del TC?",
+    "answer": "165",
     "options": [
-      "mayoría absoluta",
-      "2/3",
-      "mayoría simple",
-      "3/5"
+      "159",
+      "160",
+      "165",
+      "163"
     ],
-    "reference": "CE 159.1",
+    "reference": "CE 165",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 2
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 15,
@@ -222,22 +229,24 @@
     "reference": "CE 159.3",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 1
+    "difficulty": 1,
+    "source": "Pregunta también utilizada en examen oficial INAP GACE-L 2022 extraordinario, pregunta 3"
   },
   {
     "id": 16,
-    "question": "¿De cuántos años es el mandato de un magistrado del Tribunal Constitucional?",
-    "answer": "9 años",
+    "question": "¿Quién nombra formalmente a los magistrados del TC?",
+    "answer": "El Rey",
     "options": [
-      "12 años",
-      "4 años",
-      "6 años",
-      "9 años"
+      "El Rey",
+      "El Congreso",
+      "El Senado",
+      "El Presidente del Gobierno"
     ],
-    "reference": "CE 159.3",
+    "reference": "CE 159.1",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 1
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 17,
@@ -256,18 +265,19 @@
   },
   {
     "id": 18,
-    "question": "¿Con qué periodicidad se produce la renovación parcial del TC?",
-    "answer": "3 años",
+    "question": "¿Quién elige al Presidente del TC entre sus miembros?",
+    "answer": "El Pleno del TC",
     "options": [
-      "2 años",
-      "4 años",
-      "6 años",
-      "3 años"
+      "El Congreso",
+      "El Senado",
+      "El Pleno del TC",
+      "El Rey"
     ],
-    "reference": "CE 159.3",
+    "reference": "LOTC 9.1",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 2
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 19,
@@ -286,18 +296,19 @@
   },
   {
     "id": 20,
-    "question": "¿Qué parte de los miembros del Tribunal Constitucional se renueva cada tres años?",
-    "answer": "1/3",
+    "question": "¿En qué tipo de votación se elige al Presidente del TC?",
+    "answer": "Votación secreta",
     "options": [
-      "1/3",
-      "1/2",
-      "1/4",
-      "2/3"
+      "Votación secreta",
+      "Votación nominal pública",
+      "Sorteo",
+      "Votación electrónica abierta"
     ],
-    "reference": "CE 159.3",
+    "reference": "LOTC 9.1",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 2
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 21,
@@ -316,18 +327,19 @@
   },
   {
     "id": 22,
-    "question": "En cada renovación parcial del TC, ¿cuántos magistrados se sustituyen?",
-    "answer": "4",
+    "question": "En la segunda votación para Presidente del TC, ¿qué criterio decide?",
+    "answer": "Mayor número de votos",
     "options": [
-      "2",
-      "3",
-      "4",
-      "6"
+      "Mayoría de dos tercios",
+      "Mayoría absoluta",
+      "Mayor número de votos",
+      "Unanimidad"
     ],
-    "reference": "CE 159.3",
+    "reference": "LOTC 9.2",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 1
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 23,
@@ -346,18 +358,19 @@
   },
   {
     "id": 24,
-    "question": "Para acceder al TC, ¿cuál es la antigüedad profesional mínima exigida?",
-    "answer": "15 años",
+    "question": "¿Qué órgano propone al Rey el nombramiento del Presidente del TC?",
+    "answer": "El Pleno del TC",
     "options": [
-      "12 años",
-      "10 años",
-      "20 años",
-      "15 años"
+      "El Pleno del TC",
+      "El Consejo General del Poder Judicial",
+      "El Congreso",
+      "El Gobierno"
     ],
-    "reference": "CE 159.2",
+    "reference": "LOTC 9.1",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 2
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 25,
@@ -376,18 +389,19 @@
   },
   {
     "id": 26,
-    "question": "¿Cuál es la duración del mandato del presidente del TC?",
-    "answer": "3 años",
+    "question": "¿Qué órgano preside ordinariamente la Sala Primera del TC?",
+    "answer": "El Presidente del TC",
     "options": [
-      "2 años",
-      "3 años",
-      "5 años",
-      "4 años"
+      "El Vicepresidente del TC",
+      "El magistrado más joven",
+      "El Presidente del TC",
+      "El Presidente del Senado"
     ],
-    "reference": "LOTC 9.3",
+    "reference": "LOTC 7.2",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 2
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 27,
@@ -406,18 +420,19 @@
   },
   {
     "id": 28,
-    "question": "¿Cuántas reelecciones consecutivas admite la presidencia del TC?",
-    "answer": "1",
+    "question": "¿Quién preside el Pleno del TC si faltan el Presidente y el Vicepresidente?",
+    "answer": "El magistrado más antiguo en el cargo",
     "options": [
-      "2",
-      "0",
-      "1",
-      "3"
+      "El magistrado más antiguo en el cargo",
+      "El de mayor edad siempre",
+      "El Secretario General",
+      "El magistrado más joven"
     ],
-    "reference": "LOTC 9.3",
+    "reference": "LOTC 6.2",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 1
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 29,
@@ -436,18 +451,19 @@
   },
   {
     "id": 30,
-    "question": "Desde la publicación de la norma, ¿cuál es el plazo ordinario del recurso de inconstitucionalidad?",
-    "answer": "3 meses",
+    "question": "¿Qué quórum de presencia requiere el Pleno para adoptar acuerdos?",
+    "answer": "Dos tercios",
     "options": [
-      "20 días",
-      "3 meses",
-      "2 meses",
-      "9 meses"
+      "Un tercio",
+      "Tres quintos",
+      "Dos tercios",
+      "Mayoría simple"
     ],
-    "reference": "LOTC 33.1",
+    "reference": "LOTC 14; INAP GACE-L OEP 2022, pregunta 3",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 2
+    "difficulty": 3,
+    "source": "Pregunta adaptada de examen oficial INAP; respuesta contrastada con CE y LOTC"
   },
   {
     "id": 31,
@@ -466,18 +482,19 @@
   },
   {
     "id": 32,
-    "question": "¿A cuánto puede ampliarse el plazo de recurso de inconstitucionalidad bajo las condiciones del artículo 33.2 LOTC?",
-    "answer": "9 meses",
+    "question": "¿Cuántos magistrados deben estar presentes en una Sección para adoptar acuerdos sin discrepancia?",
+    "answer": "2",
     "options": [
-      "9 meses",
-      "12 meses",
-      "3 meses",
-      "6 meses"
+      "2",
+      "1",
+      "3",
+      "4"
     ],
-    "reference": "LOTC 33.2",
+    "reference": "LOTC 14",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 2
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 33,
@@ -496,18 +513,19 @@
   },
   {
     "id": 34,
-    "question": "Agotada la vía judicial, ¿cuál es el plazo del amparo por actuaciones del Gobierno o de la Administración?",
-    "answer": "20 días",
+    "question": "Si discrepan los miembros de una Sección del TC, ¿cuántos deben estar presentes?",
+    "answer": "3",
     "options": [
-      "30 días",
-      "20 días",
-      "15 días",
-      "10 días"
+      "2",
+      "4",
+      "3",
+      "6"
     ],
-    "reference": "LOTC 43.2",
+    "reference": "LOTC 14",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 2
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 35,
@@ -526,18 +544,19 @@
   },
   {
     "id": 36,
-    "question": "Tras la notificación de la resolución judicial, ¿en cuántos días puede solicitarse el amparo?",
-    "answer": "30 días",
+    "question": "¿Cuántos magistrados integran ordinariamente una Sección del TC?",
+    "answer": "3",
     "options": [
-      "10 días",
-      "3 meses",
-      "30 días",
-      "20 días"
+      "3",
+      "2",
+      "4",
+      "6"
     ],
-    "reference": "LOTC 44.2",
+    "reference": "LOTC 8.1",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 2
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 37,
@@ -556,18 +575,19 @@
   },
   {
     "id": 38,
-    "question": "Frente a actos parlamentarios sin fuerza de ley, ¿cuál es el plazo del recurso de amparo?",
-    "answer": "3 meses",
+    "question": "¿Con qué mayoría acuerda el Pleno suspender cautelarmente a un magistrado del TC?",
+    "answer": "Tres cuartas partes",
     "options": [
-      "9 meses",
-      "3 meses",
-      "30 días",
-      "20 días"
+      "Mayoría simple",
+      "Mayoría absoluta",
+      "Tres cuartas partes",
+      "Tres quintos"
     ],
-    "reference": "LOTC 42",
+    "reference": "LOTC 24",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 2
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 39,
@@ -586,18 +606,19 @@
   },
   {
     "id": 40,
-    "question": "Rechazado el requerimiento, ¿qué plazo hay para promover un conflicto positivo de competencia?",
-    "answer": "1 mes",
+    "question": "¿Con qué mayoría decide el Pleno el cese de un magistrado por responsabilidad civil dolosa?",
+    "answer": "Tres cuartas partes",
     "options": [
-      "2 meses",
-      "10 días",
-      "3 meses",
-      "1 mes"
+      "Tres cuartas partes",
+      "Mayoría simple",
+      "Tres quintos",
+      "Dos tercios"
     ],
-    "reference": "LOTC 63.5",
+    "reference": "LOTC 23.2; INAP GACE-L OEP 2022-2024, pregunta 4",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 3
+    "difficulty": 2,
+    "source": "Pregunta adaptada de examen oficial INAP; respuesta contrastada con CE y LOTC"
   },
   {
     "id": 41,
@@ -616,18 +637,19 @@
   },
   {
     "id": 42,
-    "question": "¿Cuánto tiempo hay para formular el requerimiento previo de incompetencia?",
-    "answer": "2 meses",
+    "question": "¿Qué porcentaje mínimo de cada sexo exige la LOTC en las nuevas propuestas de magistrados?",
+    "answer": "40 %",
     "options": [
-      "1 mes",
-      "20 días",
-      "3 meses",
-      "2 meses"
+      "30 %",
+      "50 %",
+      "40 %",
+      "60 %"
     ],
-    "reference": "LOTC 63.2",
+    "reference": "LOTC 16.1, LO 2/2024",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 3
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 43,
@@ -646,18 +668,19 @@
   },
   {
     "id": 44,
-    "question": "Tras la suspensión del artículo 161.2 CE, ¿cuánto tiempo tiene el TC para ratificarla o levantarla?",
-    "answer": "5 meses",
+    "question": "¿A qué cargo corresponde comunicar las vacantes de magistrados del TC a los órganos proponentes?",
+    "answer": "Presidente del TC",
     "options": [
-      "2 meses",
-      "3 meses",
-      "5 meses",
-      "6 meses"
+      "Presidente del TC",
+      "Vicepresidente del TC",
+      "Rey",
+      "Secretario General"
     ],
-    "reference": "CE 161.2",
+    "reference": "LOTC 15",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 2
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 45,
@@ -676,18 +699,19 @@
   },
   {
     "id": 46,
-    "question": "¿Cuál es el número mínimo de diputados legitimados para recurrir una ley ante el TC?",
-    "answer": "50 diputados",
+    "question": "¿En qué plazo deben las Secretarías de Justicia poner de manifiesto al interesado los defectos de una demanda de amparo?",
+    "answer": "10 días",
     "options": [
-      "75 diputados",
-      "50 diputados",
-      "35 diputados",
-      "25 diputados"
+      "3 días",
+      "5 días",
+      "10 días",
+      "20 días"
     ],
-    "reference": "CE 162.1.a",
+    "reference": "LOTC 49.4",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 2
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 47,
@@ -706,18 +730,19 @@
   },
   {
     "id": 48,
-    "question": "¿Cuál es el número mínimo de senadores legitimados para recurrir una ley ante el TC?",
-    "answer": "50 senadores",
+    "question": "¿Cuántos días después de su notificación pueden las partes pedir aclaración de una sentencia del TC?",
+    "answer": "2 días",
     "options": [
-      "35 senadores",
-      "50 senadores",
-      "75 senadores",
-      "25 senadores"
+      "2 días",
+      "3 días",
+      "5 días",
+      "10 días"
     ],
-    "reference": "CE 162.1.a",
+    "reference": "LOTC 93.1",
     "category": "Tribunal Constitucional",
     "topic": "Tribunal Constitucional",
-    "difficulty": 2
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   },
   {
     "id": 49,
@@ -15441,5 +15466,2037 @@
     "difficulty": 3,
     "format": "inap",
     "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 874,
+    "question": "¿Cuál es la posición del TC frente a la Constitución según su ley orgánica?",
+    "answer": "Intérprete supremo de la Constitución",
+    "options": [
+      "Órgano consultivo de las Cortes",
+      "Superior jerárquico del Tribunal Supremo",
+      "Intérprete supremo de la Constitución",
+      "Tribunal de apelación ordinario"
+    ],
+    "reference": "LOTC 1.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 875,
+    "question": "¿A qué normas está sometido el Tribunal Constitucional según la LOTC?",
+    "answer": "A la Constitución y a su Ley Orgánica",
+    "options": [
+      "A las leyes ordinarias y reglamentos del Gobierno",
+      "Solo al Código Civil",
+      "A las órdenes del Gobierno",
+      "A la Constitución y a su Ley Orgánica"
+    ],
+    "reference": "LOTC 1.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 876,
+    "question": "¿En qué ámbito territorial ejerce su jurisdicción el TC?",
+    "answer": "En todo el territorio nacional",
+    "options": [
+      "En todo el territorio nacional",
+      "Solo en Madrid",
+      "En varias comunidades autónomas",
+      "Solo sobre órganos estatales"
+    ],
+    "reference": "LOTC 1.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 877,
+    "question": "¿Es posible promover contra el TC una cuestión de jurisdicción o competencia?",
+    "answer": "No, en ningún caso",
+    "options": [
+      "Sí, ante el Tribunal Supremo",
+      "No, en ningún caso",
+      "Sí, ante el CGPJ",
+      "Sí, si lo autoriza el Congreso"
+    ],
+    "reference": "LOTC 4.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 878,
+    "question": "¿Puede otro órgano jurisdiccional del Estado enjuiciar las resoluciones del TC?",
+    "answer": "No",
+    "options": [
+      "Sí, el Tribunal Supremo",
+      "Sí, la Audiencia Nacional",
+      "No",
+      "Sí, el Tribunal de Justicia de la UE"
+    ],
+    "reference": "LOTC 4.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 879,
+    "question": "¿Qué órgano aprueba los reglamentos internos de organización y funcionamiento del TC?",
+    "answer": "El Pleno",
+    "options": [
+      "La Sala Primera",
+      "El Presidente solo",
+      "Las Cortes Generales",
+      "El Pleno"
+    ],
+    "reference": "LOTC 2.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 880,
+    "question": "¿Dónde se publican los reglamentos internos del Tribunal Constitucional?",
+    "answer": "En el BOE",
+    "options": [
+      "En el BOE",
+      "En el BO de las Cortes",
+      "En el BO autonómico",
+      "En el diario del CGPJ"
+    ],
+    "reference": "LOTC 2.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 881,
+    "question": "¿Quién autoriza los reglamentos internos del TC para su publicación?",
+    "answer": "Su Presidente",
+    "options": [
+      "El Ministro de Justicia",
+      "Su Presidente",
+      "El Rey",
+      "El Presidente del Senado"
+    ],
+    "reference": "LOTC 2.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 882,
+    "question": "¿Puede el TC decidir cuestiones prejudiciales no constitucionales ligadas directamente al asunto?",
+    "answer": "Sí, a efectos del enjuiciamiento constitucional",
+    "options": [
+      "No, nunca",
+      "Sí, con valor de cosa juzgada universal",
+      "Sí, a efectos del enjuiciamiento constitucional",
+      "Solo con autorización del Tribunal Supremo"
+    ],
+    "reference": "LOTC 3",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 883,
+    "question": "¿Quiénes integran el Pleno del Tribunal Constitucional?",
+    "answer": "Todos sus magistrados",
+    "options": [
+      "Solo los seis de la Sala Primera",
+      "El Presidente y los portavoces parlamentarios",
+      "Sus tres magistrados más antiguos",
+      "Todos sus magistrados"
+    ],
+    "reference": "LOTC 6.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 884,
+    "question": "¿Qué órgano distribuye entre las dos Salas a los magistrados del TC?",
+    "answer": "El Pleno del Tribunal",
+    "options": [
+      "El Pleno del Tribunal",
+      "El Ministro de Justicia",
+      "El Presidente del Congreso",
+      "El CGPJ"
+    ],
+    "reference": "LOTC 7.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 885,
+    "question": "¿Quién determina el turno de distribución de asuntos entre las Salas del TC?",
+    "answer": "El Pleno",
+    "options": [
+      "El Senado",
+      "El Pleno",
+      "El CGPJ",
+      "El Secretario General"
+    ],
+    "reference": "LOTC 12",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 886,
+    "question": "¿Quién propone al Pleno el turno de distribución de asuntos entre las Salas?",
+    "answer": "El Presidente del TC",
+    "options": [
+      "El Gobierno",
+      "El Congreso",
+      "El Presidente del TC",
+      "El Fiscal General del Estado"
+    ],
+    "reference": "LOTC 12",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 887,
+    "question": "Si una Sala quiere apartarse de la doctrina constitucional precedente, ¿qué órgano debe decidir?",
+    "answer": "El Pleno",
+    "options": [
+      "La misma Sala por mayoría simple",
+      "El Tribunal Supremo",
+      "Una Sección",
+      "El Pleno"
+    ],
+    "reference": "LOTC 13",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 888,
+    "question": "¿Pueden las Secciones resolver recursos de amparo si la Sala correspondiente les defiere el asunto?",
+    "answer": "Sí",
+    "options": [
+      "Sí",
+      "No, solo admiten recursos",
+      "No, siempre decide el Pleno",
+      "Solo por orden del CGPJ"
+    ],
+    "reference": "LOTC 8.3",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 889,
+    "question": "¿Qué órgano puede verificar si los nombramientos de magistrados del TC cumplen los requisitos legales?",
+    "answer": "El Tribunal Constitucional",
+    "options": [
+      "El Consejo de Ministros",
+      "El Tribunal Constitucional",
+      "El Tribunal Supremo",
+      "El Ministerio Fiscal"
+    ],
+    "reference": "LOTC 2.1.g",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 890,
+    "question": "¿Quién preside el Tribunal Constitucional en ausencia de su Presidente?",
+    "answer": "El Vicepresidente",
+    "options": [
+      "El magistrado más joven",
+      "El Fiscal General del Estado",
+      "El Vicepresidente",
+      "El Presidente del Congreso"
+    ],
+    "reference": "LOTC 6.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 891,
+    "question": "¿Qué criterio se aplica si hay empate persistente al elegir al Presidente del TC?",
+    "answer": "Mayor antigüedad en el cargo",
+    "options": [
+      "Sorteo",
+      "Mayor edad sin más",
+      "Nombra el Gobierno",
+      "Mayor antigüedad en el cargo"
+    ],
+    "reference": "LOTC 9.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 892,
+    "question": "Si persiste igualdad de antigüedad al elegir Presidente del TC, ¿qué criterio decide?",
+    "answer": "Mayor edad",
+    "options": [
+      "Mayor edad",
+      "Menor edad",
+      "Sorteo",
+      "El orden alfabético"
+    ],
+    "reference": "LOTC 9.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 893,
+    "question": "¿Cuánto dura el mandato del Vicepresidente del Tribunal Constitucional?",
+    "answer": "3 años",
+    "options": [
+      "2 años",
+      "3 años",
+      "4 años",
+      "6 años"
+    ],
+    "reference": "LOTC 9.4",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 894,
+    "question": "Si el mandato del Presidente y Vicepresidente no coincide con la renovación del TC, ¿qué sucede?",
+    "answer": "Se prorroga hasta la renovación y toma de posesión de los nuevos magistrados",
+    "options": [
+      "Se reduce a un año",
+      "Expira automáticamente sin prórroga",
+      "Se prorroga hasta la renovación y toma de posesión de los nuevos magistrados",
+      "Debe renovarse cada seis meses"
+    ],
+    "reference": "LOTC 16.3",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 895,
+    "question": "Si la segunda votación para elegir al Presidente del TC termina en empate, ¿qué procede?",
+    "answer": "Celebrar una última votación",
+    "options": [
+      "Decidir por sorteo directamente",
+      "Remitir la elección al Rey",
+      "Convocar elecciones generales",
+      "Celebrar una última votación"
+    ],
+    "reference": "LOTC 9.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 896,
+    "question": "¿Deben comparecer los candidatos al TC propuestos por Congreso y Senado ante las Comisiones parlamentarias correspondientes?",
+    "answer": "Sí",
+    "options": [
+      "Sí",
+      "No",
+      "Solo los candidatos del Senado",
+      "Solo los candidatos del Gobierno"
+    ],
+    "reference": "LOTC 16.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 897,
+    "question": "¿Qué órgano debe iniciar la petición de propuestas para renovar magistrados antes del fin de sus mandatos?",
+    "answer": "El Presidente del TC",
+    "options": [
+      "El Rey",
+      "El Presidente del TC",
+      "El Consejo de Ministros",
+      "La Mesa del Congreso"
+    ],
+    "reference": "LOTC 17.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 898,
+    "question": "¿Con cuántos meses de antelación se activa el procedimiento de renovación ordinaria de magistrados?",
+    "answer": "4 meses",
+    "options": [
+      "2 meses",
+      "3 meses",
+      "4 meses",
+      "6 meses"
+    ],
+    "reference": "LOTC 17.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 899,
+    "question": "¿A quién compete proponer un sustituto de magistrado cuando surge una vacante sobrevenida?",
+    "answer": "Al órgano que propuso al magistrado sustituido",
+    "options": [
+      "Siempre al Congreso",
+      "Siempre al Gobierno",
+      "Al Presidente del TC",
+      "Al órgano que propuso al magistrado sustituido"
+    ],
+    "reference": "LOTC 16.5",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 900,
+    "question": "Si la renovación por tercios se retrasa, ¿cómo se calcula el mandato de los nuevos magistrados?",
+    "answer": "Se descuenta el retraso",
+    "options": [
+      "Se descuenta el retraso",
+      "Comienza siempre un período íntegro de nueve años",
+      "Se duplica el período",
+      "Queda sin fecha de finalización"
+    ],
+    "reference": "LOTC 16.5",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 901,
+    "question": "¿Puede un extranjero, aun siendo jurista, ser designado magistrado del TC?",
+    "answer": "No, se exige nacionalidad española",
+    "options": [
+      "Sí, con residencia legal",
+      "No, se exige nacionalidad española",
+      "Sí, si es nacional de la UE",
+      "Sí, con quince años de ejercicio"
+    ],
+    "reference": "LOTC 18",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 902,
+    "question": "¿Se admite la condición de fiscal como procedencia profesional para ser magistrado del TC?",
+    "answer": "Sí",
+    "options": [
+      "No, solo jueces",
+      "No, solo abogados",
+      "Sí",
+      "No, solo catedráticos"
+    ],
+    "reference": "LOTC 18",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 903,
+    "question": "¿Se admite la condición de profesor universitario como procedencia profesional para el TC?",
+    "answer": "Sí",
+    "options": [
+      "No, solo jueces y fiscales",
+      "Solo profesores extranjeros",
+      "Solo profesores jubilados",
+      "Sí"
+    ],
+    "reference": "LOTC 18",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 904,
+    "question": "¿Quién acepta la renuncia de un magistrado del TC?",
+    "answer": "El Presidente del Tribunal",
+    "options": [
+      "El Presidente del Tribunal",
+      "El Consejo de Ministros",
+      "La Mesa del Congreso",
+      "El Rey"
+    ],
+    "reference": "LOTC 23.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 905,
+    "question": "¿Quién decreta el cese de un magistrado por expiración del mandato?",
+    "answer": "El Presidente del Tribunal",
+    "options": [
+      "El Pleno por tres cuartos",
+      "El Presidente del Tribunal",
+      "El CGPJ",
+      "El Senado"
+    ],
+    "reference": "LOTC 23.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 906,
+    "question": "¿Qué mayoría del Pleno se exige para acordar el cese por incompatibilidad sobrevenida?",
+    "answer": "Mayoría simple",
+    "options": [
+      "Tres cuartas partes",
+      "Dos tercios",
+      "Mayoría simple",
+      "Unanimidad"
+    ],
+    "reference": "LOTC 23.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 907,
+    "question": "¿Qué mayoría del Pleno acuerda el cese por incapacidad legal sobrevenida?",
+    "answer": "Mayoría simple",
+    "options": [
+      "Mayoría absoluta",
+      "Tres cuartas partes",
+      "Dos tercios",
+      "Mayoría simple"
+    ],
+    "reference": "LOTC 23.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 908,
+    "question": "¿Qué plazo tiene un magistrado propuesto para cesar en una actividad incompatible?",
+    "answer": "10 días",
+    "options": [
+      "10 días",
+      "3 días",
+      "5 días",
+      "20 días"
+    ],
+    "reference": "LOTC 19.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 909,
+    "question": "¿Qué consecuencia tiene no cesar en la actividad incompatible en el plazo legal tras ser propuesto magistrado?",
+    "answer": "Se entiende que no acepta el cargo",
+    "options": [
+      "Se le suspende 3 meses",
+      "Se entiende que no acepta el cargo",
+      "Es nombrado igualmente",
+      "Recibe una multa"
+    ],
+    "reference": "LOTC 19.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 910,
+    "question": "¿En qué situación administrativa quedan jueces y fiscales nombrados magistrados del TC?",
+    "answer": "Servicios especiales",
+    "options": [
+      "Excedencia voluntaria",
+      "Servicio activo en su órgano de origen",
+      "Servicios especiales",
+      "Suspensión de funciones"
+    ],
+    "reference": "LOTC 20",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 911,
+    "question": "¿Ante quién prestan juramento o promesa los magistrados del TC al asumir el cargo?",
+    "answer": "El Rey",
+    "options": [
+      "El Presidente del Congreso",
+      "El Presidente del Gobierno",
+      "El CGPJ",
+      "El Rey"
+    ],
+    "reference": "LOTC 21",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 912,
+    "question": "¿Son perseguibles los magistrados del TC por las opiniones manifestadas en el ejercicio de sus funciones?",
+    "answer": "No",
+    "options": [
+      "No",
+      "Sí, siempre",
+      "Sí, por vía gubernativa",
+      "Solo con autorización del Senado"
+    ],
+    "reference": "LOTC 22",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 913,
+    "question": "¿Con qué principio se protege la permanencia en el cargo de magistrado del TC?",
+    "answer": "Inamovilidad",
+    "options": [
+      "Libre designación",
+      "Inamovilidad",
+      "Confianza parlamentaria",
+      "Revocación gubernamental"
+    ],
+    "reference": "LOTC 22",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 914,
+    "question": "¿Puede suspenderse provisionalmente a un magistrado del TC en caso de procesamiento?",
+    "answer": "Sí, por decisión del Tribunal",
+    "options": [
+      "No, bajo ninguna circunstancia",
+      "Solo por decisión del Gobierno",
+      "Sí, por decisión del Tribunal",
+      "Solo por acuerdo del Congreso"
+    ],
+    "reference": "LOTC 24",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 915,
+    "question": "¿Cuál es el período mínimo de servicio como magistrado del TC para recibir remuneración de transición?",
+    "answer": "3 años",
+    "options": [
+      "1 año",
+      "5 años",
+      "9 años",
+      "3 años"
+    ],
+    "reference": "LOTC 25.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 916,
+    "question": "¿Cuánto dura la remuneración de transición prevista para magistrados del TC que cumplen los requisitos?",
+    "answer": "1 año",
+    "options": [
+      "1 año",
+      "3 meses",
+      "6 meses",
+      "2 años"
+    ],
+    "reference": "LOTC 25.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 917,
+    "question": "¿Es compatible ser magistrado del TC con ser Defensor del Pueblo?",
+    "answer": "No",
+    "options": [
+      "Sí, siempre",
+      "No",
+      "Sí, si renuncia al sueldo",
+      "Solo por dos años"
+    ],
+    "reference": "LOTC 19.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 918,
+    "question": "¿Puede un magistrado del TC simultanear el cargo con la profesión de abogado?",
+    "answer": "No",
+    "options": [
+      "Sí, salvo en asuntos constitucionales",
+      "Sí, a tiempo parcial",
+      "No",
+      "Solo con autorización del Pleno"
+    ],
+    "reference": "LOTC 19.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 919,
+    "question": "¿Puede un magistrado del TC ejercer una actividad mercantil privada?",
+    "answer": "No",
+    "options": [
+      "Sí, si la comunica",
+      "Sí, si es fuera de horario",
+      "Solo con autorización del CGPJ",
+      "No"
+    ],
+    "reference": "LOTC 19.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Organización, presidencia y estatuto",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 920,
+    "question": "¿Mediante qué dos vías puede promoverse una declaración de inconstitucionalidad?",
+    "answer": "Recurso y cuestión de inconstitucionalidad",
+    "options": [
+      "Recurso y cuestión de inconstitucionalidad",
+      "Amparo y casación",
+      "Conflicto y recurso de revisión",
+      "Consulta popular y recurso de súplica"
+    ],
+    "reference": "LOTC 29.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 921,
+    "question": "¿Puede declararse inconstitucional un Estatuto de Autonomía?",
+    "answer": "Sí",
+    "options": [
+      "No, tiene inmunidad constitucional",
+      "Sí",
+      "Solo mediante acuerdo del Senado",
+      "Solo por el Tribunal Supremo"
+    ],
+    "reference": "LOTC 27.2.a",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 922,
+    "question": "¿Puede el TC controlar la constitucionalidad de un tratado internacional vigente?",
+    "answer": "Sí",
+    "options": [
+      "No, solo tratados futuros",
+      "Solo lo controla el Gobierno",
+      "Sí",
+      "Solo el TJUE"
+    ],
+    "reference": "LOTC 27.2.c",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 923,
+    "question": "¿Pueden los reglamentos del Congreso y del Senado ser objeto de control de constitucionalidad?",
+    "answer": "Sí",
+    "options": [
+      "No, son inmunes",
+      "Solo si lo pide el Rey",
+      "Solo ante el Tribunal Supremo",
+      "Sí"
+    ],
+    "reference": "LOTC 27.2.d",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 924,
+    "question": "¿Puede una ley autonómica declararse inconstitucional ante el TC?",
+    "answer": "Sí",
+    "options": [
+      "Sí",
+      "No, solo las leyes estatales",
+      "Solo mediante referéndum",
+      "Solo ante un TSJ"
+    ],
+    "reference": "LOTC 27.2.e",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 925,
+    "question": "¿Enjuicia el TC la constitucionalidad de normas con fuerza de ley?",
+    "answer": "Sí",
+    "options": [
+      "No, corresponde al Supremo",
+      "Sí",
+      "Solo si son reglamentos",
+      "Únicamente los tratados"
+    ],
+    "reference": "CE 161.1.a; LOTC 27",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 926,
+    "question": "¿Desde cuándo puede interponerse el recurso de inconstitucionalidad contra una ley?",
+    "answer": "Desde su publicación oficial",
+    "options": [
+      "Desde la aprobación por el Gobierno",
+      "Desde el inicio de la tramitación",
+      "Desde su publicación oficial",
+      "Antes de su publicación"
+    ],
+    "reference": "LOTC 31",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 927,
+    "question": "¿Qué sujeto puede provocar la suspensión de una disposición autonómica mediante su impugnación ante el TC invocando el artículo 161.2 CE?",
+    "answer": "El Gobierno",
+    "options": [
+      "El Defensor del Pueblo",
+      "Cincuenta Diputados",
+      "El Ministerio Fiscal",
+      "El Gobierno"
+    ],
+    "reference": "CE 161.2; LOTC 30; INAP GACE-L 2022, pregunta 4",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 2,
+    "source": "Pregunta adaptada de examen oficial INAP; respuesta contrastada con CE y LOTC"
+  },
+  {
+    "id": 928,
+    "question": "¿Qué institución está legitimada individualmente para interponer recurso de inconstitucionalidad además del Presidente del Gobierno?",
+    "answer": "Defensor del Pueblo",
+    "options": [
+      "Defensor del Pueblo",
+      "Fiscal General del Estado",
+      "Presidente del Senado",
+      "Presidente del CGPJ"
+    ],
+    "reference": "CE 162.1.a; LOTC 32",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 929,
+    "question": "¿Pueden los órganos ejecutivos autonómicos recurrir leyes estatales que afecten a su autonomía?",
+    "answer": "Sí, previo acuerdo",
+    "options": [
+      "No, solo el Gobierno estatal",
+      "Sí, previo acuerdo",
+      "Solo por una moción de censura",
+      "Solo ante la Audiencia Nacional"
+    ],
+    "reference": "LOTC 32.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 930,
+    "question": "¿Pueden las Asambleas autonómicas interponer recurso de inconstitucionalidad frente a leyes estatales que afecten a su autonomía?",
+    "answer": "Sí, previo acuerdo",
+    "options": [
+      "No, solo sus ejecutivos",
+      "Solo lo hace el Congreso",
+      "Sí, previo acuerdo",
+      "Solo mediante iniciativa legislativa"
+    ],
+    "reference": "LOTC 32.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 931,
+    "question": "¿A quién se extiende exclusivamente el plazo especial de nueve meses del recurso de inconstitucionalidad?",
+    "answer": "Presidente del Gobierno y ejecutivos autonómicos",
+    "options": [
+      "Defensor del Pueblo y 50 diputados",
+      "Todos los legitimados",
+      "Solo al Ministerio Fiscal",
+      "Presidente del Gobierno y ejecutivos autonómicos"
+    ],
+    "reference": "LOTC 33.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 932,
+    "question": "¿Qué comisión debe reunirse para activar el plazo especial de nueve meses del recurso de inconstitucionalidad?",
+    "answer": "Comisión Bilateral de Cooperación",
+    "options": [
+      "Comisión Bilateral de Cooperación",
+      "Comisión Constitucional del Congreso",
+      "Comisión de Asuntos Autonómicos del Senado",
+      "Conferencia de Presidentes"
+    ],
+    "reference": "LOTC 33.2.a",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 933,
+    "question": "¿De qué plazo se dispone para comunicar al TC el acuerdo bilateral que permite usar el plazo especial de recurso?",
+    "answer": "3 meses",
+    "options": [
+      "1 mes",
+      "3 meses",
+      "6 meses",
+      "9 meses"
+    ],
+    "reference": "LOTC 33.2.c",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 934,
+    "question": "¿En qué diarios oficiales se publica el acuerdo bilateral previo al recurso especial de inconstitucionalidad?",
+    "answer": "BOE y diario oficial autonómico",
+    "options": [
+      "Solo en el BOE",
+      "BO de las Cortes y DOUE",
+      "BOE y diario oficial autonómico",
+      "Solo en el diario autonómico"
+    ],
+    "reference": "LOTC 33.2.c",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 935,
+    "question": "¿Qué plazo tienen los órganos emplazados para personarse y alegar en un recurso de inconstitucionalidad admitido?",
+    "answer": "15 días",
+    "options": [
+      "5 días",
+      "10 días",
+      "20 días",
+      "15 días"
+    ],
+    "reference": "LOTC 34.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 936,
+    "question": "¿En qué plazo ordinario dicta sentencia el TC tras las alegaciones en un recurso de inconstitucionalidad?",
+    "answer": "10 días",
+    "options": [
+      "10 días",
+      "3 días",
+      "15 días",
+      "30 días"
+    ],
+    "reference": "LOTC 34.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 937,
+    "question": "¿Hasta qué plazo máximo puede extenderse motivadamente la sentencia en un recurso de inconstitucionalidad tras las alegaciones?",
+    "answer": "30 días",
+    "options": [
+      "10 días",
+      "30 días",
+      "15 días",
+      "60 días"
+    ],
+    "reference": "LOTC 34.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 938,
+    "question": "¿Quién puede plantear una cuestión de inconstitucionalidad ante el TC?",
+    "answer": "Un juez o tribunal",
+    "options": [
+      "El Gobierno",
+      "Cualquier ciudadano directamente",
+      "Un juez o tribunal",
+      "La Mesa del Senado"
+    ],
+    "reference": "LOTC 35.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 939,
+    "question": "¿Puede un órgano judicial plantear la cuestión de inconstitucionalidad de oficio?",
+    "answer": "Sí",
+    "options": [
+      "No, solo a petición de parte",
+      "Solo a petición del Fiscal",
+      "Solo si lo autoriza el TC",
+      "Sí"
+    ],
+    "reference": "LOTC 35.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 940,
+    "question": "¿Sobre qué tipo de norma cabe plantear cuestión de inconstitucionalidad?",
+    "answer": "Norma con rango de ley aplicable al caso",
+    "options": [
+      "Norma con rango de ley aplicable al caso",
+      "Cualquier acto administrativo firme",
+      "Solo reglamentos municipales",
+      "Solo sentencias del Supremo"
+    ],
+    "reference": "LOTC 35.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 941,
+    "question": "¿Qué relación debe tener la norma cuestionada con el fallo del proceso judicial?",
+    "answer": "Su validez debe condicionar el fallo",
+    "options": [
+      "Debe ser una norma reciente",
+      "Su validez debe condicionar el fallo",
+      "Debe llevar más de un año vigente",
+      "Debe haber sido dictada por el Gobierno"
+    ],
+    "reference": "LOTC 35.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 942,
+    "question": "¿Mediante qué clase de resolución plantea el juez la cuestión de inconstitucionalidad?",
+    "answer": "Auto",
+    "options": [
+      "Providencia",
+      "Sentencia definitiva",
+      "Auto",
+      "Decreto administrativo"
+    ],
+    "reference": "LOTC 35.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 943,
+    "question": "¿Puede volver a intentarse una cuestión de inconstitucionalidad en otra instancia antes de sentencia firme?",
+    "answer": "Sí",
+    "options": [
+      "No, nunca",
+      "Solo si cambia el Gobierno",
+      "Solo si hay una ley nueva",
+      "Sí"
+    ],
+    "reference": "LOTC 35.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 944,
+    "question": "¿En qué plazo ordinario sentencia el TC una cuestión de inconstitucionalidad tras el trámite de alegaciones?",
+    "answer": "15 días",
+    "options": [
+      "15 días",
+      "3 días",
+      "10 días",
+      "30 días"
+    ],
+    "reference": "LOTC 37.3",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 945,
+    "question": "¿Qué órgano judicial remite los autos principales al TC al plantear la cuestión?",
+    "answer": "El juez o tribunal proponente",
+    "options": [
+      "El Ministerio Fiscal",
+      "El juez o tribunal proponente",
+      "El CGPJ",
+      "El Parlamento autonómico"
+    ],
+    "reference": "LOTC 36",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 946,
+    "question": "¿A quién debe oír el TC antes de inadmitir una cuestión manifiestamente infundada por auto?",
+    "answer": "Al Fiscal General del Estado",
+    "options": [
+      "Al Presidente del Gobierno",
+      "Al Senado",
+      "Al Fiscal General del Estado",
+      "Al Defensor del Pueblo"
+    ],
+    "reference": "LOTC 37.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 947,
+    "question": "¿En qué forma se inadmite una cuestión de inconstitucionalidad notoriamente infundada?",
+    "answer": "Auto motivado",
+    "options": [
+      "Sentencia sin motivación",
+      "Orden ministerial",
+      "Decreto",
+      "Auto motivado"
+    ],
+    "reference": "LOTC 37.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 948,
+    "question": "¿En qué plazo pueden personarse ante el TC quienes fueron parte en el proceso tras publicarse la admisión de la cuestión?",
+    "answer": "15 días",
+    "options": [
+      "15 días",
+      "3 días",
+      "10 días",
+      "30 días"
+    ],
+    "reference": "LOTC 37.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 949,
+    "question": "¿De qué plazo disponen esas partes para formular alegaciones tras personarse en la cuestión?",
+    "answer": "Otros 15 días",
+    "options": [
+      "Otros 3 días",
+      "Otros 15 días",
+      "Otros 10 días",
+      "Otros 30 días"
+    ],
+    "reference": "LOTC 37.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 950,
+    "question": "¿Cuál es el plazo común e improrrogable para alegaciones de los órganos emplazados en una cuestión de inconstitucionalidad?",
+    "answer": "15 días",
+    "options": [
+      "5 días",
+      "10 días",
+      "15 días",
+      "20 días"
+    ],
+    "reference": "LOTC 37.3",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 951,
+    "question": "¿Qué valor tienen las sentencias del TC en procesos de inconstitucionalidad?",
+    "answer": "Cosa juzgada",
+    "options": [
+      "Simple recomendación",
+      "Dictamen no vinculante",
+      "Acto administrativo",
+      "Cosa juzgada"
+    ],
+    "reference": "LOTC 38.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 952,
+    "question": "¿Desde qué momento producen efectos generales las sentencias de inconstitucionalidad?",
+    "answer": "Desde su publicación en el BOE",
+    "options": [
+      "Desde su publicación en el BOE",
+      "Desde su debate en Pleno",
+      "Desde la presentación del recurso",
+      "Desde la toma de posesión del Gobierno"
+    ],
+    "reference": "LOTC 38.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 953,
+    "question": "¿A quién vinculan las sentencias del TC en procedimientos de inconstitucionalidad?",
+    "answer": "A todos los poderes públicos",
+    "options": [
+      "Solo al Parlamento",
+      "A todos los poderes públicos",
+      "Solo a los jueces",
+      "Solo a las partes"
+    ],
+    "reference": "LOTC 38.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 954,
+    "question": "¿A quién comunica el TC de inmediato su sentencia recaída en una cuestión de inconstitucionalidad?",
+    "answer": "Al órgano judicial que planteó la cuestión",
+    "options": [
+      "Al Consejo de Ministros",
+      "A la Mesa del Senado",
+      "Al órgano judicial que planteó la cuestión",
+      "Al Defensor del Pueblo"
+    ],
+    "reference": "LOTC 38.3",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 955,
+    "question": "¿Puede el TC fundar la inconstitucionalidad en un precepto constitucional no invocado en el proceso?",
+    "answer": "Sí",
+    "options": [
+      "No, solo el invocado",
+      "Solo con permiso del Gobierno",
+      "Solo si lo solicita el Congreso",
+      "Sí"
+    ],
+    "reference": "LOTC 39.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 956,
+    "question": "¿Qué efecto general acompaña a la declaración de inconstitucionalidad de preceptos legales?",
+    "answer": "Su nulidad",
+    "options": [
+      "Su nulidad",
+      "Su suspensión por seis meses",
+      "Su elevación a ley orgánica",
+      "Su remisión al Supremo"
+    ],
+    "reference": "LOTC 39.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 957,
+    "question": "¿Pueden revisarse siempre procesos con sentencia firme tras declararse inconstitucional la ley aplicada?",
+    "answer": "No, salvo excepciones sancionadoras",
+    "options": [
+      "Sí, todos automáticamente",
+      "No, salvo excepciones sancionadoras",
+      "Sí, sin límite temporal",
+      "No, ni siquiera en materia penal"
+    ],
+    "reference": "LOTC 40.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 958,
+    "question": "¿Puede el TC modificar por doctrina la interpretación judicial de una norma examinada?",
+    "answer": "Sí, la jurisprudencia se entiende corregida",
+    "options": [
+      "No, solo el Supremo",
+      "Solo para procesos posteriores a diez años",
+      "Sí, la jurisprudencia se entiende corregida",
+      "Solo en vía penal"
+    ],
+    "reference": "LOTC 40.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 959,
+    "question": "¿Puede inadmitirse la cuestión de inconstitucionalidad por falta de condiciones procesales?",
+    "answer": "Sí, mediante auto motivado",
+    "options": [
+      "No, siempre hay sentencia",
+      "Solo por decreto del Gobierno",
+      "Únicamente si hay unanimidad de las Cámaras",
+      "Sí, mediante auto motivado"
+    ],
+    "reference": "LOTC 37.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 960,
+    "question": "¿La desestimación formal de un recurso impide plantear después una cuestión sobre esa ley?",
+    "answer": "No",
+    "options": [
+      "No",
+      "Sí, en todo caso",
+      "Solo si lo autoriza el Senado",
+      "Solo durante tres años"
+    ],
+    "reference": "LOTC 29.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Control de constitucionalidad",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 961,
+    "question": "¿Qué tramo principal de derechos constitucionales protege el recurso de amparo?",
+    "answer": "Artículos 14 a 29 CE",
+    "options": [
+      "Artículos 1 a 9 CE",
+      "Artículos 14 a 29 CE",
+      "Artículos 31 a 38 CE",
+      "Artículos 140 a 158 CE"
+    ],
+    "reference": "CE 53.2; LOTC 41.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 962,
+    "question": "¿Qué derecho del artículo 30 CE se protege excepcionalmente mediante amparo?",
+    "answer": "La objeción de conciencia",
+    "options": [
+      "El derecho de propiedad",
+      "El derecho al trabajo",
+      "La objeción de conciencia",
+      "El deber de contribuir"
+    ],
+    "reference": "CE 53.2; LOTC 41.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 963,
+    "question": "¿Qué órganos pueden causar vulneraciones recurribles en amparo según la LOTC?",
+    "answer": "Los poderes públicos y sus agentes",
+    "options": [
+      "Solo el Gobierno estatal",
+      "Solo particulares entre sí",
+      "Solo el Tribunal Supremo",
+      "Los poderes públicos y sus agentes"
+    ],
+    "reference": "LOTC 41.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 964,
+    "question": "¿Puede recurrirse en amparo la simple vía de hecho de un poder público?",
+    "answer": "Sí",
+    "options": [
+      "Sí",
+      "No, solo normas escritas",
+      "Solo si es una ley",
+      "Solo ante el Consejo de Estado"
+    ],
+    "reference": "LOTC 41.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 965,
+    "question": "¿Se usa el amparo para reclamar vulneraciones constitucionales distintas de los derechos protegidos por el artículo 53.2?",
+    "answer": "No",
+    "options": [
+      "Sí, cualquiera",
+      "No",
+      "Sí, para discutir tributos en general",
+      "Sí, para cualquier conflicto de competencia"
+    ],
+    "reference": "LOTC 41.3",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 966,
+    "question": "¿Contra qué actos parlamentarios cabe el amparo del artículo 42 LOTC?",
+    "answer": "Actos sin valor de ley",
+    "options": [
+      "Leyes orgánicas",
+      "Proyectos de ley pendientes",
+      "Actos sin valor de ley",
+      "Solo reglamentos del Ejecutivo"
+    ],
+    "reference": "LOTC 42",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 967,
+    "question": "¿Qué condición deben cumplir los actos parlamentarios sin fuerza de ley para poder recurrirse en amparo?",
+    "answer": "Ser firmes conforme a las normas internas",
+    "options": [
+      "Haber sido confirmados por el Gobierno",
+      "Haber sido votados dos veces",
+      "Tener rango reglamentario",
+      "Ser firmes conforme a las normas internas"
+    ],
+    "reference": "LOTC 42",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 968,
+    "question": "¿Qué vía debe agotarse ordinariamente antes del amparo frente a actuaciones administrativas?",
+    "answer": "La vía judicial procedente",
+    "options": [
+      "La vía judicial procedente",
+      "Solo la reclamación al Ministro",
+      "El recurso de inconstitucionalidad",
+      "El trámite ante el Senado"
+    ],
+    "reference": "LOTC 43.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 969,
+    "question": "En el amparo frente a una resolución judicial, ¿debe agotarse la vía judicial previa?",
+    "answer": "Sí",
+    "options": [
+      "No, siempre es directo",
+      "Sí",
+      "Solo si el demandante lo desea",
+      "Solo con permiso del Fiscal"
+    ],
+    "reference": "LOTC 44.1.a",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 970,
+    "question": "¿A quién ha de ser imputable directamente la lesión denunciada en el amparo judicial?",
+    "answer": "Al órgano judicial",
+    "options": [
+      "Al Gobierno",
+      "Al Congreso",
+      "Al órgano judicial",
+      "A una autoridad municipal en todo caso"
+    ],
+    "reference": "LOTC 44.1.b",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 971,
+    "question": "¿Cuándo debe haberse denunciado la vulneración en el proceso judicial previo si hubo oportunidad?",
+    "answer": "Tan pronto como fue conocida",
+    "options": [
+      "Solo al presentar el amparo",
+      "Cinco años después",
+      "Únicamente ante el CGPJ",
+      "Tan pronto como fue conocida"
+    ],
+    "reference": "LOTC 44.1.c",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 972,
+    "question": "¿Quién está legitimado por afectación directa para recurrir actos parlamentarios sin fuerza de ley?",
+    "answer": "La persona directamente afectada",
+    "options": [
+      "La persona directamente afectada",
+      "Cualquier ciudadano sin interés",
+      "Solo el Presidente del Gobierno",
+      "Solo cincuenta diputados"
+    ],
+    "reference": "LOTC 46.1.a",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 973,
+    "question": "¿Quién puede interponer amparo contra actos del Ejecutivo o judiciales tras intervenir en el proceso previo?",
+    "answer": "Quien fue parte en el proceso judicial",
+    "options": [
+      "Solo un senador",
+      "Quien fue parte en el proceso judicial",
+      "Cualquier ciudadano no afectado",
+      "Solo el Rey"
+    ],
+    "reference": "LOTC 46.1.b",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 974,
+    "question": "¿Puede el Ministerio Fiscal interponer un recurso de amparo?",
+    "answer": "Sí",
+    "options": [
+      "No, solo informar",
+      "Solo por delegación del Congreso",
+      "Sí",
+      "Solo por autorización del Tribunal Supremo"
+    ],
+    "reference": "LOTC 46.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 975,
+    "question": "¿Puede el Defensor del Pueblo interponer un recurso de amparo?",
+    "answer": "Sí",
+    "options": [
+      "No, solo de inconstitucionalidad",
+      "Solo si lo pide el Gobierno",
+      "Solo mediante ley orgánica adicional",
+      "Sí"
+    ],
+    "reference": "CE 162.1.b; LOTC 46",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 976,
+    "question": "¿En cuántos procesos de amparo interviene el Ministerio Fiscal?",
+    "answer": "En todos",
+    "options": [
+      "En todos",
+      "Solo en los penales",
+      "Solo en los de origen administrativo",
+      "Solo en los promovidos por el Gobierno"
+    ],
+    "reference": "LOTC 47.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 977,
+    "question": "¿Quién conoce ordinariamente del fondo de los recursos de amparo?",
+    "answer": "Las Salas o, en su caso, las Secciones del TC",
+    "options": [
+      "El Tribunal Supremo",
+      "Las Salas o, en su caso, las Secciones del TC",
+      "La Audiencia Nacional",
+      "El Consejo General del Poder Judicial"
+    ],
+    "reference": "LOTC 48",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 978,
+    "question": "¿Qué documento inicia formalmente el recurso de amparo constitucional?",
+    "answer": "Una demanda",
+    "options": [
+      "Un dictamen vinculante",
+      "Un proyecto de ley",
+      "Una demanda",
+      "Una sentencia"
+    ],
+    "reference": "LOTC 49.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 979,
+    "question": "¿Mediante qué resolución se resuelve el recurso de súplica del Ministerio Fiscal contra la inadmisión del amparo?",
+    "answer": "Auto no susceptible de impugnación",
+    "options": [
+      "Real decreto",
+      "Sentencia del Tribunal Supremo",
+      "Acuerdo de las Cortes",
+      "Auto no susceptible de impugnación"
+    ],
+    "reference": "LOTC 50.3",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 980,
+    "question": "¿Con qué exigencia de voto admite ordinariamente a trámite un amparo la Sección?",
+    "answer": "Unanimidad de sus miembros",
+    "options": [
+      "Unanimidad de sus miembros",
+      "Mayoría simple",
+      "Dos tercios",
+      "Tres quintos"
+    ],
+    "reference": "LOTC 50.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 981,
+    "question": "¿Mediante qué resolución acuerda una Sección la admisión a trámite del recurso de amparo?",
+    "answer": "Providencia",
+    "options": [
+      "Sentencia",
+      "Providencia",
+      "Real decreto",
+      "Ley ordinaria"
+    ],
+    "reference": "LOTC 50.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 982,
+    "question": "¿Cuándo puede una Sala encomendar a una Sección la resolución de un recurso de amparo?",
+    "answer": "Cuando sea aplicable doctrina constitucional consolidada",
+    "options": [
+      "Siempre que lo solicite el Gobierno",
+      "Solo con autorización del Tribunal Supremo",
+      "Cuando sea aplicable doctrina constitucional consolidada",
+      "Cuando concurran dos recursos idénticos del Senado"
+    ],
+    "reference": "LOTC 52.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 983,
+    "question": "¿En cuánto tiempo máximo debe remitir las actuaciones el órgano requerido tras admitirse un amparo?",
+    "answer": "10 días",
+    "options": [
+      "3 días",
+      "15 días",
+      "30 días",
+      "10 días"
+    ],
+    "reference": "LOTC 51.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 984,
+    "question": "¿Cuánto plazo tienen las partes del proceso anterior para comparecer en el amparo tras el emplazamiento?",
+    "answer": "10 días",
+    "options": [
+      "10 días",
+      "2 días",
+      "15 días",
+      "20 días"
+    ],
+    "reference": "LOTC 51.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 985,
+    "question": "¿Cuál es el plazo máximo de vista de las actuaciones para alegaciones en un proceso de amparo?",
+    "answer": "20 días",
+    "options": [
+      "3 días",
+      "20 días",
+      "10 días",
+      "30 días"
+    ],
+    "reference": "LOTC 52.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 986,
+    "question": "¿En qué plazo debe pronunciarse sentencia en amparo desde el día señalado para vista o deliberación?",
+    "answer": "10 días",
+    "options": [
+      "3 días",
+      "15 días",
+      "10 días",
+      "20 días"
+    ],
+    "reference": "LOTC 52.3",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 987,
+    "question": "¿Qué tipo de fallo dicta el TC cuando considera fundada la solicitud de amparo?",
+    "answer": "Otorgamiento del amparo",
+    "options": [
+      "Inadmisión por decreto",
+      "Declaración de competencia territorial",
+      "Convalidación legislativa",
+      "Otorgamiento del amparo"
+    ],
+    "reference": "LOTC 53",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 988,
+    "question": "¿Qué pronunciamiento procede cuando el TC rechaza en el fondo una solicitud de amparo?",
+    "answer": "Denegación del amparo",
+    "options": [
+      "Denegación del amparo",
+      "Derogación de la Constitución",
+      "Declaración de incompetencia del Congreso",
+      "Sanción parlamentaria"
+    ],
+    "reference": "LOTC 53",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 989,
+    "question": "¿Puede una sentencia estimatoria de amparo declarar nulo el acto que lesionó el derecho?",
+    "answer": "Sí",
+    "options": [
+      "No, solo indemnizar",
+      "Sí",
+      "Solo ordenar reformas legislativas",
+      "Solo emitir recomendaciones"
+    ],
+    "reference": "LOTC 55.1.a",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 990,
+    "question": "¿Puede el TC restablecer al recurrente en la integridad del derecho vulnerado?",
+    "answer": "Sí",
+    "options": [
+      "No, solo anular leyes",
+      "Solo si lo consiente el Gobierno",
+      "Sí",
+      "Solo por acuerdo del Supremo"
+    ],
+    "reference": "LOTC 55.1.c",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 991,
+    "question": "Si una Sala advierte que la ley aplicada vulnera derechos fundamentales en un amparo, ¿a qué órgano eleva la cuestión?",
+    "answer": "Al Pleno del TC",
+    "options": [
+      "A la Sala de lo Penal del Supremo",
+      "Al Senado",
+      "Al CGPJ",
+      "Al Pleno del TC"
+    ],
+    "reference": "LOTC 55.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 992,
+    "question": "¿Qué requisito permite suspender excepcionalmente la ejecución impugnada en amparo?",
+    "answer": "Que el perjuicio pueda hacer perder al amparo su finalidad",
+    "options": [
+      "Que el perjuicio pueda hacer perder al amparo su finalidad",
+      "Que lo solicite el Gobierno siempre",
+      "Que la norma sea de cualquier rango",
+      "Que exista una multa económica"
+    ],
+    "reference": "LOTC 56.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 993,
+    "question": "¿La suspensión cautelar de un acto en amparo puede perturbar gravemente derechos fundamentales de terceros?",
+    "answer": "No",
+    "options": [
+      "Sí, siempre",
+      "No",
+      "Sí, aunque carezca de finalidad",
+      "Sí, sin motivación"
+    ],
+    "reference": "LOTC 56.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 994,
+    "question": "¿Cuánto puede durar el trámite común de audiencia del incidente de suspensión cautelar en amparo?",
+    "answer": "Hasta 3 días",
+    "options": [
+      "Hasta 10 días",
+      "Hasta 20 días",
+      "Hasta 3 días",
+      "Hasta 30 días"
+    ],
+    "reference": "LOTC 56.4",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 995,
+    "question": "¿En qué plazo puede impugnarse la suspensión cautelar adoptada por urgencia excepcional junto a la admisión?",
+    "answer": "5 días",
+    "options": [
+      "2 días",
+      "10 días",
+      "30 días",
+      "5 días"
+    ],
+    "reference": "LOTC 56.6",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 996,
+    "question": "¿Puede modificarse durante el proceso la suspensión cautelar por circunstancias sobrevenidas?",
+    "answer": "Sí",
+    "options": [
+      "Sí",
+      "No, es irreversible",
+      "Solo por el Gobierno",
+      "Solo en casos penales"
+    ],
+    "reference": "LOTC 57",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 997,
+    "question": "¿Cuál es el plazo para reclamar indemnización por daños causados por la suspensión o su denegación?",
+    "answer": "1 año",
+    "options": [
+      "3 meses",
+      "1 año",
+      "6 meses",
+      "2 años"
+    ],
+    "reference": "LOTC 58.2",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 998,
+    "question": "¿Qué tribunales resuelven las indemnizaciones por daños derivados de la suspensión de amparo?",
+    "answer": "Los jueces o tribunales ordinarios competentes",
+    "options": [
+      "El Congreso",
+      "El Tribunal de Cuentas",
+      "Los jueces o tribunales ordinarios competentes",
+      "El CGPJ"
+    ],
+    "reference": "LOTC 58.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 2,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 999,
+    "question": "¿Qué actos ejecutivos o administrativos pueden ser objeto de amparo según el artículo 43 LOTC?",
+    "answer": "Disposiciones, actos, omisiones y vías de hecho",
+    "options": [
+      "Solo leyes orgánicas",
+      "Solo sentencias judiciales",
+      "Solo tratados internacionales",
+      "Disposiciones, actos, omisiones y vías de hecho"
+    ],
+    "reference": "LOTC 43.1",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 3,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 1000,
+    "question": "¿Qué excepción de la actuación judicial revisa el TC en el amparo judicial?",
+    "answer": "La vulneración de derechos fundamentales",
+    "options": [
+      "La vulneración de derechos fundamentales",
+      "La corrección de cualquier valoración de la prueba",
+      "El fondo civil sin lesión constitucional",
+      "La oportunidad política de la sentencia"
+    ],
+    "reference": "LOTC 54",
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "difficulty": 1,
+    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
   }
 ]
