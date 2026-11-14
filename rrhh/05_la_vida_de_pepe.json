@@ -1,0 +1,1022 @@
+[
+  {
+    "question": "Pepe supera una oposición y recibe nombramiento legal permanente: ¿qué vínculo tiene?",
+    "answer": "Relación estatutaria",
+    "options": [
+      "Relación estatutaria",
+      "Contrato laboral",
+      "Contrato mercantil",
+      "Encargo externo"
+    ],
+    "reference": "TREBEP 9.1",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 9.1. Relación estatutaria.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe firma contrato escrito para trabajar en un ministerio: ¿qué personal es?",
+    "answer": "Personal laboral",
+    "options": [
+      "Personal laboral",
+      "Funcionario interino",
+      "Funcionario de carrera",
+      "Eventual"
+    ],
+    "reference": "TREBEP 11",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 11. Personal laboral.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe asesora por confianza especial al titular de un órgano: ¿qué personal es?",
+    "answer": "Personal eventual",
+    "options": [
+      "Personal eventual",
+      "Funcionario de carrera",
+      "Interino por vacante",
+      "Laboral fijo"
+    ],
+    "reference": "TREBEP 12",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 12. Personal eventual.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe pretende acceder a un puesto público por amistad con el examinador: ¿qué principio se vulnera?",
+    "answer": "Igualdad en el acceso",
+    "options": [
+      "Igualdad en el acceso",
+      "Jerarquía normativa",
+      "Desconcentración",
+      "Cooperación administrativa"
+    ],
+    "reference": "CE 23.2",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: CE 23.2. Igualdad en el acceso.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe es laboral y le asignan ejercer potestades públicas reservadas: ¿qué debe respetarse?",
+    "answer": "Reserva a funcionarios",
+    "options": [
+      "Reserva a funcionarios",
+      "Libertad de pactos absoluta",
+      "Contrato mercantil",
+      "Antigüedad del eventual"
+    ],
+    "reference": "TREBEP 9.2",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 9.2. Reserva a funcionarios.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe es funcionario local: ¿cuál es su marco normativo?",
+    "answer": "TREBEP y legislación estatal y autonómica aplicable",
+    "options": [
+      "TREBEP y legislación estatal y autonómica aplicable",
+      "Solo TREBEP",
+      "Solo convenio colectivo",
+      "Solo derecho civil"
+    ],
+    "reference": "TREBEP 3",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 3. TREBEP y legislación estatal y autonómica aplicable.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe es policía local: ¿qué normativa específica debe considerarse?",
+    "answer": "Legislación policial además del TREBEP y autonómica",
+    "options": [
+      "Legislación policial además del TREBEP y autonómica",
+      "Solo legislación laboral",
+      "Solo Estatuto de los Trabajadores",
+      "Únicamente la LCSP"
+    ],
+    "reference": "TREBEP 3.2",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 3.2. Legislación policial además del TREBEP y autonómica.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe es personal laboral de Correos: ¿qué normativa señala el art. 5 TREBEP?",
+    "answer": "Legislación laboral y convencional",
+    "options": [
+      "Legislación laboral y convencional",
+      "TREBEP íntegro como funcionario",
+      "Solo régimen de eventual",
+      "Solo reglamento de registro"
+    ],
+    "reference": "TREBEP 5.2",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 5.2. Legislación laboral y convencional.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe es funcionario de universidad pública: ¿está comprendido en el ámbito general?",
+    "answer": "Sí, conforme al artículo 2",
+    "options": [
+      "Sí, conforme al artículo 2",
+      "No, nunca",
+      "Solo si es eventual",
+      "Solo en universidades privadas"
+    ],
+    "reference": "TREBEP 2.1",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 2.1. Sí, conforme al artículo 2.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe es funcionario de justicia con legislación propia: ¿cuándo le resulta aplicable directamente el TREBEP?",
+    "answer": "Cuando así lo prevea su legislación específica",
+    "options": [
+      "Cuando así lo prevea su legislación específica",
+      "Siempre sin excepciones",
+      "Nunca aunque remita la ley",
+      "Cuando lo autorice un ayuntamiento"
+    ],
+    "reference": "TREBEP 4",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 4. Cuando así lo prevea su legislación específica.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe opina que A1 exige siempre un máster mientras A2 exige Grado: ¿es cierto?",
+    "answer": "No; ambos exigen en general Grado",
+    "options": [
+      "No; ambos exigen en general Grado",
+      "Sí; A1 exige doctorado",
+      "Sí; A2 exige ESO",
+      "No; ningún grupo exige titulación"
+    ],
+    "reference": "TREBEP 76",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 76. No; ambos exigen en general Grado.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe tiene un título de Técnico Superior: ¿a qué grupo corresponde ese requisito?",
+    "answer": "Grupo B",
+    "options": [
+      "Grupo B",
+      "A1",
+      "C2",
+      "Agrupaciones profesionales"
+    ],
+    "reference": "TREBEP 76",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 76. Grupo B.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe tiene Bachiller: ¿qué subgrupo establece esa titulación general?",
+    "answer": "C1",
+    "options": [
+      "C1",
+      "C2",
+      "Grupo B",
+      "A1"
+    ],
+    "reference": "TREBEP 76",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 76. C1.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe ha terminado ESO: ¿qué subgrupo requiere esa titulación general?",
+    "answer": "C2",
+    "options": [
+      "C2",
+      "C1",
+      "A2",
+      "Grupo B"
+    ],
+    "reference": "TREBEP 76",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 76. C2.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe pertenecía al antiguo grupo D: ¿cuál es su equivalencia actual?",
+    "answer": "C2",
+    "options": [
+      "C2",
+      "A1",
+      "A2",
+      "B"
+    ],
+    "reference": "TREBEP DT 3",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP DT 3. C2.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe pertenecía al antiguo grupo E: ¿a qué se equipara transitoriamente?",
+    "answer": "Agrupaciones profesionales",
+    "options": [
+      "Agrupaciones profesionales",
+      "A2",
+      "C1",
+      "Grupo B"
+    ],
+    "reference": "TREBEP DT 3",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP DT 3. Agrupaciones profesionales.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe propone crear un cuerpo de funcionarios con una circular: ¿basta?",
+    "answer": "No; requiere ley",
+    "options": [
+      "No; requiere ley",
+      "Sí, basta circular",
+      "Sí, basta nómina",
+      "Sí, basta orden verbal"
+    ],
+    "reference": "TREBEP 75.2",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 75.2. No; requiere ley.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe dice que el directivo es una quinta clase del art. 8 TREBEP: ¿qué sucede?",
+    "answer": "No; el artículo 8 enumera cuatro clases",
+    "options": [
+      "No; el artículo 8 enumera cuatro clases",
+      "Sí; enumera cinco clases",
+      "No; enumera solo dos",
+      "Sí; el eventual no existe"
+    ],
+    "reference": "TREBEP 8 y 13",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 8 y 13. No; el artículo 8 enumera cuatro clases.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe es funcionario de carrera: ¿qué caracteriza su prestación profesional?",
+    "answer": "Permanente y retribuida",
+    "options": [
+      "Permanente y retribuida",
+      "Temporal por confianza",
+      "Mercantil",
+      "Voluntaria sin retribución"
+    ],
+    "reference": "TREBEP 9.1",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 9.1. Permanente y retribuida.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe obtiene un puesto de la AGE en un nuevo cuerpo: ¿qué determina su encuadramiento A1, A2 o C1?",
+    "answer": "Grupo de clasificación del cuerpo o escala",
+    "options": [
+      "Grupo de clasificación del cuerpo o escala",
+      "Su salario anterior",
+      "El nombre de su jefe",
+      "Su dirección postal"
+    ],
+    "reference": "TREBEP 75-76",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 75-76. Grupo de clasificación del cuerpo o escala.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe es nombrado interino por vacante: ¿qué plazo máximo rige con carácter general?",
+    "answer": "Tres años",
+    "options": [
+      "Tres años",
+      "Cinco años",
+      "Nueve meses",
+      "Doce meses"
+    ],
+    "reference": "TREBEP 10.1.a y 10.4",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 10.1.a y 10.4. Tres años.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe sustituye temporalmente a la titular con reserva de puesto: ¿hasta cuándo?",
+    "answer": "Tiempo estrictamente necesario",
+    "options": [
+      "Tiempo estrictamente necesario",
+      "Siempre tres años exactos",
+      "Máximo nueve meses",
+      "Hasta su jubilación propia"
+    ],
+    "reference": "TREBEP 10.1.b",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 10.1.b. Tiempo estrictamente necesario.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe es interino por programa temporal: ¿cuánto dura como máximo en principio?",
+    "answer": "Tres años",
+    "options": [
+      "Tres años",
+      "Seis años",
+      "Nueve meses",
+      "Dieciocho meses"
+    ],
+    "reference": "TREBEP 10.1.c",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 10.1.c. Tres años.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe trabaja en programa de tres años: ¿cuánto puede ampliarse por ley autonómica o estatal de función pública?",
+    "answer": "Hasta doce meses",
+    "options": [
+      "Hasta doce meses",
+      "Hasta cinco años",
+      "Hasta nueve meses dentro de dieciocho",
+      "Sin límite"
+    ],
+    "reference": "TREBEP 10.1.c",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 10.1.c. Hasta doce meses.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe es interino por acumulación de tareas: ¿cuál es el máximo legal?",
+    "answer": "Nueve meses en dieciocho",
+    "options": [
+      "Nueve meses en dieciocho",
+      "Dieciocho en nueve",
+      "Tres años",
+      "Doce años"
+    ],
+    "reference": "TREBEP 10.1.d",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 10.1.d. Nueve meses en dieciocho.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe consumió seis meses por acumulación de tareas dentro del periodo de dieciocho: ¿cuántos quedan por esa causa?",
+    "answer": "Tres meses",
+    "options": [
+      "Tres meses",
+      "Nueve meses nuevos",
+      "Doce meses",
+      "Dieciocho meses"
+    ],
+    "reference": "TREBEP 10.1.d",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 10.1.d. Tres meses.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe, interino, exige convertirse en funcionario de carrera por nombramiento: ¿tiene derecho?",
+    "answer": "No, la interinidad no confiere carrera",
+    "options": [
+      "No, la interinidad no confiere carrera",
+      "Sí desde el primer día",
+      "Sí tras nueve meses",
+      "Sí por un trienio"
+    ],
+    "reference": "TREBEP 10.2",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 10.2. No, la interinidad no confiere carrera.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe participa en selección urgente de interinos: ¿qué principio específico se añade?",
+    "answer": "Celeridad",
+    "options": [
+      "Celeridad",
+      "Secreto",
+      "Discrecionalidad arbitraria",
+      "Libre designación política"
+    ],
+    "reference": "TREBEP 10.2",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 10.2. Celeridad.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe es interino por vacante y toma posesión un funcionario de carrera: ¿qué procede?",
+    "answer": "Cese de oficio",
+    "options": [
+      "Cese de oficio",
+      "Conversión automática en fijo",
+      "Prórroga forzosa",
+      "Acceso automático a A1"
+    ],
+    "reference": "TREBEP 10.3",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 10.3. Cese de oficio.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe cumple tres años como interino por vacante; la convocatoria se publicó antes del límite: ¿puede continuar mientras se resuelve?",
+    "answer": "Sí, por excepción legal",
+    "options": [
+      "Sí, por excepción legal",
+      "Nunca, ni en ese supuesto",
+      "Sí, como laboral fijo automático",
+      "Solo como eventual"
+    ],
+    "reference": "TREBEP 10.4",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 10.4. Sí, por excepción legal.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe prolonga su interinidad por incumplimiento del máximo imputable a la Administración: ¿qué compensación por año prevé la norma?",
+    "answer": "Veinte días de retribuciones fijas",
+    "options": [
+      "Veinte días de retribuciones fijas",
+      "Treinta días de vacaciones",
+      "Dos mensualidades por trimestre",
+      "Una plaza de carrera"
+    ],
+    "reference": "TREBEP DA 17",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP DA 17. Veinte días de retribuciones fijas.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe reúne requisitos de compensación por exceso de temporalidad: ¿cuál es el máximo?",
+    "answer": "Doce mensualidades",
+    "options": [
+      "Doce mensualidades",
+      "Veinticuatro mensualidades",
+      "Cinco mensualidades",
+      "Sin límite alguno"
+    ],
+    "reference": "TREBEP DA 17",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP DA 17. Doce mensualidades.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe renuncia voluntariamente a su interinidad: ¿nace por ello derecho a compensación por exceso de permanencia?",
+    "answer": "No, se excluye por renuncia",
+    "options": [
+      "No, se excluye por renuncia",
+      "Sí, automáticamente",
+      "Sí, sin tope",
+      "Se convierte en fijo"
+    ],
+    "reference": "TREBEP DA 17",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP DA 17. No, se excluye por renuncia.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe cubría una necesidad que ya ha desaparecido: ¿se mantiene su interinidad hasta agotar el nombramiento?",
+    "answer": "No, cesa cuando termina la causa",
+    "options": [
+      "No, cesa cuando termina la causa",
+      "Sí, aunque no exista causa",
+      "Solo al cumplir 65 años",
+      "Pasa a laboral fijo"
+    ],
+    "reference": "TREBEP 10.3",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 10.3. No, cesa cuando termina la causa.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe es laboral temporal contratado irregularmente: ¿adquiere sin más plaza laboral fija?",
+    "answer": "No; puede plantearse indefinido no fijo",
+    "options": [
+      "No; puede plantearse indefinido no fijo",
+      "Sí, sin selección",
+      "Sí, con autorización verbal",
+      "Sí, como funcionario"
+    ],
+    "reference": "Apuntes profesor, personal laboral",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: Apuntes profesor, personal laboral. No; puede plantearse indefinido no fijo.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe participa en selección de laboral temporal por urgencia: ¿qué principio específico debe respetarse?",
+    "answer": "Celeridad",
+    "options": [
+      "Celeridad",
+      "Confidencialidad del temario",
+      "Elección personal del ministro",
+      "Falta de publicidad"
+    ],
+    "reference": "TREBEP 55 y 61",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 55 y 61. Celeridad.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe es eventual y cesa la autoridad a la que asesora: ¿qué ocurre?",
+    "answer": "Cesa también Pepe",
+    "options": [
+      "Cesa también Pepe",
+      "Se convierte en funcionario",
+      "Asciende a A1",
+      "Queda vitaliciamente en el puesto"
+    ],
+    "reference": "TREBEP 12.3",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 12.3. Cesa también Pepe.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe fue eventual y reclama mérito de acceso por esa condición: ¿es válido?",
+    "answer": "No, no constituye mérito",
+    "options": [
+      "No, no constituye mérito",
+      "Sí, da plaza directa",
+      "Sí, exime de examen",
+      "Sí, da antigüedad para carrera automática"
+    ],
+    "reference": "TREBEP 12.4",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 12.4. No, no constituye mérito.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe quiere ocultar el número y las retribuciones de asesores eventuales: ¿qué manda el TREBEP?",
+    "answer": "Deben ser públicos",
+    "options": [
+      "Deben ser públicos",
+      "Deben permanecer secretos",
+      "Solo se conoce al final del mandato",
+      "No hay límite máximo"
+    ],
+    "reference": "TREBEP 12.2",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 12.2. Deben ser públicos.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe es eventual: ¿cómo se produce su nombramiento en términos generales?",
+    "answer": "Libremente",
+    "options": [
+      "Libremente",
+      "Mediante oposición obligatoria",
+      "Por contrato mercantil",
+      "Por sorteo"
+    ],
+    "reference": "TREBEP 12.3",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: TREBEP 12.3. Libremente.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe quiere ser directivo público profesional estatal: ¿qué subgrupo funcionarial se exige en general?",
+    "answer": "A1",
+    "options": [
+      "A1",
+      "A2 siempre",
+      "C1",
+      "C2"
+    ],
+    "reference": "RDL 6/2023 art. 126",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: RDL 6/2023 art. 126. A1.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe concurre a puesto directivo: ¿qué documento debe acompañar a su candidatura?",
+    "answer": "Justificación escrita de idoneidad",
+    "options": [
+      "Justificación escrita de idoneidad",
+      "Renuncia a trienios",
+      "Contrato mercantil",
+      "Nómina de su antiguo jefe"
+    ],
+    "reference": "RDL 6/2023 art. 127",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: RDL 6/2023 art. 127. Justificación escrita de idoneidad.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe solicita un puesto directivo público estatal: ¿qué máximo rige para presentar candidatura?",
+    "answer": "Diez días naturales",
+    "options": [
+      "Diez días naturales",
+      "Veinte días hábiles",
+      "Un trimestre",
+      "Cinco meses"
+    ],
+    "reference": "RDL 6/2023 art. 127",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: RDL 6/2023 art. 127. Diez días naturales.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe recibe nombramiento como directivo estatal: ¿cuál es la duración máxima inicial?",
+    "answer": "Cinco años",
+    "options": [
+      "Cinco años",
+      "Nueve meses",
+      "Tres meses",
+      "Diez años"
+    ],
+    "reference": "RDL 6/2023 art. 127",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: RDL 6/2023 art. 127. Cinco años.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe es cesado como directivo público profesional: ¿qué formalidad exige la norma?",
+    "answer": "Cese motivado",
+    "options": [
+      "Cese motivado",
+      "Cese siempre verbal",
+      "Ratificación judicial previa obligatoria",
+      "Concurso público del cese"
+    ],
+    "reference": "RDL 6/2023 art. 127",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: RDL 6/2023 art. 127. Cese motivado.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe ocupa una subdirección general: ¿qué categoría prevé la norma estatal?",
+    "answer": "Directivo público profesional",
+    "options": [
+      "Directivo público profesional",
+      "Eventual obligatorio",
+      "Personal predirectivo por ser subdirector",
+      "Laboral temporal en todo caso"
+    ],
+    "reference": "RDL 6/2023 art. 123",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: RDL 6/2023 art. 123. Directivo público profesional.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe es funcionario de Gestión destinado en Defensa y cumple un trienio: ¿qué ministerio es referencia para gestión cotidiana?",
+    "answer": "El ministerio de destino",
+    "options": [
+      "El ministerio de destino",
+      "El ministerio de adscripción del cuerpo siempre",
+      "El Tribunal Constitucional",
+      "La FEMP"
+    ],
+    "reference": "Apuntes profesor, competencias",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: Apuntes profesor, competencias. El ministerio de destino.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe está destinado en Defensa pero su cuerpo se adscribe a Función Pública; se convocan plazas del cuerpo: ¿qué ministerio orienta la competencia?",
+    "answer": "El de adscripción del cuerpo",
+    "options": [
+      "El de adscripción del cuerpo",
+      "El de destino de Pepe exclusivamente",
+      "El ayuntamiento",
+      "El organismo pagador de su alquiler"
+    ],
+    "reference": "Apuntes profesor, competencias",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: Apuntes profesor, competencias. El de adscripción del cuerpo.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe trabaja en los servicios centrales de un ministerio: ¿qué órgano dirige ordinariamente servicios comunes y personal?",
+    "answer": "Subsecretario del ministerio",
+    "options": [
+      "Subsecretario del ministerio",
+      "Delegado del Gobierno de otra provincia",
+      "Director del INE",
+      "Presidente del Senado"
+    ],
+    "reference": "Ley 40/2015 art. 63",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: Ley 40/2015 art. 63. Subsecretario del ministerio.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe presta servicios periféricos y se pregunta por competencias de personal atribuidas en ese ámbito: ¿qué figura procede considerar?",
+    "answer": "Delegado del Gobierno",
+    "options": [
+      "Delegado del Gobierno",
+      "Alcalde",
+      "Presidente del Congreso",
+      "Rector de universidad"
+    ],
+    "reference": "Apuntes profesor, competencias",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: Apuntes profesor, competencias. Delegado del Gobierno.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe comienza como funcionario de carrera en la AGE: ¿qué asiento refleja el nacimiento de la relación?",
+    "answer": "Inscripción",
+    "options": [
+      "Inscripción",
+      "Anotación marginal",
+      "Cancelación",
+      "Asiento de nómina sin registro"
+    ],
+    "reference": "Apuntes profesor, RCP",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: Apuntes profesor, RCP. Inscripción.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe ya está inscrito y se le reconoce un trienio: ¿qué asiento procede?",
+    "answer": "Anotación",
+    "options": [
+      "Anotación",
+      "Nueva inscripción cada trienio",
+      "Cancelación del NIP",
+      "Alta en un cuerpo distinto"
+    ],
+    "reference": "Apuntes profesor, RCP",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: Apuntes profesor, RCP. Anotación.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe pasa de C1 a A2: ¿qué identificador personal mantiene?",
+    "answer": "NIP",
+    "options": [
+      "NIP",
+      "Siempre el mismo NRP para todas las relaciones",
+      "NIP de otro funcionario",
+      "Número de inventario"
+    ],
+    "reference": "Apuntes profesor, RCP",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: Apuntes profesor, RCP. NIP.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe cambia de cuerpo y se pregunta si puede tener varios números de registro de personal: ¿qué procede?",
+    "answer": "Sí, puede tener varios NRP",
+    "options": [
+      "Sí, puede tener varios NRP",
+      "No, nunca",
+      "Debe cambiar el DNI",
+      "Pierde necesariamente el NIP"
+    ],
+    "reference": "Apuntes profesor, RCP",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: Apuntes profesor, RCP. Sí, puede tener varios NRP.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe dicta por órgano competente un acto registrable: ¿cuánto tiene el órgano para comunicarlo al RCP?",
+    "answer": "Máximo tres días",
+    "options": [
+      "Máximo tres días",
+      "Quince días hábiles",
+      "Noventa días",
+      "Dos años"
+    ],
+    "reference": "Apuntes profesor, RCP",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: Apuntes profesor, RCP. Máximo tres días.",
+    "format": "inap"
+  },
+  {
+    "question": "El órgano comunica el acto de Pepe al RCP: ¿en qué plazo máximo debe practicar asiento el Registro?",
+    "answer": "Tres días desde recepción",
+    "options": [
+      "Tres días desde recepción",
+      "Un año",
+      "Dieciocho meses",
+      "Nueve meses"
+    ],
+    "reference": "Apuntes profesor, RCP",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: Apuntes profesor, RCP. Tres días desde recepción.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe tiene anotación provisional válida: ¿cuánto dura su plazo inicial?",
+    "answer": "Noventa días naturales",
+    "options": [
+      "Noventa días naturales",
+      "Quince días",
+      "Tres días",
+      "Cinco años"
+    ],
+    "reference": "Apuntes profesor, RCP",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: Apuntes profesor, RCP. Noventa días naturales.",
+    "format": "inap"
+  },
+  {
+    "question": "Se prorroga la anotación provisional de Pepe dentro de las condiciones legales: ¿cuál es la prórroga máxima indicada?",
+    "answer": "Otros noventa días",
+    "options": [
+      "Otros noventa días",
+      "Otros cinco años",
+      "Treinta meses",
+      "Diez días hábiles"
+    ],
+    "reference": "Apuntes profesor, RCP",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: Apuntes profesor, RCP. Otros noventa días.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe quiere trasladar una anotación provisional a nómina: ¿qué advierten los apuntes?",
+    "answer": "No puede incluirse en nómina",
+    "options": [
+      "No puede incluirse en nómina",
+      "Siempre genera nómina",
+      "Da automáticamente trienio",
+      "Sustituye el acto legal"
+    ],
+    "reference": "Apuntes profesor, RCP",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: Apuntes profesor, RCP. No puede incluirse en nómina.",
+    "format": "inap"
+  },
+  {
+    "question": "Pepe detecta un error material en un asiento y se deja constancia explicativa: ¿qué anotación corresponde?",
+    "answer": "Marginal",
+    "options": [
+      "Marginal",
+      "Inscripción inicial",
+      "Provisional obligatoria",
+      "Nombramiento"
+    ],
+    "reference": "Apuntes profesor, RCP",
+    "category": "RRHH",
+    "topic": "La vida de Pepe",
+    "difficulty": 3,
+    "source": "Supuestos de examen elaborados a partir de apuntes profesor y BOE",
+    "explanation": "Fundamento: Apuntes profesor, RCP. Marginal.",
+    "format": "inap"
+  }
+]
