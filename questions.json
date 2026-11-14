@@ -14541,5 +14541,905 @@
     "ce_skill": "Literalidad",
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "La opción correcta coincide con la formulación del artículo 167.1 CE."
+  },
+  {
+    "id": 824,
+    "category": "Tribunal Constitucional",
+    "topic": "Organización y funcionamiento",
+    "reference": "LOTC art. 6",
+    "question": "La LOTC establece que el Tribunal Constitucional actúa:",
+    "answer": "En Pleno, en Sala o en Sección.",
+    "options": [
+      "En Pleno, en Sala o en Sección.",
+      "Únicamente en Pleno.",
+      "Solo en Pleno y en Sala.",
+      "Por Salas y Juntas, sin Secciones."
+    ],
+    "explanation": "El artículo 6 reconoce expresamente el Pleno, las Salas y las Secciones.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 825,
+    "category": "Tribunal Constitucional",
+    "topic": "Organización y funcionamiento",
+    "reference": "LOTC art. 7.1",
+    "question": "¿Cuál es la composición de las Salas del Tribunal Constitucional?",
+    "answer": "Dos Salas de seis magistrados cada una.",
+    "options": [
+      "Tres Salas de cuatro magistrados.",
+      "Dos Salas de seis magistrados cada una.",
+      "Dos Salas de cinco magistrados.",
+      "Una Sala de doce magistrados."
+    ],
+    "explanation": "El TC consta de dos Salas, cada una con seis magistrados.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 826,
+    "category": "Tribunal Constitucional",
+    "topic": "Organización y funcionamiento",
+    "reference": "LOTC art. 8.1",
+    "question": "Una Sección del TC debe pronunciarse sobre la admisión de un asunto. ¿Cómo se compone?",
+    "answer": "Del presidente respectivo o quien le sustituya y dos magistrados.",
+    "options": [
+      "De seis magistrados y el presidente.",
+      "De dos magistrados sin presidente.",
+      "Del presidente respectivo o quien le sustituya y dos magistrados.",
+      "De cuatro magistrados nombrados por el Senado."
+    ],
+    "explanation": "Las Secciones tienen tres integrantes: presidente o sustituto y dos magistrados.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 827,
+    "category": "Tribunal Constitucional",
+    "topic": "Organización y funcionamiento",
+    "reference": "LOTC art. 7.3",
+    "question": "¿Quién preside ordinariamente la Sala Segunda del Tribunal Constitucional?",
+    "answer": "El Vicepresidente del Tribunal Constitucional.",
+    "options": [
+      "El Presidente del Tribunal Supremo.",
+      "El Fiscal General del Estado.",
+      "El magistrado de menor edad.",
+      "El Vicepresidente del Tribunal Constitucional."
+    ],
+    "explanation": "La Sala Segunda es presidida por el Vicepresidente del TC.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 828,
+    "category": "Tribunal Constitucional",
+    "topic": "Organización y funcionamiento",
+    "reference": "LOTC art. 9.2",
+    "question": "En la primera votación para elegir al Presidente del TC, ¿qué mayoría se requiere?",
+    "answer": "Mayoría absoluta.",
+    "options": [
+      "Mayoría absoluta.",
+      "Tres quintos.",
+      "Dos tercios.",
+      "Mayoría simple siempre."
+    ],
+    "explanation": "La primera votación exige mayoría absoluta; en la segunda rige el mayor número de votos.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 829,
+    "category": "Tribunal Constitucional",
+    "topic": "Organización y funcionamiento",
+    "reference": "LOTC art. 9.4",
+    "question": "¿Quién elige al Vicepresidente del Tribunal Constitucional?",
+    "answer": "El Pleno del Tribunal, entre sus miembros.",
+    "options": [
+      "El Rey libremente.",
+      "El Pleno del Tribunal, entre sus miembros.",
+      "El Consejo de Ministros.",
+      "El Presidente del Tribunal Supremo."
+    ],
+    "explanation": "El Pleno lo elige siguiendo el procedimiento previsto para la Presidencia.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 830,
+    "category": "Tribunal Constitucional",
+    "topic": "Nombramiento y estatuto",
+    "reference": "LOTC art. 16.1",
+    "question": "Los magistrados del TC propuestos por el Senado se eligen entre:",
+    "answer": "Las candidaturas presentadas por las Asambleas Legislativas autonómicas.",
+    "options": [
+      "Los candidatos designados por el Consejo General del Poder Judicial.",
+      "Los diputados propuestos por el Congreso.",
+      "Las candidaturas presentadas por las Asambleas Legislativas autonómicas.",
+      "Los miembros del Gobierno en ejercicio."
+    ],
+    "explanation": "La LOTC prevé candidaturas de las Asambleas Legislativas de las comunidades autónomas.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 831,
+    "category": "Tribunal Constitucional",
+    "topic": "Nombramiento y estatuto",
+    "reference": "LOTC art. 16.5",
+    "question": "Un magistrado del TC es sustituido por una vacante no derivada de expiración. ¿Cuánto dura, como regla, el mandato del sustituto?",
+    "answer": "El tiempo restante del mandato de quien produjo la vacante.",
+    "options": [
+      "Nueve años completos en todo caso.",
+      "Tres años exactos.",
+      "Hasta la siguiente legislatura.",
+      "El tiempo restante del mandato de quien produjo la vacante."
+    ],
+    "explanation": "La vacante se cubre por el tiempo que reste al magistrado sustituido, con especialidad por retraso de renovación.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 832,
+    "category": "Tribunal Constitucional",
+    "topic": "Nombramiento y estatuto",
+    "reference": "LOTC art. 16.4",
+    "question": "¿Qué excepción permite proponer a un magistrado del TC para un período inmediato posterior?",
+    "answer": "Que haya ocupado el cargo por un plazo no superior a tres años.",
+    "options": [
+      "Que haya ocupado el cargo por un plazo no superior a tres años.",
+      "Que lo acuerde el Consejo de Ministros por unanimidad.",
+      "Que haya ocupado el cargo por más de seis años.",
+      "Que lo solicite el Defensor del Pueblo."
+    ],
+    "explanation": "Como regla no cabe período inmediato; se exceptúa un ejercicio anterior no superior a tres años.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 833,
+    "category": "Tribunal Constitucional",
+    "topic": "Nombramiento y estatuto",
+    "reference": "LOTC art. 17.2",
+    "question": "Expira el nombramiento de un magistrado del TC, pero su sucesor aún no ha tomado posesión. ¿Qué sucede?",
+    "answer": "Continúa en el ejercicio de sus funciones hasta la toma de posesión del sucesor.",
+    "options": [
+      "Cesa y queda vacante su puesto automáticamente.",
+      "Continúa en el ejercicio de sus funciones hasta la toma de posesión del sucesor.",
+      "Asume interinamente el puesto el Presidente del Senado.",
+      "La competencia pasa al Tribunal Supremo."
+    ],
+    "explanation": "La continuidad de funciones hasta la toma de posesión del sucesor está prevista legalmente.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 834,
+    "category": "Tribunal Constitucional",
+    "topic": "Nombramiento y estatuto",
+    "reference": "LOTC art. 26",
+    "question": "La responsabilidad criminal de un magistrado del Tribunal Constitucional solo será exigible ante:",
+    "answer": "La Sala de lo Penal del Tribunal Supremo.",
+    "options": [
+      "El Pleno del propio Tribunal Constitucional.",
+      "La Sala de lo Penal de la Audiencia Nacional.",
+      "La Sala de lo Penal del Tribunal Supremo.",
+      "El Tribunal Superior de Justicia de Madrid."
+    ],
+    "explanation": "El artículo 26 LOTC atribuye la responsabilidad criminal a la Sala de lo Penal del Supremo.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 835,
+    "category": "Tribunal Constitucional",
+    "topic": "Competencias y control",
+    "reference": "LOTC art. 10.1.d",
+    "question": "¿Qué órgano del TC conoce de los conflictos constitucionales de competencia entre el Estado y las comunidades autónomas?",
+    "answer": "El Pleno.",
+    "options": [
+      "La Sala Primera exclusivamente.",
+      "Las Secciones siempre.",
+      "La Junta Electoral Central.",
+      "El Pleno."
+    ],
+    "explanation": "El artículo 10 atribuye al Pleno los conflictos constitucionales de competencia.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 836,
+    "category": "Tribunal Constitucional",
+    "topic": "Competencias y control",
+    "reference": "LOTC art. 10.1.d bis",
+    "question": "¿A qué órgano se atribuyen los recursos previos de inconstitucionalidad sobre proyectos de Estatutos de Autonomía?",
+    "answer": "Al Pleno del TC.",
+    "options": [
+      "Al Pleno del TC.",
+      "Al Tribunal Supremo.",
+      "A la Sala Segunda de forma exclusiva.",
+      "Al Consejo de Estado."
+    ],
+    "explanation": "La LOTC atribuye expresamente al Pleno el control previo de esos proyectos.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 837,
+    "category": "Tribunal Constitucional",
+    "topic": "Competencias y control",
+    "reference": "LOTC art. 27.2.f",
+    "question": "Un reglamento de una Asamblea Legislativa autonómica es cuestionado por inconstitucionalidad. ¿Qué respuesta es correcta?",
+    "answer": "Es susceptible de declaración de inconstitucionalidad por el TC.",
+    "options": [
+      "Queda inmune a todo control constitucional.",
+      "Es susceptible de declaración de inconstitucionalidad por el TC.",
+      "Solo puede recurrirse si adquiere rango de ley orgánica.",
+      "Debe ser revisado exclusivamente por el Tribunal de Cuentas."
+    ],
+    "explanation": "La LOTC incluye esos reglamentos entre las normas susceptibles de declaración de inconstitucionalidad.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 838,
+    "category": "Tribunal Constitucional",
+    "topic": "Cuestión de inconstitucionalidad",
+    "reference": "LOTC art. 35.2",
+    "question": "Un juez cree que una ley relevante para el fallo es inconstitucional. ¿En qué fase puede plantear la cuestión?",
+    "answer": "Una vez concluso el procedimiento y dentro del plazo para dictar sentencia o resolución procedente.",
+    "options": [
+      "Antes de la admisión de la demanda obligatoriamente.",
+      "Después de dictar sentencia firme únicamente.",
+      "Una vez concluso el procedimiento y dentro del plazo para dictar sentencia o resolución procedente.",
+      "En cualquier fase sin necesidad de que la norma afecte al fallo."
+    ],
+    "explanation": "La cuestión requiere relevancia para el fallo y se plantea una vez concluso el procedimiento.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 839,
+    "category": "Tribunal Constitucional",
+    "topic": "Cuestión de inconstitucionalidad",
+    "reference": "LOTC art. 35.2",
+    "question": "Antes de plantear una cuestión de inconstitucionalidad, ¿qué plazo común e improrrogable de audiencia se concede a las partes y al Ministerio Fiscal?",
+    "answer": "Diez días.",
+    "options": [
+      "Tres días.",
+      "Quince días.",
+      "Treinta días.",
+      "Diez días."
+    ],
+    "explanation": "El órgano judicial oye a partes y Ministerio Fiscal durante diez días comunes e improrrogables.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 840,
+    "category": "Tribunal Constitucional",
+    "topic": "Cuestión de inconstitucionalidad",
+    "reference": "LOTC art. 35.2",
+    "question": "Después de la audiencia sobre una posible cuestión de inconstitucionalidad, ¿cuánto plazo tiene el juez para resolver?",
+    "answer": "Tres días.",
+    "options": [
+      "Tres días.",
+      "Diez días.",
+      "Quince días.",
+      "Veinte días."
+    ],
+    "explanation": "El juez resuelve por auto en los tres días siguientes, sin más trámite.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 841,
+    "category": "Tribunal Constitucional",
+    "topic": "Cuestión de inconstitucionalidad",
+    "reference": "LOTC art. 35.2",
+    "question": "Una parte intenta recurrir el auto que plantea una cuestión de inconstitucionalidad. ¿Qué señala la LOTC?",
+    "answer": "Contra ese auto no cabe recurso de ninguna clase.",
+    "options": [
+      "Cabe apelación ordinaria.",
+      "Contra ese auto no cabe recurso de ninguna clase.",
+      "Cabe recurso de casación directo.",
+      "Cabe reposición en cinco días."
+    ],
+    "explanation": "El auto de planteamiento no es susceptible de recurso.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 842,
+    "category": "Tribunal Constitucional",
+    "topic": "Cuestión de inconstitucionalidad",
+    "reference": "LOTC art. 35.3",
+    "question": "Admitida a trámite una cuestión de inconstitucionalidad, ¿qué ocurre con el proceso judicial de origen?",
+    "answer": "Permanece suspendido hasta que el TC resuelva definitivamente.",
+    "options": [
+      "Continúa hasta la sentencia sin suspensión.",
+      "Se archiva definitivamente.",
+      "Permanece suspendido hasta que el TC resuelva definitivamente.",
+      "El TC asume toda la tramitación del litigio ordinario."
+    ],
+    "explanation": "La suspensión provisional se mantiene, tras la admisión, hasta la resolución definitiva del TC.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 843,
+    "category": "Tribunal Constitucional",
+    "topic": "Efectos de las sentencias",
+    "reference": "LOTC art. 39.1",
+    "question": "Una sentencia del TC declara inconstitucional un precepto de una ley y otro depende directamente de él. ¿Qué puede hacer el TC?",
+    "answer": "Extender la nulidad a otros preceptos de esa ley por conexión o consecuencia.",
+    "options": [
+      "Anular únicamente el precepto recurrido en todo caso.",
+      "Transformar la ley en reglamento.",
+      "Declarar la nulidad solo tras autorización del Senado.",
+      "Extender la nulidad a otros preceptos de esa ley por conexión o consecuencia."
+    ],
+    "explanation": "El artículo 39.1 permite extender la nulidad a preceptos conectados de la misma norma.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 844,
+    "category": "Tribunal Constitucional",
+    "topic": "Efectos de las sentencias",
+    "reference": "LOTC art. 40.1",
+    "question": "La anulación de una norma penal aplicada en sentencia firme permitiría reducir la pena. ¿Qué prevé la LOTC?",
+    "answer": "Una excepción que permite revisar el proceso firme en ese supuesto.",
+    "options": [
+      "Una excepción que permite revisar el proceso firme en ese supuesto.",
+      "Prohibición absoluta de revisar cualquier sentencia firme.",
+      "La agravación automática de la condena.",
+      "Revisión solo mediante referéndum."
+    ],
+    "explanation": "La excepción protege al condenado cuando la declaración de inconstitucionalidad reduce la pena o responsabilidad.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 845,
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "reference": "LOTC art. 49.1",
+    "question": "Una demanda de amparo cita el derecho vulnerado, pero omite justificar su especial trascendencia constitucional. ¿Qué requisito falta?",
+    "answer": "La justificación de la especial trascendencia constitucional.",
+    "options": [
+      "La aprobación del Senado.",
+      "La justificación de la especial trascendencia constitucional.",
+      "El dictamen favorable del Consejo de Estado.",
+      "La solicitud previa de indulto."
+    ],
+    "explanation": "La especial trascendencia constitucional debe justificarse en toda demanda de amparo.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 846,
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "reference": "LOTC art. 50.2",
+    "question": "Una Sección vota a favor de admitir un amparo por mayoría, pero sin unanimidad. ¿Qué procede?",
+    "answer": "Trasladar la decisión a la Sala respectiva.",
+    "options": [
+      "Admitirlo automáticamente por mayoría.",
+      "Inadmitirlo irrevocablemente.",
+      "Trasladar la decisión a la Sala respectiva.",
+      "Remitirlo al Tribunal Supremo."
+    ],
+    "explanation": "La admisión en Sección exige unanimidad; de faltar, resuelve la Sala.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 847,
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "reference": "LOTC art. 50.3",
+    "question": "¿Quién puede recurrir en súplica la providencia de inadmisión de amparo y en qué plazo?",
+    "answer": "El Ministerio Fiscal, en tres días.",
+    "options": [
+      "El recurrente, en treinta días.",
+      "El Defensor del Pueblo exclusivamente, en diez días.",
+      "El Abogado del Estado exclusivamente, en quince días.",
+      "El Ministerio Fiscal, en tres días."
+    ],
+    "explanation": "La LOTC reserva al Ministerio Fiscal el recurso de súplica, dentro de tres días.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 848,
+    "category": "Tribunal Constitucional",
+    "topic": "Recurso de amparo",
+    "reference": "LOTC art. 56.1-2",
+    "question": "¿Qué efecto produce, por regla general, la mera interposición del recurso de amparo sobre el acto recurrido?",
+    "answer": "No suspende automáticamente los efectos del acto o sentencia.",
+    "options": [
+      "No suspende automáticamente los efectos del acto o sentencia.",
+      "Suspende siempre de forma inmediata.",
+      "Anula de oficio el acto recurrido.",
+      "Impide que el TC acuerde medidas cautelares."
+    ],
+    "explanation": "La suspensión exige una decisión específica y está sometida a requisitos legales.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 849,
+    "category": "Constitución",
+    "topic": "Garantías constitucionales",
+    "reference": "CE art. 53.2",
+    "question": "¿Qué derechos comprende la protección constitucional mediante recurso de amparo?",
+    "answer": "Los del artículo 14, la Sección primera del Capítulo II y la objeción de conciencia del artículo 30.",
+    "options": [
+      "Todos los principios rectores sin distinción.",
+      "Los del artículo 14, la Sección primera del Capítulo II y la objeción de conciencia del artículo 30.",
+      "Únicamente los derechos de sufragio.",
+      "Solo los derechos del Título VIII."
+    ],
+    "explanation": "El artículo 53.2 precisa el ámbito del amparo constitucional.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 850,
+    "category": "Constitución",
+    "topic": "Garantías constitucionales",
+    "reference": "CE art. 53.3",
+    "question": "¿Cuándo pueden alegarse ante la jurisdicción ordinaria los principios rectores del Capítulo III del Título I?",
+    "answer": "De acuerdo con lo dispuesto en las leyes que los desarrollen.",
+    "options": [
+      "Siempre directamente mediante recurso de amparo.",
+      "Nunca, ni siquiera si una ley los desarrolla.",
+      "De acuerdo con lo dispuesto en las leyes que los desarrollen.",
+      "Solo tras autorización del Tribunal Supremo."
+    ],
+    "explanation": "La alegación judicial de principios rectores requiere atender a sus leyes de desarrollo.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 851,
+    "category": "Constitución",
+    "topic": "Garantías constitucionales",
+    "reference": "CE art. 55.1",
+    "question": "Respecto de la suspensión general de derechos, ¿qué estado no aparece entre los previstos por el artículo 55.1 CE?",
+    "answer": "El estado de alarma.",
+    "options": [
+      "El estado de excepción.",
+      "El estado de sitio.",
+      "El estado de excepción cuando proceda conforme a la Constitución.",
+      "El estado de alarma."
+    ],
+    "explanation": "El artículo 55.1 menciona excepción y sitio, no la mera declaración de alarma.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 852,
+    "category": "Constitución",
+    "topic": "Elaboración de las leyes",
+    "reference": "CE art. 81.2",
+    "question": "En la votación final sobre el conjunto de un proyecto de ley orgánica, ¿qué mayoría exige la Constitución en el Congreso?",
+    "answer": "Mayoría absoluta.",
+    "options": [
+      "Mayoría absoluta.",
+      "Mayoría simple.",
+      "Tres quintos.",
+      "Dos tercios."
+    ],
+    "explanation": "La mayoría absoluta del Congreso en votación final sobre el conjunto es exigencia del artículo 81.2.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 853,
+    "category": "Constitución",
+    "topic": "Elaboración de las leyes",
+    "reference": "CE art. 82.2",
+    "question": "¿Qué instrumento se utiliza para delegar en el Gobierno la aprobación de un texto articulado?",
+    "answer": "Una ley de bases.",
+    "options": [
+      "Una ley ordinaria de refundición.",
+      "Una ley de bases.",
+      "Una orden ministerial.",
+      "Un real decreto reglamentario."
+    ],
+    "explanation": "La delegación para textos articulados se confiere por ley de bases.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 854,
+    "category": "Constitución",
+    "topic": "Elaboración de las leyes",
+    "reference": "CE art. 82.2",
+    "question": "Se pretende que el Gobierno refunda varios textos legales en uno solo. ¿Qué instrumento de delegación procede?",
+    "answer": "Una ley ordinaria.",
+    "options": [
+      "Una orden ministerial.",
+      "Una ley de bases para texto articulado, necesariamente.",
+      "Una ley ordinaria.",
+      "Un acuerdo del Consejo de Estado."
+    ],
+    "explanation": "Para refundir textos la delegación legislativa se otorga mediante ley ordinaria.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 855,
+    "category": "Constitución",
+    "topic": "Elaboración de las leyes",
+    "reference": "CE art. 82.3",
+    "question": "Una ley delega en el Gobierno la potestad legislativa y le permite subdelegarla en un ministro. ¿Qué defecto presenta?",
+    "answer": "La delegación no puede permitir subdelegación a autoridades distintas del Gobierno.",
+    "options": [
+      "La delegación debe ser implícita y sin plazo.",
+      "La potestad delegada corresponde siempre al Senado.",
+      "La delegación solo puede recaer sobre leyes orgánicas.",
+      "La delegación no puede permitir subdelegación a autoridades distintas del Gobierno."
+    ],
+    "explanation": "La Constitución exige delegación expresa, temporal y sin subdelegación distinta del Gobierno.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 856,
+    "category": "Constitución",
+    "topic": "Elaboración de las leyes",
+    "reference": "CE art. 83.b",
+    "question": "Una ley de bases autoriza al Gobierno a dictar normas retroactivas. ¿Qué dispone la Constitución?",
+    "answer": "Las leyes de bases no pueden facultar para dictar normas con carácter retroactivo.",
+    "options": [
+      "Las leyes de bases no pueden facultar para dictar normas con carácter retroactivo.",
+      "La retroactividad debe ser acordada por el Senado.",
+      "La autorización es válida si se aprueba por mayoría simple.",
+      "Las leyes de bases pueden ser modificadas libremente por el Gobierno."
+    ],
+    "explanation": "El artículo 83 prohíbe autorizar normas retroactivas mediante ley de bases.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 857,
+    "category": "Constitución",
+    "topic": "Elaboración de las leyes",
+    "reference": "CE art. 86.2",
+    "question": "Un decreto-ley se promulga por extraordinaria y urgente necesidad. ¿Ante qué Cámara debe someterse a debate y votación de totalidad en treinta días?",
+    "answer": "El Congreso de los Diputados.",
+    "options": [
+      "El Senado.",
+      "El Congreso de los Diputados.",
+      "Una comisión mixta de ambas Cámaras.",
+      "El Tribunal Constitucional."
+    ],
+    "explanation": "Corresponde al Congreso pronunciarse sobre convalidación o derogación dentro de treinta días.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 858,
+    "category": "Constitución",
+    "topic": "Elaboración de las leyes",
+    "reference": "CE art. 87.3",
+    "question": "Una iniciativa legislativa popular reúne 600.000 firmas para modificar una norma tributaria. ¿Qué respuesta es correcta?",
+    "answer": "La iniciativa popular está excluida en materias tributarias.",
+    "options": [
+      "Es admisible por superar 500.000 firmas.",
+      "Solo requiere aprobación del Senado.",
+      "La iniciativa popular está excluida en materias tributarias.",
+      "Necesita elevar el número de firmas a 750.000."
+    ],
+    "explanation": "La exclusión tributaria se aplica aunque se haya alcanzado el mínimo de firmas.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 859,
+    "category": "Constitución",
+    "topic": "Elaboración de las leyes",
+    "reference": "CE art. 90.2",
+    "question": "¿Qué mayoría necesita el Senado para oponer un veto a un proyecto de ley aprobado por el Congreso?",
+    "answer": "Mayoría absoluta.",
+    "options": [
+      "Mayoría simple.",
+      "Dos tercios.",
+      "Unanimidad.",
+      "Mayoría absoluta."
+    ],
+    "explanation": "El veto senatorial exige mayoría absoluta.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 860,
+    "category": "Constitución",
+    "topic": "Elaboración de las leyes",
+    "reference": "CE art. 90.2",
+    "question": "Transcurridos dos meses desde la interposición del veto del Senado, ¿qué mayoría puede utilizar el Congreso para ratificar su texto inicial?",
+    "answer": "Mayoría simple.",
+    "options": [
+      "Mayoría simple.",
+      "Mayoría absoluta necesariamente.",
+      "Dos tercios.",
+      "Tres quintos."
+    ],
+    "explanation": "El Congreso puede levantar el veto por mayoría simple una vez transcurridos dos meses desde su interposición.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 861,
+    "category": "Constitución",
+    "topic": "Elaboración de las leyes",
+    "reference": "CE art. 90.3",
+    "question": "Un proyecto de ley es declarado urgente por el Gobierno o el Congreso. ¿Qué plazo tiene el Senado para vetar o enmendar?",
+    "answer": "Veinte días naturales.",
+    "options": [
+      "Quince días hábiles.",
+      "Veinte días naturales.",
+      "Dos meses.",
+      "Treinta días hábiles."
+    ],
+    "explanation": "En urgencia el plazo senatorial pasa de dos meses a veinte días naturales.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 862,
+    "category": "Constitución",
+    "topic": "Elaboración de las leyes",
+    "reference": "CE art. 91",
+    "question": "¿En qué plazo sancionará el Rey las leyes aprobadas por las Cortes Generales?",
+    "answer": "Quince días.",
+    "options": [
+      "Diez días.",
+      "Treinta días.",
+      "Quince días.",
+      "Dos meses."
+    ],
+    "explanation": "La sanción real debe producirse en quince días, seguida de promulgación y publicación inmediata.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 863,
+    "category": "Constitución",
+    "topic": "Referéndum y participación",
+    "reference": "CE art. 92.2",
+    "question": "¿Quién debe autorizar previamente un referéndum consultivo de especial trascendencia política propuesto por el Presidente del Gobierno?",
+    "answer": "El Congreso de los Diputados.",
+    "options": [
+      "El Senado.",
+      "El Consejo General del Poder Judicial.",
+      "El Tribunal Constitucional.",
+      "El Congreso de los Diputados."
+    ],
+    "explanation": "El Rey convoca el referéndum a propuesta del Presidente, previa autorización del Congreso.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 864,
+    "category": "Constitución",
+    "topic": "Gobierno y control parlamentario",
+    "reference": "CE art. 99.3",
+    "question": "Un candidato no logra mayoría absoluta en primera votación de investidura. ¿Qué regla rige la segunda votación?",
+    "answer": "Se celebra cuarenta y ocho horas después y basta mayoría simple.",
+    "options": [
+      "Se celebra cuarenta y ocho horas después y basta mayoría simple.",
+      "Se celebra veinticuatro horas después y exige mayoría absoluta.",
+      "Se celebra a los cinco días y exige tres quintos.",
+      "Se celebra a los diez días y requiere dos tercios."
+    ],
+    "explanation": "La Constitución dispone segunda votación tras 48 horas, suficiente por mayoría simple.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 865,
+    "category": "Constitución",
+    "topic": "Gobierno y control parlamentario",
+    "reference": "CE art. 99.5",
+    "question": "Transcurren dos meses desde la primera votación de investidura sin que ningún candidato obtenga la confianza del Congreso. ¿Qué procede?",
+    "answer": "El Rey disuelve ambas Cámaras y convoca elecciones con refrendo del Presidente del Congreso.",
+    "options": [
+      "El candidato más votado queda investido.",
+      "El Rey disuelve ambas Cámaras y convoca elecciones con refrendo del Presidente del Congreso.",
+      "El Senado designa al Presidente.",
+      "Se repite la votación indefinidamente sin disolución."
+    ],
+    "explanation": "El plazo de dos meses comienza en la primera votación de investidura.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 866,
+    "category": "Constitución",
+    "topic": "Gobierno y control parlamentario",
+    "reference": "CE art. 112",
+    "question": "¿Qué mayoría precisa la cuestión de confianza planteada por el Presidente del Gobierno ante el Congreso?",
+    "answer": "Mayoría simple de los diputados.",
+    "options": [
+      "Mayoría absoluta de diputados y senadores.",
+      "Tres quintos del Congreso.",
+      "Mayoría simple de los diputados.",
+      "Mayoría absoluta del Senado."
+    ],
+    "explanation": "La cuestión de confianza se entiende otorgada por mayoría simple del Congreso.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 867,
+    "category": "Constitución",
+    "topic": "Gobierno y control parlamentario",
+    "reference": "CE art. 113.2",
+    "question": "Para presentar una moción de censura constitucionalmente válida, ¿qué exige el artículo 113?",
+    "answer": "Al menos una décima parte de los diputados y un candidato a la Presidencia.",
+    "options": [
+      "Un tercio de senadores y ningún candidato.",
+      "Mayoría simple del Consejo de Ministros.",
+      "La firma del Rey y del Presidente del Congreso.",
+      "Al menos una décima parte de los diputados y un candidato a la Presidencia."
+    ],
+    "explanation": "La moción es constructiva y debe reunir firmas de al menos una décima parte de los diputados.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 868,
+    "category": "Constitución",
+    "topic": "Gobierno y control parlamentario",
+    "reference": "CE art. 113.3",
+    "question": "Una moción de censura se presenta en el Congreso. ¿Qué regla temporal se aplica?",
+    "answer": "No puede votarse hasta pasados cinco días y caben alternativas en los dos primeros.",
+    "options": [
+      "No puede votarse hasta pasados cinco días y caben alternativas en los dos primeros.",
+      "Debe votarse el mismo día y no caben alternativas.",
+      "Debe votarse en cuarenta y ocho horas.",
+      "Se vota a los treinta días y caben alternativas durante todo el mes."
+    ],
+    "explanation": "El artículo 113.3 fija cinco días antes de votar y dos primeros días para mociones alternativas.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 869,
+    "category": "Constitución",
+    "topic": "Gobierno y control parlamentario",
+    "reference": "CE art. 115.2",
+    "question": "Mientras se tramita una moción de censura, ¿puede presentarse una propuesta de disolución de las Cámaras?",
+    "answer": "No, la Constitución lo impide.",
+    "options": [
+      "Sí, sin ninguna limitación.",
+      "No, la Constitución lo impide.",
+      "Sí, con el consentimiento del Senado.",
+      "Solo si lo autoriza el Consejo de Estado."
+    ],
+    "explanation": "La propuesta de disolución está prohibida durante la tramitación de una moción de censura.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 870,
+    "category": "Constitución",
+    "topic": "Estados excepcionales",
+    "reference": "CE art. 116.2",
+    "question": "¿Qué duración máxima inicial tiene el estado de alarma declarado por el Gobierno, sin prórroga autorizada por el Congreso?",
+    "answer": "Quince días.",
+    "options": [
+      "Treinta días.",
+      "Sesenta días.",
+      "Quince días.",
+      "Cinco días."
+    ],
+    "explanation": "La prórroga del estado de alarma requiere autorización parlamentaria.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 871,
+    "category": "Constitución",
+    "topic": "Estados excepcionales",
+    "reference": "CE art. 116.3",
+    "question": "¿Cómo se declara constitucionalmente el estado de excepción?",
+    "answer": "Por el Gobierno, previa autorización del Congreso, por hasta treinta días prorrogables por otro plazo igual.",
+    "options": [
+      "Por el Gobierno sin intervención parlamentaria durante sesenta días.",
+      "Por mayoría absoluta del Senado, a propuesta del Rey.",
+      "Por acuerdo del Tribunal Constitucional durante quince días.",
+      "Por el Gobierno, previa autorización del Congreso, por hasta treinta días prorrogables por otro plazo igual."
+    ],
+    "explanation": "La autorización del Congreso es previa y la duración máxima inicial es de treinta días.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 872,
+    "category": "Constitución",
+    "topic": "Estados excepcionales",
+    "reference": "CE art. 116.4",
+    "question": "¿Quién declara el estado de sitio y por qué mayoría?",
+    "answer": "El Congreso por mayoría absoluta, a propuesta exclusiva del Gobierno.",
+    "options": [
+      "El Congreso por mayoría absoluta, a propuesta exclusiva del Gobierno.",
+      "El Gobierno por mayoría simple.",
+      "El Senado por mayoría absoluta.",
+      "El Rey a propuesta del Defensor del Pueblo."
+    ],
+    "explanation": "El estado de sitio corresponde al Congreso y requiere mayoría absoluta.",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
+  },
+  {
+    "id": 873,
+    "category": "Constitución",
+    "topic": "Organización territorial",
+    "reference": "CE art. 150.1",
+    "question": "Las Cortes autorizan a una comunidad autónoma a dictar normas legislativas en materias estatales, dentro de principios fijados por ley estatal. ¿Qué figura es?",
+    "answer": "Ley marco.",
+    "options": [
+      "Ley de armonización.",
+      "Ley marco.",
+      "Decreto-ley autonómico.",
+      "Reglamento de delegación."
+    ],
+    "explanation": "Las leyes marco pueden atribuir facultades normativas autonómicas dentro de principios, bases y directrices estatales.",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)"
   }
 ]
