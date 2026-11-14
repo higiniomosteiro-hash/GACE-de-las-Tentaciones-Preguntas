@@ -17498,5 +17498,2273 @@
     "topic": "Recurso de amparo",
     "difficulty": 1,
     "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+  },
+  {
+    "id": 1001,
+    "question": "¿En qué fecha se aprobó la Ley de Contratos del Sector Público?",
+    "answer": "8 de noviembre de 2017",
+    "options": [
+      "8 de noviembre de 2017",
+      "8 de octubre de 2017",
+      "9 de diciembre de 2017",
+      "9 de noviembre de 2017"
+    ],
+    "reference": "LCSP, encabezamiento",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "No hay que confundir la fecha de aprobación con la de publicación en BOE (9 de noviembre).",
+    "format": "memoria"
+  },
+  {
+    "id": 1002,
+    "question": "La norma general de contratación pública vigente que estudia el tema es la Ley 9/2017. ¿De qué fecha es?",
+    "answer": "8 de noviembre de 2017",
+    "options": [
+      "8 de noviembre de 2017",
+      "9 de noviembre de 2017",
+      "9 de diciembre de 2017",
+      "8 de octubre de 2017"
+    ],
+    "reference": "LCSP, encabezamiento",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "No hay que confundir la fecha de aprobación con la de publicación en BOE (9 de noviembre).",
+    "format": "inap"
+  },
+  {
+    "id": 1003,
+    "question": "¿Qué dos Directivas transpone directamente la LCSP 9/2017?",
+    "answer": "2014/23/UE y 2014/24/UE",
+    "options": [
+      "2014/23/UE y 2014/24/UE",
+      "2014/24/UE y 2014/25/UE",
+      "2004/18/CE y 2014/25/UE",
+      "2014/18/UE y 2014/23/UE"
+    ],
+    "reference": "Preámbulo LCSP",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La 2014/25/UE pertenece al paquete, pero no es una de las dos directamente transpuestas por la LCSP.",
+    "format": "memoria"
+  },
+  {
+    "id": 1004,
+    "question": "La LCSP declara en su preámbulo que incorpora al Derecho español dos Directivas de 2014. ¿Cuáles?",
+    "answer": "2014/23/UE y 2014/24/UE",
+    "options": [
+      "2014/24/UE y 2014/25/UE",
+      "2004/18/CE y 2014/25/UE",
+      "2014/23/UE y 2014/24/UE",
+      "2014/18/UE y 2014/23/UE"
+    ],
+    "reference": "Preámbulo LCSP",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La 2014/25/UE pertenece al paquete, pero no es una de las dos directamente transpuestas por la LCSP.",
+    "format": "inap"
+  },
+  {
+    "id": 1005,
+    "question": "¿Cuántos libros tiene la LCSP después del título preliminar?",
+    "answer": "4",
+    "options": [
+      "6",
+      "5",
+      "3",
+      "4"
+    ],
+    "reference": "Preámbulo LCSP",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Los cuatro libros abarcan estructura, contratación de AAPP, otros entes y organización administrativa.",
+    "format": "memoria"
+  },
+  {
+    "id": 1006,
+    "question": "Al describir la estructura de la Ley 9/2017, ¿cuántos libros siguen al título preliminar?",
+    "answer": "4",
+    "options": [
+      "4",
+      "6",
+      "3",
+      "5"
+    ],
+    "reference": "Preámbulo LCSP",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Los cuatro libros abarcan estructura, contratación de AAPP, otros entes y organización administrativa.",
+    "format": "inap"
+  },
+  {
+    "id": 1007,
+    "question": "¿Qué estrategia de la UE impulsó los objetivos de contratación de la LCSP?",
+    "answer": "Europa 2020",
+    "options": [
+      "Horizonte Europa 2040",
+      "Europa 2030",
+      "Europa 2020",
+      "Agenda de Lisboa 1986"
+    ],
+    "reference": "Preámbulo LCSP",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La LCSP se enmarca en la estrategia Europa 2020.",
+    "format": "memoria"
+  },
+  {
+    "id": 1008,
+    "question": "La modernización europea de la contratación pública se vinculó con una estrategia de crecimiento inteligente, sostenible e integrador. Identifíquela.",
+    "answer": "Europa 2020",
+    "options": [
+      "Europa 2020",
+      "Agenda de Lisboa 1986",
+      "Europa 2030",
+      "Horizonte Europa 2040"
+    ],
+    "reference": "Preámbulo LCSP",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La LCSP se enmarca en la estrategia Europa 2020.",
+    "format": "inap"
+  },
+  {
+    "id": 1009,
+    "question": "¿Qué artículo de la LCSP regula su objeto y finalidad?",
+    "answer": "Artículo 1",
+    "options": [
+      "Artículo 12",
+      "Artículo 1",
+      "Artículo 29",
+      "Artículo 63"
+    ],
+    "reference": "LCSP art. 1",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El artículo 1 recoge objeto, finalidad y principios.",
+    "format": "memoria"
+  },
+  {
+    "id": 1010,
+    "question": "¿Dónde se enuncian los principios de libertad de acceso, publicidad, transparencia e integridad de la contratación?",
+    "answer": "Artículo 1",
+    "options": [
+      "Artículo 1",
+      "Artículo 29",
+      "Artículo 63",
+      "Artículo 12"
+    ],
+    "reference": "LCSP art. 1",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El artículo 1 recoge objeto, finalidad y principios.",
+    "format": "inap"
+  },
+  {
+    "id": 1011,
+    "question": "¿Qué valor prima en la selección de la oferta según el artículo 1 LCSP?",
+    "answer": "La oferta económicamente más ventajosa",
+    "options": [
+      "La oferta económicamente más ventajosa",
+      "La oferta de la empresa con más trabajadores",
+      "La oferta de menor precio en todo caso",
+      "La oferta presentada antes"
+    ],
+    "reference": "LCSP art. 1.1",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El precio más bajo no constituye por sí solo la regla general.",
+    "format": "memoria"
+  },
+  {
+    "id": 1012,
+    "question": "Señale el criterio de selección que expresa la LCSP en su artículo 1, sin identificarlo necesariamente con la menor oferta económica.",
+    "answer": "La oferta económicamente más ventajosa",
+    "options": [
+      "La oferta de menor precio en todo caso",
+      "La oferta de la empresa con más trabajadores",
+      "La oferta económicamente más ventajosa",
+      "La oferta presentada antes"
+    ],
+    "reference": "LCSP art. 1.1",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El precio más bajo no constituye por sí solo la regla general.",
+    "format": "inap"
+  },
+  {
+    "id": 1013,
+    "question": "¿Cuándo es oneroso un contrato según el artículo 2 LCSP?",
+    "answer": "Es oneroso aunque el beneficio sea indirecto",
+    "options": [
+      "Solo es oneroso si hay pago directo",
+      "Es oneroso aunque el beneficio sea indirecto",
+      "Es necesariamente una subvención y no contrato",
+      "No es oneroso si no existe beneficio inmediato"
+    ],
+    "reference": "LCSP art. 2.1",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Basta un beneficio económico directo o indirecto del contratista.",
+    "format": "memoria"
+  },
+  {
+    "id": 1014,
+    "question": "Una entidad pública contrata un servicio que reporta al empresario un beneficio indirecto. ¿Qué calificación corresponde por ese motivo?",
+    "answer": "Es oneroso aunque el beneficio sea indirecto",
+    "options": [
+      "Es oneroso aunque el beneficio sea indirecto",
+      "Solo es oneroso si hay pago directo",
+      "No es oneroso si no existe beneficio inmediato",
+      "Es necesariamente una subvención y no contrato"
+    ],
+    "reference": "LCSP art. 2.1",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Basta un beneficio económico directo o indirecto del contratista.",
+    "format": "inap"
+  },
+  {
+    "id": 1015,
+    "question": "¿Qué sistema se utiliza para identificar las prestaciones contractuales?",
+    "answer": "CPV",
+    "options": [
+      "NIF",
+      "DIR3 exclusivamente",
+      "CPV",
+      "CNAE exclusivamente"
+    ],
+    "reference": "LCSP art. 2.4",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El Vocabulario Común de Contratos Públicos se abrevia CPV.",
+    "format": "memoria"
+  },
+  {
+    "id": 1016,
+    "question": "La LCSP exige identificar las prestaciones objeto del contrato mediante una nomenclatura común. ¿Cuál?",
+    "answer": "CPV",
+    "options": [
+      "CNAE exclusivamente",
+      "NIF",
+      "CPV",
+      "DIR3 exclusivamente"
+    ],
+    "reference": "LCSP art. 2.4",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El Vocabulario Común de Contratos Públicos se abrevia CPV.",
+    "format": "inap"
+  },
+  {
+    "id": 1017,
+    "question": "¿Qué círculo engloba a los otros dos en el ámbito subjetivo LCSP?",
+    "answer": "Sector público",
+    "options": [
+      "Sector público",
+      "Órganos de contratación estatales",
+      "Poderes adjudicadores",
+      "Administraciones públicas"
+    ],
+    "reference": "LCSP art. 3",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Todas las AAPP son poderes adjudicadores y todos los poderes adjudicadores están en el sector público, no a la inversa.",
+    "format": "memoria"
+  },
+  {
+    "id": 1018,
+    "question": "Dentro del esquema Administración pública, poder adjudicador y sector público, ¿cuál es el conjunto más amplio?",
+    "answer": "Sector público",
+    "options": [
+      "Órganos de contratación estatales",
+      "Administraciones públicas",
+      "Sector público",
+      "Poderes adjudicadores"
+    ],
+    "reference": "LCSP art. 3",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Todas las AAPP son poderes adjudicadores y todos los poderes adjudicadores están en el sector público, no a la inversa.",
+    "format": "inap"
+  },
+  {
+    "id": 1019,
+    "question": "¿Qué condición ostenta necesariamente un ayuntamiento según la LCSP?",
+    "answer": "Es AAPP, poder adjudicador y sector público",
+    "options": [
+      "Es solo sector público, pero no poder adjudicador",
+      "Está fuera del ámbito subjetivo de la LCSP",
+      "Es AAPP, poder adjudicador y sector público",
+      "Es poder adjudicador, pero nunca AAPP"
+    ],
+    "reference": "LCSP art. 3",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Las entidades locales están incluidas entre las Administraciones públicas.",
+    "format": "memoria"
+  },
+  {
+    "id": 1020,
+    "question": "Un municipio celebra un contrato. ¿Qué afirmación describe correctamente su posición en el artículo 3?",
+    "answer": "Es AAPP, poder adjudicador y sector público",
+    "options": [
+      "Es solo sector público, pero no poder adjudicador",
+      "Está fuera del ámbito subjetivo de la LCSP",
+      "Es AAPP, poder adjudicador y sector público",
+      "Es poder adjudicador, pero nunca AAPP"
+    ],
+    "reference": "LCSP art. 3",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Las entidades locales están incluidas entre las Administraciones públicas.",
+    "format": "inap"
+  },
+  {
+    "id": 1021,
+    "question": "¿Son las fundaciones públicas poderes adjudicadores a efectos de la LCSP?",
+    "answer": "Poderes adjudicadores",
+    "options": [
+      "Órganos de contratación del Estado",
+      "Administraciones públicas en todo caso",
+      "Entidades privadas ajenas al sector público",
+      "Poderes adjudicadores"
+    ],
+    "reference": "LCSP art. 3.3.b",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Una fundación pública es poder adjudicador sin ser necesariamente Administración pública.",
+    "format": "memoria"
+  },
+  {
+    "id": 1022,
+    "question": "En la clasificación subjetiva legal, las fundaciones públicas tienen, con carácter general, la consideración de:",
+    "answer": "Poderes adjudicadores",
+    "options": [
+      "Administraciones públicas en todo caso",
+      "Órganos de contratación del Estado",
+      "Entidades privadas ajenas al sector público",
+      "Poderes adjudicadores"
+    ],
+    "reference": "LCSP art. 3.3.b",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Una fundación pública es poder adjudicador sin ser necesariamente Administración pública.",
+    "format": "inap"
+  },
+  {
+    "id": 1023,
+    "question": "¿Qué preceptos regulan los negocios jurídicos excluidos de la LCSP?",
+    "answer": "Artículos 4 a 11",
+    "options": [
+      "Artículos 61 a 69",
+      "Artículos 19 a 23",
+      "Artículos 99 a 105",
+      "Artículos 4 a 11"
+    ],
+    "reference": "LCSP arts. 4-11",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Las exclusiones no equivalen a ausencia de regulación.",
+    "format": "memoria"
+  },
+  {
+    "id": 1024,
+    "question": "Los contratos y relaciones no sometidos a la LCSP se rigen por normas especiales y el artículo 4 utiliza sus principios para dudas y lagunas. ¿Qué artículos recogen las exclusiones?",
+    "answer": "Artículos 4 a 11",
+    "options": [
+      "Artículos 99 a 105",
+      "Artículos 19 a 23",
+      "Artículos 4 a 11",
+      "Artículos 61 a 69"
+    ],
+    "reference": "LCSP arts. 4-11",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Las exclusiones no equivalen a ausencia de regulación.",
+    "format": "inap"
+  },
+  {
+    "id": 1025,
+    "question": "¿La compraventa de un inmueble por un ayuntamiento es, en principio, contrato de suministro LCSP?",
+    "answer": "Negocio patrimonial excluido de la LCSP",
+    "options": [
+      "Concesión de obras",
+      "Suministro administrativo típico",
+      "Negocio patrimonial excluido de la LCSP",
+      "Contrato de servicios SARA"
+    ],
+    "reference": "LCSP art. 9.2",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La compraventa de inmuebles está excluida y se rige por legislación patrimonial.",
+    "format": "memoria"
+  },
+  {
+    "id": 1026,
+    "question": "Un ayuntamiento adquiere un local mediante compraventa. ¿Qué régimen de partida corresponde?",
+    "answer": "Negocio patrimonial excluido de la LCSP",
+    "options": [
+      "Suministro administrativo típico",
+      "Contrato de servicios SARA",
+      "Concesión de obras",
+      "Negocio patrimonial excluido de la LCSP"
+    ],
+    "reference": "LCSP art. 9.2",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La compraventa de inmuebles está excluida y se rige por legislación patrimonial.",
+    "format": "inap"
+  },
+  {
+    "id": 1027,
+    "question": "¿Qué artículo define el contrato de obras?",
+    "answer": "Artículo 13",
+    "options": [
+      "Artículo 13",
+      "Artículo 17",
+      "Artículo 16",
+      "Artículo 29"
+    ],
+    "reference": "LCSP art. 13",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El artículo 13 contempla ejecución de obras y resultado sobre inmuebles o medio físico.",
+    "format": "memoria"
+  },
+  {
+    "id": 1028,
+    "question": "Para determinar si la construcción de un edificio municipal es contrato de obras, ¿qué precepto de la LCSP contiene la definición?",
+    "answer": "Artículo 13",
+    "options": [
+      "Artículo 13",
+      "Artículo 16",
+      "Artículo 29",
+      "Artículo 17"
+    ],
+    "reference": "LCSP art. 13",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El artículo 13 contempla ejecución de obras y resultado sobre inmuebles o medio físico.",
+    "format": "inap"
+  },
+  {
+    "id": 1029,
+    "question": "¿Qué artículo define la concesión de obras?",
+    "answer": "Artículo 14",
+    "options": [
+      "Artículo 14",
+      "Artículo 18",
+      "Artículo 15",
+      "Artículo 13"
+    ],
+    "reference": "LCSP art. 14",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Debe existir explotación con transferencia real del riesgo operacional.",
+    "format": "memoria"
+  },
+  {
+    "id": 1030,
+    "question": "Un empresario construye y explota una infraestructura, asumiendo riesgo operacional. ¿En qué artículo se regula esta tipología?",
+    "answer": "Artículo 14",
+    "options": [
+      "Artículo 14",
+      "Artículo 13",
+      "Artículo 15",
+      "Artículo 18"
+    ],
+    "reference": "LCSP art. 14",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Debe existir explotación con transferencia real del riesgo operacional.",
+    "format": "inap"
+  },
+  {
+    "id": 1031,
+    "question": "¿Qué artículo define la concesión de servicios?",
+    "answer": "Artículo 15",
+    "options": [
+      "Artículo 17",
+      "Artículo 16",
+      "Artículo 25",
+      "Artículo 15"
+    ],
+    "reference": "LCSP art. 15",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La concesión de servicios exige transferencia del riesgo operacional.",
+    "format": "memoria"
+  },
+  {
+    "id": 1032,
+    "question": "Un poder adjudicador encomienda la gestión de un servicio con derecho de explotación y riesgo operacional. ¿Qué precepto delimita este contrato?",
+    "answer": "Artículo 15",
+    "options": [
+      "Artículo 16",
+      "Artículo 17",
+      "Artículo 25",
+      "Artículo 15"
+    ],
+    "reference": "LCSP art. 15",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La concesión de servicios exige transferencia del riesgo operacional.",
+    "format": "inap"
+  },
+  {
+    "id": 1033,
+    "question": "¿Qué artículo define el contrato de suministro?",
+    "answer": "Artículo 16",
+    "options": [
+      "Artículo 16",
+      "Artículo 13",
+      "Artículo 18",
+      "Artículo 17"
+    ],
+    "reference": "LCSP art. 16",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El suministro incluye determinados equipos, programas informáticos y energía.",
+    "format": "memoria"
+  },
+  {
+    "id": 1034,
+    "question": "La adquisición o arrendamiento de productos y bienes muebles se califica conforme a la LCSP como suministro. ¿Qué artículo lo define?",
+    "answer": "Artículo 16",
+    "options": [
+      "Artículo 13",
+      "Artículo 16",
+      "Artículo 18",
+      "Artículo 17"
+    ],
+    "reference": "LCSP art. 16",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El suministro incluye determinados equipos, programas informáticos y energía.",
+    "format": "inap"
+  },
+  {
+    "id": 1035,
+    "question": "¿Qué artículo define el contrato de servicios?",
+    "answer": "Artículo 17",
+    "options": [
+      "Artículo 15",
+      "Artículo 22",
+      "Artículo 13",
+      "Artículo 17"
+    ],
+    "reference": "LCSP art. 17",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Los servicios no pueden implicar ejercicio de la autoridad inherente a los poderes públicos.",
+    "format": "memoria"
+  },
+  {
+    "id": 1036,
+    "question": "El contrato cuyo objeto es una prestación de hacer distinta de obra o suministro se define principalmente en:",
+    "answer": "Artículo 17",
+    "options": [
+      "Artículo 17",
+      "Artículo 22",
+      "Artículo 13",
+      "Artículo 15"
+    ],
+    "reference": "LCSP art. 17",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Los servicios no pueden implicar ejercicio de la autoridad inherente a los poderes públicos.",
+    "format": "inap"
+  },
+  {
+    "id": 1037,
+    "question": "¿Qué artículo regula los contratos mixtos?",
+    "answer": "Artículo 18",
+    "options": [
+      "Artículo 14",
+      "Artículo 23",
+      "Artículo 19",
+      "Artículo 18"
+    ],
+    "reference": "LCSP art. 18",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Las prestaciones han de estar vinculadas y formar una unidad funcional.",
+    "format": "memoria"
+  },
+  {
+    "id": 1038,
+    "question": "La adjudicación conjunta de prestaciones correspondientes a diversos tipos de contrato se rige en su calificación por el artículo:",
+    "answer": "Artículo 18",
+    "options": [
+      "Artículo 23",
+      "Artículo 18",
+      "Artículo 19",
+      "Artículo 14"
+    ],
+    "reference": "LCSP art. 18",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Las prestaciones han de estar vinculadas y formar una unidad funcional.",
+    "format": "inap"
+  },
+  {
+    "id": 1039,
+    "question": "¿Qué requisito diferencia las concesiones de los contratos de servicios sin riesgo transferido?",
+    "answer": "Transferencia efectiva del riesgo operacional",
+    "options": [
+      "Gestión realizada por empresa privada",
+      "Existencia de usuarios de la piscina",
+      "Que el servicio sea de interés municipal",
+      "Transferencia efectiva del riesgo operacional"
+    ],
+    "reference": "LCSP arts. 14.4 y 15",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Cobrar a usuarios no basta: debe existir exposición real a riesgos de demanda o suministro.",
+    "format": "memoria"
+  },
+  {
+    "id": 1040,
+    "question": "Una empresa cobra tarifas por gestionar una piscina, pero el ayuntamiento le garantiza cubrir todos los costes. ¿Qué dato falta para hablar de concesión?",
+    "answer": "Transferencia efectiva del riesgo operacional",
+    "options": [
+      "Gestión realizada por empresa privada",
+      "Transferencia efectiva del riesgo operacional",
+      "Que el servicio sea de interés municipal",
+      "Existencia de usuarios de la piscina"
+    ],
+    "reference": "LCSP arts. 14.4 y 15",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Cobrar a usuarios no basta: debe existir exposición real a riesgos de demanda o suministro.",
+    "format": "inap"
+  },
+  {
+    "id": 1041,
+    "question": "¿En qué consiste el riesgo de demanda en una concesión?",
+    "answer": "Riesgo de demanda",
+    "options": [
+      "Riesgo de jerarquía normativa",
+      "Riesgo de nulidad de oficio",
+      "Riesgo de demanda",
+      "Riesgo disciplinario"
+    ],
+    "reference": "LCSP art. 14.4",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El riesgo de demanda deriva de la demanda real de las obras o servicios.",
+    "format": "memoria"
+  },
+  {
+    "id": 1042,
+    "question": "La asistencia efectiva de público a un aparcamiento concesionado resulta inferior a lo previsto. ¿Qué riesgo se materializa?",
+    "answer": "Riesgo de demanda",
+    "options": [
+      "Riesgo de demanda",
+      "Riesgo disciplinario",
+      "Riesgo de nulidad de oficio",
+      "Riesgo de jerarquía normativa"
+    ],
+    "reference": "LCSP art. 14.4",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El riesgo de demanda deriva de la demanda real de las obras o servicios.",
+    "format": "inap"
+  },
+  {
+    "id": 1043,
+    "question": "¿Cómo se clasifica la adquisición de un programa informático desarrollado a medida?",
+    "answer": "Contrato de servicios",
+    "options": [
+      "Concesión de servicios",
+      "Contrato de servicios",
+      "Contrato de suministro en todo caso",
+      "Contrato de obras"
+    ],
+    "reference": "LCSP art. 16.3.b",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Los programas desarrollados a medida son servicios; el software de catálogo suele ser suministro.",
+    "format": "memoria"
+  },
+  {
+    "id": 1044,
+    "question": "Un ministerio encarga desarrollar un programa original conforme a sus necesidades, no comprar una licencia estándar. ¿Qué tipo contractual procede?",
+    "answer": "Contrato de servicios",
+    "options": [
+      "Contrato de obras",
+      "Contrato de suministro en todo caso",
+      "Contrato de servicios",
+      "Concesión de servicios"
+    ],
+    "reference": "LCSP art. 16.3.b",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Los programas desarrollados a medida son servicios; el software de catálogo suele ser suministro.",
+    "format": "inap"
+  },
+  {
+    "id": 1045,
+    "question": "¿Qué contrato es la adquisición de energía eléctrica?",
+    "answer": "Suministro",
+    "options": [
+      "Administrativo especial en todo caso",
+      "Suministro",
+      "Concesión de servicios",
+      "Obras"
+    ],
+    "reference": "LCSP art. 16.3.d",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La energía primaria o transformada es objeto de contrato de suministro.",
+    "format": "memoria"
+  },
+  {
+    "id": 1046,
+    "question": "Una administración contrata electricidad para sus edificios. Por su objeto, la LCSP lo encuadra como:",
+    "answer": "Suministro",
+    "options": [
+      "Concesión de servicios",
+      "Administrativo especial en todo caso",
+      "Obras",
+      "Suministro"
+    ],
+    "reference": "LCSP art. 16.3.d",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La energía primaria o transformada es objeto de contrato de suministro.",
+    "format": "inap"
+  },
+  {
+    "id": 1047,
+    "question": "¿Puede ser objeto del contrato de servicios el ejercicio de autoridad pública?",
+    "answer": "No puede ser objeto de contrato de servicios",
+    "options": [
+      "Debe utilizarse siempre un procedimiento negociado",
+      "Es un suministro por asimilación",
+      "Puede contratarse como servicio SARA sin más",
+      "No puede ser objeto de contrato de servicios"
+    ],
+    "reference": "LCSP art. 17",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Está prohibido contratar como servicios el ejercicio de autoridad inherente a los poderes públicos.",
+    "format": "memoria"
+  },
+  {
+    "id": 1048,
+    "question": "Se quiere externalizar una actuación que implica autoridad inherente a los poderes públicos. ¿Qué dispone el artículo 17?",
+    "answer": "No puede ser objeto de contrato de servicios",
+    "options": [
+      "Puede contratarse como servicio SARA sin más",
+      "Debe utilizarse siempre un procedimiento negociado",
+      "Es un suministro por asimilación",
+      "No puede ser objeto de contrato de servicios"
+    ],
+    "reference": "LCSP art. 17",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Está prohibido contratar como servicios el ejercicio de autoridad inherente a los poderes públicos.",
+    "format": "inap"
+  },
+  {
+    "id": 1049,
+    "question": "¿Qué decide el objeto principal en un mixto de suministros y servicios?",
+    "answer": "Por el mayor valor estimado de cada prestación",
+    "options": [
+      "Siempre por el suministro",
+      "Por el número de empleados adscritos",
+      "Por el mayor valor estimado de cada prestación",
+      "Siempre por el servicio"
+    ],
+    "reference": "LCSP art. 18.1.a",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "En la combinación suministro-servicio manda la comparación de valores estimados.",
+    "format": "memoria"
+  },
+  {
+    "id": 1050,
+    "question": "En un contrato mixto compuesto parcialmente por suministros y parcialmente por servicios, ¿cómo se determina la prestación principal?",
+    "answer": "Por el mayor valor estimado de cada prestación",
+    "options": [
+      "Siempre por el suministro",
+      "Siempre por el servicio",
+      "Por el mayor valor estimado de cada prestación",
+      "Por el número de empleados adscritos"
+    ],
+    "reference": "LCSP art. 18.1.a",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "En la combinación suministro-servicio manda la comparación de valores estimados.",
+    "format": "inap"
+  },
+  {
+    "id": 1051,
+    "question": "¿Qué exige el artículo 34.2 para fusionar prestaciones distintas?",
+    "answer": "Vinculación y complementariedad como unidad funcional",
+    "options": [
+      "Vinculación y complementariedad como unidad funcional",
+      "Que cada prestación tenga distinta empresa",
+      "Que todos los componentes sean contratos SARA",
+      "Que los dos contratistas sean el mismo"
+    ],
+    "reference": "LCSP art. 34.2",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Las prestaciones han de estar directamente vinculadas y formar una unidad funcional.",
+    "format": "memoria"
+  },
+  {
+    "id": 1052,
+    "question": "Para un contrato mixto, la mera comodidad administrativa no basta. ¿Qué requisito material exige la LCSP?",
+    "answer": "Vinculación y complementariedad como unidad funcional",
+    "options": [
+      "Que los dos contratistas sean el mismo",
+      "Que todos los componentes sean contratos SARA",
+      "Que cada prestación tenga distinta empresa",
+      "Vinculación y complementariedad como unidad funcional"
+    ],
+    "reference": "LCSP art. 34.2",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Las prestaciones han de estar directamente vinculadas y formar una unidad funcional.",
+    "format": "inap"
+  },
+  {
+    "id": 1053,
+    "question": "¿Qué clase de obra modifica y mejora un inmueble ya existente?",
+    "answer": "Reforma",
+    "options": [
+      "Reforma",
+      "Primer establecimiento",
+      "Conservación ordinaria",
+      "Demolición"
+    ],
+    "reference": "LCSP art. 232",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La reforma amplía, mejora, moderniza o adapta un inmueble existente.",
+    "format": "memoria"
+  },
+  {
+    "id": 1054,
+    "question": "Una intervención amplía y moderniza un edificio municipal existente, sin limitarse a reparar un daño. ¿Cómo se clasifica?",
+    "answer": "Reforma",
+    "options": [
+      "Conservación ordinaria",
+      "Demolición",
+      "Reforma",
+      "Primer establecimiento"
+    ],
+    "reference": "LCSP art. 232",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La reforma amplía, mejora, moderniza o adapta un inmueble existente.",
+    "format": "inap"
+  },
+  {
+    "id": 1055,
+    "question": "¿Qué clase de obra repara el deterioro por uso ordinario?",
+    "answer": "Conservación o mantenimiento",
+    "options": [
+      "Demolición",
+      "Gran reparación por causa fortuita",
+      "Primer establecimiento",
+      "Conservación o mantenimiento"
+    ],
+    "reference": "LCSP art. 232.5",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El mantenimiento remedia el deterioro producido por el uso ordinario.",
+    "format": "memoria"
+  },
+  {
+    "id": 1056,
+    "question": "El desgaste acumulado del pavimento por uso normal se corrige para conservar su estado. ¿Qué clase de obra es?",
+    "answer": "Conservación o mantenimiento",
+    "options": [
+      "Demolición",
+      "Conservación o mantenimiento",
+      "Gran reparación por causa fortuita",
+      "Primer establecimiento"
+    ],
+    "reference": "LCSP art. 232.5",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El mantenimiento remedia el deterioro producido por el uso ordinario.",
+    "format": "inap"
+  },
+  {
+    "id": 1057,
+    "question": "¿Qué clase de obra preserva el valor histórico pero aporta nueva funcionalidad compatible?",
+    "answer": "Rehabilitación",
+    "options": [
+      "Demolición",
+      "Rehabilitación",
+      "Primer establecimiento",
+      "Restauración sin cambio de función"
+    ],
+    "reference": "LCSP art. 232",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La rehabilitación puede dotar de nueva funcionalidad compatible; restaurar conserva la existente.",
+    "format": "memoria"
+  },
+  {
+    "id": 1058,
+    "question": "Un edificio histórico se adapta a un nuevo uso respetando sus valores patrimoniales. ¿Qué clase de obra se describe?",
+    "answer": "Rehabilitación",
+    "options": [
+      "Restauración sin cambio de función",
+      "Rehabilitación",
+      "Demolición",
+      "Primer establecimiento"
+    ],
+    "reference": "LCSP art. 232",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La rehabilitación puede dotar de nueva funcionalidad compatible; restaurar conserva la existente.",
+    "format": "inap"
+  },
+  {
+    "id": 1059,
+    "question": "¿Cuál es la duración máxima ordinaria de suministros y servicios de prestación sucesiva?",
+    "answer": "5 años",
+    "options": [
+      "3 años",
+      "5 años",
+      "10 años",
+      "6 años"
+    ],
+    "reference": "LCSP art. 29.4",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Los cinco años incluyen prórrogas, salvo excepciones justificadas.",
+    "format": "memoria"
+  },
+  {
+    "id": 1060,
+    "question": "Un contrato recurrente de limpieza con prórrogas ordinarias debe respetar como regla general un máximo conjunto de:",
+    "answer": "5 años",
+    "options": [
+      "6 años",
+      "10 años",
+      "5 años",
+      "3 años"
+    ],
+    "reference": "LCSP art. 29.4",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Los cinco años incluyen prórrogas, salvo excepciones justificadas.",
+    "format": "inap"
+  },
+  {
+    "id": 1061,
+    "question": "¿Cuál es la duración máxima legal típica de la concesión de obras?",
+    "answer": "40 años",
+    "options": [
+      "40 años",
+      "10 años",
+      "25 años",
+      "50 años"
+    ],
+    "reference": "LCSP art. 29.6.a",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "40 años es el techo legal, no la duración que se concede automáticamente.",
+    "format": "memoria"
+  },
+  {
+    "id": 1062,
+    "question": "Una concesión de obras que requiere recuperar la inversión está limitada, incluidas prórrogas, con carácter general, a un máximo de:",
+    "answer": "40 años",
+    "options": [
+      "50 años",
+      "25 años",
+      "10 años",
+      "40 años"
+    ],
+    "reference": "LCSP art. 29.6.a",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "40 años es el techo legal, no la duración que se concede automáticamente.",
+    "format": "inap"
+  },
+  {
+    "id": 1063,
+    "question": "¿Cuál es la duración máxima de una concesión de servicios no sanitaria sin obras?",
+    "answer": "25 años",
+    "options": [
+      "40 años",
+      "5 años",
+      "25 años",
+      "10 años"
+    ],
+    "reference": "LCSP art. 29.6.b",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Las concesiones de servicios no sanitarios sin obras tienen límite ordinario de 25 años.",
+    "format": "memoria"
+  },
+  {
+    "id": 1064,
+    "question": "Se adjudica una concesión para explotar un servicio no sanitario sin ejecución de obras. ¿Qué techo ordinario se aplica?",
+    "answer": "25 años",
+    "options": [
+      "5 años",
+      "25 años",
+      "10 años",
+      "40 años"
+    ],
+    "reference": "LCSP art. 29.6.b",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Las concesiones de servicios no sanitarios sin obras tienen límite ordinario de 25 años.",
+    "format": "inap"
+  },
+  {
+    "id": 1065,
+    "question": "¿Cuál es la duración máxima ordinaria de una concesión de servicios sanitarios sin obras?",
+    "answer": "10 años",
+    "options": [
+      "40 años",
+      "5 años",
+      "10 años",
+      "25 años"
+    ],
+    "reference": "LCSP art. 29.6.c",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La regla específica de estos servicios sanitarios es de diez años.",
+    "format": "memoria"
+  },
+  {
+    "id": 1066,
+    "question": "En una concesión exclusivamente de servicios sanitarios, sin las obras del supuesto del artículo 29.6.a, ¿cuál es el límite?",
+    "answer": "10 años",
+    "options": [
+      "40 años",
+      "10 años",
+      "25 años",
+      "5 años"
+    ],
+    "reference": "LCSP art. 29.6.c",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La regla específica de estos servicios sanitarios es de diez años.",
+    "format": "inap"
+  },
+  {
+    "id": 1067,
+    "question": "¿Cuál es la duración máxima de un contrato menor?",
+    "answer": "1 año, sin prórroga",
+    "options": [
+      "1 año, sin prórroga",
+      "6 meses obligatoriamente",
+      "2 años, prorrogables",
+      "5 años incluyendo prórrogas"
+    ],
+    "reference": "LCSP art. 29.8",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El contrato menor no puede durar más de un año ni prorrogarse.",
+    "format": "memoria"
+  },
+  {
+    "id": 1068,
+    "question": "Una administración propone prorrogar un contrato menor un segundo año. ¿Qué regla legal lo impide?",
+    "answer": "1 año, sin prórroga",
+    "options": [
+      "6 meses obligatoriamente",
+      "1 año, sin prórroga",
+      "2 años, prorrogables",
+      "5 años incluyendo prórrogas"
+    ],
+    "reference": "LCSP art. 29.8",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El contrato menor no puede durar más de un año ni prorrogarse.",
+    "format": "inap"
+  },
+  {
+    "id": 1069,
+    "question": "¿Con cuánto preaviso se acuerda ordinariamente la prórroga obligatoria para el contratista?",
+    "answer": "2 meses",
+    "options": [
+      "1 mes",
+      "2 meses",
+      "3 meses",
+      "15 días naturales"
+    ],
+    "reference": "LCSP art. 29.2",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El preaviso ordinario es de dos meses; no se exige para contratos de duración inferior a dos meses.",
+    "format": "memoria"
+  },
+  {
+    "id": 1070,
+    "question": "Salvo que el pliego exija más y con las excepciones legales, ¿qué plazo mínimo de preaviso exige el artículo 29.2?",
+    "answer": "2 meses",
+    "options": [
+      "2 meses",
+      "3 meses",
+      "1 mes",
+      "15 días naturales"
+    ],
+    "reference": "LCSP art. 29.2",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El preaviso ordinario es de dos meses; no se exige para contratos de duración inferior a dos meses.",
+    "format": "inap"
+  },
+  {
+    "id": 1071,
+    "question": "¿Cuál es el máximo de la prórroga excepcional de continuidad de los servicios o suministros?",
+    "answer": "9 meses",
+    "options": [
+      "6 meses",
+      "12 meses",
+      "3 meses",
+      "9 meses"
+    ],
+    "reference": "LCSP art. 29.4",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La prórroga excepcional no sirve para suplir una mala planificación.",
+    "format": "memoria"
+  },
+  {
+    "id": 1072,
+    "question": "Por incidencias imprevisibles en la nueva adjudicación y otras condiciones estrictas, ¿cuánto puede durar como máximo la prórroga del artículo 29.4?",
+    "answer": "9 meses",
+    "options": [
+      "3 meses",
+      "9 meses",
+      "6 meses",
+      "12 meses"
+    ],
+    "reference": "LCSP art. 29.4",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La prórroga excepcional no sirve para suplir una mala planificación.",
+    "format": "inap"
+  },
+  {
+    "id": 1073,
+    "question": "¿Con cuánta antelación debe anunciarse normalmente la nueva licitación para esa prórroga excepcional?",
+    "answer": "3 meses",
+    "options": [
+      "15 días",
+      "3 meses",
+      "6 meses",
+      "1 mes"
+    ],
+    "reference": "LCSP art. 29.4",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Regla general: publicar el nuevo anuncio tres meses antes del vencimiento del contrato original.",
+    "format": "memoria"
+  },
+  {
+    "id": 1074,
+    "question": "Para recurrir a la continuidad excepcional del artículo 29.4 en suministro o servicio, ¿qué antelación mínima general de anuncio se exige?",
+    "answer": "3 meses",
+    "options": [
+      "15 días",
+      "1 mes",
+      "3 meses",
+      "6 meses"
+    ],
+    "reference": "LCSP art. 29.4",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Regla general: publicar el nuevo anuncio tres meses antes del vencimiento del contrato original.",
+    "format": "inap"
+  },
+  {
+    "id": 1075,
+    "question": "¿Qué antelación se exige para invitaciones de AM/SDA en la prórroga excepcional?",
+    "answer": "15 días antes",
+    "options": [
+      "3 meses antes",
+      "45 días antes",
+      "15 días antes",
+      "2 días antes"
+    ],
+    "reference": "LCSP art. 29.4",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La excepción de los AM/SDA tiene un plazo específico de quince días.",
+    "format": "memoria"
+  },
+  {
+    "id": 1076,
+    "question": "Cuando se trata de un contrato basado en acuerdo marco o específico de SDA, la invitación de la nueva contratación ha de enviarse al menos:",
+    "answer": "15 días antes",
+    "options": [
+      "15 días antes",
+      "3 meses antes",
+      "45 días antes",
+      "2 días antes"
+    ],
+    "reference": "LCSP art. 29.4",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La excepción de los AM/SDA tiene un plazo específico de quince días.",
+    "format": "inap"
+  },
+  {
+    "id": 1077,
+    "question": "¿Qué impuesto se excluye al calcular el valor estimado del contrato?",
+    "answer": "Se excluye del valor estimado",
+    "options": [
+      "Se excluye del valor estimado",
+      "Se incluye obligatoriamente en el VE",
+      "Se suma dos veces si existe prórroga",
+      "Solo se excluye en contratos menores"
+    ],
+    "reference": "LCSP art. 101",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El VE se calcula sin IVA; no se confunde con el PBL.",
+    "format": "memoria"
+  },
+  {
+    "id": 1078,
+    "question": "Un contrato tiene PBL de 121.000 € con IVA del 21 %. Para conocer su valor estimado, ¿qué tratamiento general tiene el IVA?",
+    "answer": "Se excluye del valor estimado",
+    "options": [
+      "Solo se excluye en contratos menores",
+      "Se suma dos veces si existe prórroga",
+      "Se excluye del valor estimado",
+      "Se incluye obligatoriamente en el VE"
+    ],
+    "reference": "LCSP art. 101",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El VE se calcula sin IVA; no se confunde con el PBL.",
+    "format": "inap"
+  },
+  {
+    "id": 1079,
+    "question": "¿Cuál es el umbral SARA de obras y ambas concesiones en 2026?",
+    "answer": "5.404.000 €",
+    "options": [
+      "4.000.000 €",
+      "5.000.000 €",
+      "6.000.000 €",
+      "5.404.000 €"
+    ],
+    "reference": "LCSP art. 20",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "En las cuantías del BOE aportado el umbral es igual o superior a 5.404.000 €.",
+    "format": "memoria"
+  },
+  {
+    "id": 1080,
+    "question": "Un poder adjudicador prepara una concesión de obras. ¿Desde qué VE, incluido el límite, se activa por cuantía el régimen SARA ordinario?",
+    "answer": "5.404.000 €",
+    "options": [
+      "6.000.000 €",
+      "5.000.000 €",
+      "5.404.000 €",
+      "4.000.000 €"
+    ],
+    "reference": "LCSP art. 20",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "En las cuantías del BOE aportado el umbral es igual o superior a 5.404.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1081,
+    "question": "¿Cuál es el umbral SARA habitual de suministros de la AGE en 2026?",
+    "answer": "140.000 €",
+    "options": [
+      "100.000 €",
+      "750.000 €",
+      "140.000 €",
+      "216.000 €"
+    ],
+    "reference": "LCSP art. 21.1.a",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Para AGE, organismos autónomos y entidades gestoras y servicios comunes de la SS, la cuantía ordinaria es 140.000 €.",
+    "format": "memoria"
+  },
+  {
+    "id": 1082,
+    "question": "Un organismo autónomo estatal licita suministros ordinarios; ¿desde qué valor estimado se considera SARA por la regla del artículo 21.1.a?",
+    "answer": "140.000 €",
+    "options": [
+      "216.000 €",
+      "100.000 €",
+      "750.000 €",
+      "140.000 €"
+    ],
+    "reference": "LCSP art. 21.1.a",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Para AGE, organismos autónomos y entidades gestoras y servicios comunes de la SS, la cuantía ordinaria es 140.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1083,
+    "question": "¿Cuál es el umbral SARA general de servicios de una entidad local en 2026?",
+    "answer": "216.000 €",
+    "options": [
+      "100.000 €",
+      "750.000 €",
+      "140.000 €",
+      "216.000 €"
+    ],
+    "reference": "LCSP art. 22.1.b",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Para otros poderes adjudicadores el umbral general es 216.000 €.",
+    "format": "memoria"
+  },
+  {
+    "id": 1084,
+    "question": "Un ayuntamiento licita servicios ordinarios no incluidos en el anexo IV. ¿Desde qué VE se activa el régimen SARA?",
+    "answer": "216.000 €",
+    "options": [
+      "750.000 €",
+      "216.000 €",
+      "100.000 €",
+      "140.000 €"
+    ],
+    "reference": "LCSP art. 22.1.b",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Para otros poderes adjudicadores el umbral general es 216.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1085,
+    "question": "¿Cuál es el umbral SARA para los servicios del Anexo IV?",
+    "answer": "750.000 €",
+    "options": [
+      "5.404.000 €",
+      "140.000 €",
+      "750.000 €",
+      "216.000 €"
+    ],
+    "reference": "LCSP art. 22.1.c",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El anexo IV tiene umbral especial SARA de 750.000 €.",
+    "format": "memoria"
+  },
+  {
+    "id": 1086,
+    "question": "Al licitar servicios sociales y otros servicios específicos incluidos en el anexo IV, ¿qué umbral especial de VE se aplica?",
+    "answer": "750.000 €",
+    "options": [
+      "216.000 €",
+      "140.000 €",
+      "750.000 €",
+      "5.404.000 €"
+    ],
+    "reference": "LCSP art. 22.1.c",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El anexo IV tiene umbral especial SARA de 750.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1087,
+    "question": "¿Qué porcentaje de subvención directa exige el artículo 23 para determinados contratos subvencionados SARA?",
+    "answer": "Más del 50 %",
+    "options": [
+      "Al menos el 25 %",
+      "Exactamente el 50 %",
+      "Al menos el 75 %",
+      "Más del 50 %"
+    ],
+    "reference": "LCSP art. 23",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La subvención directa ha de ser superior al 50 %, no igual.",
+    "format": "memoria"
+  },
+  {
+    "id": 1088,
+    "question": "Un promotor particular ejecuta ciertas obras financiadas por un poder adjudicador. ¿Qué porcentaje de subvención directa debe superar, además del objeto y VE exigidos?",
+    "answer": "Más del 50 %",
+    "options": [
+      "Al menos el 75 %",
+      "Exactamente el 50 %",
+      "Más del 50 %",
+      "Al menos el 25 %"
+    ],
+    "reference": "LCSP art. 23",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La subvención directa ha de ser superior al 50 %, no igual.",
+    "format": "inap"
+  },
+  {
+    "id": 1089,
+    "question": "¿Cuál es el VE máximo de cada lote de obras exceptuable de SARA por artículo 20.2?",
+    "answer": "Inferior a 1.000.000 €",
+    "options": [
+      "Inferior a 80.000 €",
+      "Igual o inferior a 1.000.000 €",
+      "Hasta 5.404.000 €",
+      "Inferior a 1.000.000 €"
+    ],
+    "reference": "LCSP art. 20.2",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Debe ser estrictamente inferior al millón de euros y respetar el límite agregado.",
+    "format": "memoria"
+  },
+  {
+    "id": 1090,
+    "question": "Con un contrato de obras por lotes cuyo conjunto es SARA, ¿qué límite individual exige la excepción de pequeños lotes?",
+    "answer": "Inferior a 1.000.000 €",
+    "options": [
+      "Inferior a 1.000.000 €",
+      "Igual o inferior a 1.000.000 €",
+      "Hasta 5.404.000 €",
+      "Inferior a 80.000 €"
+    ],
+    "reference": "LCSP art. 20.2",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Debe ser estrictamente inferior al millón de euros y respetar el límite agregado.",
+    "format": "inap"
+  },
+  {
+    "id": 1091,
+    "question": "¿Cuál es el VE máximo individual de lotes de suministros o servicios exceptuables de SARA?",
+    "answer": "Inferior a 80.000 €",
+    "options": [
+      "Inferior a 80.000 €",
+      "Igual o inferior a 80.000 €",
+      "Inferior a 140.000 €",
+      "Inferior a 100.000 €"
+    ],
+    "reference": "LCSP arts. 21.2 y 22.2",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Cada lote debe ser inferior a 80.000 €, y la suma exceptuada no pasar del 20 %.",
+    "format": "memoria"
+  },
+  {
+    "id": 1092,
+    "question": "Para excluir pequeños lotes de suministros o servicios de las reglas SARA, cada lote debe tener VE:",
+    "answer": "Inferior a 80.000 €",
+    "options": [
+      "Inferior a 80.000 €",
+      "Inferior a 140.000 €",
+      "Inferior a 100.000 €",
+      "Igual o inferior a 80.000 €"
+    ],
+    "reference": "LCSP arts. 21.2 y 22.2",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Cada lote debe ser inferior a 80.000 €, y la suma exceptuada no pasar del 20 %.",
+    "format": "inap"
+  },
+  {
+    "id": 1093,
+    "question": "¿Qué proporción máxima del VE conjunto pueden suponer los lotes exceptuados de SARA?",
+    "answer": "20 %",
+    "options": [
+      "10 %",
+      "25 %",
+      "20 %",
+      "30 %"
+    ],
+    "reference": "LCSP arts. 20-22",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La suma de los pequeños lotes exceptuados no puede sobrepasar el 20 % del VE total.",
+    "format": "memoria"
+  },
+  {
+    "id": 1094,
+    "question": "Cuando se exceptúan pequeños lotes de una licitación SARA, ¿qué porcentaje máximo acumulado pueden representar?",
+    "answer": "20 %",
+    "options": [
+      "20 %",
+      "30 %",
+      "25 %",
+      "10 %"
+    ],
+    "reference": "LCSP arts. 20-22",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La suma de los pequeños lotes exceptuados no puede sobrepasar el 20 % del VE total.",
+    "format": "inap"
+  },
+  {
+    "id": 1095,
+    "question": "¿Qué artículo distingue contratos administrativos de privados celebrados por AAPP?",
+    "answer": "Artículo 25",
+    "options": [
+      "Artículo 102",
+      "Artículo 14",
+      "Artículo 25",
+      "Artículo 21"
+    ],
+    "reference": "LCSP art. 25",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Los contratos típicos celebrados por AAPP son administrativos, con excepciones expresas.",
+    "format": "memoria"
+  },
+  {
+    "id": 1096,
+    "question": "Una Administración pública contrata un suministro ordinario. ¿Qué artículo contiene la regla de su carácter administrativo?",
+    "answer": "Artículo 25",
+    "options": [
+      "Artículo 21",
+      "Artículo 102",
+      "Artículo 14",
+      "Artículo 25"
+    ],
+    "reference": "LCSP art. 25",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Los contratos típicos celebrados por AAPP son administrativos, con excepciones expresas.",
+    "format": "inap"
+  },
+  {
+    "id": 1097,
+    "question": "¿Qué carácter tienen los contratos celebrados por un poder adjudicador que no es AAPP?",
+    "answer": "Privado",
+    "options": [
+      "Privado",
+      "Administrativo especial obligatorio",
+      "Concesión por naturaleza de la entidad",
+      "Administrativo típico en todo caso"
+    ],
+    "reference": "LCSP art. 26.1.b",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La condición de poder adjudicador no AAPP no convierte sus contratos en administrativos.",
+    "format": "memoria"
+  },
+  {
+    "id": 1098,
+    "question": "Una fundación pública poder adjudicador, pero no AAPP, celebra un contrato sometido a la LCSP. ¿Cuál es su naturaleza jurídica?",
+    "answer": "Privado",
+    "options": [
+      "Concesión por naturaleza de la entidad",
+      "Privado",
+      "Administrativo típico en todo caso",
+      "Administrativo especial obligatorio"
+    ],
+    "reference": "LCSP art. 26.1.b",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La condición de poder adjudicador no AAPP no convierte sus contratos en administrativos.",
+    "format": "inap"
+  },
+  {
+    "id": 1099,
+    "question": "¿Qué jurisdicción conoce de la preparación y adjudicación de contratos privados de AAPP?",
+    "answer": "Contencioso-administrativo",
+    "options": [
+      "Social",
+      "Contencioso-administrativo",
+      "Penal",
+      "Civil siempre"
+    ],
+    "reference": "LCSP art. 27.1.b",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La preparación y adjudicación de privados de AAPP se fiscalizan por lo contencioso.",
+    "format": "memoria"
+  },
+  {
+    "id": 1100,
+    "question": "Un licitador impugna la adjudicación de un contrato privado suscrito por una AAPP. ¿Ante qué orden jurisdiccional se sustancia?",
+    "answer": "Contencioso-administrativo",
+    "options": [
+      "Social",
+      "Penal",
+      "Contencioso-administrativo",
+      "Civil siempre"
+    ],
+    "reference": "LCSP art. 27.1.b",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La preparación y adjudicación de privados de AAPP se fiscalizan por lo contencioso.",
+    "format": "inap"
+  },
+  {
+    "id": 1101,
+    "question": "¿Qué jurisdicción conoce, con carácter general, de los efectos y extinción de contratos privados?",
+    "answer": "Civil",
+    "options": [
+      "Constitucional",
+      "Militar",
+      "Civil",
+      "Contencioso-administrativa en todo caso"
+    ],
+    "reference": "LCSP art. 27.2",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La regla general es civil en efectos y extinción de privados, con excepciones legales.",
+    "format": "memoria"
+  },
+  {
+    "id": 1102,
+    "question": "En la ejecución de un contrato privado de un poder adjudicador surge controversia ordinaria sobre obligaciones pactadas. ¿Qué jurisdicción corresponde como regla?",
+    "answer": "Civil",
+    "options": [
+      "Civil",
+      "Militar",
+      "Contencioso-administrativa en todo caso",
+      "Constitucional"
+    ],
+    "reference": "LCSP art. 27.2",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La regla general es civil en efectos y extinción de privados, con excepciones legales.",
+    "format": "inap"
+  },
+  {
+    "id": 1103,
+    "question": "Un ayuntamiento licita limpieza ordinaria con VE de 216.000 € sin IVA. ¿Qué es?",
+    "answer": "Administrativo de servicios y SARA",
+    "options": [
+      "Concesión de servicios y SARA",
+      "Administrativo de servicios, no SARA",
+      "Administrativo de servicios y SARA",
+      "Privado de servicios y SARA"
+    ],
+    "reference": "LCSP arts. 17, 19, 22 y 25",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Ayuntamiento es AAPP y el VE iguala el umbral SARA local.",
+    "format": "inap"
+  },
+  {
+    "id": 1104,
+    "question": "Un ministerio compra equipos informáticos por VE de 139.999 € sin IVA. ¿Qué se adjudica?",
+    "answer": "Suministro administrativo no SARA",
+    "options": [
+      "Servicio privado SARA",
+      "Concesión de servicios no SARA",
+      "Suministro administrativo SARA",
+      "Suministro administrativo no SARA"
+    ],
+    "reference": "LCSP arts. 16, 21 y 25",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La cuantía no alcanza los 140.000 € del suministro ordinario AGE.",
+    "format": "inap"
+  },
+  {
+    "id": 1105,
+    "question": "Un organismo autónomo estatal compra mobiliario por VE de 140.000 € sin IVA. ¿Cómo se califica?",
+    "answer": "Suministro administrativo SARA",
+    "options": [
+      "Suministro privado no SARA",
+      "Obras administrativas SARA",
+      "Suministro administrativo SARA",
+      "Suministro administrativo no SARA"
+    ],
+    "reference": "LCSP arts. 16, 21 y 25",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Igualar el umbral basta: 140.000 € en supuesto AGE.",
+    "format": "inap"
+  },
+  {
+    "id": 1106,
+    "question": "Un ayuntamiento adquiere autobuses por VE de 215.999 € sin IVA. ¿Qué es?",
+    "answer": "Suministro administrativo no SARA",
+    "options": [
+      "Suministro administrativo SARA",
+      "Suministro administrativo no SARA",
+      "Suministro privado SARA",
+      "Servicio administrativo SARA"
+    ],
+    "reference": "LCSP arts. 16, 21 y 25",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Bajo el umbral de 216.000 € de suministros de otros poderes adjudicadores.",
+    "format": "inap"
+  },
+  {
+    "id": 1107,
+    "question": "Una diputación provincial adquiere maquinaria por VE de 216.000 € sin IVA. ¿Qué es?",
+    "answer": "Suministro administrativo SARA",
+    "options": [
+      "Suministro administrativo SARA",
+      "Suministro administrativo no SARA",
+      "Obras administrativas SARA",
+      "Suministro privado no SARA"
+    ],
+    "reference": "LCSP arts. 16, 21 y 25",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La diputación es AAPP y la cuantía alcanza el umbral local.",
+    "format": "inap"
+  },
+  {
+    "id": 1108,
+    "question": "Un ministerio licita obras de rehabilitación por VE de 5.403.999 € sin IVA. ¿Qué naturaleza y régimen tiene?",
+    "answer": "Obras administrativas no SARA",
+    "options": [
+      "Servicios administrativos SARA",
+      "Obras administrativas no SARA",
+      "Concesión de obras SARA",
+      "Obras administrativas SARA"
+    ],
+    "reference": "LCSP arts. 13, 20 y 25",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "No alcanza por 1 euro el umbral de obras; no hay explotación concesional.",
+    "format": "inap"
+  },
+  {
+    "id": 1109,
+    "question": "Una universidad pública construirá un aulario por VE de 5.404.000 € sin IVA. ¿Qué contrato tiene?",
+    "answer": "Obras administrativas SARA",
+    "options": [
+      "Obras administrativas SARA",
+      "Servicios administrativos SARA",
+      "Concesión de obras no SARA",
+      "Obras privadas SARA"
+    ],
+    "reference": "LCSP arts. 13, 20 y 25",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Una universidad pública es AAPP para LCSP y alcanza el umbral SARA de obras.",
+    "format": "inap"
+  },
+  {
+    "id": 1110,
+    "question": "Un ayuntamiento contrata un servicio social del anexo IV por VE de 749.999 € sin IVA. ¿Es SARA?",
+    "answer": "No, no alcanza el umbral especial",
+    "options": [
+      "Sí, porque todos los servicios públicos son SARA",
+      "Sí, supera el umbral general local",
+      "Sí, por ser servicio social",
+      "No, no alcanza el umbral especial"
+    ],
+    "reference": "LCSP art. 22.1.c",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Para anexo IV el umbral especial es 750.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1111,
+    "question": "Una fundación pública poder adjudicador no AAPP contrata servicios ordinarios por VE de 220.000 €. ¿Qué es?",
+    "answer": "Contrato privado de servicios SARA",
+    "options": [
+      "Contrato privado de servicios SARA",
+      "Concesión de servicios obligatoriamente",
+      "Contrato administrativo de servicios SARA",
+      "Contrato privado de servicios no SARA"
+    ],
+    "reference": "LCSP arts. 17, 22 y 26",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La fundación PA no AAPP celebra contratos privados, aunque puedan ser SARA.",
+    "format": "inap"
+  },
+  {
+    "id": 1112,
+    "question": "Un ayuntamiento explota una guardería a través de empresa con cuota fija municipal que elimina el riesgo operacional. ¿Qué tipo es?",
+    "answer": "Servicios, no concesión de servicios",
+    "options": [
+      "Concesión de servicios por tener usuarios",
+      "Concesión de obras",
+      "Suministros",
+      "Servicios, no concesión de servicios"
+    ],
+    "reference": "LCSP arts. 15 y 17",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Sin transmisión efectiva de riesgo operacional no se califica como concesión.",
+    "format": "inap"
+  },
+  {
+    "id": 1113,
+    "question": "Una empresa construye y explota un aparcamiento público asumiendo riesgo de demanda. ¿Qué modalidad procede?",
+    "answer": "Concesión de obras",
+    "options": [
+      "Concesión de obras",
+      "Contrato de suministro",
+      "Contrato de servicios puro",
+      "Contrato de obras simple"
+    ],
+    "reference": "LCSP art. 14",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Se combinan obras, explotación y transferencia real del riesgo operacional.",
+    "format": "inap"
+  },
+  {
+    "id": 1114,
+    "question": "Un ayuntamiento paga un importe fijo para la gestión de su piscina, sin exposición real al riesgo de demanda de usuarios. ¿Qué tipo es?",
+    "answer": "Servicios",
+    "options": [
+      "Concesión de obras",
+      "Concesión de servicios obligatoria",
+      "Negocio patrimonial excluido",
+      "Servicios"
+    ],
+    "reference": "LCSP arts. 15 y 17",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El nombre de concesión no basta; el riesgo lo conserva la Administración.",
+    "format": "inap"
+  },
+  {
+    "id": 1115,
+    "question": "Una empresa explota las instalaciones deportivas existentes y asume las pérdidas por falta de usuarios. ¿Qué tipo es?",
+    "answer": "Concesión de servicios",
+    "options": [
+      "Servicios sin riesgo en todo caso",
+      "Obras",
+      "Concesión de servicios",
+      "Suministros"
+    ],
+    "reference": "LCSP arts. 14-15",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La explotación de servicio de competencia pública con riesgo operacional real apunta a concesión de servicios.",
+    "format": "inap"
+  },
+  {
+    "id": 1116,
+    "question": "Una Consejería compra 200 licencias estándar de software por 250.000 € de VE. ¿Qué tipo contractual es?",
+    "answer": "Suministro",
+    "options": [
+      "Obras",
+      "Servicios a medida",
+      "Suministro",
+      "Concesión de servicios"
+    ],
+    "reference": "LCSP art. 16",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El software estándar es suministro.",
+    "format": "inap"
+  },
+  {
+    "id": 1117,
+    "question": "Un ayuntamiento encarga programar desde cero una aplicación específica. ¿Qué clase de contrato resulta?",
+    "answer": "Servicios",
+    "options": [
+      "Obras por tener resultado digital",
+      "Concesión de servicios",
+      "Suministro por tratarse de software",
+      "Servicios"
+    ],
+    "reference": "LCSP art. 16.3.b",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El programa desarrollado a medida es excepción al suministro de software.",
+    "format": "inap"
+  },
+  {
+    "id": 1118,
+    "question": "Una Administración realiza un contrato mixto para comprar equipos (90.000 € VE) y prestar servicios (30.000 € VE) vinculados. ¿Qué prestación principal tiene?",
+    "answer": "Suministro",
+    "options": [
+      "Obras",
+      "Concesión de servicios",
+      "Suministro",
+      "Servicios por figurar en el mismo contrato"
+    ],
+    "reference": "LCSP art. 18.1.a",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "En suministros + servicios se compara el mayor VE: 90.000 €.",
+    "format": "inap"
+  },
+  {
+    "id": 1119,
+    "question": "Se licita de forma conjunta suministro por VE 40.000 € y servicios por VE 75.000 €, funcionalmente inseparables. ¿Qué prestación principal resulta?",
+    "answer": "Servicios",
+    "options": [
+      "Obras",
+      "Concesión",
+      "Suministro",
+      "Servicios"
+    ],
+    "reference": "LCSP art. 18.1.a",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El servicio supera al suministro en VE en esa combinación de contrato mixto.",
+    "format": "inap"
+  },
+  {
+    "id": 1120,
+    "question": "Un poder adjudicador subvenciona exactamente el 50 % de un hospital de 7 M€ construido por un particular. ¿Activa el art. 23 como subvencionado SARA?",
+    "answer": "No, exige más del 50 %",
+    "options": [
+      "No, porque el hospital nunca está incluido",
+      "No, exige más del 50 %",
+      "Sí, basta superar 5.404.000 €",
+      "Sí, basta el 50 %"
+    ],
+    "reference": "LCSP art. 23",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "El apoyo directo debe superar estrictamente el 50 %.",
+    "format": "inap"
+  },
+  {
+    "id": 1121,
+    "question": "Se subvenciona directamente el 60 % de una obra privada de hospital de 5.500.000 € de VE. ¿Cabe la calificación del art. 23?",
+    "answer": "Sí, contrato subvencionado SARA",
+    "options": [
+      "No, porque el umbral es 6 millones",
+      "No, por ser promotor privado",
+      "No, porque exige el 100 % de subvención",
+      "Sí, contrato subvencionado SARA"
+    ],
+    "reference": "LCSP art. 23.1.a",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "Objeto, VE y ayuda directa reúnen las condiciones del art. 23.",
+    "format": "inap"
+  },
+  {
+    "id": 1122,
+    "question": "Un poder adjudicador adjudica una concesión de servicio no sanitario sin obras y fija 30 años sin justificación excepcional legal. ¿Qué sucede?",
+    "answer": "Supera el límite ordinario de 25 años",
+    "options": [
+      "Está dentro del límite de 40 años",
+      "Supera el límite ordinario de 25 años",
+      "Siempre debe durar exactamente 30 años",
+      "La concesión no tiene límites temporales"
+    ],
+    "reference": "LCSP art. 29.6",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La concesión de servicios no sanitaria y sin obras se limita a 25 años.",
+    "format": "inap"
+  },
+  {
+    "id": 1123,
+    "question": "Un hospital público contrata una concesión de servicios sanitarios, sin ejecución de obras, por 15 años. ¿Es conforme al límite ordinario?",
+    "answer": "No, supera el máximo ordinario de 10 años",
+    "options": [
+      "Sí, si el empresario se compromete a prorrogar",
+      "No, supera el máximo ordinario de 10 años",
+      "Sí, por quedar por debajo de 25 años",
+      "Sí, todas las concesiones tienen 40 años"
+    ],
+    "reference": "LCSP art. 29.6.c",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La regla específica sanitaria sin obras tiene tope de diez años.",
+    "format": "inap"
+  },
+  {
+    "id": 1124,
+    "question": "Un servicio de limpieza lleva 4 años de duración inicial y se pretende prorrogar ordinariamente 2 años, sin excepción de inversiones. ¿Procede?",
+    "answer": "No, la suma supera 5 años",
+    "options": [
+      "No, la suma supera 5 años",
+      "Sí, porque cada prórroga dura menos de 3 años",
+      "Sí, siempre que haya consentimiento tácito",
+      "Sí, el límite es de 10 años"
+    ],
+    "reference": "LCSP art. 29.4",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "4+2 son 6 años y exceden el máximo ordinario de servicios sucesivos.",
+    "format": "inap"
+  },
+  {
+    "id": 1125,
+    "question": "Un contrato menor se pacta por ocho meses y el órgano desea prorrogarlo otros cuatro. ¿Qué permite la LCSP?",
+    "answer": "No admite prórroga, aunque no se alcance un año",
+    "options": [
+      "No admite prórroga, aunque no se alcance un año",
+      "Permite hasta cinco años en total",
+      "La prórroga se produce automáticamente",
+      "Permite una prórroga hasta doce meses"
+    ],
+    "reference": "LCSP art. 29.8",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La prohibición de prórroga es independiente de no alcanzar un año de duración.",
+    "format": "inap"
+  },
+  {
+    "id": 1126,
+    "question": "Un ayuntamiento divide un contrato de 250.000 € de suministro en cinco lotes de 50.000 €. ¿Cómo se comprueba si el contrato es SARA?",
+    "answer": "Sumando el VE de los cinco lotes",
+    "options": [
+      "Comparando cada lote aisladamente con 216.000 €",
+      "Sumando el VE de los cinco lotes",
+      "Atendiendo solo al lote más caro",
+      "Dividiendo el total entre cinco"
+    ],
+    "reference": "LCSP art. 21.2",
+    "category": "Contratos del Sector Público · Tema 1",
+    "topic": "Título preliminar",
+    "difficulty": 3,
+    "source": "LCSP 9/2017 (BOE consolidado 09/04/2026) · Resumen visual Tema 1",
+    "explanation": "La regla general para el umbral SARA es atender al VE acumulado de los lotes.",
+    "format": "inap"
   }
 ]
