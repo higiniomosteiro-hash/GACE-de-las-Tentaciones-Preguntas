@@ -1,0 +1,5486 @@
+[
+  {
+    "id": 901001,
+    "question": "¿Qué fecha corresponde a la aprobación parlamentaria de la CE de 1978?",
+    "answer": "31 de octubre de 1978",
+    "options": [
+      "6 de diciembre de 1978",
+      "29 de diciembre de 1978",
+      "27 de diciembre de 1978",
+      "31 de octubre de 1978"
+    ],
+    "reference": "CEF T1 §1.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.1",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901002,
+    "question": "¿En qué fecha se celebró el referéndum de la CE?",
+    "answer": "6 de diciembre de 1978",
+    "options": [
+      "6 de diciembre de 1978",
+      "29 de diciembre de 1978",
+      "27 de diciembre de 1978",
+      "31 de octubre de 1978"
+    ],
+    "reference": "CEF T1 §1.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.1",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901003,
+    "question": "¿Cuándo fue sancionada la CE de 1978?",
+    "answer": "27 de diciembre de 1978",
+    "options": [
+      "29 de diciembre de 1978",
+      "6 de diciembre de 1978",
+      "27 de diciembre de 1978",
+      "31 de octubre de 1978"
+    ],
+    "reference": "CEF T1 §1.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.1",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901004,
+    "question": "¿Qué día se publicó y entró en vigor la Constitución española?",
+    "answer": "29 de diciembre de 1978",
+    "options": [
+      "28 de diciembre de 1978",
+      "27 de diciembre de 1978",
+      "29 de diciembre de 1978",
+      "30 de diciembre de 1978"
+    ],
+    "reference": "CEF T1 §1.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.1",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901005,
+    "question": "¿Cuándo se celebraron las elecciones constituyentes?",
+    "answer": "15 de junio de 1977",
+    "options": [
+      "4 de enero de 1977",
+      "31 de octubre de 1978",
+      "20 de noviembre de 1975",
+      "15 de junio de 1977"
+    ],
+    "reference": "CEF T1 §1.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.1",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901006,
+    "question": "¿Cuántos diputados integraron la Comisión de Asuntos Constitucionales y Libertades Públicas?",
+    "answer": "36",
+    "options": [
+      "36",
+      "37",
+      "39",
+      "35"
+    ],
+    "reference": "CEF T1 §1.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.1",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901007,
+    "question": "¿Cuántos miembros tuvo la Ponencia constitucional?",
+    "answer": "7",
+    "options": [
+      "9",
+      "7",
+      "6",
+      "8"
+    ],
+    "reference": "CEF T1 §1.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.1",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901008,
+    "question": "¿Cuántos ponentes constitucionales pertenecieron a UCD?",
+    "answer": "3",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "reference": "CEF T1 §1.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.1",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901009,
+    "question": "¿Qué órgano redactó el anteproyecto constitucional?",
+    "answer": "La Ponencia constitucional",
+    "options": [
+      "La Comisión Permanente del Congreso",
+      "La Diputación Permanente del Senado",
+      "El Consejo de Estado",
+      "La Ponencia constitucional"
+    ],
+    "reference": "CEF T1 §1.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.1",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901010,
+    "question": "¿Cuántos artículos tiene la Constitución española de 1978?",
+    "answer": "169",
+    "options": [
+      "169",
+      "167",
+      "170",
+      "168"
+    ],
+    "reference": "CEF T1 §1.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.2",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901011,
+    "question": "¿En qué título se regula la reforma de la CE?",
+    "answer": "Título X",
+    "options": [
+      "Título IX",
+      "Título VII",
+      "Título X",
+      "Título VIII"
+    ],
+    "reference": "CE 166 a 169",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CE 166 a 169",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901012,
+    "question": "¿Cuántas reformas de la CE se mencionan en el CEF de noviembre de 2026?",
+    "answer": "4",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "2"
+    ],
+    "reference": "CEF T1 §1.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.2",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901013,
+    "question": "¿Qué artículo se reformó en 1992?",
+    "answer": "Artículo 13.2",
+    "options": [
+      "Artículo 13.1",
+      "Artículo 23.2",
+      "Artículo 69.3",
+      "Artículo 13.2"
+    ],
+    "reference": "CEF T1 §1.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.2",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901014,
+    "question": "¿Qué artículo se reformó en 2011?",
+    "answer": "Artículo 135",
+    "options": [
+      "Artículo 135",
+      "Artículo 136",
+      "Artículo 133",
+      "Artículo 134"
+    ],
+    "reference": "CEF T1 §1.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.2",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901015,
+    "question": "¿Qué artículo se reformó en febrero de 2024?",
+    "answer": "Artículo 49",
+    "options": [
+      "Artículo 51",
+      "Artículo 49",
+      "Artículo 48",
+      "Artículo 50"
+    ],
+    "reference": "CEF T1 §1.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.2",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901016,
+    "question": "¿Qué artículo se reformó en mayo de 2026?",
+    "answer": "Artículo 69.3",
+    "options": [
+      "Artículo 69.3",
+      "Artículo 68.3",
+      "Artículo 69.2",
+      "Artículo 69.4"
+    ],
+    "reference": "CEF T1 §1.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.2",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901017,
+    "question": "¿Qué isla obtuvo un senador propio por la reforma constitucional de 2026?",
+    "answer": "Formentera",
+    "options": [
+      "Ibiza",
+      "Menorca",
+      "Lanzarote",
+      "Formentera"
+    ],
+    "reference": "CEF T1 §1.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.2",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901018,
+    "question": "¿Cuándo fue sancionada la reforma del artículo 69.3 de la CE?",
+    "answer": "19 de mayo de 2026",
+    "options": [
+      "19 de mayo de 2026",
+      "26 de marzo de 2026",
+      "22 de abril de 2026",
+      "20 de mayo de 2026"
+    ],
+    "reference": "CEF T1 §1.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.2",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901019,
+    "question": "¿Cuándo entró en vigor la reforma constitucional de 2026?",
+    "answer": "20 de mayo de 2026",
+    "options": [
+      "19 de mayo de 2026",
+      "22 de abril de 2026",
+      "20 de mayo de 2026",
+      "21 de mayo de 2026"
+    ],
+    "reference": "CEF T1 §1.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.2",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901020,
+    "question": "¿Cuándo se sancionó la reforma del artículo 49 de la CE?",
+    "answer": "15 de febrero de 2024",
+    "options": [
+      "18 de enero de 2024",
+      "17 de febrero de 2024",
+      "15 de febrero de 2024",
+      "25 de enero de 2024"
+    ],
+    "reference": "CEF T1 §1.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.2",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901021,
+    "question": "¿Cuándo se sancionó la reforma constitucional del artículo 135?",
+    "answer": "27 de septiembre de 2011",
+    "options": [
+      "26 de agosto de 2011",
+      "7 de septiembre de 2011",
+      "2 de septiembre de 2011",
+      "27 de septiembre de 2011"
+    ],
+    "reference": "CEF T1 §1.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.2",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901022,
+    "question": "¿Cuándo se sancionó la primera reforma constitucional de 1978?",
+    "answer": "27 de agosto de 1992",
+    "options": [
+      "27 de agosto de 1992",
+      "22 de julio de 1992",
+      "30 de julio de 1992",
+      "28 de agosto de 1992"
+    ],
+    "reference": "CEF T1 §1.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CEF T1 §1.2",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901023,
+    "question": "¿Qué mayoría exige por regla general el artículo 167 para aprobar una reforma?",
+    "answer": "Tres quintos de cada Cámara",
+    "options": [
+      "Tres quintos del Congreso y mayoría absoluta del Senado",
+      "Tres quintos de cada Cámara",
+      "Dos tercios de cada Cámara",
+      "Mayoría absoluta de ambas Cámaras"
+    ],
+    "reference": "CE 167.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CE 167.1",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901024,
+    "question": "¿Qué órgano intenta resolver la falta de acuerdo entre Cámaras en el artículo 167?",
+    "answer": "Comisión paritaria de diputados y senadores",
+    "options": [
+      "Comisión paritaria de diputados y senadores",
+      "Diputación Permanente del Congreso",
+      "Comisión exclusiva del Senado",
+      "Tribunal Constitucional"
+    ],
+    "reference": "CE 167.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CE 167.1",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901025,
+    "question": "¿Qué mayoría requiere el Senado en la alternativa del artículo 167.2?",
+    "answer": "Mayoría absoluta",
+    "options": [
+      "Tres quintos",
+      "Dos tercios",
+      "Mayoría simple",
+      "Mayoría absoluta"
+    ],
+    "reference": "CE 167.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CE 167.2",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901026,
+    "question": "¿Qué mayoría necesita el Congreso en la vía subsidiaria del artículo 167.2?",
+    "answer": "Dos tercios",
+    "options": [
+      "Dos tercios",
+      "Mayoría simple",
+      "Mayoría absoluta",
+      "Tres quintos"
+    ],
+    "reference": "CE 167.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CE 167.2",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901027,
+    "question": "¿Qué fracción de una Cámara puede pedir referéndum en una reforma ordinaria?",
+    "answer": "Una décima parte",
+    "options": [
+      "Una quinta parte",
+      "Un tercio",
+      "Una décima parte",
+      "Una cuarta parte"
+    ],
+    "reference": "CE 167.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CE 167.3",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901028,
+    "question": "¿En qué plazo puede solicitarse referéndum para ratificar una reforma del artículo 167?",
+    "answer": "15 días",
+    "options": [
+      "30 días",
+      "20 días",
+      "15 días",
+      "60 días"
+    ],
+    "reference": "CE 167.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CE 167.3",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901029,
+    "question": "¿Qué mayoría exige el artículo 168 para aprobar el principio de reforma?",
+    "answer": "Dos tercios de cada Cámara",
+    "options": [
+      "Tres quintos de cada Cámara",
+      "Mayoría absoluta de cada Cámara",
+      "Dos tercios del Congreso y mayoría absoluta del Senado",
+      "Dos tercios de cada Cámara"
+    ],
+    "reference": "CE 168.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CE 168.1",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901030,
+    "question": "¿Qué ocurre tras aprobar el principio de reforma constitucional agravada?",
+    "answer": "Disolución inmediata de las Cortes",
+    "options": [
+      "Disolución inmediata de las Cortes",
+      "Entrada en vigor del nuevo texto",
+      "Veto definitivo del Senado",
+      "Referéndum sin nuevas elecciones"
+    ],
+    "reference": "CE 168.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CE 168.1",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901031,
+    "question": "¿Qué procedimiento de reforma constitucional exige siempre referéndum?",
+    "answer": "El del artículo 168",
+    "options": [
+      "Todos sin excepción",
+      "El del artículo 168",
+      "El del artículo 167",
+      "El del artículo 166"
+    ],
+    "reference": "CE 168.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CE 168.3",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901032,
+    "question": "¿Qué título completo, si se reforma, obliga a seguir el procedimiento agravado?",
+    "answer": "Título II",
+    "options": [
+      "Título II",
+      "Título III",
+      "Título VIII",
+      "Título IX"
+    ],
+    "reference": "CE 168.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CE 168.1",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901033,
+    "question": "¿Qué parte del título I requiere el procedimiento agravado si se reforma?",
+    "answer": "Sección 1.ª del capítulo II",
+    "options": [
+      "Sección 2.ª del capítulo II",
+      "Capítulo IV",
+      "Capítulo III",
+      "Sección 1.ª del capítulo II"
+    ],
+    "reference": "CE 168.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CE 168.1",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901034,
+    "question": "¿Qué situación impide iniciar la reforma constitucional conforme al artículo 169?",
+    "answer": "Vigencia del estado de alarma",
+    "options": [
+      "Vigencia del estado de alarma",
+      "Gobierno en funciones",
+      "Prórroga de los PGE",
+      "Elecciones locales"
+    ],
+    "reference": "CE 169",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CE 169",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901035,
+    "question": "¿Qué artículos de la CE regulan su reforma?",
+    "answer": "166 a 169",
+    "options": [
+      "159 a 165",
+      "165 a 168",
+      "166 a 169",
+      "164 a 169"
+    ],
+    "reference": "CE Título X",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CE Título X",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901036,
+    "question": "¿Qué artículos forman el Título Preliminar de la CE?",
+    "answer": "Del 1 al 9",
+    "options": [
+      "Del 1 al 8",
+      "Del 1 al 10",
+      "Del 1 al 9",
+      "Del 2 al 9"
+    ],
+    "reference": "CE Título Preliminar",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CE Título Preliminar",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901037,
+    "question": "¿Cuál es la forma política del Estado según el artículo 1.3?",
+    "answer": "Monarquía parlamentaria",
+    "options": [
+      "Monarquía presidencialista",
+      "República parlamentaria",
+      "Monarquía federal",
+      "Monarquía parlamentaria"
+    ],
+    "reference": "CE 1.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CE 1.3",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901038,
+    "question": "¿Dónde reside la soberanía nacional según el artículo 1.2?",
+    "answer": "En el pueblo español",
+    "options": [
+      "En el pueblo español",
+      "En el Rey",
+      "En las comunidades autónomas",
+      "En las Cortes Generales"
+    ],
+    "reference": "CE 1.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "CEF Organización del Estado, tema 1 (noviembre 2026); CE 1.2",
+    "origin": "nueva pregunta específica"
+  },
+  {
+    "id": 901039,
+    "question": "¿Qué artículos comprende el Título Preliminar de la CE?",
+    "answer": "Del 1 al 9",
+    "options": [
+      "Del 1 al 10",
+      "Del 1 al 9",
+      "Del 1 al 14",
+      "Del 10 al 55"
+    ],
+    "reference": "CE Título Preliminar",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título Preliminar.",
+    "origin_id": 791,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901040,
+    "question": "¿Cuál es el intervalo general de artículos del Título I de la CE?",
+    "answer": "Del 10 al 55",
+    "options": [
+      "Del 1 al 55",
+      "Del 15 al 29",
+      "Del 10 al 55",
+      "Del 14 al 53"
+    ],
+    "reference": "CE Título I",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título I.",
+    "origin_id": 792,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901041,
+    "question": "¿Qué artículos comprende el capítulo primero del Título I de la CE?",
+    "answer": "Del 11 al 13",
+    "options": [
+      "Del 14 al 29",
+      "Del 15 al 29",
+      "Del 10 al 14",
+      "Del 11 al 13"
+    ],
+    "reference": "CE Título I, capítulo I",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título I, capítulo I.",
+    "origin_id": 793,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901042,
+    "question": "¿Dónde se encuentra el artículo 14 de la CE?",
+    "answer": "Título I, capítulo II, antes de sus dos secciones",
+    "options": [
+      "Título I, capítulo I",
+      "Título I, capítulo II, antes de sus dos secciones",
+      "Título Preliminar",
+      "Título I, capítulo II, sección primera"
+    ],
+    "reference": "CE Título I, capítulo II",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título I, capítulo II.",
+    "origin_id": 794,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901043,
+    "question": "¿Qué artículos comprende la sección primera del capítulo segundo del Título I?",
+    "answer": "Del 15 al 29",
+    "options": [
+      "Del 11 al 29",
+      "Del 14 al 29",
+      "Del 15 al 29",
+      "Del 30 al 38"
+    ],
+    "reference": "CE Título I, capítulo II, sección 1.ª",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título I, capítulo II, sección 1.ª.",
+    "origin_id": 795,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901044,
+    "question": "¿Qué artículos comprende la sección segunda del capítulo segundo del Título I?",
+    "answer": "Del 30 al 38",
+    "options": [
+      "Del 30 al 38",
+      "Del 39 al 52",
+      "Del 31 al 40",
+      "Del 15 al 29"
+    ],
+    "reference": "CE Título I, capítulo II, sección 2.ª",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título I, capítulo II, sección 2.ª.",
+    "origin_id": 796,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901045,
+    "question": "¿Qué artículos forman el capítulo tercero del Título I de la CE?",
+    "answer": "Del 39 al 52",
+    "options": [
+      "Del 39 al 52",
+      "Del 53 al 55",
+      "Del 30 al 38",
+      "Del 39 al 55"
+    ],
+    "reference": "CE Título I, capítulo III",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título I, capítulo III.",
+    "origin_id": 797,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901046,
+    "question": "¿Qué artículos forman el capítulo cuarto del Título I de la CE?",
+    "answer": "53 y 54",
+    "options": [
+      "52 y 53",
+      "54 y 55",
+      "53 y 54",
+      "55 y 56"
+    ],
+    "reference": "CE Título I, capítulo IV",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título I, capítulo IV.",
+    "origin_id": 798,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901047,
+    "question": "¿Qué artículo integra el capítulo quinto del Título I?",
+    "answer": "El 55",
+    "options": [
+      "El 54",
+      "El 55",
+      "El 53",
+      "El 56"
+    ],
+    "reference": "CE Título I, capítulo V",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título I, capítulo V.",
+    "origin_id": 799,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901048,
+    "question": "¿Qué artículos comprende el Título II, dedicado a la Corona?",
+    "answer": "Del 56 al 65",
+    "options": [
+      "Del 55 al 65",
+      "Del 56 al 65",
+      "Del 66 al 96",
+      "Del 56 al 66"
+    ],
+    "reference": "CE Título II",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título II.",
+    "origin_id": 800,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901049,
+    "question": "¿Qué artículos contiene el Título III de la CE, dedicado a las Cortes Generales?",
+    "answer": "Del 66 al 96",
+    "options": [
+      "Del 66 al 91",
+      "Del 97 al 107",
+      "Del 66 al 96",
+      "Del 68 al 96"
+    ],
+    "reference": "CE Título III",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título III.",
+    "origin_id": 801,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901050,
+    "question": "¿En qué intervalo se sitúa el Título IV, del Gobierno y la Administración?",
+    "answer": "Del 97 al 107",
+    "options": [
+      "Del 90 al 107",
+      "Del 97 al 107",
+      "Del 108 al 116",
+      "Del 97 al 116"
+    ],
+    "reference": "CE Título IV",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título IV.",
+    "origin_id": 802,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901051,
+    "question": "¿Qué artículos recoge el Título V, sobre relaciones Gobierno-Cortes?",
+    "answer": "Del 108 al 116",
+    "options": [
+      "Del 108 al 127",
+      "Del 97 al 107",
+      "Del 108 al 116",
+      "Del 117 al 127"
+    ],
+    "reference": "CE Título V",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título V.",
+    "origin_id": 803,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901052,
+    "question": "¿Qué artículos contiene el Título VI, del Poder Judicial?",
+    "answer": "Del 117 al 127",
+    "options": [
+      "Del 128 al 136",
+      "Del 117 al 127",
+      "Del 116 al 127",
+      "Del 117 al 136"
+    ],
+    "reference": "CE Título VI",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título VI.",
+    "origin_id": 804,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901053,
+    "question": "¿Qué artículos comprende el Título VII, de Economía y Hacienda?",
+    "answer": "Del 128 al 136",
+    "options": [
+      "Del 128 al 137",
+      "Del 137 al 158",
+      "Del 127 al 135",
+      "Del 128 al 136"
+    ],
+    "reference": "CE Título VII",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título VII.",
+    "origin_id": 805,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901054,
+    "question": "¿Qué artículos comprende el Título VIII, de la organización territorial?",
+    "answer": "Del 137 al 158",
+    "options": [
+      "Del 137 al 159",
+      "Del 159 al 165",
+      "Del 137 al 158",
+      "Del 138 al 155"
+    ],
+    "reference": "CE Título VIII",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título VIII.",
+    "origin_id": 806,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901055,
+    "question": "¿Qué artículos componen el Título IX de la CE?",
+    "answer": "Del 159 al 165",
+    "options": [
+      "Del 158 al 165",
+      "Del 159 al 165",
+      "Del 159 al 169",
+      "Del 160 al 166"
+    ],
+    "reference": "CE Título IX",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título IX.",
+    "origin_id": 807,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901056,
+    "question": "¿Qué artículos comprende el Título X de la CE?",
+    "answer": "Del 166 al 169",
+    "options": [
+      "Del 159 al 169",
+      "Del 166 al 169",
+      "Del 165 al 169",
+      "Del 167 al 169"
+    ],
+    "reference": "CE Título X",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título X.",
+    "origin_id": 808,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901057,
+    "question": "¿En qué Título constitucional se regula la reforma de la CE?",
+    "answer": "Título X",
+    "options": [
+      "Título IX",
+      "Título III",
+      "Título VIII",
+      "Título X"
+    ],
+    "reference": "CE Título X",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título X.",
+    "origin_id": 809,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901058,
+    "question": "¿En qué Título se regula el Tribunal Constitucional?",
+    "answer": "Título IX",
+    "options": [
+      "Título VI",
+      "Título IX",
+      "Título III",
+      "Título X"
+    ],
+    "reference": "CE Título IX",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La estructura de la CE sitúa esa materia en Título IX.",
+    "origin_id": 810,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901059,
+    "question": "Completa el artículo 1.2 CE: «La soberanía nacional reside en ...»",
+    "answer": "el pueblo español",
+    "options": [
+      "el Estado español",
+      "las Cortes Generales",
+      "el Congreso de los Diputados",
+      "el pueblo español"
+    ],
+    "reference": "CE 1.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La opción correcta coincide con la formulación del artículo 1.2 CE.",
+    "origin_id": 811,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901060,
+    "question": "Completa el artículo 1.3 CE: «La forma política del Estado español es la ...»",
+    "answer": "Monarquía parlamentaria",
+    "options": [
+      "Monarquía constitucional federal",
+      "Monarquía parlamentaria",
+      "Monarquía presidencial",
+      "República parlamentaria"
+    ],
+    "reference": "CE 1.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La opción correcta coincide con la formulación del artículo 1.3 CE.",
+    "origin_id": 812,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901061,
+    "question": "El artículo 9.3 CE garantiza, entre otros, ¿qué principio formulado expresamente?",
+    "answer": "La interdicción de la arbitrariedad de los poderes públicos",
+    "options": [
+      "La subordinación de los jueces al Gobierno",
+      "La supremacía de toda orden ministerial",
+      "La prevalencia de toda norma posterior",
+      "La interdicción de la arbitrariedad de los poderes públicos"
+    ],
+    "reference": "CE 9.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La opción correcta coincide con la formulación del artículo 9.3 CE.",
+    "origin_id": 813,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901062,
+    "question": "Completa el artículo 69.1 CE: «El Senado es la Cámara de representación ...»",
+    "answer": "territorial",
+    "options": [
+      "territorial",
+      "popular",
+      "provincial exclusiva",
+      "municipal"
+    ],
+    "reference": "CE 69.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La opción correcta coincide con la formulación del artículo 69.1 CE.",
+    "origin_id": 817,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901063,
+    "question": "¿Qué mayoría exige literalmente el artículo 81.2 para las leyes orgánicas?",
+    "answer": "mayoría absoluta del Congreso",
+    "options": [
+      "mayoría absoluta del Congreso",
+      "mayoría absoluta del Senado",
+      "mayoría simple de ambas Cámaras",
+      "tres quintos de cada Cámara"
+    ],
+    "reference": "CE 81.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La opción correcta coincide con la formulación del artículo 81.2 CE.",
+    "origin_id": 818,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901064,
+    "question": "¿Qué expresión utiliza el artículo 86.1 para habilitar el decreto-ley?",
+    "answer": "extraordinaria y urgente necesidad",
+    "options": [
+      "extraordinaria y urgente necesidad",
+      "necesidad ordinaria y sobrevenida",
+      "urgencia justificada por el Senado",
+      "extraordinaria o urgente necesidad"
+    ],
+    "reference": "CE 86.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La opción correcta coincide con la formulación del artículo 86.1 CE.",
+    "origin_id": 819,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901065,
+    "question": "Completa el artículo 103.1 CE: «La Administración Pública sirve con ... los intereses generales».",
+    "answer": "objetividad",
+    "options": [
+      "autonomía judicial",
+      "arbitrariedad",
+      "objetividad",
+      "neutralidad procesal únicamente"
+    ],
+    "reference": "CE 103.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La opción correcta coincide con la formulación del artículo 103.1 CE.",
+    "origin_id": 820,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901066,
+    "question": "¿De quién emana la justicia según el artículo 117.1 CE?",
+    "answer": "del pueblo",
+    "options": [
+      "del pueblo",
+      "del Congreso",
+      "del Gobierno",
+      "del Rey exclusivamente"
+    ],
+    "reference": "CE 117.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La opción correcta coincide con la formulación del artículo 117.1 CE.",
+    "origin_id": 821,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901067,
+    "question": "Completa el artículo 137 CE: «El Estado se organiza territorialmente en municipios, en provincias y en las ...».",
+    "answer": "Comunidades Autónomas que se constituyan",
+    "options": [
+      "provincias de régimen especial",
+      "Comunidades Autónomas que se constituyan",
+      "delegaciones del Gobierno",
+      "regiones de régimen común"
+    ],
+    "reference": "CE 137",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La opción correcta coincide con la formulación del artículo 137 CE.",
+    "origin_id": 822,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901068,
+    "question": "Completa el artículo 167.1 CE: «Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de ... de cada una de las Cámaras».",
+    "answer": "tres quintos",
+    "options": [
+      "mayoría absoluta",
+      "mayoría simple",
+      "tres quintos",
+      "dos tercios"
+    ],
+    "reference": "CE 167.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "La opción correcta coincide con la formulación del artículo 167.1 CE.",
+    "origin_id": 823,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901069,
+    "question": "¿Cuántos años dura el mandato del Congreso de los Diputados?",
+    "answer": "4 años",
+    "options": [
+      "6 años",
+      "3 años",
+      "5 años",
+      "4 años"
+    ],
+    "reference": "CE 68.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "origin_id": 67,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901070,
+    "question": "¿Cuánto dura la legislatura del Congreso, salvo disolución anticipada?",
+    "answer": "4 años",
+    "options": [
+      "3 años",
+      "6 años",
+      "5 años",
+      "4 años"
+    ],
+    "reference": "CE 68.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "origin_id": 68,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901071,
+    "question": "¿Cuántos años dura el mandato del Senado?",
+    "answer": "4 años",
+    "options": [
+      "6 años",
+      "4 años",
+      "3 años",
+      "5 años"
+    ],
+    "reference": "CE 69.6",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "origin_id": 69,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901072,
+    "question": "¿Cuál es la duración ordinaria del mandato de los senadores?",
+    "answer": "4 años",
+    "options": [
+      "3 años",
+      "5 años",
+      "6 años",
+      "4 años"
+    ],
+    "reference": "CE 69.6",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 70,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901073,
+    "question": "¿Cuál es el mínimo de diputados que permite la Constitución?",
+    "answer": "300",
+    "options": [
+      "250",
+      "300",
+      "400",
+      "350"
+    ],
+    "reference": "CE 68.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 71,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901074,
+    "question": "Según la Constitución, ¿cuál es el número mínimo de diputados?",
+    "answer": "300",
+    "options": [
+      "350",
+      "400",
+      "250",
+      "300"
+    ],
+    "reference": "CE 68.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 72,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901075,
+    "question": "¿Cuál es el máximo de diputados que permite la Constitución?",
+    "answer": "400",
+    "options": [
+      "450",
+      "400",
+      "350",
+      "300"
+    ],
+    "reference": "CE 68.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 73,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901076,
+    "question": "Según la Constitución, ¿cuál es el número máximo de diputados?",
+    "answer": "400",
+    "options": [
+      "450",
+      "300",
+      "350",
+      "400"
+    ],
+    "reference": "CE 68.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 74,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901077,
+    "question": "¿Cuántos senadores se eligen por cada provincia peninsular?",
+    "answer": "4",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "5"
+    ],
+    "reference": "CE 69.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "origin_id": 75,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901078,
+    "question": "¿Qué número de senadores corresponde elegir a cada provincia peninsular?",
+    "answer": "4",
+    "options": [
+      "6",
+      "3",
+      "5",
+      "4"
+    ],
+    "reference": "CE 69.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "origin_id": 76,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901079,
+    "question": "¿Cuántos senadores elige cada isla mayor de las tres citadas en el art. 69.3 CE?",
+    "answer": "3",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "reference": "CE 69.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "origin_id": 77,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901080,
+    "question": "En las islas mayores contempladas en la Constitución, ¿cuántos senadores se eligen por isla?",
+    "answer": "3",
+    "options": [
+      "2",
+      "5",
+      "4",
+      "3"
+    ],
+    "reference": "CE 69.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "origin_id": 78,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901081,
+    "question": "¿Cuántos senadores elige cada isla menor o agrupación insular prevista en el art. 69.3 CE?",
+    "answer": "1",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "reference": "CE 69.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "origin_id": 79,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901082,
+    "question": "En las islas menores o agrupaciones insulares, ¿cuántos senadores se eligen en cada circunscripción?",
+    "answer": "1",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "reference": "CE 69.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "origin_id": 80,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901083,
+    "question": "¿Cuántos senadores elige Ceuta?",
+    "answer": "2",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "reference": "CE 69.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "origin_id": 81,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901084,
+    "question": "¿Cuántos representantes en el Senado elige la ciudad de Ceuta?",
+    "answer": "2",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "reference": "CE 69.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 82,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901085,
+    "question": "¿Cuántos senadores elige Melilla?",
+    "answer": "2",
+    "options": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "reference": "CE 69.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "origin_id": 83,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901086,
+    "question": "¿Cuántos representantes en el Senado elige la ciudad de Melilla?",
+    "answer": "2",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "reference": "CE 69.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 84,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901087,
+    "question": "¿Cuántos senadores designa inicialmente cada comunidad autónoma?",
+    "answer": "1",
+    "options": [
+      "4",
+      "1",
+      "3",
+      "2"
+    ],
+    "reference": "CE 69.5",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "origin_id": 85,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901088,
+    "question": "¿Cuántos senadores corresponden de partida a cada comunidad autónoma?",
+    "answer": "1",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "reference": "CE 69.5",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "origin_id": 86,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901089,
+    "question": "¿Por cada cuántos habitantes se designa un senador autonómico adicional?",
+    "answer": "1 millón",
+    "options": [
+      "1 millón",
+      "500.000",
+      "2 millones",
+      "250.000"
+    ],
+    "reference": "CE 69.5",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 87,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901090,
+    "question": "¿Qué población da derecho a un senador autonómico adicional?",
+    "answer": "1 millón",
+    "options": [
+      "500.000",
+      "2 millones",
+      "1 millón",
+      "250.000"
+    ],
+    "reference": "CE 69.5",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 88,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901091,
+    "question": "¿En cuántos días, desde las elecciones, debe convocarse el Congreso electo?",
+    "answer": "25 días",
+    "options": [
+      "15 días",
+      "30 días",
+      "20 días",
+      "25 días"
+    ],
+    "reference": "CE 68.6",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 89,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901092,
+    "question": "Tras unas elecciones generales, ¿en qué plazo debe convocarse el Congreso electo?",
+    "answer": "25 días",
+    "options": [
+      "25 días",
+      "30 días",
+      "15 días",
+      "20 días"
+    ],
+    "reference": "CE 68.6",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 90,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901093,
+    "question": "¿Qué mayoría de miembros de cada Cámara puede solicitar una sesión extraordinaria?",
+    "answer": "mayoría absoluta",
+    "options": [
+      "1/3",
+      "mayoría absoluta",
+      "1/5",
+      "3/5"
+    ],
+    "reference": "CE 73.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 91,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901094,
+    "question": "¿Qué mayoría de una Cámara puede pedir que se reúna en sesión extraordinaria?",
+    "answer": "mayoría absoluta",
+    "options": [
+      "1/3",
+      "1/5",
+      "3/5",
+      "mayoría absoluta"
+    ],
+    "reference": "CE 73.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 92,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901095,
+    "question": "¿Qué fracción de una Cámara puede solicitar referéndum en la reforma ordinaria de la Constitución?",
+    "answer": "1/10",
+    "options": [
+      "1/10",
+      "1/3",
+      "1/5",
+      "1/4"
+    ],
+    "reference": "CE 167.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 93,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901096,
+    "question": "¿Qué proporción de diputados o senadores puede exigir referéndum sobre una reforma ordinaria?",
+    "answer": "1/10",
+    "options": [
+      "1/4",
+      "1/10",
+      "1/3",
+      "1/5"
+    ],
+    "reference": "CE 167.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 94,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901097,
+    "question": "¿Cuál es el plazo para pedir referéndum de una reforma constitucional ordinaria desde su aprobación?",
+    "answer": "15 días",
+    "options": [
+      "16 días",
+      "14 días",
+      "17 días",
+      "15 días"
+    ],
+    "reference": "CE 167.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "origin_id": 95,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901098,
+    "question": "Después de aprobarse una reforma ordinaria, ¿cuántos días hay para solicitar referéndum?",
+    "answer": "15 días",
+    "options": [
+      "17 días",
+      "16 días",
+      "14 días",
+      "15 días"
+    ],
+    "reference": "CE 167.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 96,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901099,
+    "question": "¿Qué mayoría exige cada Cámara para la reforma constitucional ordinaria?",
+    "answer": "3/5",
+    "options": [
+      "3/5",
+      "mayoría simple",
+      "mayoría absoluta",
+      "2/3"
+    ],
+    "reference": "CE 167.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 97,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901100,
+    "question": "Para aprobar una reforma ordinaria por el procedimiento general, ¿qué mayoría necesita cada Cámara?",
+    "answer": "3/5",
+    "options": [
+      "mayoría absoluta",
+      "2/3",
+      "3/5",
+      "mayoría simple"
+    ],
+    "reference": "CE 167.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 98,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901101,
+    "question": "En la vía alternativa del art. 167.2 CE, ¿qué mayoría necesita el Senado?",
+    "answer": "mayoría absoluta",
+    "options": [
+      "mayoría absoluta",
+      "2/3",
+      "3/5",
+      "mayoría simple"
+    ],
+    "reference": "CE 167.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 99,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901102,
+    "question": "En el artículo 167.2 CE, ¿qué mayoría del Senado permite acudir a la vía alternativa?",
+    "answer": "mayoría absoluta",
+    "options": [
+      "mayoría absoluta",
+      "3/5",
+      "2/3",
+      "mayoría simple"
+    ],
+    "reference": "CE 167.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 100,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901103,
+    "question": "En la vía alternativa del art. 167.2 CE, ¿qué mayoría necesita el Congreso?",
+    "answer": "2/3",
+    "options": [
+      "2/3",
+      "mayoría absoluta",
+      "3/5",
+      "mayoría simple"
+    ],
+    "reference": "CE 167.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 101,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901104,
+    "question": "Si se aplica la vía alternativa del artículo 167.2 CE, ¿qué mayoría necesita el Congreso?",
+    "answer": "2/3",
+    "options": [
+      "mayoría absoluta",
+      "3/5",
+      "2/3",
+      "mayoría simple"
+    ],
+    "reference": "CE 167.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "origin_id": 102,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901105,
+    "question": "¿Qué mayoría exige cada Cámara para aprobar inicialmente una reforma constitucional agravada?",
+    "answer": "2/3",
+    "options": [
+      "mayoría absoluta",
+      "mayoría simple",
+      "2/3",
+      "3/5"
+    ],
+    "reference": "CE 168.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 103,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901106,
+    "question": "En la primera fase de la reforma agravada, ¿con qué mayoría deben pronunciarse ambas Cámaras?",
+    "answer": "2/3",
+    "options": [
+      "3/5",
+      "2/3",
+      "mayoría simple",
+      "mayoría absoluta"
+    ],
+    "reference": "CE 168.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 104,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901107,
+    "question": "¿Qué mayoría exige cada Cámara para aprobar el nuevo texto en una reforma agravada?",
+    "answer": "2/3",
+    "options": [
+      "mayoría absoluta",
+      "2/3",
+      "mayoría simple",
+      "3/5"
+    ],
+    "reference": "CE 168.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 105,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901108,
+    "question": "Aprobado el nuevo texto de una reforma agravada, ¿qué mayoría debe alcanzarse en cada Cámara?",
+    "answer": "2/3",
+    "options": [
+      "3/5",
+      "mayoría absoluta",
+      "mayoría simple",
+      "2/3"
+    ],
+    "reference": "CE 168.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 106,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901109,
+    "question": "¿Qué plazo tiene el Senado para vetar un proyecto de ley no urgente?",
+    "answer": "2 meses",
+    "options": [
+      "2 meses",
+      "1 meses",
+      "4 meses",
+      "3 meses"
+    ],
+    "reference": "CE 90.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 107,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901110,
+    "question": "En un proyecto de ley ordinario no urgente, ¿de cuánto tiempo dispone el Senado para vetarlo?",
+    "answer": "2 meses",
+    "options": [
+      "4 meses",
+      "1 meses",
+      "3 meses",
+      "2 meses"
+    ],
+    "reference": "CE 90.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 108,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901111,
+    "question": "¿Qué plazo tiene el Senado para vetar o enmendar un proyecto declarado urgente?",
+    "answer": "20 días naturales",
+    "options": [
+      "15 días hábiles",
+      "10 días naturales",
+      "30 días naturales",
+      "20 días naturales"
+    ],
+    "reference": "CE 90.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 109,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901112,
+    "question": "Si un proyecto de ley se declara urgente, ¿cuál es el plazo del Senado para vetar o enmendar?",
+    "answer": "20 días naturales",
+    "options": [
+      "20 días naturales",
+      "10 días naturales",
+      "30 días naturales",
+      "15 días hábiles"
+    ],
+    "reference": "CE 90.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 110,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901113,
+    "question": "¿Qué mayoría necesita el Senado para vetar un proyecto de ley?",
+    "answer": "mayoría absoluta",
+    "options": [
+      "mayoría simple",
+      "mayoría absoluta",
+      "3/5",
+      "2/3"
+    ],
+    "reference": "CE 90.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 111,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901114,
+    "question": "¿Qué mayoría del Senado es necesaria para aprobar un veto legislativo?",
+    "answer": "mayoría absoluta",
+    "options": [
+      "2/3",
+      "mayoría absoluta",
+      "mayoría simple",
+      "3/5"
+    ],
+    "reference": "CE 90.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 112,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901115,
+    "question": "¿En qué plazo debe el Rey sancionar, promulgar y ordenar publicar las leyes?",
+    "answer": "15 días",
+    "options": [
+      "16 días",
+      "17 días",
+      "15 días",
+      "14 días"
+    ],
+    "reference": "CE 91",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 113,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901116,
+    "question": "Tras su aprobación, ¿en qué plazo debe sancionar el Rey una ley?",
+    "answer": "15 días",
+    "options": [
+      "14 días",
+      "17 días",
+      "16 días",
+      "15 días"
+    ],
+    "reference": "CE 91",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 114,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901117,
+    "question": "¿Qué plazo mínimo debe transcurrir, en principio, entre disoluciones a propuesta del presidente del Gobierno?",
+    "answer": "1 año",
+    "options": [
+      "3 año",
+      "2 año",
+      "4 año",
+      "1 año"
+    ],
+    "reference": "CE 115.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 115,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901118,
+    "question": "Con carácter general, ¿cuánto debe transcurrir entre dos disoluciones a propuesta del presidente del Gobierno?",
+    "answer": "1 año",
+    "options": [
+      "2 año",
+      "1 año",
+      "3 año",
+      "4 año"
+    ],
+    "reference": "CE 115.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 116,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901119,
+    "question": "¿Cuánto tiempo pasa desde la primera investidura hasta la disolución automática si nadie obtiene confianza?",
+    "answer": "2 meses",
+    "options": [
+      "1 meses",
+      "3 meses",
+      "4 meses",
+      "2 meses"
+    ],
+    "reference": "CE 99.5",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 117,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901120,
+    "question": "Si ningún candidato logra la investidura, ¿cuánto tiempo transcurre hasta la disolución automática?",
+    "answer": "2 meses",
+    "options": [
+      "3 meses",
+      "4 meses",
+      "1 meses",
+      "2 meses"
+    ],
+    "reference": "CE 99.5",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 118,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901121,
+    "question": "¿Qué mayoría se exige en la primera votación de investidura?",
+    "answer": "mayoría absoluta",
+    "options": [
+      "mayoría simple",
+      "3/5",
+      "2/3",
+      "mayoría absoluta"
+    ],
+    "reference": "CE 99.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 119,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901122,
+    "question": "En primera votación, ¿qué mayoría necesita un candidato a presidente del Gobierno?",
+    "answer": "mayoría absoluta",
+    "options": [
+      "mayoría simple",
+      "3/5",
+      "mayoría absoluta",
+      "2/3"
+    ],
+    "reference": "CE 99.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 120,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901123,
+    "question": "¿Cuántas horas separan la primera y la segunda votación de investidura?",
+    "answer": "48 horas",
+    "options": [
+      "72 horas",
+      "48 horas",
+      "96 horas",
+      "24 horas"
+    ],
+    "reference": "CE 99.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "origin_id": 121,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901124,
+    "question": "Tras la primera votación de investidura, ¿cuántas horas deben pasar hasta la segunda?",
+    "answer": "48 horas",
+    "options": [
+      "96 horas",
+      "24 horas",
+      "48 horas",
+      "72 horas"
+    ],
+    "reference": "CE 99.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "origin_id": 122,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901125,
+    "question": "¿Qué mayoría basta en la segunda votación de investidura?",
+    "answer": "mayoría simple",
+    "options": [
+      "mayoría absoluta",
+      "2/3",
+      "3/5",
+      "mayoría simple"
+    ],
+    "reference": "CE 99.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 123,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901126,
+    "question": "En segunda votación de investidura, ¿qué mayoría resulta suficiente?",
+    "answer": "mayoría simple",
+    "options": [
+      "mayoría simple",
+      "2/3",
+      "3/5",
+      "mayoría absoluta"
+    ],
+    "reference": "CE 99.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 124,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901127,
+    "question": "¿Qué fracción mínima de diputados debe proponer una moción de censura?",
+    "answer": "1/10",
+    "options": [
+      "1/5",
+      "1/10",
+      "1/3",
+      "mayoría absoluta"
+    ],
+    "reference": "CE 113.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 125,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901128,
+    "question": "¿Qué porcentaje mínimo de diputados debe suscribir una moción de censura?",
+    "answer": "1/10",
+    "options": [
+      "mayoría absoluta",
+      "1/10",
+      "1/5",
+      "1/3"
+    ],
+    "reference": "CE 113.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 126,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901129,
+    "question": "¿Cuántos días deben transcurrir antes de votar una moción de censura desde su presentación?",
+    "answer": "5 días",
+    "options": [
+      "6 días",
+      "4 días",
+      "7 días",
+      "5 días"
+    ],
+    "reference": "CE 113.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 127,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901130,
+    "question": "Presentada una moción de censura, ¿cuántos días deben pasar para poder votarla?",
+    "answer": "5 días",
+    "options": [
+      "4 días",
+      "6 días",
+      "7 días",
+      "5 días"
+    ],
+    "reference": "CE 113.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 128,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901131,
+    "question": "¿En qué plazo inicial pueden presentarse mociones de censura alternativas?",
+    "answer": "2 días",
+    "options": [
+      "1 días",
+      "4 días",
+      "2 días",
+      "3 días"
+    ],
+    "reference": "CE 113.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 129,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901132,
+    "question": "¿Durante cuántos días iniciales pueden presentarse mociones de censura alternativas?",
+    "answer": "2 días",
+    "options": [
+      "4 días",
+      "3 días",
+      "1 días",
+      "2 días"
+    ],
+    "reference": "CE 113.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 130,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901133,
+    "question": "¿Qué mayoría se exige para aprobar una moción de censura?",
+    "answer": "mayoría absoluta",
+    "options": [
+      "mayoría absoluta",
+      "mayoría simple",
+      "3/5",
+      "2/3"
+    ],
+    "reference": "CE 113.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 131,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901134,
+    "question": "¿Qué mayoría del Congreso permite aprobar una moción de censura?",
+    "answer": "mayoría absoluta",
+    "options": [
+      "3/5",
+      "mayoría absoluta",
+      "mayoría simple",
+      "2/3"
+    ],
+    "reference": "CE 113.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 132,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901135,
+    "question": "¿Cuántos días puede durar inicialmente el estado de excepción?",
+    "answer": "30 días",
+    "options": [
+      "15 días",
+      "30 días",
+      "60 días",
+      "45 días"
+    ],
+    "reference": "CE 116.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 133,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901136,
+    "question": "Sin prórroga, ¿cuántos días puede durar como máximo una declaración del estado de excepción?",
+    "answer": "30 días",
+    "options": [
+      "15 días",
+      "30 días",
+      "60 días",
+      "45 días"
+    ],
+    "reference": "CE 116.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 134,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901137,
+    "question": "¿Cuál es la duración máxima de la prórroga del estado de excepción?",
+    "answer": "30 días",
+    "options": [
+      "60 días",
+      "15 días",
+      "45 días",
+      "30 días"
+    ],
+    "reference": "CE 116.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 135,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901138,
+    "question": "¿Cuál es el máximo de días adicionales de la prórroga del estado de excepción?",
+    "answer": "30 días",
+    "options": [
+      "45 días",
+      "15 días",
+      "30 días",
+      "60 días"
+    ],
+    "reference": "CE 116.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "origin_id": 136,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901139,
+    "question": "¿Qué artículo de la Constitución Española regula la soberanía nacional y la forma política del Estado?",
+    "answer": "Artículo 1",
+    "options": [
+      "Artículo 4",
+      "Artículo 2",
+      "Artículo 1",
+      "Artículo 3"
+    ],
+    "reference": "CE, artículo 1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 1 de la CE se ocupa de la soberanía nacional y la forma política del Estado.",
+    "origin_id": 367,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901140,
+    "question": "¿Qué artículo de la Constitución Española regula la unidad de España y el derecho a la autonomía?",
+    "answer": "Artículo 2",
+    "options": [
+      "Artículo 1",
+      "Artículo 3",
+      "Artículo 2",
+      "Artículo 4"
+    ],
+    "reference": "CE, artículo 2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 2 de la CE se ocupa de la unidad de España y el derecho a la autonomía.",
+    "origin_id": 369,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901141,
+    "question": "¿Qué artículo de la Constitución Española regula las lenguas españolas y su oficialidad?",
+    "answer": "Artículo 3",
+    "options": [
+      "Artículo 4",
+      "Artículo 2",
+      "Artículo 5",
+      "Artículo 3"
+    ],
+    "reference": "CE, artículo 3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 3 de la CE se ocupa de las lenguas españolas y su oficialidad.",
+    "origin_id": 371,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901142,
+    "question": "¿Qué artículo de la Constitución Española regula la bandera de España y las banderas autonómicas?",
+    "answer": "Artículo 4",
+    "options": [
+      "Artículo 5",
+      "Artículo 4",
+      "Artículo 6",
+      "Artículo 3"
+    ],
+    "reference": "CE, artículo 4",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 4 de la CE se ocupa de la bandera de España y las banderas autonómicas.",
+    "origin_id": 373,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901143,
+    "question": "¿Qué artículo de la Constitución Española regula la capital del Estado?",
+    "answer": "Artículo 5",
+    "options": [
+      "Artículo 6",
+      "Artículo 5",
+      "Artículo 4",
+      "Artículo 7"
+    ],
+    "reference": "CE, artículo 5",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 5 de la CE se ocupa de la capital del Estado.",
+    "origin_id": 375,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901144,
+    "question": "¿Qué artículo de la Constitución Española regula los partidos políticos?",
+    "answer": "Artículo 6",
+    "options": [
+      "Artículo 7",
+      "Artículo 5",
+      "Artículo 6",
+      "Artículo 8"
+    ],
+    "reference": "CE, artículo 6",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 6 de la CE se ocupa de los partidos políticos.",
+    "origin_id": 377,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901145,
+    "question": "¿Qué artículo de la Constitución Española regula los sindicatos y las asociaciones empresariales?",
+    "answer": "Artículo 7",
+    "options": [
+      "Artículo 8",
+      "Artículo 6",
+      "Artículo 9",
+      "Artículo 7"
+    ],
+    "reference": "CE, artículo 7",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 7 de la CE se ocupa de los sindicatos y las asociaciones empresariales.",
+    "origin_id": 379,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901146,
+    "question": "¿Qué artículo de la Constitución Española regula las Fuerzas Armadas?",
+    "answer": "Artículo 8",
+    "options": [
+      "Artículo 9",
+      "Artículo 10",
+      "Artículo 8",
+      "Artículo 7"
+    ],
+    "reference": "CE, artículo 8",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 8 de la CE se ocupa de las Fuerzas Armadas.",
+    "origin_id": 381,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901147,
+    "question": "¿Qué artículo de la Constitución Española regula los principios constitucionales y la jerarquía normativa?",
+    "answer": "Artículo 9",
+    "options": [
+      "Artículo 10",
+      "Artículo 8",
+      "Artículo 9",
+      "Artículo 11"
+    ],
+    "reference": "CE, artículo 9",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 9 de la CE se ocupa de los principios constitucionales y la jerarquía normativa.",
+    "origin_id": 383,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901148,
+    "question": "¿Qué artículo de la Constitución Española regula la posición constitucional del Rey como jefe del Estado?",
+    "answer": "Artículo 56",
+    "options": [
+      "Artículo 56",
+      "Artículo 55",
+      "Artículo 57",
+      "Artículo 58"
+    ],
+    "reference": "CE, artículo 56",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 56 de la CE se ocupa de la posición constitucional del Rey como jefe del Estado.",
+    "origin_id": 477,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901149,
+    "question": "¿Qué artículo de la Constitución Española regula la sucesión en la Corona?",
+    "answer": "Artículo 57",
+    "options": [
+      "Artículo 58",
+      "Artículo 56",
+      "Artículo 59",
+      "Artículo 57"
+    ],
+    "reference": "CE, artículo 57",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 57 de la CE se ocupa de la sucesión en la Corona.",
+    "origin_id": 479,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901150,
+    "question": "¿Qué artículo de la Constitución Española regula las limitaciones constitucionales de la Reina consorte o el consorte de la Reina?",
+    "answer": "Artículo 58",
+    "options": [
+      "Artículo 58",
+      "Artículo 57",
+      "Artículo 60",
+      "Artículo 59"
+    ],
+    "reference": "CE, artículo 58",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 58 limita las funciones constitucionales del consorte, salvo lo dispuesto para la Regencia.",
+    "origin_id": 481,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901151,
+    "question": "¿Qué artículo de la Constitución Española regula la Regencia?",
+    "answer": "Artículo 59",
+    "options": [
+      "Artículo 61",
+      "Artículo 59",
+      "Artículo 58",
+      "Artículo 60"
+    ],
+    "reference": "CE, artículo 59",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 59 de la CE se ocupa de la Regencia.",
+    "origin_id": 483,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901152,
+    "question": "¿Qué artículo de la Constitución Española regula la tutela del Rey menor de edad?",
+    "answer": "Artículo 60",
+    "options": [
+      "Artículo 61",
+      "Artículo 59",
+      "Artículo 60",
+      "Artículo 62"
+    ],
+    "reference": "CE, artículo 60",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 60 de la CE se ocupa de la tutela del Rey menor de edad.",
+    "origin_id": 485,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901153,
+    "question": "¿Qué artículo de la Constitución Española regula el juramento del Rey, del Príncipe heredero y de los Regentes?",
+    "answer": "Artículo 61",
+    "options": [
+      "Artículo 63",
+      "Artículo 60",
+      "Artículo 62",
+      "Artículo 61"
+    ],
+    "reference": "CE, artículo 61",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 61 de la CE se ocupa de el juramento del Rey, del Príncipe heredero y de los Regentes.",
+    "origin_id": 487,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901154,
+    "question": "¿Qué artículo de la Constitución Española regula las funciones constitucionales del Rey en el ámbito interno?",
+    "answer": "Artículo 62",
+    "options": [
+      "Artículo 62",
+      "Artículo 64",
+      "Artículo 63",
+      "Artículo 61"
+    ],
+    "reference": "CE, artículo 62",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 62 de la CE se ocupa de las funciones constitucionales del Rey en el ámbito interno.",
+    "origin_id": 489,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901155,
+    "question": "¿Qué artículo de la Constitución Española regula las funciones del Rey en las relaciones internacionales?",
+    "answer": "Artículo 63",
+    "options": [
+      "Artículo 64",
+      "Artículo 62",
+      "Artículo 63",
+      "Artículo 65"
+    ],
+    "reference": "CE, artículo 63",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 63 de la CE se ocupa de las funciones del Rey en las relaciones internacionales.",
+    "origin_id": 491,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901156,
+    "question": "¿Qué artículo de la Constitución Española regula el refrendo de los actos del Rey?",
+    "answer": "Artículo 64",
+    "options": [
+      "Artículo 64",
+      "Artículo 65",
+      "Artículo 63",
+      "Artículo 66"
+    ],
+    "reference": "CE, artículo 64",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 64 de la CE se ocupa de el refrendo de los actos del Rey.",
+    "origin_id": 493,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901157,
+    "question": "¿Qué artículo de la Constitución Española regula la dotación presupuestaria de la Casa del Rey?",
+    "answer": "Artículo 65",
+    "options": [
+      "Artículo 67",
+      "Artículo 64",
+      "Artículo 66",
+      "Artículo 65"
+    ],
+    "reference": "CE, artículo 65",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 65 de la CE se ocupa de la dotación presupuestaria de la Casa del Rey.",
+    "origin_id": 495,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901158,
+    "question": "¿Qué artículo de la Constitución Española regula la composición y las funciones de las Cortes Generales?",
+    "answer": "Artículo 66",
+    "options": [
+      "Artículo 66",
+      "Artículo 67",
+      "Artículo 68",
+      "Artículo 65"
+    ],
+    "reference": "CE, artículo 66",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 66 de la CE se ocupa de la composición y las funciones de las Cortes Generales.",
+    "origin_id": 497,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901159,
+    "question": "¿Qué artículo de la Constitución Española regula las incompatibilidades de los parlamentarios y las reuniones de las Cámaras?",
+    "answer": "Artículo 67",
+    "options": [
+      "Artículo 69",
+      "Artículo 68",
+      "Artículo 66",
+      "Artículo 67"
+    ],
+    "reference": "CE, artículo 67",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 67 de la CE se ocupa de las incompatibilidades de los parlamentarios y las reuniones de las Cámaras.",
+    "origin_id": 499,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901160,
+    "question": "¿Qué artículo de la Constitución Española regula la composición y elección del Congreso de los Diputados?",
+    "answer": "Artículo 68",
+    "options": [
+      "Artículo 68",
+      "Artículo 67",
+      "Artículo 69",
+      "Artículo 70"
+    ],
+    "reference": "CE, artículo 68",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 68 de la CE se ocupa de la composición y elección del Congreso de los Diputados.",
+    "origin_id": 501,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901161,
+    "question": "¿Qué artículo de la Constitución Española regula la composición y elección del Senado?",
+    "answer": "Artículo 69",
+    "options": [
+      "Artículo 71",
+      "Artículo 68",
+      "Artículo 69",
+      "Artículo 70"
+    ],
+    "reference": "CE, artículo 69",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 69 de la CE se ocupa de la composición y elección del Senado.",
+    "origin_id": 503,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901162,
+    "question": "¿Qué artículo de la Constitución Española regula las causas de inelegibilidad e incompatibilidad parlamentarias?",
+    "answer": "Artículo 70",
+    "options": [
+      "Artículo 69",
+      "Artículo 72",
+      "Artículo 70",
+      "Artículo 71"
+    ],
+    "reference": "CE, artículo 70",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 70 de la CE se ocupa de las causas de inelegibilidad e incompatibilidad parlamentarias.",
+    "origin_id": 505,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901163,
+    "question": "¿Qué artículo de la Constitución Española regula la inviolabilidad, inmunidad y fuero de diputados y senadores?",
+    "answer": "Artículo 71",
+    "options": [
+      "Artículo 73",
+      "Artículo 70",
+      "Artículo 71",
+      "Artículo 72"
+    ],
+    "reference": "CE, artículo 71",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 71 de la CE se ocupa de la inviolabilidad, inmunidad y fuero de diputados y senadores.",
+    "origin_id": 507,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901164,
+    "question": "¿Qué artículo de la Constitución Española regula los reglamentos, presupuestos y órganos rectores de las Cámaras?",
+    "answer": "Artículo 72",
+    "options": [
+      "Artículo 72",
+      "Artículo 71",
+      "Artículo 73",
+      "Artículo 74"
+    ],
+    "reference": "CE, artículo 72",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 72 de la CE se ocupa de los reglamentos, presupuestos y órganos rectores de las Cámaras.",
+    "origin_id": 509,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901165,
+    "question": "¿Qué artículo de la Constitución Española regula los períodos de sesiones de las Cámaras?",
+    "answer": "Artículo 73",
+    "options": [
+      "Artículo 74",
+      "Artículo 72",
+      "Artículo 75",
+      "Artículo 73"
+    ],
+    "reference": "CE, artículo 73",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 73 de la CE se ocupa de los períodos de sesiones de las Cámaras.",
+    "origin_id": 511,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901166,
+    "question": "¿Qué artículo de la Constitución Española regula las sesiones conjuntas de las Cámaras?",
+    "answer": "Artículo 74",
+    "options": [
+      "Artículo 75",
+      "Artículo 74",
+      "Artículo 76",
+      "Artículo 73"
+    ],
+    "reference": "CE, artículo 74",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 74 de la CE se ocupa de las sesiones conjuntas de las Cámaras.",
+    "origin_id": 513,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901167,
+    "question": "¿Qué artículo de la Constitución Española regula el funcionamiento de las Cámaras en Pleno y por Comisiones?",
+    "answer": "Artículo 75",
+    "options": [
+      "Artículo 77",
+      "Artículo 75",
+      "Artículo 74",
+      "Artículo 76"
+    ],
+    "reference": "CE, artículo 75",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 75 de la CE se ocupa de el funcionamiento de las Cámaras en Pleno y por Comisiones.",
+    "origin_id": 515,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901168,
+    "question": "¿Qué artículo de la Constitución Española regula las comisiones parlamentarias de investigación?",
+    "answer": "Artículo 76",
+    "options": [
+      "Artículo 77",
+      "Artículo 75",
+      "Artículo 76",
+      "Artículo 78"
+    ],
+    "reference": "CE, artículo 76",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 76 de la CE se ocupa de las comisiones parlamentarias de investigación.",
+    "origin_id": 517,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901169,
+    "question": "¿Qué artículo de la Constitución Española regula las peticiones dirigidas a las Cámaras?",
+    "answer": "Artículo 77",
+    "options": [
+      "Artículo 78",
+      "Artículo 76",
+      "Artículo 79",
+      "Artículo 77"
+    ],
+    "reference": "CE, artículo 77",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 77 de la CE se ocupa de las peticiones dirigidas a las Cámaras.",
+    "origin_id": 519,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901170,
+    "question": "¿Qué artículo de la Constitución Española regula las Diputaciones Permanentes de las Cámaras?",
+    "answer": "Artículo 78",
+    "options": [
+      "Artículo 79",
+      "Artículo 80",
+      "Artículo 78",
+      "Artículo 77"
+    ],
+    "reference": "CE, artículo 78",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 78 de la CE se ocupa de las Diputaciones Permanentes de las Cámaras.",
+    "origin_id": 521,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901171,
+    "question": "¿Qué artículo de la Constitución Española regula la adopción de acuerdos parlamentarios y el voto de los miembros?",
+    "answer": "Artículo 79",
+    "options": [
+      "Artículo 80",
+      "Artículo 78",
+      "Artículo 79",
+      "Artículo 81"
+    ],
+    "reference": "CE, artículo 79",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 79 de la CE se ocupa de la adopción de acuerdos parlamentarios y el voto de los miembros.",
+    "origin_id": 523,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901172,
+    "question": "¿Qué artículo de la Constitución Española regula el carácter público de las sesiones plenarias?",
+    "answer": "Artículo 80",
+    "options": [
+      "Artículo 80",
+      "Artículo 81",
+      "Artículo 79",
+      "Artículo 82"
+    ],
+    "reference": "CE, artículo 80",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 80 de la CE se ocupa de el carácter público de las sesiones plenarias.",
+    "origin_id": 525,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901173,
+    "question": "¿Qué artículo de la Constitución Española regula las leyes orgánicas y su aprobación?",
+    "answer": "Artículo 81",
+    "options": [
+      "Artículo 81",
+      "Artículo 80",
+      "Artículo 83",
+      "Artículo 82"
+    ],
+    "reference": "CE, artículo 81",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 81 de la CE se ocupa de las leyes orgánicas y su aprobación.",
+    "origin_id": 527,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901174,
+    "question": "¿Qué artículo de la Constitución Española regula la delegación legislativa de las Cortes en el Gobierno?",
+    "answer": "Artículo 82",
+    "options": [
+      "Artículo 82",
+      "Artículo 83",
+      "Artículo 84",
+      "Artículo 81"
+    ],
+    "reference": "CE, artículo 82",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 82 de la CE se ocupa de la delegación legislativa de las Cortes en el Gobierno.",
+    "origin_id": 529,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901175,
+    "question": "¿Qué artículo de la Constitución Española regula los límites específicos de las leyes de bases?",
+    "answer": "Artículo 83",
+    "options": [
+      "Artículo 85",
+      "Artículo 84",
+      "Artículo 82",
+      "Artículo 83"
+    ],
+    "reference": "CE, artículo 83",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 83 de la CE se ocupa de los límites específicos de las leyes de bases.",
+    "origin_id": 531,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901176,
+    "question": "¿Qué artículo de la Constitución Española regula la oposición del Gobierno a iniciativas contrarias a una delegación legislativa en vigor?",
+    "answer": "Artículo 84",
+    "options": [
+      "Artículo 84",
+      "Artículo 85",
+      "Artículo 83",
+      "Artículo 86"
+    ],
+    "reference": "CE, artículo 84",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 84 de la CE se ocupa de la oposición del Gobierno a iniciativas contrarias a una delegación legislativa en vigor.",
+    "origin_id": 533,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901177,
+    "question": "¿Qué artículo de la Constitución Española regula la denominación de los decretos legislativos?",
+    "answer": "Artículo 85",
+    "options": [
+      "Artículo 87",
+      "Artículo 84",
+      "Artículo 86",
+      "Artículo 85"
+    ],
+    "reference": "CE, artículo 85",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 85 de la CE se ocupa de la denominación de los decretos legislativos.",
+    "origin_id": 535,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901178,
+    "question": "¿Qué artículo de la Constitución Española regula los decretos-leyes y su convalidación?",
+    "answer": "Artículo 86",
+    "options": [
+      "Artículo 85",
+      "Artículo 88",
+      "Artículo 86",
+      "Artículo 87"
+    ],
+    "reference": "CE, artículo 86",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 86 de la CE se ocupa de los decretos-leyes y su convalidación.",
+    "origin_id": 537,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901179,
+    "question": "¿Qué artículo de la Constitución Española regula la iniciativa legislativa?",
+    "answer": "Artículo 87",
+    "options": [
+      "Artículo 89",
+      "Artículo 86",
+      "Artículo 87",
+      "Artículo 88"
+    ],
+    "reference": "CE, artículo 87",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 87 de la CE se ocupa de la iniciativa legislativa.",
+    "origin_id": 539,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901180,
+    "question": "¿Qué artículo de la Constitución Española regula los proyectos de ley aprobados por el Consejo de Ministros?",
+    "answer": "Artículo 88",
+    "options": [
+      "Artículo 89",
+      "Artículo 88",
+      "Artículo 87",
+      "Artículo 90"
+    ],
+    "reference": "CE, artículo 88",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 88 de la CE se ocupa de los proyectos de ley aprobados por el Consejo de Ministros.",
+    "origin_id": 541,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901181,
+    "question": "¿Qué artículo de la Constitución Española regula la tramitación de proposiciones de ley?",
+    "answer": "Artículo 89",
+    "options": [
+      "Artículo 90",
+      "Artículo 88",
+      "Artículo 91",
+      "Artículo 89"
+    ],
+    "reference": "CE, artículo 89",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 89 de la CE se ocupa de la tramitación de proposiciones de ley.",
+    "origin_id": 543,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901182,
+    "question": "¿Qué artículo de la Constitución Española regula el veto y las enmiendas del Senado a las leyes?",
+    "answer": "Artículo 90",
+    "options": [
+      "Artículo 91",
+      "Artículo 90",
+      "Artículo 92",
+      "Artículo 89"
+    ],
+    "reference": "CE, artículo 90",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 90 de la CE se ocupa de el veto y las enmiendas del Senado a las leyes.",
+    "origin_id": 545,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901183,
+    "question": "¿Qué artículo de la Constitución Española regula la sanción, promulgación y publicación de las leyes por el Rey?",
+    "answer": "Artículo 91",
+    "options": [
+      "Artículo 92",
+      "Artículo 91",
+      "Artículo 90",
+      "Artículo 93"
+    ],
+    "reference": "CE, artículo 91",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 91 de la CE se ocupa de la sanción, promulgación y publicación de las leyes por el Rey.",
+    "origin_id": 547,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901184,
+    "question": "¿Qué artículo de la Constitución Española regula el referéndum consultivo?",
+    "answer": "Artículo 92",
+    "options": [
+      "Artículo 92",
+      "Artículo 91",
+      "Artículo 93",
+      "Artículo 94"
+    ],
+    "reference": "CE, artículo 92",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 92 de la CE se ocupa de el referéndum consultivo.",
+    "origin_id": 549,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901185,
+    "question": "¿Qué artículo de la Constitución Española regula la atribución mediante ley orgánica del ejercicio de competencias a organizaciones internacionales?",
+    "answer": "Artículo 93",
+    "options": [
+      "Artículo 94",
+      "Artículo 95",
+      "Artículo 92",
+      "Artículo 93"
+    ],
+    "reference": "CE, artículo 93",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 93 de la CE se ocupa de la atribución mediante ley orgánica del ejercicio de competencias a organizaciones internacionales.",
+    "origin_id": 551,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901186,
+    "question": "¿Qué artículo de la Constitución Española regula la autorización de las Cortes para celebrar determinados tratados?",
+    "answer": "Artículo 94",
+    "options": [
+      "Artículo 95",
+      "Artículo 96",
+      "Artículo 94",
+      "Artículo 93"
+    ],
+    "reference": "CE, artículo 94",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 94 de la CE se ocupa de la autorización de las Cortes para celebrar determinados tratados.",
+    "origin_id": 553,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901187,
+    "question": "¿Qué artículo de la Constitución Española regula la exigencia de reforma constitucional ante tratados contrarios a la Constitución?",
+    "answer": "Artículo 95",
+    "options": [
+      "Artículo 97",
+      "Artículo 94",
+      "Artículo 96",
+      "Artículo 95"
+    ],
+    "reference": "CE, artículo 95",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 95 de la CE se ocupa de la exigencia de reforma constitucional ante tratados contrarios a la Constitución.",
+    "origin_id": 555,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901188,
+    "question": "¿Qué artículo de la Constitución Española regula la incorporación de los tratados publicados al ordenamiento interno?",
+    "answer": "Artículo 96",
+    "options": [
+      "Artículo 96",
+      "Artículo 97",
+      "Artículo 95",
+      "Artículo 98"
+    ],
+    "reference": "CE, artículo 96",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 96 de la CE se ocupa de la incorporación de los tratados publicados al ordenamiento interno.",
+    "origin_id": 557,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901189,
+    "question": "¿Qué artículo de la Constitución Española regula las funciones del Gobierno y su potestad reglamentaria?",
+    "answer": "Artículo 97",
+    "options": [
+      "Artículo 97",
+      "Artículo 96",
+      "Artículo 99",
+      "Artículo 98"
+    ],
+    "reference": "CE, artículo 97",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 97 de la CE se ocupa de las funciones del Gobierno y su potestad reglamentaria.",
+    "origin_id": 559,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901190,
+    "question": "¿Qué artículo de la Constitución Española regula la composición y el estatuto de los miembros del Gobierno?",
+    "answer": "Artículo 98",
+    "options": [
+      "Artículo 98",
+      "Artículo 97",
+      "Artículo 100",
+      "Artículo 99"
+    ],
+    "reference": "CE, artículo 98",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 98 de la CE se ocupa de la composición y el estatuto de los miembros del Gobierno.",
+    "origin_id": 561,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901191,
+    "question": "¿Qué artículo de la Constitución Española regula la propuesta, investidura y nombramiento del presidente del Gobierno?",
+    "answer": "Artículo 99",
+    "options": [
+      "Artículo 101",
+      "Artículo 100",
+      "Artículo 98",
+      "Artículo 99"
+    ],
+    "reference": "CE, artículo 99",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 99 de la CE se ocupa de la propuesta, investidura y nombramiento del presidente del Gobierno.",
+    "origin_id": 563,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901192,
+    "question": "¿Qué artículo de la Constitución Española regula el nombramiento y separación de los restantes miembros del Gobierno?",
+    "answer": "Artículo 100",
+    "options": [
+      "Artículo 100",
+      "Artículo 101",
+      "Artículo 99",
+      "Artículo 102"
+    ],
+    "reference": "CE, artículo 100",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 100 de la CE se ocupa de el nombramiento y separación de los restantes miembros del Gobierno.",
+    "origin_id": 565,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901193,
+    "question": "¿Qué artículo de la Constitución Española regula el cese y la continuidad en funciones del Gobierno?",
+    "answer": "Artículo 101",
+    "options": [
+      "Artículo 103",
+      "Artículo 102",
+      "Artículo 100",
+      "Artículo 101"
+    ],
+    "reference": "CE, artículo 101",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 101 de la CE se ocupa de el cese y la continuidad en funciones del Gobierno.",
+    "origin_id": 567,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901194,
+    "question": "¿Qué artículo de la Constitución Española regula la responsabilidad criminal del presidente y de los miembros del Gobierno?",
+    "answer": "Artículo 102",
+    "options": [
+      "Artículo 102",
+      "Artículo 104",
+      "Artículo 103",
+      "Artículo 101"
+    ],
+    "reference": "CE, artículo 102",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 102 de la CE se ocupa de la responsabilidad criminal del presidente y de los miembros del Gobierno.",
+    "origin_id": 569,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901195,
+    "question": "¿Qué artículo de la Constitución Española regula los principios de actuación de la Administración pública?",
+    "answer": "Artículo 103",
+    "options": [
+      "Artículo 105",
+      "Artículo 102",
+      "Artículo 103",
+      "Artículo 104"
+    ],
+    "reference": "CE, artículo 103",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 103 de la CE se ocupa de los principios de actuación de la Administración pública.",
+    "origin_id": 571,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901196,
+    "question": "¿Qué artículo de la Constitución Española regula las Fuerzas y Cuerpos de Seguridad?",
+    "answer": "Artículo 104",
+    "options": [
+      "Artículo 105",
+      "Artículo 104",
+      "Artículo 103",
+      "Artículo 106"
+    ],
+    "reference": "CE, artículo 104",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 104 de la CE se ocupa de las Fuerzas y Cuerpos de Seguridad.",
+    "origin_id": 573,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901197,
+    "question": "¿Qué artículo de la Constitución Española regula la audiencia ciudadana, el acceso a archivos y el procedimiento administrativo?",
+    "answer": "Artículo 105",
+    "options": [
+      "Artículo 107",
+      "Artículo 104",
+      "Artículo 106",
+      "Artículo 105"
+    ],
+    "reference": "CE, artículo 105",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 105 de la CE se ocupa de la audiencia ciudadana, el acceso a archivos y el procedimiento administrativo.",
+    "origin_id": 575,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901198,
+    "question": "¿Qué artículo de la Constitución Española regula el control judicial de la Administración y su responsabilidad patrimonial?",
+    "answer": "Artículo 106",
+    "options": [
+      "Artículo 107",
+      "Artículo 106",
+      "Artículo 108",
+      "Artículo 105"
+    ],
+    "reference": "CE, artículo 106",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 106 de la CE se ocupa de el control judicial de la Administración y su responsabilidad patrimonial.",
+    "origin_id": 577,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901199,
+    "question": "¿Qué artículo de la Constitución Española regula el Consejo de Estado?",
+    "answer": "Artículo 107",
+    "options": [
+      "Artículo 108",
+      "Artículo 107",
+      "Artículo 106",
+      "Artículo 109"
+    ],
+    "reference": "CE, artículo 107",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 107 de la CE se ocupa de el Consejo de Estado.",
+    "origin_id": 579,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901200,
+    "question": "¿Qué artículo de la Constitución Española regula la responsabilidad política solidaria del Gobierno ante el Congreso?",
+    "answer": "Artículo 108",
+    "options": [
+      "Artículo 108",
+      "Artículo 107",
+      "Artículo 109",
+      "Artículo 110"
+    ],
+    "reference": "CE, artículo 108",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 108 de la CE se ocupa de la responsabilidad política solidaria del Gobierno ante el Congreso.",
+    "origin_id": 581,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901201,
+    "question": "¿Qué artículo de la Constitución Española regula la facultad de las Cámaras de recabar información del Gobierno y las Administraciones?",
+    "answer": "Artículo 109",
+    "options": [
+      "Artículo 111",
+      "Artículo 109",
+      "Artículo 108",
+      "Artículo 110"
+    ],
+    "reference": "CE, artículo 109",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 109 de la CE se ocupa de la facultad de las Cámaras de recabar información del Gobierno y las Administraciones.",
+    "origin_id": 583,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901202,
+    "question": "¿Qué artículo de la Constitución Española regula la presencia de miembros del Gobierno en las Cámaras?",
+    "answer": "Artículo 110",
+    "options": [
+      "Artículo 111",
+      "Artículo 112",
+      "Artículo 110",
+      "Artículo 109"
+    ],
+    "reference": "CE, artículo 110",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 110 de la CE se ocupa de la presencia de miembros del Gobierno en las Cámaras.",
+    "origin_id": 585,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901203,
+    "question": "¿Qué artículo de la Constitución Española regula las preguntas e interpelaciones parlamentarias al Gobierno?",
+    "answer": "Artículo 111",
+    "options": [
+      "Artículo 113",
+      "Artículo 110",
+      "Artículo 112",
+      "Artículo 111"
+    ],
+    "reference": "CE, artículo 111",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 111 de la CE se ocupa de las preguntas e interpelaciones parlamentarias al Gobierno.",
+    "origin_id": 587,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901204,
+    "question": "¿Qué artículo de la Constitución Española regula la cuestión de confianza del presidente del Gobierno?",
+    "answer": "Artículo 112",
+    "options": [
+      "Artículo 112",
+      "Artículo 111",
+      "Artículo 113",
+      "Artículo 114"
+    ],
+    "reference": "CE, artículo 112",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 112 de la CE se ocupa de la cuestión de confianza del presidente del Gobierno.",
+    "origin_id": 589,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901205,
+    "question": "¿Qué artículo de la Constitución Española regula la moción de censura?",
+    "answer": "Artículo 113",
+    "options": [
+      "Artículo 113",
+      "Artículo 112",
+      "Artículo 115",
+      "Artículo 114"
+    ],
+    "reference": "CE, artículo 113",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 113 de la CE se ocupa de la moción de censura.",
+    "origin_id": 591,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901206,
+    "question": "¿Qué artículo de la Constitución Española regula las consecuencias de la pérdida de confianza parlamentaria?",
+    "answer": "Artículo 114",
+    "options": [
+      "Artículo 114",
+      "Artículo 113",
+      "Artículo 116",
+      "Artículo 115"
+    ],
+    "reference": "CE, artículo 114",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 114 de la CE se ocupa de las consecuencias de la pérdida de confianza parlamentaria.",
+    "origin_id": 593,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901207,
+    "question": "¿Qué artículo de la Constitución Española regula la disolución de las Cortes por el presidente del Gobierno?",
+    "answer": "Artículo 115",
+    "options": [
+      "Artículo 117",
+      "Artículo 115",
+      "Artículo 114",
+      "Artículo 116"
+    ],
+    "reference": "CE, artículo 115",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 115 de la CE se ocupa de la disolución de las Cortes por el presidente del Gobierno.",
+    "origin_id": 595,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901208,
+    "question": "¿Qué artículo de la Constitución Española regula los estados de alarma, excepción y sitio?",
+    "answer": "Artículo 116",
+    "options": [
+      "Artículo 117",
+      "Artículo 115",
+      "Artículo 116",
+      "Artículo 118"
+    ],
+    "reference": "CE, artículo 116",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 116 de la CE se ocupa de los estados de alarma, excepción y sitio.",
+    "origin_id": 597,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901209,
+    "question": "¿Qué artículo de la Constitución Española regula la independencia judicial y la potestad jurisdiccional?",
+    "answer": "Artículo 117",
+    "options": [
+      "Artículo 119",
+      "Artículo 118",
+      "Artículo 116",
+      "Artículo 117"
+    ],
+    "reference": "CE, artículo 117",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 117 de la CE se ocupa de la independencia judicial y la potestad jurisdiccional.",
+    "origin_id": 599,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901210,
+    "question": "¿Qué artículo de la Constitución Española regula la obligación de cumplir las resoluciones judiciales firmes?",
+    "answer": "Artículo 118",
+    "options": [
+      "Artículo 118",
+      "Artículo 120",
+      "Artículo 119",
+      "Artículo 117"
+    ],
+    "reference": "CE, artículo 118",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 118 de la CE se ocupa de la obligación de cumplir las resoluciones judiciales firmes.",
+    "origin_id": 601,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901211,
+    "question": "¿Qué artículo de la Constitución Española regula la justicia gratuita?",
+    "answer": "Artículo 119",
+    "options": [
+      "Artículo 120",
+      "Artículo 118",
+      "Artículo 119",
+      "Artículo 121"
+    ],
+    "reference": "CE, artículo 119",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 119 de la CE se ocupa de la justicia gratuita.",
+    "origin_id": 603,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901212,
+    "question": "¿Qué artículo de la Constitución Española regula la publicidad de las actuaciones judiciales y la motivación de las sentencias?",
+    "answer": "Artículo 120",
+    "options": [
+      "Artículo 121",
+      "Artículo 120",
+      "Artículo 119",
+      "Artículo 122"
+    ],
+    "reference": "CE, artículo 120",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 120 de la CE se ocupa de la publicidad de las actuaciones judiciales y la motivación de las sentencias.",
+    "origin_id": 605,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901213,
+    "question": "¿Qué artículo de la Constitución Española regula la indemnización por error judicial o funcionamiento anormal de la Justicia?",
+    "answer": "Artículo 121",
+    "options": [
+      "Artículo 123",
+      "Artículo 120",
+      "Artículo 122",
+      "Artículo 121"
+    ],
+    "reference": "CE, artículo 121",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 121 de la CE se ocupa de la indemnización por error judicial o funcionamiento anormal de la Justicia.",
+    "origin_id": 607,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901214,
+    "question": "¿Qué artículo de la Constitución Española regula la Ley Orgánica del Poder Judicial y el Consejo General del Poder Judicial?",
+    "answer": "Artículo 122",
+    "options": [
+      "Artículo 122",
+      "Artículo 124",
+      "Artículo 123",
+      "Artículo 121"
+    ],
+    "reference": "CE, artículo 122",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 122 de la CE se ocupa de la Ley Orgánica del Poder Judicial y el Consejo General del Poder Judicial.",
+    "origin_id": 609,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901215,
+    "question": "¿Qué artículo de la Constitución Española regula el Tribunal Supremo?",
+    "answer": "Artículo 123",
+    "options": [
+      "Artículo 125",
+      "Artículo 124",
+      "Artículo 122",
+      "Artículo 123"
+    ],
+    "reference": "CE, artículo 123",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 123 de la CE se ocupa de el Tribunal Supremo.",
+    "origin_id": 611,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901216,
+    "question": "¿Qué artículo de la Constitución Española regula el Ministerio Fiscal?",
+    "answer": "Artículo 124",
+    "options": [
+      "Artículo 124",
+      "Artículo 123",
+      "Artículo 125",
+      "Artículo 126"
+    ],
+    "reference": "CE, artículo 124",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 124 de la CE se ocupa de el Ministerio Fiscal.",
+    "origin_id": 613,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901217,
+    "question": "¿Qué artículo de la Constitución Española regula la acción popular y la institución del jurado?",
+    "answer": "Artículo 125",
+    "options": [
+      "Artículo 127",
+      "Artículo 125",
+      "Artículo 124",
+      "Artículo 126"
+    ],
+    "reference": "CE, artículo 125",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 125 de la CE se ocupa de la acción popular y la institución del jurado.",
+    "origin_id": 615,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901218,
+    "question": "¿Qué artículo de la Constitución Española regula la policía judicial?",
+    "answer": "Artículo 126",
+    "options": [
+      "Artículo 125",
+      "Artículo 128",
+      "Artículo 126",
+      "Artículo 127"
+    ],
+    "reference": "CE, artículo 126",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 126 de la CE se ocupa de la policía judicial.",
+    "origin_id": 617,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901219,
+    "question": "¿Qué artículo de la Constitución Española regula las incompatibilidades de jueces, magistrados y fiscales?",
+    "answer": "Artículo 127",
+    "options": [
+      "Artículo 129",
+      "Artículo 126",
+      "Artículo 128",
+      "Artículo 127"
+    ],
+    "reference": "CE, artículo 127",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 127 de la CE se ocupa de las incompatibilidades de jueces, magistrados y fiscales.",
+    "origin_id": 619,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901220,
+    "question": "¿Qué artículo de la Constitución Española regula la subordinación de la riqueza al interés general y la iniciativa pública económica?",
+    "answer": "Artículo 128",
+    "options": [
+      "Artículo 128",
+      "Artículo 127",
+      "Artículo 129",
+      "Artículo 130"
+    ],
+    "reference": "CE, artículo 128",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 128 de la CE se ocupa de la subordinación de la riqueza al interés general y la iniciativa pública económica.",
+    "origin_id": 621,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901221,
+    "question": "¿Qué artículo de la Constitución Española regula la participación de interesados en Seguridad Social y de trabajadores en la empresa?",
+    "answer": "Artículo 129",
+    "options": [
+      "Artículo 130",
+      "Artículo 128",
+      "Artículo 131",
+      "Artículo 129"
+    ],
+    "reference": "CE, artículo 129",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 129 de la CE se ocupa de la participación de interesados en Seguridad Social y de trabajadores en la empresa.",
+    "origin_id": 623,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901222,
+    "question": "¿Qué artículo de la Constitución Española regula la modernización de los sectores económicos y la atención a zonas de montaña?",
+    "answer": "Artículo 130",
+    "options": [
+      "Artículo 131",
+      "Artículo 132",
+      "Artículo 130",
+      "Artículo 129"
+    ],
+    "reference": "CE, artículo 130",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 130 de la CE se ocupa de la modernización de los sectores económicos y la atención a zonas de montaña.",
+    "origin_id": 625,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901223,
+    "question": "¿Qué artículo de la Constitución Española regula la planificación de la actividad económica general?",
+    "answer": "Artículo 131",
+    "options": [
+      "Artículo 133",
+      "Artículo 131",
+      "Artículo 130",
+      "Artículo 132"
+    ],
+    "reference": "CE, artículo 131",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 131 de la CE se ocupa de la planificación de la actividad económica general.",
+    "origin_id": 627,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901224,
+    "question": "¿Qué artículo de la Constitución Española regula los bienes de dominio público y comunales?",
+    "answer": "Artículo 132",
+    "options": [
+      "Artículo 133",
+      "Artículo 131",
+      "Artículo 132",
+      "Artículo 134"
+    ],
+    "reference": "CE, artículo 132",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 132 de la CE se ocupa de los bienes de dominio público y comunales.",
+    "origin_id": 629,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901225,
+    "question": "¿Qué artículo de la Constitución Española regula la potestad para establecer tributos?",
+    "answer": "Artículo 133",
+    "options": [
+      "Artículo 134",
+      "Artículo 135",
+      "Artículo 132",
+      "Artículo 133"
+    ],
+    "reference": "CE, artículo 133",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 133 de la CE se ocupa de la potestad para establecer tributos.",
+    "origin_id": 631,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901226,
+    "question": "¿Qué artículo de la Constitución Española regula los Presupuestos Generales del Estado?",
+    "answer": "Artículo 134",
+    "options": [
+      "Artículo 134",
+      "Artículo 136",
+      "Artículo 135",
+      "Artículo 133"
+    ],
+    "reference": "CE, artículo 134",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 134 de la CE se ocupa de los Presupuestos Generales del Estado.",
+    "origin_id": 633,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901227,
+    "question": "¿Qué artículo de la Constitución Española regula la estabilidad presupuestaria y la deuda pública?",
+    "answer": "Artículo 135",
+    "options": [
+      "Artículo 136",
+      "Artículo 134",
+      "Artículo 135",
+      "Artículo 137"
+    ],
+    "reference": "CE, artículo 135",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 135 de la CE se ocupa de la estabilidad presupuestaria y la deuda pública.",
+    "origin_id": 635,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901228,
+    "question": "¿Qué artículo de la Constitución Española regula el Tribunal de Cuentas?",
+    "answer": "Artículo 136",
+    "options": [
+      "Artículo 136",
+      "Artículo 137",
+      "Artículo 135",
+      "Artículo 138"
+    ],
+    "reference": "CE, artículo 136",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 136 de la CE se ocupa de el Tribunal de Cuentas.",
+    "origin_id": 637,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901229,
+    "question": "¿Qué artículo de la Constitución Española regula la organización territorial del Estado en municipios, provincias y Comunidades Autónomas?",
+    "answer": "Artículo 137",
+    "options": [
+      "Artículo 137",
+      "Artículo 136",
+      "Artículo 139",
+      "Artículo 138"
+    ],
+    "reference": "CE, artículo 137",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 137 de la CE se ocupa de la organización territorial del Estado en municipios, provincias y Comunidades Autónomas.",
+    "origin_id": 639,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901230,
+    "question": "¿Qué artículo de la Constitución Española regula la solidaridad y el equilibrio económico territorial?",
+    "answer": "Artículo 138",
+    "options": [
+      "Artículo 138",
+      "Artículo 140",
+      "Artículo 139",
+      "Artículo 137"
+    ],
+    "reference": "CE, artículo 138",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 138 de la CE se ocupa de la solidaridad y el equilibrio económico territorial.",
+    "origin_id": 641,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901231,
+    "question": "¿Qué artículo de la Constitución Española regula la igualdad de derechos de los españoles en todo el territorio?",
+    "answer": "Artículo 139",
+    "options": [
+      "Artículo 141",
+      "Artículo 140",
+      "Artículo 138",
+      "Artículo 139"
+    ],
+    "reference": "CE, artículo 139",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 139 de la CE se ocupa de la igualdad de derechos de los españoles en todo el territorio.",
+    "origin_id": 643,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901232,
+    "question": "¿Qué artículo de la Constitución Española regula la autonomía y el gobierno de los municipios?",
+    "answer": "Artículo 140",
+    "options": [
+      "Artículo 140",
+      "Artículo 141",
+      "Artículo 139",
+      "Artículo 142"
+    ],
+    "reference": "CE, artículo 140",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 140 de la CE se ocupa de la autonomía y el gobierno de los municipios.",
+    "origin_id": 645,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901233,
+    "question": "¿Qué artículo de la Constitución Española regula la provincia y la organización territorial insular?",
+    "answer": "Artículo 141",
+    "options": [
+      "Artículo 143",
+      "Artículo 141",
+      "Artículo 140",
+      "Artículo 142"
+    ],
+    "reference": "CE, artículo 141",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 141 de la CE se ocupa de la provincia y la organización territorial insular.",
+    "origin_id": 647,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901234,
+    "question": "¿Qué artículo de la Constitución Española regula las haciendas locales?",
+    "answer": "Artículo 142",
+    "options": [
+      "Artículo 141",
+      "Artículo 144",
+      "Artículo 142",
+      "Artículo 143"
+    ],
+    "reference": "CE, artículo 142",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 142 de la CE se ocupa de las haciendas locales.",
+    "origin_id": 649,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901235,
+    "question": "¿Qué artículo de la Constitución Española regula la iniciativa de autonomía de las nacionalidades y regiones?",
+    "answer": "Artículo 143",
+    "options": [
+      "Artículo 145",
+      "Artículo 142",
+      "Artículo 143",
+      "Artículo 144"
+    ],
+    "reference": "CE, artículo 143",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 143 de la CE se ocupa de la iniciativa de autonomía de las nacionalidades y regiones.",
+    "origin_id": 651,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901236,
+    "question": "¿Qué artículo de la Constitución Española regula la intervención de las Cortes en supuestos especiales de autonomía?",
+    "answer": "Artículo 144",
+    "options": [
+      "Artículo 145",
+      "Artículo 144",
+      "Artículo 143",
+      "Artículo 146"
+    ],
+    "reference": "CE, artículo 144",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 144 de la CE se ocupa de la intervención de las Cortes en supuestos especiales de autonomía.",
+    "origin_id": 653,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901237,
+    "question": "¿Qué artículo de la Constitución Española regula la prohibición de federar Comunidades Autónomas y sus convenios?",
+    "answer": "Artículo 145",
+    "options": [
+      "Artículo 146",
+      "Artículo 144",
+      "Artículo 147",
+      "Artículo 145"
+    ],
+    "reference": "CE, artículo 145",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 145 de la CE se ocupa de la prohibición de federar Comunidades Autónomas y sus convenios.",
+    "origin_id": 655,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901238,
+    "question": "¿Qué artículo de la Constitución Española regula la elaboración de estatutos en la vía ordinaria?",
+    "answer": "Artículo 146",
+    "options": [
+      "Artículo 147",
+      "Artículo 148",
+      "Artículo 146",
+      "Artículo 145"
+    ],
+    "reference": "CE, artículo 146",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 146 de la CE se ocupa de la elaboración de estatutos en la vía ordinaria.",
+    "origin_id": 657,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901239,
+    "question": "¿Qué artículo de la Constitución Española regula el contenido y la reforma de los estatutos de autonomía?",
+    "answer": "Artículo 147",
+    "options": [
+      "Artículo 148",
+      "Artículo 147",
+      "Artículo 146",
+      "Artículo 149"
+    ],
+    "reference": "CE, artículo 147",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 147 de la CE se ocupa de el contenido y la reforma de los estatutos de autonomía.",
+    "origin_id": 659,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901240,
+    "question": "¿Qué artículo de la Constitución Española regula las competencias que pueden asumir las Comunidades Autónomas?",
+    "answer": "Artículo 148",
+    "options": [
+      "Artículo 149",
+      "Artículo 147",
+      "Artículo 148",
+      "Artículo 150"
+    ],
+    "reference": "CE, artículo 148",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 148 de la CE se ocupa de las competencias que pueden asumir las Comunidades Autónomas.",
+    "origin_id": 661,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901241,
+    "question": "¿Qué artículo de la Constitución Española regula las competencias exclusivas del Estado?",
+    "answer": "Artículo 149",
+    "options": [
+      "Artículo 150",
+      "Artículo 151",
+      "Artículo 148",
+      "Artículo 149"
+    ],
+    "reference": "CE, artículo 149",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 149 de la CE se ocupa de las competencias exclusivas del Estado.",
+    "origin_id": 663,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901242,
+    "question": "¿Qué artículo de la Constitución Española regula las leyes marco, las transferencias o delegaciones y las leyes de armonización?",
+    "answer": "Artículo 150",
+    "options": [
+      "Artículo 151",
+      "Artículo 152",
+      "Artículo 150",
+      "Artículo 149"
+    ],
+    "reference": "CE, artículo 150",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 150 de la CE se ocupa de las leyes marco, las transferencias o delegaciones y las leyes de armonización.",
+    "origin_id": 665,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901243,
+    "question": "¿Qué artículo de la Constitución Española regula la vía especial de acceso a la autonomía?",
+    "answer": "Artículo 151",
+    "options": [
+      "Artículo 153",
+      "Artículo 150",
+      "Artículo 152",
+      "Artículo 151"
+    ],
+    "reference": "CE, artículo 151",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 151 de la CE se ocupa de la vía especial de acceso a la autonomía.",
+    "origin_id": 667,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901244,
+    "question": "¿Qué artículo de la Constitución Española regula la organización institucional autonómica y la reforma de sus estatutos?",
+    "answer": "Artículo 152",
+    "options": [
+      "Artículo 152",
+      "Artículo 153",
+      "Artículo 151",
+      "Artículo 154"
+    ],
+    "reference": "CE, artículo 152",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 152 de la CE se ocupa de la organización institucional autonómica y la reforma de sus estatutos.",
+    "origin_id": 669,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901245,
+    "question": "¿Qué artículo de la Constitución Española regula los controles sobre la actividad de los órganos de las Comunidades Autónomas?",
+    "answer": "Artículo 153",
+    "options": [
+      "Artículo 153",
+      "Artículo 152",
+      "Artículo 155",
+      "Artículo 154"
+    ],
+    "reference": "CE, artículo 153",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 153 de la CE se ocupa de los controles sobre la actividad de los órganos de las Comunidades Autónomas.",
+    "origin_id": 671,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901246,
+    "question": "¿Qué artículo de la Constitución Española regula los delegados del Gobierno en las Comunidades Autónomas?",
+    "answer": "Artículo 154",
+    "options": [
+      "Artículo 154",
+      "Artículo 156",
+      "Artículo 153",
+      "Artículo 155"
+    ],
+    "reference": "CE, artículo 154",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 154 de la CE se ocupa de los delegados del Gobierno en las Comunidades Autónomas.",
+    "origin_id": 673,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901247,
+    "question": "¿Qué artículo de la Constitución Española regula las medidas ante el incumplimiento de obligaciones de una Comunidad Autónoma?",
+    "answer": "Artículo 155",
+    "options": [
+      "Artículo 157",
+      "Artículo 156",
+      "Artículo 154",
+      "Artículo 155"
+    ],
+    "reference": "CE, artículo 155",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 155 de la CE se ocupa de las medidas ante el incumplimiento de obligaciones de una Comunidad Autónoma.",
+    "origin_id": 675,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901248,
+    "question": "¿Qué artículo de la Constitución Española regula la autonomía financiera de las Comunidades Autónomas?",
+    "answer": "Artículo 156",
+    "options": [
+      "Artículo 156",
+      "Artículo 157",
+      "Artículo 155",
+      "Artículo 158"
+    ],
+    "reference": "CE, artículo 156",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 156 de la CE se ocupa de la autonomía financiera de las Comunidades Autónomas.",
+    "origin_id": 677,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901249,
+    "question": "¿Qué artículo de la Constitución Española regula los recursos financieros de las Comunidades Autónomas?",
+    "answer": "Artículo 157",
+    "options": [
+      "Artículo 159",
+      "Artículo 158",
+      "Artículo 156",
+      "Artículo 157"
+    ],
+    "reference": "CE, artículo 157",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 157 de la CE se ocupa de los recursos financieros de las Comunidades Autónomas.",
+    "origin_id": 679,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901250,
+    "question": "¿Qué artículo de la Constitución Española regula las asignaciones presupuestarias autonómicas y el Fondo de Compensación Interterritorial?",
+    "answer": "Artículo 158",
+    "options": [
+      "Artículo 158",
+      "Artículo 160",
+      "Artículo 159",
+      "Artículo 157"
+    ],
+    "reference": "CE, artículo 158",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 158 de la CE se ocupa de las asignaciones presupuestarias autonómicas y el Fondo de Compensación Interterritorial.",
+    "origin_id": 681,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901251,
+    "question": "¿Qué artículo de la Constitución Española regula la composición y el nombramiento del Tribunal Constitucional?",
+    "answer": "Artículo 159",
+    "options": [
+      "Artículo 158",
+      "Artículo 159",
+      "Artículo 161",
+      "Artículo 160"
+    ],
+    "reference": "CE, artículo 159",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 159 de la CE se ocupa de la composición y el nombramiento del Tribunal Constitucional.",
+    "origin_id": 683,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901252,
+    "question": "¿Qué artículo de la Constitución Española regula el nombramiento del presidente del Tribunal Constitucional?",
+    "answer": "Artículo 160",
+    "options": [
+      "Artículo 161",
+      "Artículo 160",
+      "Artículo 159",
+      "Artículo 162"
+    ],
+    "reference": "CE, artículo 160",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 160 de la CE se ocupa de el nombramiento del presidente del Tribunal Constitucional.",
+    "origin_id": 685,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901253,
+    "question": "¿Qué artículo de la Constitución Española regula las competencias del Tribunal Constitucional?",
+    "answer": "Artículo 161",
+    "options": [
+      "Artículo 163",
+      "Artículo 160",
+      "Artículo 162",
+      "Artículo 161"
+    ],
+    "reference": "CE, artículo 161",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 161 de la CE se ocupa de las competencias del Tribunal Constitucional.",
+    "origin_id": 687,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901254,
+    "question": "¿Qué artículo de la Constitución Española regula la legitimación para los recursos de inconstitucionalidad y amparo?",
+    "answer": "Artículo 162",
+    "options": [
+      "Artículo 163",
+      "Artículo 164",
+      "Artículo 162",
+      "Artículo 161"
+    ],
+    "reference": "CE, artículo 162",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 162 de la CE se ocupa de la legitimación para los recursos de inconstitucionalidad y amparo.",
+    "origin_id": 689,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901255,
+    "question": "¿Qué artículo de la Constitución Española regula la cuestión de inconstitucionalidad planteada por órganos judiciales?",
+    "answer": "Artículo 163",
+    "options": [
+      "Artículo 164",
+      "Artículo 163",
+      "Artículo 162",
+      "Artículo 165"
+    ],
+    "reference": "CE, artículo 163",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 163 de la CE se ocupa de la cuestión de inconstitucionalidad planteada por órganos judiciales.",
+    "origin_id": 691,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901256,
+    "question": "¿Qué artículo de la Constitución Española regula las sentencias del Tribunal Constitucional y sus efectos?",
+    "answer": "Artículo 164",
+    "options": [
+      "Artículo 164",
+      "Artículo 163",
+      "Artículo 165",
+      "Artículo 166"
+    ],
+    "reference": "CE, artículo 164",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 164 de la CE se ocupa de las sentencias del Tribunal Constitucional y sus efectos.",
+    "origin_id": 693,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901257,
+    "question": "¿Qué artículo de la Constitución Española regula la ley orgánica reguladora del Tribunal Constitucional?",
+    "answer": "Artículo 165",
+    "options": [
+      "Artículo 166",
+      "Artículo 167",
+      "Artículo 164",
+      "Artículo 165"
+    ],
+    "reference": "CE, artículo 165",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 165 de la CE se ocupa de la ley orgánica reguladora del Tribunal Constitucional.",
+    "origin_id": 695,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901258,
+    "question": "¿Qué artículo de la Constitución Española regula la iniciativa de reforma constitucional?",
+    "answer": "Artículo 166",
+    "options": [
+      "Artículo 167",
+      "Artículo 168",
+      "Artículo 166",
+      "Artículo 165"
+    ],
+    "reference": "CE, artículo 166",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 166 de la CE se ocupa de la iniciativa de reforma constitucional.",
+    "origin_id": 697,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901259,
+    "question": "¿Qué artículo de la Constitución Española regula el procedimiento ordinario de reforma constitucional?",
+    "answer": "Artículo 167",
+    "options": [
+      "Artículo 166",
+      "Artículo 168",
+      "Artículo 169",
+      "Artículo 167"
+    ],
+    "reference": "CE, artículo 167",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 167 de la CE se ocupa de el procedimiento ordinario de reforma constitucional.",
+    "origin_id": 699,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901260,
+    "question": "¿Qué artículo de la Constitución Española regula el procedimiento agravado de reforma constitucional?",
+    "answer": "Artículo 168",
+    "options": [
+      "Artículo 168",
+      "Artículo 167",
+      "Artículo 169",
+      "Artículo 166"
+    ],
+    "reference": "CE, artículo 168",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 168 de la CE se ocupa de el procedimiento agravado de reforma constitucional.",
+    "origin_id": 701,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901261,
+    "question": "¿Qué artículo de la Constitución Española regula los límites temporales para iniciar la reforma constitucional?",
+    "answer": "Artículo 169",
+    "options": [
+      "Artículo 169",
+      "Artículo 168",
+      "Artículo 166",
+      "Artículo 167"
+    ],
+    "reference": "CE, artículo 169",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 169 de la CE se ocupa de los límites temporales para iniciar la reforma constitucional.",
+    "origin_id": 703,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901262,
+    "question": "¿Qué materia regula el artículo 1 de la Constitución Española?",
+    "answer": "la soberanía nacional y la forma política del Estado",
+    "options": [
+      "la unidad de España y el derecho a la autonomía",
+      "las lenguas españolas y su oficialidad",
+      "la soberanía nacional y la forma política del Estado",
+      "la bandera de España y las banderas autonómicas"
+    ],
+    "reference": "CE, artículo 1",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 1: la soberanía nacional y la forma política del Estado.",
+    "origin_id": 368,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901263,
+    "question": "¿Qué materia regula el artículo 2 de la Constitución Española?",
+    "answer": "la unidad de España y el derecho a la autonomía",
+    "options": [
+      "la bandera de España y las banderas autonómicas",
+      "las lenguas españolas y su oficialidad",
+      "la unidad de España y el derecho a la autonomía",
+      "la soberanía nacional y la forma política del Estado"
+    ],
+    "reference": "CE, artículo 2",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 2: la unidad de España y el derecho a la autonomía.",
+    "origin_id": 370,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901264,
+    "question": "¿Qué materia regula el artículo 3 de la Constitución Española?",
+    "answer": "las lenguas españolas y su oficialidad",
+    "options": [
+      "la unidad de España y el derecho a la autonomía",
+      "la soberanía nacional y la forma política del Estado",
+      "las lenguas españolas y su oficialidad",
+      "la bandera de España y las banderas autonómicas"
+    ],
+    "reference": "CE, artículo 3",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 3: las lenguas españolas y su oficialidad.",
+    "origin_id": 372,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901265,
+    "question": "¿Qué materia regula el artículo 4 de la Constitución Española?",
+    "answer": "la bandera de España y las banderas autonómicas",
+    "options": [
+      "la unidad de España y el derecho a la autonomía",
+      "las lenguas españolas y su oficialidad",
+      "la bandera de España y las banderas autonómicas",
+      "la capital del Estado"
+    ],
+    "reference": "CE, artículo 4",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 4: la bandera de España y las banderas autonómicas.",
+    "origin_id": 374,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901266,
+    "question": "¿Qué materia regula el artículo 5 de la Constitución Española?",
+    "answer": "la capital del Estado",
+    "options": [
+      "las lenguas españolas y su oficialidad",
+      "los partidos políticos",
+      "la bandera de España y las banderas autonómicas",
+      "la capital del Estado"
+    ],
+    "reference": "CE, artículo 5",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 5: la capital del Estado.",
+    "origin_id": 376,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901267,
+    "question": "¿Qué materia regula el artículo 6 de la Constitución Española?",
+    "answer": "los partidos políticos",
+    "options": [
+      "los partidos políticos",
+      "la capital del Estado",
+      "los sindicatos y las asociaciones empresariales",
+      "la bandera de España y las banderas autonómicas"
+    ],
+    "reference": "CE, artículo 6",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 6: los partidos políticos.",
+    "origin_id": 378,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901268,
+    "question": "¿Qué materia regula el artículo 7 de la Constitución Española?",
+    "answer": "los sindicatos y las asociaciones empresariales",
+    "options": [
+      "los partidos políticos",
+      "la capital del Estado",
+      "los sindicatos y las asociaciones empresariales",
+      "las Fuerzas Armadas"
+    ],
+    "reference": "CE, artículo 7",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 7: los sindicatos y las asociaciones empresariales.",
+    "origin_id": 380,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901269,
+    "question": "¿Qué materia regula el artículo 8 de la Constitución Española?",
+    "answer": "las Fuerzas Armadas",
+    "options": [
+      "los partidos políticos",
+      "las Fuerzas Armadas",
+      "los principios constitucionales y la jerarquía normativa",
+      "los sindicatos y las asociaciones empresariales"
+    ],
+    "reference": "CE, artículo 8",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 8: las Fuerzas Armadas.",
+    "origin_id": 382,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901270,
+    "question": "¿Qué materia regula el artículo 9 de la Constitución Española?",
+    "answer": "los principios constitucionales y la jerarquía normativa",
+    "options": [
+      "los sindicatos y las asociaciones empresariales",
+      "la dignidad de la persona y la interpretación de los derechos",
+      "las Fuerzas Armadas",
+      "los principios constitucionales y la jerarquía normativa"
+    ],
+    "reference": "CE, artículo 9",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 9: los principios constitucionales y la jerarquía normativa.",
+    "origin_id": 384,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901271,
+    "question": "¿Qué materia regula el artículo 56 de la Constitución Española?",
+    "answer": "la posición constitucional del Rey como jefe del Estado",
+    "options": [
+      "la institución del Defensor del Pueblo",
+      "la suspensión de derechos y libertades",
+      "la posición constitucional del Rey como jefe del Estado",
+      "la sucesión en la Corona"
+    ],
+    "reference": "CE, artículo 56",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 56: la posición constitucional del Rey como jefe del Estado.",
+    "origin_id": 478,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901272,
+    "question": "¿Qué materia regula el artículo 57 de la Constitución Española?",
+    "answer": "la sucesión en la Corona",
+    "options": [
+      "la posición constitucional del Rey como jefe del Estado",
+      "la suspensión de derechos y libertades",
+      "la sucesión en la Corona",
+      "las limitaciones constitucionales del consorte del Rey o de la Reina"
+    ],
+    "reference": "CE, artículo 57",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 57: la sucesión en la Corona.",
+    "origin_id": 480,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901273,
+    "question": "¿Qué materia regula el artículo 58 de la Constitución Española?",
+    "answer": "las limitaciones constitucionales del consorte del Rey o de la Reina",
+    "options": [
+      "la posición constitucional del Rey como jefe del Estado",
+      "la sucesión en la Corona",
+      "las limitaciones constitucionales del consorte del Rey o de la Reina",
+      "la Regencia"
+    ],
+    "reference": "CE, artículo 58",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "El artículo 58 regula las limitaciones de la Reina consorte o el consorte de la Reina.",
+    "origin_id": 482,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901274,
+    "question": "¿Qué materia regula el artículo 59 de la Constitución Española?",
+    "answer": "la Regencia",
+    "options": [
+      "la Regencia",
+      "la tutela del Rey menor de edad",
+      "las limitaciones constitucionales del consorte del Rey o de la Reina",
+      "la sucesión en la Corona"
+    ],
+    "reference": "CE, artículo 59",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 59: la Regencia.",
+    "origin_id": 484,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901275,
+    "question": "¿Qué materia regula el artículo 60 de la Constitución Española?",
+    "answer": "la tutela del Rey menor de edad",
+    "options": [
+      "la tutela del Rey menor de edad",
+      "el juramento del Rey, del Príncipe heredero y de los Regentes",
+      "las limitaciones constitucionales del consorte del Rey o de la Reina",
+      "la Regencia"
+    ],
+    "reference": "CE, artículo 60",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 60: la tutela del Rey menor de edad.",
+    "origin_id": 486,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901276,
+    "question": "¿Qué materia regula el artículo 61 de la Constitución Española?",
+    "answer": "el juramento del Rey, del Príncipe heredero y de los Regentes",
+    "options": [
+      "la tutela del Rey menor de edad",
+      "la Regencia",
+      "el juramento del Rey, del Príncipe heredero y de los Regentes",
+      "las funciones constitucionales del Rey en el ámbito interno"
+    ],
+    "reference": "CE, artículo 61",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 61: el juramento del Rey, del Príncipe heredero y de los Regentes.",
+    "origin_id": 488,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901277,
+    "question": "¿Qué materia regula el artículo 62 de la Constitución Española?",
+    "answer": "las funciones constitucionales del Rey en el ámbito interno",
+    "options": [
+      "la tutela del Rey menor de edad",
+      "las funciones constitucionales del Rey en el ámbito interno",
+      "las funciones del Rey en las relaciones internacionales",
+      "el juramento del Rey, del Príncipe heredero y de los Regentes"
+    ],
+    "reference": "CE, artículo 62",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 62: las funciones constitucionales del Rey en el ámbito interno.",
+    "origin_id": 490,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901278,
+    "question": "¿Qué materia regula el artículo 63 de la Constitución Española?",
+    "answer": "las funciones del Rey en las relaciones internacionales",
+    "options": [
+      "las funciones constitucionales del Rey en el ámbito interno",
+      "el refrendo de los actos del Rey",
+      "el juramento del Rey, del Príncipe heredero y de los Regentes",
+      "las funciones del Rey en las relaciones internacionales"
+    ],
+    "reference": "CE, artículo 63",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 63: las funciones del Rey en las relaciones internacionales.",
+    "origin_id": 492,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901279,
+    "question": "¿Qué materia regula el artículo 64 de la Constitución Española?",
+    "answer": "el refrendo de los actos del Rey",
+    "options": [
+      "la dotación presupuestaria de la Casa del Rey",
+      "las funciones del Rey en las relaciones internacionales",
+      "el refrendo de los actos del Rey",
+      "las funciones constitucionales del Rey en el ámbito interno"
+    ],
+    "reference": "CE, artículo 64",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 64: el refrendo de los actos del Rey.",
+    "origin_id": 494,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901280,
+    "question": "¿Qué materia regula el artículo 65 de la Constitución Española?",
+    "answer": "la dotación presupuestaria de la Casa del Rey",
+    "options": [
+      "las funciones del Rey en las relaciones internacionales",
+      "la dotación presupuestaria de la Casa del Rey",
+      "el refrendo de los actos del Rey",
+      "la composición y las funciones de las Cortes Generales"
+    ],
+    "reference": "CE, artículo 65",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 65: la dotación presupuestaria de la Casa del Rey.",
+    "origin_id": 496,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901281,
+    "question": "¿Qué materia regula el artículo 66 de la Constitución Española?",
+    "answer": "la composición y las funciones de las Cortes Generales",
+    "options": [
+      "las incompatibilidades de los parlamentarios y las reuniones de las Cámaras",
+      "el refrendo de los actos del Rey",
+      "la composición y las funciones de las Cortes Generales",
+      "la dotación presupuestaria de la Casa del Rey"
+    ],
+    "reference": "CE, artículo 66",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 66: la composición y las funciones de las Cortes Generales.",
+    "origin_id": 498,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901282,
+    "question": "¿Qué materia regula el artículo 67 de la Constitución Española?",
+    "answer": "las incompatibilidades de los parlamentarios y las reuniones de las Cámaras",
+    "options": [
+      "la composición y las funciones de las Cortes Generales",
+      "la composición y elección del Congreso de los Diputados",
+      "la dotación presupuestaria de la Casa del Rey",
+      "las incompatibilidades de los parlamentarios y las reuniones de las Cámaras"
+    ],
+    "reference": "CE, artículo 67",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 67: las incompatibilidades de los parlamentarios y las reuniones de las Cámaras.",
+    "origin_id": 500,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901283,
+    "question": "¿Qué materia regula el artículo 68 de la Constitución Española?",
+    "answer": "la composición y elección del Congreso de los Diputados",
+    "options": [
+      "la composición y elección del Congreso de los Diputados",
+      "las incompatibilidades de los parlamentarios y las reuniones de las Cámaras",
+      "la composición y las funciones de las Cortes Generales",
+      "la composición y elección del Senado"
+    ],
+    "reference": "CE, artículo 68",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 68: la composición y elección del Congreso de los Diputados.",
+    "origin_id": 502,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901284,
+    "question": "¿Qué materia regula el artículo 69 de la Constitución Española?",
+    "answer": "la composición y elección del Senado",
+    "options": [
+      "las incompatibilidades de los parlamentarios y las reuniones de las Cámaras",
+      "la composición y elección del Congreso de los Diputados",
+      "la composición y elección del Senado",
+      "las causas de inelegibilidad e incompatibilidad parlamentarias"
+    ],
+    "reference": "CE, artículo 69",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 69: la composición y elección del Senado.",
+    "origin_id": 504,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901285,
+    "question": "¿Qué materia regula el artículo 70 de la Constitución Española?",
+    "answer": "las causas de inelegibilidad e incompatibilidad parlamentarias",
+    "options": [
+      "la inviolabilidad, inmunidad y fuero de diputados y senadores",
+      "las causas de inelegibilidad e incompatibilidad parlamentarias",
+      "la composición y elección del Congreso de los Diputados",
+      "la composición y elección del Senado"
+    ],
+    "reference": "CE, artículo 70",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 70: las causas de inelegibilidad e incompatibilidad parlamentarias.",
+    "origin_id": 506,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901286,
+    "question": "¿Qué materia regula el artículo 71 de la Constitución Española?",
+    "answer": "la inviolabilidad, inmunidad y fuero de diputados y senadores",
+    "options": [
+      "las causas de inelegibilidad e incompatibilidad parlamentarias",
+      "los reglamentos, presupuestos y órganos rectores de las Cámaras",
+      "la inviolabilidad, inmunidad y fuero de diputados y senadores",
+      "la composición y elección del Senado"
+    ],
+    "reference": "CE, artículo 71",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 71: la inviolabilidad, inmunidad y fuero de diputados y senadores.",
+    "origin_id": 508,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901287,
+    "question": "¿Qué materia regula el artículo 72 de la Constitución Española?",
+    "answer": "los reglamentos, presupuestos y órganos rectores de las Cámaras",
+    "options": [
+      "las causas de inelegibilidad e incompatibilidad parlamentarias",
+      "los períodos de sesiones de las Cámaras",
+      "los reglamentos, presupuestos y órganos rectores de las Cámaras",
+      "la inviolabilidad, inmunidad y fuero de diputados y senadores"
+    ],
+    "reference": "CE, artículo 72",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 72: los reglamentos, presupuestos y órganos rectores de las Cámaras.",
+    "origin_id": 510,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901288,
+    "question": "¿Qué materia regula el artículo 73 de la Constitución Española?",
+    "answer": "los períodos de sesiones de las Cámaras",
+    "options": [
+      "los períodos de sesiones de las Cámaras",
+      "la inviolabilidad, inmunidad y fuero de diputados y senadores",
+      "los reglamentos, presupuestos y órganos rectores de las Cámaras",
+      "las sesiones conjuntas de las Cámaras"
+    ],
+    "reference": "CE, artículo 73",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 73: los períodos de sesiones de las Cámaras.",
+    "origin_id": 512,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901289,
+    "question": "¿Qué materia regula el artículo 74 de la Constitución Española?",
+    "answer": "las sesiones conjuntas de las Cámaras",
+    "options": [
+      "los reglamentos, presupuestos y órganos rectores de las Cámaras",
+      "los períodos de sesiones de las Cámaras",
+      "las sesiones conjuntas de las Cámaras",
+      "el funcionamiento de las Cámaras en Pleno y por Comisiones"
+    ],
+    "reference": "CE, artículo 74",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 74: las sesiones conjuntas de las Cámaras.",
+    "origin_id": 514,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901290,
+    "question": "¿Qué materia regula el artículo 75 de la Constitución Española?",
+    "answer": "el funcionamiento de las Cámaras en Pleno y por Comisiones",
+    "options": [
+      "los períodos de sesiones de las Cámaras",
+      "las comisiones parlamentarias de investigación",
+      "las sesiones conjuntas de las Cámaras",
+      "el funcionamiento de las Cámaras en Pleno y por Comisiones"
+    ],
+    "reference": "CE, artículo 75",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 75: el funcionamiento de las Cámaras en Pleno y por Comisiones.",
+    "origin_id": 516,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901291,
+    "question": "¿Qué materia regula el artículo 76 de la Constitución Española?",
+    "answer": "las comisiones parlamentarias de investigación",
+    "options": [
+      "las comisiones parlamentarias de investigación",
+      "las peticiones dirigidas a las Cámaras",
+      "las sesiones conjuntas de las Cámaras",
+      "el funcionamiento de las Cámaras en Pleno y por Comisiones"
+    ],
+    "reference": "CE, artículo 76",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 76: las comisiones parlamentarias de investigación.",
+    "origin_id": 518,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901292,
+    "question": "¿Qué materia regula el artículo 77 de la Constitución Española?",
+    "answer": "las peticiones dirigidas a las Cámaras",
+    "options": [
+      "las comisiones parlamentarias de investigación",
+      "el funcionamiento de las Cámaras en Pleno y por Comisiones",
+      "las peticiones dirigidas a las Cámaras",
+      "las Diputaciones Permanentes de las Cámaras"
+    ],
+    "reference": "CE, artículo 77",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 77: las peticiones dirigidas a las Cámaras.",
+    "origin_id": 520,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901293,
+    "question": "¿Qué materia regula el artículo 78 de la Constitución Española?",
+    "answer": "las Diputaciones Permanentes de las Cámaras",
+    "options": [
+      "las comisiones parlamentarias de investigación",
+      "las Diputaciones Permanentes de las Cámaras",
+      "la adopción de acuerdos parlamentarios y el voto de los miembros",
+      "las peticiones dirigidas a las Cámaras"
+    ],
+    "reference": "CE, artículo 78",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 78: las Diputaciones Permanentes de las Cámaras.",
+    "origin_id": 522,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901294,
+    "question": "¿Qué materia regula el artículo 79 de la Constitución Española?",
+    "answer": "la adopción de acuerdos parlamentarios y el voto de los miembros",
+    "options": [
+      "las peticiones dirigidas a las Cámaras",
+      "el carácter público de las sesiones plenarias",
+      "las Diputaciones Permanentes de las Cámaras",
+      "la adopción de acuerdos parlamentarios y el voto de los miembros"
+    ],
+    "reference": "CE, artículo 79",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 79: la adopción de acuerdos parlamentarios y el voto de los miembros.",
+    "origin_id": 524,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901295,
+    "question": "¿Qué materia regula el artículo 80 de la Constitución Española?",
+    "answer": "el carácter público de las sesiones plenarias",
+    "options": [
+      "las leyes orgánicas y su aprobación",
+      "la adopción de acuerdos parlamentarios y el voto de los miembros",
+      "el carácter público de las sesiones plenarias",
+      "las Diputaciones Permanentes de las Cámaras"
+    ],
+    "reference": "CE, artículo 80",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 80: el carácter público de las sesiones plenarias.",
+    "origin_id": 526,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901296,
+    "question": "¿Qué materia regula el artículo 81 de la Constitución Española?",
+    "answer": "las leyes orgánicas y su aprobación",
+    "options": [
+      "el carácter público de las sesiones plenarias",
+      "las leyes orgánicas y su aprobación",
+      "la adopción de acuerdos parlamentarios y el voto de los miembros",
+      "la delegación legislativa de las Cortes en el Gobierno"
+    ],
+    "reference": "CE, artículo 81",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 81: las leyes orgánicas y su aprobación.",
+    "origin_id": 528,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901297,
+    "question": "¿Qué materia regula el artículo 82 de la Constitución Española?",
+    "answer": "la delegación legislativa de las Cortes en el Gobierno",
+    "options": [
+      "el carácter público de las sesiones plenarias",
+      "los límites específicos de las leyes de bases",
+      "la delegación legislativa de las Cortes en el Gobierno",
+      "las leyes orgánicas y su aprobación"
+    ],
+    "reference": "CE, artículo 82",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 82: la delegación legislativa de las Cortes en el Gobierno.",
+    "origin_id": 530,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901298,
+    "question": "¿Qué materia regula el artículo 83 de la Constitución Española?",
+    "answer": "los límites específicos de las leyes de bases",
+    "options": [
+      "la delegación legislativa de las Cortes en el Gobierno",
+      "la oposición del Gobierno a iniciativas contrarias a una delegación legislativa en vigor",
+      "las leyes orgánicas y su aprobación",
+      "los límites específicos de las leyes de bases"
+    ],
+    "reference": "CE, artículo 83",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 83: los límites específicos de las leyes de bases.",
+    "origin_id": 532,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901299,
+    "question": "¿Qué materia regula el artículo 84 de la Constitución Española?",
+    "answer": "la oposición del Gobierno a iniciativas contrarias a una delegación legislativa en vigor",
+    "options": [
+      "la oposición del Gobierno a iniciativas contrarias a una delegación legislativa en vigor",
+      "los límites específicos de las leyes de bases",
+      "la delegación legislativa de las Cortes en el Gobierno",
+      "la denominación de los decretos legislativos"
+    ],
+    "reference": "CE, artículo 84",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 84: la oposición del Gobierno a iniciativas contrarias a una delegación legislativa en vigor.",
+    "origin_id": 534,
+    "origin": "pregunta preexistente"
+  },
+  {
+    "id": 901300,
+    "question": "¿Qué materia regula el artículo 85 de la Constitución Española?",
+    "answer": "la denominación de los decretos legislativos",
+    "options": [
+      "la oposición del Gobierno a iniciativas contrarias a una delegación legislativa en vigor",
+      "la denominación de los decretos legislativos",
+      "los límites específicos de las leyes de bases",
+      "los decretos-leyes y su convalidación"
+    ],
+    "reference": "CE, artículo 85",
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
+    "explanation": "Materia principal del artículo 85: la denominación de los decretos legislativos.",
+    "origin_id": 536,
+    "origin": "pregunta preexistente"
+  }
+]
