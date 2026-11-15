@@ -29946,7 +29946,7 @@
     "answer": "Principios de programación presupuestaria",
     "options": [
       "Escenarios presupuestarios plurianuales",
-      "Programas plurianuales de los centros gestores",
+      "Programas plurianuales ministeriales",
       "Principios de gestión presupuestaria",
       "Principios de programación presupuestaria"
     ],
@@ -29979,7 +29979,7 @@
     "question": "Según Ley 47/2003, ¿qué materia aborda el artículo 27?",
     "answer": "Principios de gestión presupuestaria",
     "options": [
-      "Programas plurianuales de los centros gestores",
+      "Programas plurianuales ministeriales",
       "Principios de gestión presupuestaria",
       "Principios de programación presupuestaria",
       "Escenarios presupuestarios plurianuales"
@@ -30013,9 +30013,9 @@
     "question": "Según Ley 47/2003, ¿qué materia aborda el artículo 28?",
     "answer": "Escenarios presupuestarios plurianuales",
     "options": [
-      "Programas plurianuales de los centros gestores",
-      "Principios de gestión presupuestaria",
       "Programas plurianuales ministeriales",
+      "Principios de gestión presupuestaria",
+      "Programas plurianuales de los centros gestores",
       "Escenarios presupuestarios plurianuales"
     ],
     "reference": "Ley 47/2003; CEF, Tema 1, p. 6",
@@ -30027,7 +30027,7 @@
   },
   {
     "id": 1701,
-    "question": "Según Ley 47/2003, ¿en qué artículo se regula programas plurianuales de los centros gestores?",
+    "question": "Según Ley 47/2003, ¿en qué artículo se regula programas plurianuales ministeriales?",
     "answer": "Artículo 29",
     "options": [
       "Artículo 30",
@@ -30045,12 +30045,12 @@
   {
     "id": 1702,
     "question": "Según Ley 47/2003, ¿qué materia aborda el artículo 29?",
-    "answer": "Programas plurianuales de los centros gestores",
+    "answer": "Programas plurianuales ministeriales",
     "options": [
-      "Programas plurianuales de los centros gestores",
-      "Escenarios de ingresos y gastos",
+      "Programas plurianuales ministeriales",
+      "Asignación presupuestaria y objetivos",
       "Escenarios presupuestarios plurianuales",
-      "Programas plurianuales ministeriales"
+      "Programas plurianuales de los centros gestores"
     ],
     "reference": "Ley 47/2003; CEF, Tema 1, p. 6",
     "category": "Gestión Financiera · Tema 1",
@@ -30061,7 +30061,7 @@
   },
   {
     "id": 1703,
-    "question": "Según Ley 47/2003, ¿en qué artículo se regula programas plurianuales ministeriales?",
+    "question": "Según Ley 47/2003, ¿en qué artículo se regula programas plurianuales de los centros gestores?",
     "answer": "Artículo 30",
     "options": [
       "Artículo 30",
@@ -30079,11 +30079,11 @@
   {
     "id": 1704,
     "question": "Según Ley 47/2003, ¿qué materia aborda el artículo 30?",
-    "answer": "Programas plurianuales ministeriales",
+    "answer": "Programas plurianuales de los centros gestores",
     "options": [
-      "Escenarios de ingresos y gastos",
-      "Programas plurianuales de los centros gestores",
+      "Asignación presupuestaria y objetivos",
       "Programas plurianuales ministeriales",
+      "Programas plurianuales de los centros gestores",
       "Escenarios presupuestarios plurianuales"
     ],
     "reference": "Ley 47/2003; CEF, Tema 1, p. 6",
@@ -30095,7 +30095,7 @@
   },
   {
     "id": 1705,
-    "question": "Según Ley 47/2003, ¿en qué artículo se regula escenarios de ingresos y gastos?",
+    "question": "Según Ley 47/2003, ¿en qué artículo se regula asignación presupuestaria y objetivos?",
     "answer": "Artículo 31",
     "options": [
       "Artículo 30",
@@ -30113,12 +30113,12 @@
   {
     "id": 1706,
     "question": "Según Ley 47/2003, ¿qué materia aborda el artículo 31?",
-    "answer": "Escenarios de ingresos y gastos",
+    "answer": "Asignación presupuestaria y objetivos",
     "options": [
       "Ámbito subjetivo y contenido de los PGE",
-      "Programas plurianuales ministeriales",
+      "Programas plurianuales de los centros gestores",
       "Definición de los Presupuestos Generales del Estado",
-      "Escenarios de ingresos y gastos"
+      "Asignación presupuestaria y objetivos"
     ],
     "reference": "Ley 47/2003; CEF, Tema 1, p. 6",
     "category": "Gestión Financiera · Tema 1",
@@ -30151,8 +30151,8 @@
     "options": [
       "Definición de los Presupuestos Generales del Estado",
       "Ámbito subjetivo y contenido de los PGE",
-      "Escenarios de ingresos y gastos",
-      "Programas plurianuales ministeriales"
+      "Asignación presupuestaria y objetivos",
+      "Programas plurianuales de los centros gestores"
     ],
     "reference": "Ley 47/2003; CEF, Tema 1, p. 6",
     "category": "Gestión Financiera · Tema 1",
