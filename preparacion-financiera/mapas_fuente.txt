@@ -1,0 +1,226 @@
+# GACE · PARES DE MEMORIZACIÓN DE GESTIÓN FINANCIERA
+# Formato: @Nombre del grupo|Referencia legal|Tema|Página PDF base
+# elemento: código|materia / denominación
+@LOEPySF · artículos|Ley Orgánica 2/2012|Tema 1 · Estabilidad y sostenibilidad|10
+1|Objeto y principios rectores de la estabilidad presupuestaria y sostenibilidad financiera
+2|Ámbito de aplicación y delimitación del sector público
+3|Principio de estabilidad presupuestaria
+4|Principio de sostenibilidad financiera
+5|Principio de plurianualidad
+6|Principio de transparencia
+7|Principio de eficiencia en la asignación y utilización de recursos
+8|Principio de responsabilidad
+9|Principio de lealtad institucional
+10|Disposiciones para la aplicación efectiva de los principios
+11|Instrumentación del principio de estabilidad presupuestaria
+12|Regla de gasto
+13|Instrumentación del principio de sostenibilidad financiera
+14|Prioridad absoluta del pago de la deuda pública
+15|Objetivos de estabilidad y deuda para el conjunto de las AAPP
+16|Objetivos individuales de estabilidad y deuda de las comunidades autónomas
+17|Informes de seguimiento y cumplimiento de los objetivos
+18|Medidas automáticas de prevención del incumplimiento
+19|Advertencia de riesgo de incumplimiento
+20|Medidas automáticas de corrección
+21|Plan económico-financiero
+22|Plan de reequilibrio
+23|Tramitación y seguimiento de los planes
+24|Informes de seguimiento de los planes
+25|Medidas coercitivas ante incumplimientos
+26|Medidas de cumplimiento forzoso
+30|Límite de gasto no financiero
+31|Fondo de Contingencia
+32|Destino del superávit presupuestario
+@LGP · artículos|Ley 47/2003|Tema 1 · Ley General Presupuestaria|6
+1|Objeto y alcance de la Ley General Presupuestaria
+2|Composición del sector público estatal
+3|Clasificación de los entes del sector público estatal
+4|Régimen económico-financiero y normas aplicables
+5|Constitución de la Hacienda Pública estatal
+26|Principios de programación presupuestaria
+27|Principios de gestión presupuestaria
+28|Escenarios presupuestarios plurianuales
+29|Programas plurianuales de los centros gestores
+30|Programas plurianuales ministeriales
+31|Escenarios de ingresos y gastos
+32|Definición de los Presupuestos Generales del Estado
+33|Ámbito subjetivo y contenido de los PGE
+34|Ejercicio presupuestario e imputación temporal
+35|Concepto de crédito presupuestario
+36|Procedimiento de elaboración del anteproyecto de PGE
+37|Remisión a las Cortes del proyecto de Ley de PGE
+38|Prórroga de los presupuestos iniciales
+39|Criterios generales de estructura de los PGE
+40|Clasificación de los estados de gastos
+41|Clasificación de los estados de ingresos
+42|Especialidad cualitativa de los créditos
+43|Especificación y vinculación de créditos del Estado
+44|Especificación y vinculación de créditos de organismos autónomos
+46|Limitación cuantitativa de los créditos
+49|Limitación temporal y anulación de créditos al cierre
+50|Fondo de Contingencia de ejecución presupuestaria
+73|Fases de gestión del presupuesto de gastos
+74|Competencias para aprobar y comprometer gastos
+80|Gestión del presupuesto de ingresos
+90|Tesoro Público y sus recursos financieros
+92|Concepto de deuda del Estado
+94|Autorización legal de creación de deuda del Estado
+111|Endeudamiento de organismos y entidades del sector público institucional
+119|Finalidad y obligaciones de la contabilidad pública
+121|Principios contables aplicables a sectores del sector público estatal
+140|Control económico-financiero del sector público estatal
+@CE · presupuesto|Constitución Española|Tema 1 · Derecho presupuestario constitucional|11
+72|Autonomía reglamentaria, presupuestaria y organizativa de las Cámaras
+75|Actuación parlamentaria en Pleno y Comisiones y materias no delegables
+90|Intervención del Senado en la tramitación legislativa
+91|Sanción, promulgación y publicación de las leyes por el Rey
+134|Presupuestos Generales del Estado y competencias de Gobierno y Cortes
+135|Estabilidad presupuestaria, déficit y prioridad de la deuda pública
+@Secciones orgánicas y diferenciadas del PGE|Clasificación orgánica de los PGE|Tema 2 · Estructura presupuestaria|31
+01|Casa de Su Majestad el Rey
+02|Cortes Generales
+03|Tribunal de Cuentas
+04|Tribunal Constitucional
+05|Consejo de Estado
+08|Consejo General del Poder Judicial
+12|Ministerio de Asuntos Exteriores, Unión Europea y Cooperación
+13|Ministerio de la Presidencia, Justicia y Relaciones con las Cortes
+14|Ministerio de Defensa
+15|Ministerio de Hacienda
+16|Ministerio del Interior
+17|Ministerio de Transportes y Movilidad Sostenible
+18|Ministerio de Educación, Formación Profesional y Deportes
+19|Ministerio de Trabajo y Economía Social
+20|Ministerio de Industria y Turismo
+21|Ministerio de Agricultura, Pesca y Alimentación
+22|Ministerio de Política Territorial y Memoria Democrática
+23|Ministerio para la Transición Ecológica y el Reto Demográfico
+24|Ministerio de Cultura
+25|Ministerio de Vivienda y Agenda Urbana
+26|Ministerio de Sanidad
+27|Ministerio de Economía, Comercio y Empresa
+28|Ministerio de Ciencia, Innovación y Universidades
+29|Ministerio de Derechos Sociales, Consumo y Agenda 2030
+30|Ministerio de Igualdad
+31|Ministerio de Juventud e Infancia
+32|Ministerio de Inclusión, Seguridad Social y Migraciones
+33|Ministerio para la Transformación Digital y de la Función Pública
+@Secciones no orgánicas de los PGE|Clasificación orgánica de los PGE|Tema 2 · Estructura presupuestaria|31
+06|Deuda Pública
+07|Clases Pasivas
+09|Aportaciones al mutualismo administrativo
+10|Contratación centralizada
+34|Relaciones financieras con la Unión Europea
+35|Fondo de Contingencia
+36|Fondo de Compensación Interterritorial
+37|Otras relaciones financieras con entes territoriales
+38|Sistemas de financiación de entes territoriales
+@Capítulos del presupuesto de gastos|Clasificación económica del gasto|Tema 2 · Clasificación económica de gastos|33
+1|Gastos de personal
+2|Gastos corrientes en bienes y servicios
+3|Gastos financieros
+4|Transferencias corrientes
+5|Fondo de Contingencia y otros imprevistos
+6|Inversiones reales
+7|Transferencias de capital
+8|Activos financieros
+9|Pasivos financieros
+@Capítulos del presupuesto de ingresos|Clasificación económica de ingresos|Tema 2 · Clasificación económica de ingresos|35
+1|Impuestos directos y cotizaciones sociales
+2|Impuestos indirectos
+3|Tasas, precios públicos y otros ingresos
+4|Transferencias corrientes
+5|Ingresos patrimoniales
+6|Enajenación de inversiones reales
+7|Transferencias de capital
+8|Activos financieros
+9|Pasivos financieros
+@Conceptos y subconceptos de gastos|Clasificación económica de gastos (códigos)|Tema 2 · Clasificación económica de gastos|36
+120.06|Pagas extraordinarias
+150|Productividad
+151|Gratificaciones
+153|Complemento de dedicación especial
+160.00|Cuotas a la Seguridad Social
+160.01|Cuotas de MUFACE
+160.02|Cuotas de ISFAS
+160.03|Cuotas de MUGEJU
+162.00|Formación y perfeccionamiento del personal
+162.01|Economatos y comedores
+162.04|Acción social
+202|Arrendamientos de edificios y otras construcciones
+221.09|Labores de la Fábrica Nacional de Moneda y Timbre
+225.02|Tributos locales
+226.01|Atenciones protocolarias y representativas
+226.08|Gastos reservados
+227.05|Procesos electorales y consultas populares
+230|Dietas por razón del servicio
+@Conceptos y subconceptos de ingresos|Clasificación económica de ingresos (códigos)|Tema 2 · Clasificación económica de ingresos|35
+100.00|Impuesto sobre la renta de las personas físicas
+330|Venta de publicaciones propias
+@Códigos de estructura por programas|Clasificación por programas de los PGE|Tema 2 · Estructura por programas|33
+111Q|Formación del personal de la Administración de Justicia
+456B|Protección y mejora del medio ambiente
+132A|Seguridad Ciudadana
+929N|Programa utilizado para el Fondo de Contingencia
+@Clasificación territorial, orgánica y económica|Estructura de los PGE|Tema 2 · Estructura presupuestaria|34
+Orgánica|Centro gestor que realiza el gasto: quién gasta
+Por programas|Finalidad de cada gasto público: para qué se gasta
+Económica|Objeto o naturaleza del gasto: en qué se gasta
+Territorial|Distribución geográfica de los proyectos de inversión real
+@Fases del ciclo presupuestario|Ciclo presupuestario|Tema 2 · Ciclo presupuestario|18
+Elaboración|Formación de la propuesta y del anteproyecto del presupuesto
+Aprobación|Examen, enmienda y aprobación parlamentaria del presupuesto
+Ejecución|Gestión de derechos, obligaciones y pagos del presupuesto aprobado
+Control|Fiscalización y evaluación de la gestión presupuestaria
+@Fases del presupuesto por programas|Técnica PPBS|Tema 1 · Técnicas de presupuestación|4
+Planificación|Identificación y selección de objetivos de largo plazo
+Programación|Formulación de programas y actividades para alcanzar objetivos
+Presupuestación|Cuantificación anual en términos físicos y monetarios
+Control|Comparación de resultados previstos y obtenidos
+@Tipos de programas PPBS|Presupuesto por programas|Tema 1 · Técnicas de presupuestación|4
+Administrativos|Actividades de funcionamiento interno de la Administración
+Operacionales|Actividades que conducen a resultados finales definidos
+De intervención|Actividades con participación de agentes diferentes del Estado
+@Niveles de financiación de ZBB|Presupuesto en base cero|Tema 1 · Técnicas de presupuestación|5
+Mínimo|Financiación por debajo de la cual el programa resulta inviable
+Corriente|Financiación para mantener actividades sin cambios importantes
+De mejora|Financiación superior para elevar la intensidad del programa
+@Principios del presupuesto clásico|Doctrina clásica|Tema 1 · Principios presupuestarios|2
+Unidad de caja|Centralización de todos los cobros y pagos en una caja única
+Presupuesto bruto|Registro de gastos e ingresos por sus importes íntegros
+Especificación|Detalle de partidas, finalidad e importe
+Ejercicio cerrado|Imputación al ejercicio correspondiente de ingresos y gastos realizados
+Universalidad|Inclusión de todos los gastos e ingresos en el presupuesto
+Unidad|Existencia de un solo presupuesto
+Especialidad|Sujeción al destino, cuantía y tiempo autorizados parlamentariamente
+Temporalidad|Vigencia del presupuesto limitada a un período determinado
+Publicidad|Naturaleza pública de aprobación y gestión del presupuesto
+Claridad|Identificación precisa de los créditos y su finalidad
+@Clases de especialidad presupuestaria|Principio clásico de especialidad|Tema 1 · Principios presupuestarios|2
+Cualitativa|Limitación de los créditos por su finalidad
+Cuantitativa|Limitación de los créditos por su cuantía
+Temporal|Limitación de los créditos por su periodo de vigencia
+@Fórmulas de estabilización|Modelos presupuestarios|Tema 1 · Técnicas de presupuestación|3
+Clásico|Defensa del equilibrio económico anual y de la limitación del gasto
+Compensatorio|Uso discrecional del déficit para compensar la demanda privada
+Cíclico|Búsqueda del equilibrio económico a lo largo de un ciclo de siete u ocho años
+Estabilización automática|Empleo de estabilizadores automáticos y superávit en plena ocupación
+@Clasificación de operaciones presupuestarias|Estructura económica|Tema 2 · Clasificación económica de gastos|33
+Corrientes|Capítulos 1 a 4 de gastos
+Fondo de Contingencia|Capítulo 5 de gastos
+De capital|Capítulos 6 y 7 de gastos
+Financieras|Capítulos 8 y 9 de gastos
+@Principios generales de la LOEPySF|LOEPySF|Tema 1 · Estabilidad y sostenibilidad|12
+Estabilidad presupuestaria|Equilibrio o superávit estructural en el sector Administraciones Públicas
+Sostenibilidad financiera|Financiación sostenible de compromisos dentro de los límites de deuda, déficit y morosidad
+Plurianualidad|Presupuestos en un marco de medio plazo compatible con la anualidad
+Transparencia|Información pública suficiente de presupuestos, liquidaciones y situación financiera
+Eficiencia|Recursos asignados y utilizados con eficacia, economía y calidad
+Responsabilidad|Imputación a cada Administración de los incumplimientos que cause
+Lealtad institucional|Respeto a competencias e intereses de otras Administraciones
+@Tipos de presupuesto según el momento|Clasificación de presupuestos|Tema 1 · Concepto de presupuesto|1
+A priori|Elaborado antes del ejercicio para prever ingresos y gastos
+A posteriori|Elaborado tras el ejercicio para recoger ingresos y gastos efectivos
+@Tipos de presupuesto por ámbito|Clasificación de presupuestos|Tema 1 · Concepto de presupuesto|1
+Ordinario|Gastos e ingresos previstos para el periodo presupuestario ordinario
+Extraordinario|Gastos no recogidos en el presupuesto ordinario
