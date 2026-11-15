@@ -3,10 +3,10 @@
 Origen: apuntes de Cristina Corredoira, Temas 1 y 2, 50 páginas.
 La auditoría de distractores nunca altera la respuesta correcta ni el enunciado.
 """
-import json, re, hashlib, collections, pathlib, math
+import json, re, hashlib, collections, pathlib, math, subprocess
 ROOT=pathlib.Path(__file__).resolve().parent.parent
 source=ROOT/"questions.json"
-original=json.loads(source.read_text(encoding="utf-8"))
+original=json.loads(subprocess.check_output(["git","show","origin/main:questions.json"]).decode("utf-8"))
 old=json.loads(json.dumps(original,ensure_ascii=False))
 assert len(old)>=1626
 assert all(q["id"]==i+1 for i,q in enumerate(old))
@@ -100,6 +100,76 @@ for q in original:
             update(q,[v for v in ("Providencia","Auto","Sentencia","Acuerdo") if v!=ans],"resoluciones procesales verosímiles")
         elif ans in ("El Pleno del TC","La Sala del TC","Una Sala del TC","Una Sección del TC","El Presidente del TC") and q.get("category")=="Tribunal Constitucional":
             update(q,[v for v in ("El Pleno del TC","Una Sala del TC","Una Sección del TC","El Presidente del TC") if v!=ans],"órganos internos del TC")
+        elif re.fullmatch(r"Art[íi]culo\s+(\d{1,3})",ans,re.I):
+            n=int(re.search(r"\d+",ans).group())
+            if q.get("category")=="Tribunal Constitucional" and 159<=n<=165 and "constituc" in q["question"].lower():
+                a,b=159,165
+            else:a,b=max(1,n-3),n+3
+            update(q,[f"Artículo {v}" for v in near_numbers(n,a,b)],"referencias legales del mismo entorno")
+        elif re.fullmatch(r"\d{2}-\d{2}-\d{4}",ans):
+            d,m,y=[int(x) for x in ans.split("-")]
+            vals=[f"{v:02d}-{m:02d}-{y}" for v in (d-1,d+1) if 1<=v<=28]
+            vals.extend([f"{d:02d}-{m:02d}-{y+1}",f"{d:02d}-{m:02d}-{y-1}"])
+            update(q,vals[:3],"fechas próximas")
+        elif re.fullmatch(r"\d{1,2} de [a-záéíóú]+ de \d{4}",ans,re.I):
+            mt=re.match(r"(\d+) de (.+?) de (\d{4})",ans)
+            d,month,y=int(mt.group(1)),mt.group(2),int(mt.group(3))
+            vals=[f"{v} de {month} de {y}" for v in (d-1,d+1) if 1<=v<=28]
+            vals += [f"{d} de {month} de {y+1}",f"{d} de {month} de {y-1}"]
+            update(q,vals[:3],"fechas de normas próximas")
+        elif re.fullmatch(r"Cada\s+\d+\s+años?",ans,re.I):
+            mt=re.search(r"\d+",ans);n=int(mt.group())
+            update(q,[ans.replace(str(n),str(v),1) for v in near_numbers(n,max(1,n-2),n+3)],"periodicidades próximas")
+        elif re.fullmatch(r"\d[\d.]*\s*€\s*o\s*más",ans,re.I):
+            mt=re.search(r"\d[\d.]*",ans)
+            amount=int(mt.group().replace(".",""))
+            base=50000 if amount>=100000 else (5000 if amount>=10000 else 1000)
+            vals=[]
+            for delta in (-base,base,2*base):
+                new=str(amount+delta)
+                new=".".join([new[max(0,len(new)-3*(k+1)):len(new)-3*k] for k in range((len(new)+2)//3)][::-1])
+                vals.append(ans.replace(mt.group(),new,1))
+            update(q,vals,"umbrales cercanos")
+    # Casos previamente comprobados en los que las opciones eran de categorías claramente dispares.
+    PRECISE={
+        738:["Norma dictada por el Gobierno en ejercicio de delegación legislativa",
+             "Norma dictada por el Gobierno al amparo de la potestad reglamentaria",
+             "Norma con fuerza de ley adoptada por el ejecutivo por extraordinaria urgencia"],
+        737:["Sí, si la orden desarrolla una habilitación contenida en la Ley 40/2015",
+             "Sí, si el ministerio firmante impulsó previamente ese real decreto",
+             "Sí, si la orden regula una materia no reservada a ley"],
+        729:["Potestad normativa autonómica limitada en todo caso a normas reglamentarias",
+             "Potestad legislativa autonómica solo mediante delegación de las Cortes Generales",
+             "Potestad para aprobar leyes estatales en materias de competencia compartida"],
+        951:["Eficacia condicionada a su ratificación por los órganos jurisdiccionales ordinarios",
+             "Eficacia únicamente entre las partes y sin valor de cosa juzgada",
+             "Fuerza obligatoria subordinada a una nueva sentencia de la jurisdicción ordinaria"],
+        826:["Del presidente y tres magistrados del propio Tribunal",
+             "Del presidente y dos magistrados designados por el Gobierno",
+             "De dos magistrados sin intervención del presidente respectivo"],
+        981:["Auto","Sentencia","Acuerdo"],
+        999:["Solo disposiciones y actos expresos, sin incluir omisiones ni vías de hecho",
+             "Disposiciones y omisiones, pero no actuaciones materiales constitutivas de vía de hecho",
+             "Únicamente resoluciones administrativas definitivas, no disposiciones ni inactividad"],
+        1477:["Cesa únicamente cuando la nueva autoridad lo acuerde de forma expresa",
+              "Conserva el puesto hasta la siguiente oferta de empleo público",
+              "Cesa al cumplirse el plazo del nombramiento, pero no por el cese de la autoridad"],
+        1327:["Real Decreto Legislativo 4/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.",
+              "Real Decreto Legislativo 5/2014, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.",
+              "Real Decreto Legislativo 5/2015, de 29 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público."],
+        1227:["450.000 € o más","550.000 € o más","600.000 € o más"],
+        790:["La simple preferencia de los reglamentos posteriores frente a todas las leyes anteriores",
+             "La libertad del Gobierno para modificar leyes ordinarias cuando no se reserve la materia a ley",
+             "La prioridad de las disposiciones reglamentarias que se dicten en desarrollo de una ley"],
+        1000:["La revisión de la valoración probatoria cuando el recurrente discrepe del tribunal",
+              "La revisión de la legalidad ordinaria aunque no se invoque lesión de derechos",
+              "La revisión de las decisiones de oportunidad de los órganos judiciales"],
+        1478:["Solo puede mantenerse si el nuevo titular confirma la confianza mediante resolución expresa",
+              "Continúa hasta la siguiente revisión presupuestaria sin posibilidad de cese anticipado",
+              "Permanece hasta que culmine el proceso selectivo de funcionarios de carrera"],
+    }
+    if q["id"] in PRECISE:
+        update(q,PRECISE[q["id"]],"distractores específicos contrastados")
     # No alteramos otras opciones jurídicamente delicadas sin contraste de contenido.
     # Todas las respuestas existentes se reordenan para no crear patrones en el JSON.
     q["options"]=shuffle4([q["answer"]]+[x for x in q["options"] if x!=q["answer"]],q["id"])
