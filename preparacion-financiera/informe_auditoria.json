@@ -1,0 +1,267 @@
+{
+  "old": 1626,
+  "new": 560,
+  "total": 2186,
+  "modified_distractors": 470,
+  "changed_by_category": {
+    "Tribunal Constitucional": 52,
+    "Defensor del Pueblo": 6,
+    "Unión Europea": 36,
+    "Constitución": 338,
+    "Contratos del Sector Público · Tema 1": 18,
+    "Contratos del Sector Público · Tema 2": 20
+  },
+  "new_by_topic": {
+    "Tema 1 · Estabilidad y sostenibilidad": 72,
+    "Tema 1 · Ley General Presupuestaria": 74,
+    "Tema 1 · Derecho presupuestario constitucional": 12,
+    "Tema 2 · Estructura presupuestaria": 82,
+    "Tema 2 · Clasificación económica de gastos": 62,
+    "Tema 2 · Clasificación económica de ingresos": 18,
+    "Tema 2 · Estructura por programas": 8,
+    "Tema 2 · Ciclo presupuestario": 8,
+    "Tema 1 · Técnicas de presupuestación": 16,
+    "Tema 1 · Principios presupuestarios": 20,
+    "Tema 1 · Concepto y presupuesto clásico": 12,
+    "Tema 1 · Modelos y técnicas presupuestarias": 14,
+    "Tema 1 · LGP y ámbito subjetivo": 20,
+    "Tema 1 · Estabilidad, deuda y regla de gasto": 28,
+    "Tema 2 · Ámbito y elaboración de los PGE": 24,
+    "Tema 2 · Aprobación parlamentaria y prórroga": 26,
+    "Tema 2 · Estructura de créditos y clasificación": 40,
+    "Tema 2 · Seguimiento, corrección y coerción": 24
+  },
+  "new_by_format": {
+    "memoria": 257,
+    "inap": 303
+  },
+  "maps_skipped": {
+    "Conceptos y subconceptos de ingresos": 2,
+    "Tipos de programas PPBS": 3,
+    "Niveles de financiación de ZBB": 3,
+    "Clases de especialidad presupuestaria": 3,
+    "Tipos de presupuesto según el momento": 2,
+    "Tipos de presupuesto por ámbito": 2
+  },
+  "first_changes": [
+    {
+      "id": 1,
+      "category": "Tribunal Constitucional",
+      "old": [
+        "10",
+        "15",
+        "20",
+        "12"
+      ],
+      "new": [
+        "13",
+        "12",
+        "11",
+        "14"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Tribunal Constitucional",
+      "old": [
+        "2",
+        "3",
+        "6",
+        "4"
+      ],
+      "new": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Tribunal Constitucional",
+      "old": [
+        "6",
+        "4",
+        "2",
+        "3"
+      ],
+      "new": [
+        "4",
+        "3",
+        "5",
+        "2"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Tribunal Constitucional",
+      "old": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "new": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "Tribunal Constitucional",
+      "old": [
+        "159",
+        "160",
+        "161",
+        "165"
+      ],
+      "new": [
+        "159",
+        "160",
+        "158",
+        "157"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "Tribunal Constitucional",
+      "old": [
+        "2",
+        "4",
+        "6",
+        "3"
+      ],
+      "new": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "Tribunal Constitucional",
+      "old": [
+        "159",
+        "160",
+        "161",
+        "164"
+      ],
+      "new": [
+        "162",
+        "163",
+        "160",
+        "161"
+      ]
+    },
+    {
+      "id": 12,
+      "category": "Tribunal Constitucional",
+      "old": [
+        "164",
+        "161",
+        "162",
+        "165"
+      ],
+      "new": [
+        "163",
+        "165",
+        "162",
+        "164"
+      ]
+    },
+    {
+      "id": 14,
+      "category": "Tribunal Constitucional",
+      "old": [
+        "159",
+        "160",
+        "165",
+        "163"
+      ],
+      "new": [
+        "167",
+        "165",
+        "166",
+        "164"
+      ]
+    },
+    {
+      "id": 15,
+      "category": "Tribunal Constitucional",
+      "old": [
+        "4 años",
+        "6 años",
+        "12 años",
+        "9 años"
+      ],
+      "new": [
+        "8 años",
+        "9 años",
+        "10 años",
+        "7 años"
+      ]
+    },
+    {
+      "id": 17,
+      "category": "Tribunal Constitucional",
+      "old": [
+        "3 años",
+        "2 años",
+        "6 años",
+        "4 años"
+      ],
+      "new": [
+        "3 años",
+        "4 años",
+        "2 años",
+        "5 años"
+      ]
+    },
+    {
+      "id": 18,
+      "category": "Tribunal Constitucional",
+      "old": [
+        "El Congreso",
+        "El Senado",
+        "El Pleno del TC",
+        "El Rey"
+      ],
+      "new": [
+        "Una Sala del TC",
+        "El Pleno del TC",
+        "Una Sección del TC",
+        "El Presidente del TC"
+      ]
+    }
+  ],
+  "audit": {
+    "Tribunal Constitucional / examinadas": 200,
+    "Tribunal Constitucional / cantidades cercanas": 13,
+    "Tribunal Constitucional / números y plazos cercanos": 31,
+    "Tribunal Constitucional / órganos internos del TC": 5,
+    "Tribunal Constitucional / porcentajes vecinos": 1,
+    "Defensor del Pueblo / examinadas": 18,
+    "Defensor del Pueblo / números y plazos cercanos": 6,
+    "Constitución / examinadas": 468,
+    "Unión Europea / examinadas": 228,
+    "Unión Europea / números y plazos cercanos": 4,
+    "Unión Europea / cantidades cercanas": 30,
+    "Unión Europea / porcentajes vecinos": 2,
+    "Constitución / CE artículos próximos": 169,
+    "Constitución / CE contenidos del mismo bloque": 169,
+    "Derecho Administrativo · Fuentes / examinadas": 33,
+    "Derecho Administrativo · La ley / examinadas": 53,
+    "Tribunal Constitucional / resoluciones procesales verosímiles": 2,
+    "Contratos del Sector Público · Tema 1 / examinadas": 126,
+    "Contratos del Sector Público · Tema 1 / cantidades cercanas": 2,
+    "Contratos del Sector Público · Tema 1 / números y plazos cercanos": 14,
+    "Contratos del Sector Público · Tema 1 / porcentajes vecinos": 2,
+    "Contratos del Sector Público · Tema 2 / examinadas": 200,
+    "Contratos del Sector Público · Tema 2 / números y plazos cercanos": 16,
+    "Contratos del Sector Público · Tema 2 / porcentajes vecinos": 4,
+    "RRHH / examinadas": 300
+  }
+}
