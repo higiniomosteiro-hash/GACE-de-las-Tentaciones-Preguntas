@@ -269,9 +269,32 @@ for g in groups:
             others.sort(key=lambda x:(abs(rows.index(x)-i),stable(key+":"+x[0])))
         chosen=others[:3]
         forward,reverse=link_questions(g,key,label)
-        ref=f'{g["norm"]}; CEF, Tema {1 if g["topic"].startswith("Tema 1") else 2}, p. {g["page"]}'
-        add(forward,code_label(g,key),[code_label(g,k) for k,l in chosen],g["topic"],ref,"memoria",2 if len(rows)>12 else 3)
-        add(reverse,label,[l for k,l in chosen],g["topic"],ref,"inap",3)
+        topic=g["topic"];page=g["page"]
+        if g["name"].startswith("LGP · artículos"):
+            n=int(key)
+            if n in (28,29,30,31):topic="Tema 2 · Ciclo presupuestario";page="21"
+            elif n in (32,33):topic="Tema 2 · PGE: ámbito y contenido";page="17"
+            elif n==35:topic="Tema 2 · Vinculación de créditos";page="45"
+            elif n==36:topic="Tema 2 · Ciclo presupuestario";page="22-23"
+            elif n==37:topic="Tema 2 · Aprobación parlamentaria";page="26"
+            elif n==38:topic="Tema 2 · Aprobación parlamentaria";page="30"
+            elif n in (39,40,41):topic="Tema 2 · Estructura presupuestaria";page="30-35"
+            elif n in (42,43,44,46):topic="Tema 2 · Vinculación de créditos";page="45-46"
+            elif n==50:topic="Tema 2 · Fondo de Contingencia";page="20"
+            elif n in (26,27,34,49):page="8-10"
+            elif n in (73,74,80,90,119,121,140):page="7-8"
+            elif n in (92,94):page="13"
+            elif n==111:page="14"
+        elif g["name"].startswith("LOEPySF · artículos"):
+            n=int(key)
+            if n in (15,16):topic="Tema 2 · Ciclo presupuestario";page="18-19"
+            elif n==12:topic="Tema 2 · Regla de gasto";page="19"
+            elif n in (17,18,19,20,21,22,23,24,25,26):topic="Tema 2 · Medidas de estabilidad";page="47-50"
+            elif n in (30,31):topic="Tema 2 · Fondo de Contingencia y techo de gasto";page="20"
+            elif n in (1,2,3,4,5,6,7,8,9,10,11,13,14,32):page="10-16"
+        ref=f'{g["norm"]}; CEF, Tema {1 if topic.startswith("Tema 1") else 2}, p. {page}'
+        add(forward,code_label(g,key),[code_label(g,k) for k,l in chosen],topic,ref,"memoria",2 if len(rows)>12 else 3)
+        add(reverse,label,[l for k,l in chosen],topic,ref,"inap",3)
 for g in one_groups:
     for row in g["rows"]:
         prompt,ans,a,b,c,level,fmt=row
