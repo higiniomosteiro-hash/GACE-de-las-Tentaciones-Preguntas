@@ -40,9 +40,9 @@
 26|Principios de programación presupuestaria
 27|Principios de gestión presupuestaria
 28|Escenarios presupuestarios plurianuales
-29|Programas plurianuales de los centros gestores
-30|Programas plurianuales ministeriales
-31|Escenarios de ingresos y gastos
+29|Programas plurianuales ministeriales
+30|Programas plurianuales de los centros gestores
+31|Asignación presupuestaria y objetivos
 32|Definición de los Presupuestos Generales del Estado
 33|Ámbito subjetivo y contenido de los PGE
 34|Ejercicio presupuestario e imputación temporal
