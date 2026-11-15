@@ -1,0 +1,327 @@
+#!/usr/bin/env python3
+"""Reconstruye questions.json sin cambiar ninguna identidad ni progreso previo.
+Origen: apuntes de Cristina Corredoira, Temas 1 y 2, 50 páginas.
+La auditoría de distractores nunca altera la respuesta correcta ni el enunciado.
+"""
+import json, re, hashlib, collections, pathlib, math, subprocess
+ROOT=pathlib.Path(__file__).resolve().parent.parent
+source=ROOT/"questions.json"
+original=json.loads(subprocess.check_output(["git","show","origin/main:questions.json"]).decode("utf-8"))
+old=json.loads(json.dumps(original,ensure_ascii=False))
+assert len(old)>=1626
+assert all(q["id"]==i+1 for i,q in enumerate(old))
+SRC="Apuntes CEF, Gestión Financiera, Temas 1 y 2, Cristina Corredoira"
+AUDIT=collections.Counter()
+SAMPLES={}
+def mark(category,reason,example=None):
+    AUDIT[(category,reason)]+=1
+    if example is not None and (category,reason) not in SAMPLES:
+        SAMPLES[(category,reason)] = example
+def stable(s):
+    return int(hashlib.sha256(str(s).encode("utf-8")).hexdigest()[:16],16)
+def shuffle4(answers,key):
+    vals=list(answers)
+    # Mezcla determinista: no se favorece a la primera respuesta.
+    salt=stable(key)
+    for i in range(3,0,-1):
+        j=salt%(i+1);salt=(salt//(i+1))^stable(str(key)+"."+str(i))
+        vals[i],vals[j]=vals[j],vals[i]
+    return vals
+def dedup(seq):
+    seen=set();out=[]
+    for v in seq:
+        x=str(v).strip()
+        if not x or x in seen: continue
+        seen.add(x);out.append(x)
+    return out
+def update(q,new_wrong,reason):
+    ans=q["answer"]
+    alternatives=dedup([x for x in new_wrong if x!=ans])
+    if len(alternatives)<3:return
+    new=shuffle4([ans]+alternatives[:3],q["id"])
+    if set(new)!=set(q["options"]):
+        q["options"]=new
+        mark(q["category"],reason,{"id":q["id"],"answer":ans,"options":new})
+
+# CE: localizar artículo con tres alternativas de la misma unidad constitucional.
+RANGES=[(1,9),(10,13),(14,29),(30,38),(39,52),(52,55),(56,65),
+        (66,96),(97,107),(108,116),(117,127),(128,136),
+        (137,158),(159,165),(166,169)]
+def unit(n):
+    for a,b in RANGES:
+        if a<=n<=b: return a,b
+    return max(1,n-3),min(169,n+3)
+def near_numbers(n,a,b,count=3):
+    pool=[x for x in range(a,b+1) if x!=n]
+    pool.sort(key=lambda v:(abs(v-n),stable(str(n)+"_"+str(v))))
+    if len(pool)<count:
+        pool += [v for v in [n-2,n-1,n+1,n+2,n-3,n+3] if v>0 and v!=n and v not in pool]
+    return pool[:count]
+ce_label={}
+for q in old:
+    if q.get("category")=="Constitución" and q.get("topic")=="Contenido de artículos":
+        mt=re.search(r"\bart[íi]culo\s+(\d{1,3})\b",q["question"],re.I)
+        if mt:ce_label[int(mt.group(1))]=q["answer"]
+for q in original:
+    AUDIT[(q.get("category",""),"examinadas")]+=1
+    if q.get("category")=="Constitución" and q.get("topic")=="Localización de artículos":
+        mt=re.match(r"Art[íi]culo\s+(\d{1,3})$",q["answer"],re.I)
+        if mt:
+            n=int(mt.group(1));a,b=unit(n)
+            update(q,[f"Artículo {v}" for v in near_numbers(n,a,b)],"CE artículos próximos")
+    elif q.get("category")=="Constitución" and q.get("topic")=="Contenido de artículos":
+        mt=re.search(r"\bart[íi]culo\s+(\d{1,3})\b",q["question"],re.I)
+        if mt:
+            n=int(mt.group(1));a,b=unit(n)
+            vals=[ce_label.get(v) for v in near_numbers(n,a,b,5)]
+            vals=[x for x in vals if x and x!=q["answer"]]
+            if len(vals)>=3:update(q,vals[:3],"CE contenidos del mismo bloque")
+    # Sustituciones de alta confianza: plazos y cantidades junto al valor correcto.
+    ans=q.get("answer","").strip()
+    topic=q.get("topic","")
+    if q.get("category")!="Constitución" and not ans.lower().startswith(("sí","no","solo ","únicamente")):
+        m=re.fullmatch(r"(\d{1,3})\s*(días?|mes(?:es)?|años?|magistrados?)",ans,re.I)
+        if m:
+            n=int(m.group(1));u=m.group(2)
+            ds=near_numbers(n,max(1,n-3),n+3)
+            update(q,[f"{v} {u}" for v in ds],"números y plazos cercanos")
+        elif re.fullmatch(r"\d{1,3}",ans):
+            n=int(ans);ds=near_numbers(n,max(1,n-2),n+3)
+            update(q,[str(v) for v in ds],"cantidades cercanas")
+        elif re.fullmatch(r"\d{1,2}(?:,\d+)?\s*%",ans):
+            value=float(ans.replace("%","").replace(",","."));step=1 if value>=2 else .1
+            vals=[]
+            for off in [-step,step,2*step]:
+                x=value+off
+                if x>0:
+                    vals.append((f"{x:.1f}" if x!=int(x) else str(int(x))).replace(".",",")+" %")
+            update(q,vals,"porcentajes vecinos")
+        elif ans in ("Providencia","Auto","Sentencia","Acuerdo") and q.get("category")=="Tribunal Constitucional":
+            update(q,[v for v in ("Providencia","Auto","Sentencia","Acuerdo") if v!=ans],"resoluciones procesales verosímiles")
+        elif ans in ("El Pleno del TC","La Sala del TC","Una Sala del TC","Una Sección del TC","El Presidente del TC") and q.get("category")=="Tribunal Constitucional":
+            update(q,[v for v in ("El Pleno del TC","Una Sala del TC","Una Sección del TC","El Presidente del TC") if v!=ans],"órganos internos del TC")
+        elif re.fullmatch(r"Art[íi]culo\s+(\d{1,3})",ans,re.I):
+            n=int(re.search(r"\d+",ans).group())
+            if q.get("category")=="Tribunal Constitucional" and 159<=n<=165 and "constituc" in q["question"].lower():
+                a,b=159,165
+            else:a,b=max(1,n-3),n+3
+            update(q,[f"Artículo {v}" for v in near_numbers(n,a,b)],"referencias legales del mismo entorno")
+        elif re.fullmatch(r"\d{2}-\d{2}-\d{4}",ans):
+            d,m,y=[int(x) for x in ans.split("-")]
+            vals=[f"{v:02d}-{m:02d}-{y}" for v in (d-1,d+1) if 1<=v<=28]
+            vals.extend([f"{d:02d}-{m:02d}-{y+1}",f"{d:02d}-{m:02d}-{y-1}"])
+            update(q,vals[:3],"fechas próximas")
+        elif re.fullmatch(r"\d{1,2} de [a-záéíóú]+ de \d{4}",ans,re.I):
+            mt=re.match(r"(\d+) de (.+?) de (\d{4})",ans)
+            d,month,y=int(mt.group(1)),mt.group(2),int(mt.group(3))
+            vals=[f"{v} de {month} de {y}" for v in (d-1,d+1) if 1<=v<=28]
+            vals += [f"{d} de {month} de {y+1}",f"{d} de {month} de {y-1}"]
+            update(q,vals[:3],"fechas de normas próximas")
+        elif re.fullmatch(r"Cada\s+\d+\s+años?",ans,re.I):
+            mt=re.search(r"\d+",ans);n=int(mt.group())
+            update(q,[ans.replace(str(n),str(v),1) for v in near_numbers(n,max(1,n-2),n+3)],"periodicidades próximas")
+        elif re.fullmatch(r"\d[\d.]*\s*€\s*o\s*más",ans,re.I):
+            mt=re.search(r"\d[\d.]*",ans)
+            amount=int(mt.group().replace(".",""))
+            base=50000 if amount>=100000 else (5000 if amount>=10000 else 1000)
+            vals=[]
+            for delta in (-base,base,2*base):
+                new=str(amount+delta)
+                new=".".join([new[max(0,len(new)-3*(k+1)):len(new)-3*k] for k in range((len(new)+2)//3)][::-1])
+                vals.append(ans.replace(mt.group(),new,1))
+            update(q,vals,"umbrales cercanos")
+    # Casos previamente comprobados en los que las opciones eran de categorías claramente dispares.
+    PRECISE={
+        738:["Norma dictada por el Gobierno en ejercicio de delegación legislativa",
+             "Norma dictada por el Gobierno al amparo de la potestad reglamentaria",
+             "Norma con fuerza de ley adoptada por el ejecutivo por extraordinaria urgencia"],
+        737:["Sí, si la orden desarrolla una habilitación contenida en la Ley 40/2015",
+             "Sí, si el ministerio firmante impulsó previamente ese real decreto",
+             "Sí, si la orden regula una materia no reservada a ley"],
+        729:["Potestad normativa autonómica limitada en todo caso a normas reglamentarias",
+             "Potestad legislativa autonómica solo mediante delegación de las Cortes Generales",
+             "Potestad para aprobar leyes estatales en materias de competencia compartida"],
+        951:["Eficacia condicionada a su ratificación por los órganos jurisdiccionales ordinarios",
+             "Eficacia únicamente entre las partes y sin valor de cosa juzgada",
+             "Fuerza obligatoria subordinada a una nueva sentencia de la jurisdicción ordinaria"],
+        826:["Del presidente y tres magistrados del propio Tribunal",
+             "Del presidente y dos magistrados designados por el Gobierno",
+             "De dos magistrados sin intervención del presidente respectivo"],
+        981:["Auto","Sentencia","Acuerdo"],
+        999:["Solo disposiciones y actos expresos, sin incluir omisiones ni vías de hecho",
+             "Disposiciones y omisiones, pero no actuaciones materiales constitutivas de vía de hecho",
+             "Únicamente resoluciones administrativas definitivas, no disposiciones ni inactividad"],
+        1477:["Cesa únicamente cuando la nueva autoridad lo acuerde de forma expresa",
+              "Conserva el puesto hasta la siguiente oferta de empleo público",
+              "Cesa al cumplirse el plazo del nombramiento, pero no por el cese de la autoridad"],
+        1327:["Real Decreto Legislativo 4/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.",
+              "Real Decreto Legislativo 5/2014, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.",
+              "Real Decreto Legislativo 5/2015, de 29 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público."],
+        1227:["450.000 € o más","550.000 € o más","600.000 € o más"],
+        790:["La simple preferencia de los reglamentos posteriores frente a todas las leyes anteriores",
+             "La libertad del Gobierno para modificar leyes ordinarias cuando no se reserve la materia a ley",
+             "La prioridad de las disposiciones reglamentarias que se dicten en desarrollo de una ley"],
+        1000:["La revisión de la valoración probatoria cuando el recurrente discrepe del tribunal",
+              "La revisión de la legalidad ordinaria aunque no se invoque lesión de derechos",
+              "La revisión de las decisiones de oportunidad de los órganos judiciales"],
+        1478:["Solo puede mantenerse si el nuevo titular confirma la confianza mediante resolución expresa",
+              "Continúa hasta la siguiente revisión presupuestaria sin posibilidad de cese anticipado",
+              "Permanece hasta que culmine el proceso selectivo de funcionarios de carrera"],
+    }
+    if q["id"] in PRECISE:
+        update(q,PRECISE[q["id"]],"distractores específicos contrastados")
+    # No alteramos otras opciones jurídicamente delicadas sin contraste de contenido.
+    # Todas las respuestas existentes se reordenan para no crear patrones en el JSON.
+    q["options"]=shuffle4([q["answer"]]+[x for x in q["options"] if x!=q["answer"]],q["id"])
+
+def parse_groups(text):
+    groups=[];g=None
+    for ln in text.splitlines():
+        s=ln.strip()
+        if not s or s.startswith("#"):continue
+        if s.startswith("@"):
+            a=s[1:].split("|")
+            if len(a)!=4:raise ValueError("Cabecera de mapa inválida: "+s)
+            g={"name":a[0],"norm":a[1],"topic":a[2],"page":a[3],"rows":[]}
+            groups.append(g)
+        else:
+            a=s.split("|")
+            if len(a)!=2:raise ValueError("Entrada de mapa inválida: "+s)
+            g["rows"].append((a[0],a[1]))
+    return groups
+def parse_ones(text):
+    groups=[];g=None
+    for ln in text.splitlines():
+        s=ln.strip()
+        if not s or s.startswith("#"):continue
+        if s.startswith("@"):
+            a=s[1:].split("|")
+            if len(a)!=3:raise ValueError("Cabecera pregunta inválida: "+s)
+            g={"topic":a[0],"pages":a[1],"reference":a[2],"rows":[]}
+            groups.append(g)
+        else:
+            a=s.split("|")
+            if len(a)!=7:raise ValueError("Pregunta inválida, "+str(len(a))+" campos: "+s)
+            g["rows"].append(a)
+    return groups
+groups=parse_groups((ROOT/"preparacion-financiera/mapas_fuente.txt").read_text(encoding="utf-8"))
+one_groups=parse_ones((ROOT/"preparacion-financiera/preguntas_fuente.txt").read_text(encoding="utf-8"))
+added=[]
+existing_texts={q["question"].casefold() for q in original}
+def add(q,answer,wrong,topic,reference,fmt="memoria",level=3):
+    if len(wrong)!=3:raise AssertionError((q,wrong))
+    opts=dedup([answer]+wrong)
+    if len(opts)!=4:raise AssertionError(("Opciones duplicadas",q,opts))
+    key=q.casefold()
+    if key in existing_texts: raise AssertionError(("Pregunta repetida",q))
+    existing_texts.add(key)
+    i=len(original)+len(added)+1
+    cat="Gestión Financiera · Tema 1" if topic.startswith("Tema 1") else "Gestión Financiera · Tema 2"
+    item={"id":i,"question":q,"answer":answer,"options":shuffle4(opts,i),
+          "reference":reference,"category":cat,"topic":topic,
+          "difficulty":int(level),"format":fmt,"source":SRC}
+    added.append(item)
+def numkey(s):
+    try:return float(s)
+    except ValueError:return None
+def code_label(group,code):
+    name=group["name"]
+    if "artículos" in name or "CE · presupuesto" in name:return "Artículo "+code
+    if "Secciones" in name:return "Sección "+code
+    if "Capítulos del presupuesto" in name:return "Capítulo "+code
+    if "Conceptos y subconceptos" in name or "Códigos de estructura" in name:return "Código "+code
+    return code
+def link_questions(g,key,label):
+    n=g["name"];norm=g["norm"]
+    if "artículos" in n or "CE · presupuesto" in n:
+        front=f"Según {norm}, ¿en qué artículo se regula {label[0].lower()+label[1:]}?"
+        back=f"Según {norm}, ¿qué materia aborda el artículo {key}?"
+    elif "Secciones" in n:
+        front=f"En los PGE, ¿qué sección corresponde a {label}?"
+        back=f"En la clasificación orgánica de los PGE, ¿qué corresponde a la sección {key}?"
+    elif "Capítulos del presupuesto" in n:
+        side="gastos" if "gastos" in n else "ingresos"
+        front=f"En el presupuesto de {side}, ¿a qué capítulo corresponde {label[0].lower()+label[1:]}?"
+        back=f"En la clasificación económica de {side}, ¿qué recoge el capítulo {key}?"
+    elif "Conceptos y subconceptos" in n:
+        side="gastos" if "gastos" in n else "ingresos"
+        front=f"Según la clasificación económica de {side}, ¿cuál es el código de {label[0].lower()+label[1:]}?"
+        back=f"En el presupuesto de {side}, ¿qué concepto o subconcepto designa el código {key}?"
+    elif "Códigos de estructura" in n:
+        front=f"En la estructura por programas de los PGE, ¿qué código corresponde a {label[0].lower()+label[1:]}?"
+        back=f"En la clasificación por programas, ¿a qué actividad se refiere el programa {key}?"
+    else:
+        front=f"En {norm}, ¿qué denominación corresponde a «{label[0].lower()+label[1:]}»?"
+        back=f"En {norm}, ¿a qué se refiere «{key}»?"
+    return front,back
+skipped=collections.Counter()
+for g in groups:
+    rows=g["rows"]
+    if len(rows)<4:
+        skipped[g["name"]]+=len(rows)
+        continue # tres distractores coherentes de la misma familia
+    for i,(key,label) in enumerate(rows):
+        others=[(k,l) for k,l in rows if k!=key]
+        if numkey(key)is not None:
+            others.sort(key=lambda x:(abs(numkey(x[0])-numkey(key)) if numkey(x[0])is not None else 999999,
+                                      stable(key+":"+x[0])))
+        else:
+            others.sort(key=lambda x:(abs(rows.index(x)-i),stable(key+":"+x[0])))
+        chosen=others[:3]
+        forward,reverse=link_questions(g,key,label)
+        topic=g["topic"];page=g["page"]
+        if g["name"].startswith("LGP · artículos"):
+            n=int(key)
+            if n in (28,29,30,31):topic="Tema 2 · Ciclo presupuestario";page="21"
+            elif n in (32,33):topic="Tema 2 · PGE: ámbito y contenido";page="17"
+            elif n==35:topic="Tema 2 · Vinculación de créditos";page="45"
+            elif n==36:topic="Tema 2 · Ciclo presupuestario";page="22-23"
+            elif n==37:topic="Tema 2 · Aprobación parlamentaria";page="26"
+            elif n==38:topic="Tema 2 · Aprobación parlamentaria";page="30"
+            elif n in (39,40,41):topic="Tema 2 · Estructura presupuestaria";page="30-35"
+            elif n in (42,43,44,46):topic="Tema 2 · Vinculación de créditos";page="45-46"
+            elif n==50:topic="Tema 2 · Fondo de Contingencia";page="20"
+            elif n in (26,27,34,49):page="8-10"
+            elif n in (73,74,80,90,119,121,140):page="7-8"
+            elif n in (92,94):page="13"
+            elif n==111:page="14"
+        elif g["name"].startswith("LOEPySF · artículos"):
+            n=int(key)
+            if n in (15,16):topic="Tema 2 · Ciclo presupuestario";page="18-19"
+            elif n==12:topic="Tema 2 · Regla de gasto";page="19"
+            elif n in (17,18,19,20,21,22,23,24,25,26):topic="Tema 2 · Medidas de estabilidad";page="47-50"
+            elif n in (30,31):topic="Tema 2 · Fondo de Contingencia y techo de gasto";page="20"
+            elif n in (1,2,3,4,5,6,7,8,9,10,11,13,14,32):page="10-16"
+        ref=f'{g["norm"]}; CEF, Tema {1 if topic.startswith("Tema 1") else 2}, p. {page}'
+        add(forward,code_label(g,key),[code_label(g,k) for k,l in chosen],topic,ref,"memoria",2 if len(rows)>12 else 3)
+        add(reverse,label,[l for k,l in chosen],topic,ref,"inap",3)
+for g in one_groups:
+    for row in g["rows"]:
+        prompt,ans,a,b,c,level,fmt=row
+        ref=f'{g["reference"]}; CEF, págs. {g["pages"]}'
+        add(prompt,ans,[a,b,c],g["topic"],ref,fmt,int(level))
+original.extend(added)
+assert len(added)>=500, f"Solo {len(added)} preguntas nuevas"
+assert all(q["id"]==i+1 for i,q in enumerate(original))
+for i,q in enumerate(original):
+    assert isinstance(q["id"],int) and q["id"]==i+1
+    assert q["answer"] in q["options"] and len(set(q["options"]))==4
+    assert q["difficulty"] in (1,2,3)
+    assert q.get("format","memoria") in ("memoria","inap")
+    assert q["question"] and q["category"] and q["topic"]
+for a,b in zip(old,original):
+    assert a["id"]==b["id"] and a["question"]==b["question"] and a["answer"]==b["answer"]
+    assert a["category"]==b["category"] and a["topic"]==b["topic"]
+changes=[]
+for a,b in zip(old,original):
+    if set(a["options"])!=set(b["options"]):
+        changes.append({"id":a["id"],"category":a["category"],"old":a["options"],"new":b["options"]})
+with open(source,"w",encoding="utf-8") as out:json.dump(original,out,ensure_ascii=False,indent=2);out.write("\n")
+summary={"old":len(old),"new":len(added),"total":len(original),"modified_distractors":len(changes),
+         "changed_by_category":dict(collections.Counter(x["category"] for x in changes)),
+         "new_by_topic":dict(collections.Counter(q["topic"] for q in added)),
+         "new_by_format":dict(collections.Counter(q["format"] for q in added)),
+         "maps_skipped":dict(skipped),"first_changes":changes[:12],
+         "audit":{f"{k[0]} / {k[1]}":v for k,v in AUDIT.items()}}
+(ROOT/"preparacion-financiera"/"informe_auditoria.json").write_text(json.dumps(summary,ensure_ascii=False,indent=2),encoding="utf-8")
+print(json.dumps({k:v for k,v in summary.items() if k not in ("first_changes","audit")},ensure_ascii=False,indent=2))

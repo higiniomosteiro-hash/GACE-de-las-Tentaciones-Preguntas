@@ -1,0 +1,49 @@
+name: Generar preguntas financieras y auditar distractores
+on:
+  push:
+    branches:
+      - gestion-financiera-500-y-distractores
+    paths:
+      - 'preparacion-financiera/mapas_fuente.txt'
+      - 'preparacion-financiera/preguntas_fuente.txt'
+      - 'preparacion-financiera/generar_banco.py'
+      - '.github/workflows/actualizar_banco_financiera.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generar_y_validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+      - name: Generar y validar banco sin alterar progreso previo
+        run: |
+          python3 preparacion-financiera/generar_banco.py
+          python3 -m json.tool questions.json >/dev/null
+          python3 - <<'PY'
+          import json
+          data=json.load(open('questions.json'))
+          assert len(data)>2100,len(data)
+          assert all(q["id"]==i+1 and len(q["options"])==4 and q["answer"] in q["options"] for i,q in enumerate(data))
+          print('Banco verificado:',len(data))
+          PY
+      - name: Guardar copia descargable para comprobaciones
+        uses: actions/upload-artifact@v4
+        with:
+          name: BANCO_GACE_GESTION_FINANCIERA_CANDIDATO
+          path: |
+            questions.json
+            preparacion-financiera/informe_auditoria.json
+          retention-days: 30
+      - name: Guardar resultado en rama de pruebas, nunca en main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add questions.json preparacion-financiera/informe_auditoria.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Candidato: preguntas de Gestión Financiera y distractores revisados"
+            git push origin HEAD:gestion-financiera-500-y-distractores
+          fi
