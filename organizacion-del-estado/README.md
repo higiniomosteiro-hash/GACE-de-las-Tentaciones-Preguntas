@@ -1,12 +1,31 @@
-# Organización del Estado — GACE de las Tentaciones
+# Organización del Estado y de la Administración Pública — GACE A2
 
-Tres bancos separados (900 entradas):
-- Tema 1: Constitución española de 1978, estructura, contenido y reforma (300).
-- Tema 2: Derechos y deberes, garantías, suspensión y Defensor del Pueblo (300).
-- Tema 3: Tribunal Constitucional, organización, composición y atribuciones (300).
+**Fuente principal:** «Organizacion_del_Estado_CEF_Temas_1_2_3.pdf» facilitado por el usuario (CEF, 62 páginas). No se distribuye este PDF por razones de propiedad intelectual.
 
-**Clasificación:** las preguntas tienen `category: "Organización del Estado"` y un `topic` distinto en cada archivo. Los archivos de Constitución y Administrativo existentes NO se han modificado. El Tribunal Constitucional pasa a estar disponible bajo la nueva materia cuando se integre en la app, sin borrar su categoría de estudio antigua.
+**Revisión:** 15 de noviembre de 2026.
 
-**Procedencia:** fuente CEF «Organización del Estado y de la Administración Pública», temas 1-3 (noviembre de 2026), y banco de preguntas previo. Son 900 **entradas**, no 900 hechos jurídicos completamente diferentes: se reutilizan y reformulan preguntas ya existentes para practicar las materias por separado. Para las preguntas de artículos, los distractores se han acercado a artículos contiguos; para cifras, a cifras cercanas.
+## Materia unificada
 
-**ATENCIÓN antes de integrar:** los IDs 901001–903300 son provisionales para el módulo independiente y deben reasignarse al final del banco maestro en el momento de importar, sin alterar el índice ni los IDs existentes. Realizar revisión jurídica y pedagógica de las preguntas, actualizar el filtro de categorías/temas y comprobar el cargador real de V4.0.4 antes de publicar otra APK. El código Android presente en GitHub figura todavía como V3.3, por lo que aquí **no** se ha modificado la app, la APK ni el archivo principal `questions.json`. Tampoco se han cambiado estadísticas ni progresos de los usuarios.
+- **Tema 1 — Constitución: estructura, contenido y reforma:** 128 preguntas activas.
+- **Tema 2 — Derechos, garantías, suspensión y Defensor del Pueblo:** 186 preguntas activas (incluye 18 del bloque histórico de Defensor del Pueblo, ahora integrado).
+- **Tema 3 — Tribunal Constitucional:** 221 preguntas activas (incluye 200 del antiguo bloque independiente, ahora integrado).
+- **Total de la materia:** 535 preguntas activas.
+- **Banco total de la aplicación:** 2.503 preguntas.
+
+## Criterio de depuración
+
+La primera carga de 900 entradas reutilizaba extensivamente las preguntas de toda la Constitución. Esa versión fue sustituida por una selección conservadora basada en la estructura y contenidos desarrollados en los tres temas del CEF. Se retiraron 628 preguntas y se añadieron 45 nuevas de contenido explícitamente localizado en el PDF. Se corrigieron 10 preguntas históricas de Tribunal Constitucional que trataban detalles no desarrollados por el CEF.
+
+Los archivos `tema-1.json`, `tema-2.json` y `tema-3.json` **reflejan exactamente** las preguntas actualmente incluidas en el `questions.json` principal; los identificadores no son consecutivos dentro de los archivos por tema porque corresponden a los índices globales del banco.
+
+## Compatibilidad y límites
+
+- Se respetan el **orden e IDs de las 2.186 preguntas históricas** del banco, así como las preguntas ya presentes en la materia Constitución (468), Derecho Administrativo y las demás materias.
+- Las nuevas entradas del primer lote de 900 fueron depuradas y renumeradas. Si alguien contestó algunas antes de esta actualización, **sus rachas locales pueden no corresponder ya a esas preguntas**: la V5 actual guarda el progreso por posición. No afirmar migración completa de ese progreso.
+- Diez enunciados antiguos de TC fueron corregidos en su posición original. Su racha previa, si existía, no se restablece automáticamente.
+- El banco conserva el requisito de IDs globales consecutivos, cuatro opciones distintas y respuesta válida.
+- El cribado no equivale a una comprobación jurídica humana, individual y exhaustiva de **cada** pregunta. Antes de garantizar cobertura o exactitud total, sigue siendo necesaria esa revisión.
+- La prioridad es fidelidad al contenido y distractores de calidad, **no mantener artificialmente 300 preguntas por tema**.
+- Versiones de seguridad: rama `respaldo-3086-antes-depuracion-2026-11-15` (banco previo), rama `respaldo-antes-organizacion-2026-11-15` (banco previo a Organización).
+
+**Publicación para Android V5:** `https://raw.githubusercontent.com/higiniomosteiro-hash/GACE-de-las-Tentaciones-Preguntas/main/questions.json`.
