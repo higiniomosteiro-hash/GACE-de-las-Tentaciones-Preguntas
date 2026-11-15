@@ -3291,7 +3291,7 @@
   },
   {
     "id": 902183,
-    "question": "Según CE 17.2, ¿cuántas horas puede durar como máximo una detención preventiva ordinaria?",
+    "question": "Según CE 17.2: ¿Cuántas horas puede durar como máximo una detención preventiva ordinaria?",
     "answer": "72 horas",
     "options": [
       "72 horas",
@@ -3308,7 +3308,7 @@
   },
   {
     "id": 902184,
-    "question": "Según CE 17.2, ¿cuál es el límite de horas de una detención preventiva ordinaria antes de liberar o llevar ante el juez?",
+    "question": "Según CE 17.2: ¿Cuál es el límite de horas de una detención preventiva ordinaria antes de liberar o llevar ante el juez?",
     "answer": "72 horas",
     "options": [
       "48 horas",
@@ -5073,7 +5073,7 @@
   },
   {
     "id": 902277,
-    "question": "Según CE 14, ¿completa el inicio del artículo 14 CE: «Los españoles son ...»?",
+    "question": "Según CE 14: Completa el inicio del artículo 14 CE: «Los españoles son ...»",
     "answer": "iguales ante la ley",
     "options": [
       "iguales ante cualquier institución extranjera",
@@ -5092,7 +5092,7 @@
   },
   {
     "id": 902278,
-    "question": "Según CE 27.1, ¿con qué expresión finaliza la primera frase del artículo 27.1 CE?",
+    "question": "Según CE 27.1: ¿Con qué expresión finaliza la primera frase del artículo 27.1 CE?",
     "answer": "el derecho a la educación",
     "options": [
       "el derecho a la tutela",
@@ -5111,7 +5111,7 @@
   },
   {
     "id": 902279,
-    "question": "Según CE 27.1, ¿completa la segunda frase del artículo 27.1 CE: «Se reconoce la ...»?",
+    "question": "Según CE 27.1: Completa la segunda frase del artículo 27.1 CE: «Se reconoce la ...»",
     "answer": "libertad de enseñanza",
     "options": [
       "libertad académica de los padres",
@@ -5133,7 +5133,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "reference": "CE art. 53.2",
-    "question": "Según CE art. 53.2, ¿qué derechos comprende la protección constitucional mediante recurso de amparo?",
+    "question": "Según CE art. 53.2: ¿Qué derechos comprende la protección constitucional mediante recurso de amparo?",
     "answer": "Los del artículo 14, la Sección primera del Capítulo II y la objeción de conciencia del artículo 30.",
     "options": [
       "Los del artículo 14, la Sección primera del Capítulo II y la objeción de conciencia del artículo 30.",
@@ -5152,7 +5152,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "reference": "CE art. 53.3",
-    "question": "Según CE art. 53.3, ¿cuándo pueden alegarse ante la jurisdicción ordinaria los principios rectores del Capítulo III del Título I?",
+    "question": "Según CE art. 53.3: ¿Cuándo pueden alegarse ante la jurisdicción ordinaria los principios rectores del Capítulo III del Título I?",
     "answer": "De acuerdo con lo dispuesto en las leyes que los desarrollen.",
     "options": [
       "Solo tras autorización del Tribunal Supremo.",
@@ -5171,7 +5171,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "reference": "CE art. 55.1",
-    "question": "Según CE art. 55.1, ¿respecto de la suspensión general de derechos, ¿qué estado no aparece entre los previstos por el artículo 55.1 CE??",
+    "question": "Según CE art. 55.1: Respecto de la suspensión general de derechos, ¿qué estado no aparece entre los previstos por el artículo 55.1 CE?",
     "answer": "El estado de alarma.",
     "options": [
       "El estado de excepción.",
@@ -5187,7 +5187,7 @@
   },
   {
     "id": 902283,
-    "question": "Según LO 3/1981 art. 2.1, ¿cuánto dura el mandato del Defensor del Pueblo?",
+    "question": "Según LO 3/1981 art. 2.1: ¿Cuánto dura el mandato del Defensor del Pueblo?",
     "answer": "5 años",
     "options": [
       "7 años",
@@ -5204,7 +5204,7 @@
   },
   {
     "id": 902284,
-    "question": "Según LO 3/1981 art. 2.1, ¿por cuántos años se elige al Defensor del Pueblo?",
+    "question": "Según LO 3/1981 art. 2.1: ¿Por cuántos años se elige al Defensor del Pueblo?",
     "answer": "5 años",
     "options": [
       "4 años",
@@ -5221,7 +5221,7 @@
   },
   {
     "id": 902285,
-    "question": "Según LO 3/1981 art. 2.4, ¿qué mayoría requiere el Congreso para elegir al Defensor del Pueblo?",
+    "question": "Según LO 3/1981 art. 2.4: ¿Qué mayoría requiere el Congreso para elegir al Defensor del Pueblo?",
     "answer": "3/5",
     "options": [
       "2/3",
@@ -5238,7 +5238,7 @@
   },
   {
     "id": 902286,
-    "question": "Según LO 3/1981 art. 2.4, ¿qué mayoría del Congreso es necesaria para designar al Defensor del Pueblo?",
+    "question": "Según LO 3/1981 art. 2.4: ¿Qué mayoría del Congreso es necesaria para designar al Defensor del Pueblo?",
     "answer": "3/5",
     "options": [
       "3/5",
@@ -5255,7 +5255,7 @@
   },
   {
     "id": 902287,
-    "question": "Según LO 3/1981 art. 2.4, ¿qué mayoría requiere inicialmente el Senado para elegir al Defensor del Pueblo?",
+    "question": "Según LO 3/1981 art. 2.4: ¿Qué mayoría requiere inicialmente el Senado para elegir al Defensor del Pueblo?",
     "answer": "3/5",
     "options": [
       "mayoría simple",
@@ -5272,7 +5272,7 @@
   },
   {
     "id": 902288,
-    "question": "Según LO 3/1981 art. 2.4, ¿en la primera votación, ¿qué mayoría necesita el candidato a Defensor del Pueblo en el Senado??",
+    "question": "Según LO 3/1981 art. 2.4: En la primera votación, ¿qué mayoría necesita el candidato a Defensor del Pueblo en el Senado?",
     "answer": "3/5",
     "options": [
       "2/3",
@@ -5289,7 +5289,7 @@
   },
   {
     "id": 902289,
-    "question": "Según LO 3/1981 art. 2.5, ¿en una nueva propuesta, ¿qué mayoría requiere el Congreso para elegir al Defensor del Pueblo??",
+    "question": "Según LO 3/1981 art. 2.5: En una nueva propuesta, ¿qué mayoría requiere el Congreso para elegir al Defensor del Pueblo?",
     "answer": "3/5",
     "options": [
       "3/5",
@@ -5306,7 +5306,7 @@
   },
   {
     "id": 902290,
-    "question": "Según LO 3/1981 art. 2.5, ¿si se presenta una nueva candidatura, ¿qué mayoría exige su aprobación en el Congreso??",
+    "question": "Según LO 3/1981 art. 2.5: Si se presenta una nueva candidatura, ¿qué mayoría exige su aprobación en el Congreso?",
     "answer": "3/5",
     "options": [
       "2/3",
@@ -5323,7 +5323,7 @@
   },
   {
     "id": 902291,
-    "question": "Según LO 3/1981 art. 2.5, ¿en una nueva propuesta, ¿qué mayoría basta en el Senado para elegir al Defensor del Pueblo??",
+    "question": "Según LO 3/1981 art. 2.5: En una nueva propuesta, ¿qué mayoría basta en el Senado para elegir al Defensor del Pueblo?",
     "answer": "mayoría absoluta",
     "options": [
       "mayoría absoluta",
@@ -5340,7 +5340,7 @@
   },
   {
     "id": 902292,
-    "question": "Según LO 3/1981 art. 2.5, ¿ante una nueva propuesta de Defensor del Pueblo, ¿qué mayoría es suficiente en el Senado??",
+    "question": "Según LO 3/1981 art. 2.5: Ante una nueva propuesta de Defensor del Pueblo, ¿qué mayoría es suficiente en el Senado?",
     "answer": "mayoría absoluta",
     "options": [
       "mayoría simple",
@@ -5357,7 +5357,7 @@
   },
   {
     "id": 902293,
-    "question": "Según LO 3/1981 art. 8.1, ¿cuántos adjuntos asisten al Defensor del Pueblo?",
+    "question": "Según LO 3/1981 art. 8.1: ¿Cuántos adjuntos asisten al Defensor del Pueblo?",
     "answer": "2",
     "options": [
       "4",
@@ -5374,7 +5374,7 @@
   },
   {
     "id": 902294,
-    "question": "Según LO 3/1981 art. 8.1, ¿con cuántos adjuntos cuenta la institución del Defensor del Pueblo?",
+    "question": "Según LO 3/1981 art. 8.1: ¿Con cuántos adjuntos cuenta la institución del Defensor del Pueblo?",
     "answer": "2",
     "options": [
       "1",
@@ -5391,7 +5391,7 @@
   },
   {
     "id": 902295,
-    "question": "Según LO 3/1981 art. 3, ¿qué condición de edad exige la Ley para poder ser Defensor del Pueblo?",
+    "question": "Según LO 3/1981 art. 3: ¿Qué condición de edad exige la Ley para poder ser Defensor del Pueblo?",
     "answer": "mayor de edad",
     "options": [
       "mayor de edad",
@@ -5408,7 +5408,7 @@
   },
   {
     "id": 902296,
-    "question": "Según LO 3/1981 art. 3, ¿qué requisito relativo a la mayoría de edad debe cumplir el Defensor del Pueblo?",
+    "question": "Según LO 3/1981 art. 3: ¿Qué requisito relativo a la mayoría de edad debe cumplir el Defensor del Pueblo?",
     "answer": "mayor de edad",
     "options": [
       "30 años",
@@ -5425,7 +5425,7 @@
   },
   {
     "id": 902297,
-    "question": "Según LO 3/1981 art. 15.1, ¿qué plazo existe para presentar una queja al Defensor del Pueblo desde que se conocen los hechos?",
+    "question": "Según LO 3/1981 art. 15.1: ¿Qué plazo existe para presentar una queja al Defensor del Pueblo desde que se conocen los hechos?",
     "answer": "1 año",
     "options": [
       "3 año",
@@ -5442,7 +5442,7 @@
   },
   {
     "id": 902298,
-    "question": "Según LO 3/1981 art. 15.1, ¿desde que se conocen los hechos, ¿cuánto tiempo hay para presentar una queja al Defensor del Pueblo??",
+    "question": "Según LO 3/1981 art. 15.1: Desde que se conocen los hechos, ¿cuánto tiempo hay para presentar una queja al Defensor del Pueblo?",
     "answer": "1 año",
     "options": [
       "2 año",
@@ -5459,7 +5459,7 @@
   },
   {
     "id": 902299,
-    "question": "Según LO 3/1981 art. 18.1, ¿cuántos días tiene inicialmente un organismo para informar al Defensor del Pueblo sobre una queja?",
+    "question": "Según LO 3/1981 art. 18.1: ¿Cuántos días tiene inicialmente un organismo para informar al Defensor del Pueblo sobre una queja?",
     "answer": "15 días",
     "options": [
       "17 días",
@@ -5476,7 +5476,7 @@
   },
   {
     "id": 902300,
-    "question": "Según LO 3/1981 art. 18.1, ¿recibida una solicitud de informe del Defensor del Pueblo, ¿cuántos días tiene inicialmente el organismo??",
+    "question": "Según LO 3/1981 art. 18.1: Recibida una solicitud de informe del Defensor del Pueblo, ¿cuántos días tiene inicialmente el organismo?",
     "answer": "15 días",
     "options": [
       "14 días",
