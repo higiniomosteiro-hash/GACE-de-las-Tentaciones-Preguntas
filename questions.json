@@ -699,19 +699,22 @@
   },
   {
     "id": 46,
-    "question": "¿En qué plazo deben las Secretarías de Justicia poner de manifiesto al interesado los defectos de una demanda de amparo?",
+    "question": "En el recurso de amparo admitido, ¿qué plazo máximo tiene el órgano requerido para remitir las actuaciones?",
     "answer": "10 días",
     "options": [
       "10 días",
-      "11 días",
-      "9 días",
-      "8 días"
+      "5 días",
+      "15 días",
+      "20 días"
     ],
-    "reference": "LOTC 49.4",
+    "reference": "CEF T3 §2.2.4",
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
-    "difficulty": 2,
-    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+    "difficulty": 3,
+    "source": "CEF Organización del Estado, Tema 3, material aportado",
+    "origin": "corrección CEF de pregunta histórica",
+    "format": "memoria",
+    "revision": 2
   },
   {
     "id": 47,
@@ -730,19 +733,22 @@
   },
   {
     "id": 48,
-    "question": "¿Cuántos días después de su notificación pueden las partes pedir aclaración de una sentencia del TC?",
-    "answer": "2 días",
+    "question": "Admitida la demanda de amparo, ¿cuál es el plazo común máximo para formular alegaciones tras dar vista de actuaciones?",
+    "answer": "20 días",
     "options": [
-      "1 días",
-      "3 días",
-      "4 días",
-      "2 días"
+      "20 días",
+      "10 días",
+      "15 días",
+      "30 días"
     ],
-    "reference": "LOTC 93.1",
+    "reference": "CEF T3 §2.2.4",
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "difficulty": 3,
-    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+    "source": "CEF Organización del Estado, Tema 3, material aportado",
+    "origin": "corrección CEF de pregunta histórica",
+    "format": "memoria",
+    "revision": 2
   },
   {
     "id": 49,
@@ -15003,19 +15009,21 @@
     "id": 848,
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
-    "reference": "LOTC art. 56.1-2",
-    "question": "¿Qué efecto produce, por regla general, la mera interposición del recurso de amparo sobre el acto recurrido?",
-    "answer": "No suspende automáticamente los efectos del acto o sentencia.",
+    "reference": "CEF T3 §2.2.4",
+    "question": "Después de la vista o deliberación de un amparo, ¿cuánto plazo tiene el órgano del TC para dictar sentencia?",
+    "answer": "10 días",
     "options": [
-      "Suspende siempre de forma inmediata.",
-      "Impide que el TC acuerde medidas cautelares.",
-      "Anula de oficio el acto recurrido.",
-      "No suspende automáticamente los efectos del acto o sentencia."
+      "10 días",
+      "5 días",
+      "15 días",
+      "20 días"
     ],
     "explanation": "La suspensión exige una decisión específica y está sometida a requisitos legales.",
-    "difficulty": 2,
-    "format": "inap",
-    "source": "BOE-A-1979-23709 · LOTC (texto consolidado 02/08/2024)"
+    "difficulty": 3,
+    "format": "memoria",
+    "source": "CEF Organización del Estado, Tema 3, material aportado",
+    "origin": "corrección CEF de pregunta histórica",
+    "revision": 2
   },
   {
     "id": 849,
@@ -17357,115 +17365,136 @@
   },
   {
     "id": 992,
-    "question": "¿Qué requisito permite suspender excepcionalmente la ejecución impugnada en amparo?",
-    "answer": "Que el perjuicio pueda hacer perder al amparo su finalidad",
+    "question": "Si una Sección alcanza mayoría para admitir un amparo, pero no unanimidad, ¿quién resuelve?",
+    "answer": "La Sala correspondiente",
     "options": [
-      "Que lo solicite el Gobierno siempre",
-      "Que exista una multa económica",
-      "Que el perjuicio pueda hacer perder al amparo su finalidad",
-      "Que la norma sea de cualquier rango"
+      "La Sala correspondiente",
+      "El Pleno obligatoriamente",
+      "El secretario general",
+      "El presidente del Congreso"
     ],
-    "reference": "LOTC 56.2",
+    "reference": "CEF T3 §2.2.4",
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
-    "difficulty": 2,
-    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+    "difficulty": 3,
+    "source": "CEF Organización del Estado, Tema 3, material aportado",
+    "origin": "corrección CEF de pregunta histórica",
+    "format": "memoria",
+    "revision": 2
   },
   {
     "id": 993,
-    "question": "¿La suspensión cautelar de un acto en amparo puede perturbar gravemente derechos fundamentales de terceros?",
-    "answer": "No",
+    "question": "¿Qué órgano puede deferir a una Sección la resolución de un amparo cuando se aplica doctrina constitucional consolidada?",
+    "answer": "La Sala",
     "options": [
-      "Sí, siempre",
-      "Sí, aunque carezca de finalidad",
-      "Sí, sin motivación",
-      "No"
+      "La Sala",
+      "El Gobierno",
+      "El Ministerio Fiscal",
+      "La Mesa del Congreso"
     ],
-    "reference": "LOTC 56.2",
+    "reference": "CEF T3 §2.2.4",
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "difficulty": 3,
-    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+    "source": "CEF Organización del Estado, Tema 3, material aportado",
+    "origin": "corrección CEF de pregunta histórica",
+    "format": "memoria",
+    "revision": 2
   },
   {
     "id": 994,
-    "question": "¿Cuánto puede durar el trámite común de audiencia del incidente de suspensión cautelar en amparo?",
-    "answer": "Hasta 3 días",
+    "question": "¿Cuáles son los dos posibles fallos sobre el fondo de un recurso de amparo?",
+    "answer": "Otorgar o denegar el amparo",
     "options": [
-      "Hasta 3 días",
-      "Hasta 20 días",
-      "Hasta 10 días",
-      "Hasta 30 días"
+      "Otorgar o denegar el amparo",
+      "Ratificar o revocar una ley",
+      "Anular o sancionar una norma",
+      "Inadmitir siempre mediante decreto"
     ],
-    "reference": "LOTC 56.4",
-    "category": "Organización del Estado",
-    "topic": "Tema 3 · Tribunal Constitucional",
-    "difficulty": 1,
-    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
-  },
-  {
-    "id": 995,
-    "question": "¿En qué plazo puede impugnarse la suspensión cautelar adoptada por urgencia excepcional junto a la admisión?",
-    "answer": "5 días",
-    "options": [
-      "6 días",
-      "7 días",
-      "4 días",
-      "5 días"
-    ],
-    "reference": "LOTC 56.6",
-    "category": "Organización del Estado",
-    "topic": "Tema 3 · Tribunal Constitucional",
-    "difficulty": 2,
-    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
-  },
-  {
-    "id": 996,
-    "question": "¿Puede modificarse durante el proceso la suspensión cautelar por circunstancias sobrevenidas?",
-    "answer": "Sí",
-    "options": [
-      "Sí",
-      "No, es irreversible",
-      "Solo por el Gobierno",
-      "Solo en casos penales"
-    ],
-    "reference": "LOTC 57",
+    "reference": "CEF T3 §2.2.4",
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "difficulty": 3,
-    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+    "source": "CEF Organización del Estado, Tema 3, material aportado",
+    "origin": "corrección CEF de pregunta histórica",
+    "format": "memoria",
+    "revision": 2
+  },
+  {
+    "id": 995,
+    "question": "¿Cuándo puede plantearse una autocuestión de inconstitucionalidad en un recurso de amparo?",
+    "answer": "Cuando la ley aplicada lesione derechos fundamentales",
+    "options": [
+      "Cuando la ley aplicada lesione derechos fundamentales",
+      "Cuando una ley autonómica sea derogada por el Senado",
+      "Cuando no se haya agotado la vía judicial",
+      "Cuando se solicite dictamen del Consejo de Estado"
+    ],
+    "reference": "CEF T3 §2.2.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "difficulty": 3,
+    "source": "CEF Organización del Estado, Tema 3, material aportado",
+    "origin": "corrección CEF de pregunta histórica",
+    "format": "memoria",
+    "revision": 2
+  },
+  {
+    "id": 996,
+    "question": "¿Qué ley orgánica introdujo los conflictos en defensa de la autonomía local ante el TC?",
+    "answer": "Ley Orgánica 7/1999",
+    "options": [
+      "Ley Orgánica 7/1999",
+      "Ley Orgánica 2/1979",
+      "Ley Orgánica 3/1981",
+      "Ley Orgánica 4/1981"
+    ],
+    "reference": "CEF T3 §2.2.5",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "difficulty": 3,
+    "source": "CEF Organización del Estado, Tema 3, material aportado",
+    "origin": "corrección CEF de pregunta histórica",
+    "format": "memoria",
+    "revision": 2
   },
   {
     "id": 997,
-    "question": "¿Cuál es el plazo para reclamar indemnización por daños causados por la suspensión o su denegación?",
-    "answer": "1 año",
+    "question": "¿En qué plazo desde su publicación puede el Gobierno impugnar ante el TC disposiciones autonómicas sin fuerza de ley?",
+    "answer": "2 meses",
     "options": [
-      "2 año",
-      "1 año",
-      "3 año",
-      "4 año"
+      "2 meses",
+      "1 mes",
+      "3 meses",
+      "5 meses"
     ],
-    "reference": "LOTC 58.2",
+    "reference": "CEF T3 §2.2.6",
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
-    "difficulty": 1,
-    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+    "difficulty": 3,
+    "source": "CEF Organización del Estado, Tema 3, material aportado",
+    "origin": "corrección CEF de pregunta histórica",
+    "format": "memoria",
+    "revision": 2
   },
   {
     "id": 998,
-    "question": "¿Qué tribunales resuelven las indemnizaciones por daños derivados de la suspensión de amparo?",
-    "answer": "Los jueces o tribunales ordinarios competentes",
+    "question": "En las impugnaciones del artículo 161.2 CE, ¿en qué plazo máximo debe el TC ratificar o levantar la suspensión, salvo sentencia previa?",
+    "answer": "5 meses",
     "options": [
-      "El Tribunal de Cuentas",
-      "El CGPJ",
-      "Los jueces o tribunales ordinarios competentes",
-      "El Congreso"
+      "5 meses",
+      "3 meses",
+      "4 meses",
+      "6 meses"
     ],
-    "reference": "LOTC 58.1",
+    "reference": "CEF T3 §2.2.6",
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
-    "difficulty": 2,
-    "source": "LOTC 2/1979 (BOE, texto consolidado 02/08/2024)"
+    "difficulty": 3,
+    "source": "CEF Organización del Estado, Tema 3, material aportado",
+    "origin": "corrección CEF de pregunta histórica",
+    "format": "memoria",
+    "revision": 2
   },
   {
     "id": 999,
