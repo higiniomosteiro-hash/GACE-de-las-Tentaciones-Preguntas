@@ -4112,7 +4112,7 @@
   },
   {
     "id": 903231,
-    "question": "Según CE 159.1, ¿cuántos magistrados integran el Tribunal Constitucional?",
+    "question": "Según CE 159.1: ¿Cuántos magistrados integran el Tribunal Constitucional?",
     "answer": "12",
     "options": [
       "13",
@@ -4129,7 +4129,7 @@
   },
   {
     "id": 903232,
-    "question": "Según LOTC, ¿qué ley orgánica regula el Tribunal Constitucional?",
+    "question": "Según LOTC: ¿Qué ley orgánica regula el Tribunal Constitucional?",
     "answer": "Ley Orgánica 2/1979",
     "options": [
       "Ley Orgánica 2/1979",
@@ -4147,7 +4147,7 @@
   },
   {
     "id": 903233,
-    "question": "Según CE 159.1, ¿cuántos magistrados del TC propone el Congreso de los Diputados?",
+    "question": "Según CE 159.1: ¿Cuántos magistrados del TC propone el Congreso de los Diputados?",
     "answer": "4",
     "options": [
       "5",
@@ -4164,7 +4164,7 @@
   },
   {
     "id": 903234,
-    "question": "Según LOTC, ¿en qué fecha se aprobó la Ley Orgánica del Tribunal Constitucional?",
+    "question": "Según LOTC: ¿En qué fecha se aprobó la Ley Orgánica del Tribunal Constitucional?",
     "answer": "3 de octubre de 1979",
     "options": [
       "6 de diciembre de 1978",
@@ -4182,7 +4182,7 @@
   },
   {
     "id": 903235,
-    "question": "Según CE 159.1, ¿cuántos magistrados del TC propone el Senado?",
+    "question": "Según CE 159.1: ¿Cuántos magistrados del TC propone el Senado?",
     "answer": "4",
     "options": [
       "3",
@@ -4199,7 +4199,7 @@
   },
   {
     "id": 903236,
-    "question": "Según CE, Título IX, ¿en qué título de la Constitución se regula el Tribunal Constitucional?",
+    "question": "Según CE, Título IX: ¿En qué título de la Constitución se regula el Tribunal Constitucional?",
     "answer": "Título IX",
     "options": [
       "Título IX",
@@ -4217,7 +4217,7 @@
   },
   {
     "id": 903237,
-    "question": "Según CE 159.1, ¿cuántos magistrados del TC propone el Gobierno?",
+    "question": "Según CE 159.1: ¿Cuántos magistrados del TC propone el Gobierno?",
     "answer": "2",
     "options": [
       "3",
@@ -4234,7 +4234,7 @@
   },
   {
     "id": 903238,
-    "question": "Según CE 159, ¿qué artículo constitucional regula la composición del TC?",
+    "question": "Según CE 159: ¿Qué artículo constitucional regula la composición del TC?",
     "answer": "159",
     "options": [
       "165",
@@ -4252,7 +4252,7 @@
   },
   {
     "id": 903239,
-    "question": "Según CE 159.1, ¿cuántos magistrados del TC propone el Consejo General del Poder Judicial?",
+    "question": "Según CE 159.1: ¿Cuántos magistrados del TC propone el Consejo General del Poder Judicial?",
     "answer": "2",
     "options": [
       "1",
@@ -4269,7 +4269,7 @@
   },
   {
     "id": 903240,
-    "question": "Según CE 161, ¿qué artículo de la Constitución enumera las competencias del TC?",
+    "question": "Según CE 161: ¿Qué artículo de la Constitución enumera las competencias del TC?",
     "answer": "161",
     "options": [
       "160",
@@ -4287,7 +4287,7 @@
   },
   {
     "id": 903241,
-    "question": "Según CE 159.1, ¿qué mayoría exige el Congreso para proponer a los magistrados del TC?",
+    "question": "Según CE 159.1: ¿Qué mayoría exige el Congreso para proponer a los magistrados del TC?",
     "answer": "3/5",
     "options": [
       "mayoría simple",
@@ -4304,7 +4304,7 @@
   },
   {
     "id": 903242,
-    "question": "Según CE 164, ¿qué artículo constitucional regula el valor de las sentencias del TC?",
+    "question": "Según CE 164: ¿Qué artículo constitucional regula el valor de las sentencias del TC?",
     "answer": "164",
     "options": [
       "161",
@@ -4322,7 +4322,7 @@
   },
   {
     "id": 903243,
-    "question": "Según CE 159.1, ¿qué mayoría exige el Senado para proponer a los magistrados del TC?",
+    "question": "Según CE 159.1: ¿Qué mayoría exige el Senado para proponer a los magistrados del TC?",
     "answer": "3/5",
     "options": [
       "mayoría absoluta",
@@ -4339,7 +4339,7 @@
   },
   {
     "id": 903244,
-    "question": "Según CE 165, ¿qué artículo de la Constitución remite a una ley orgánica la regulación del TC?",
+    "question": "Según CE 165: ¿Qué artículo de la Constitución remite a una ley orgánica la regulación del TC?",
     "answer": "165",
     "options": [
       "160",
@@ -4357,7 +4357,7 @@
   },
   {
     "id": 903245,
-    "question": "Según CE 159.3, ¿cuántos años dura el mandato de los magistrados del TC?",
+    "question": "Según CE 159.3: ¿Cuántos años dura el mandato de los magistrados del TC?",
     "answer": "9 años",
     "options": [
       "10 años",
@@ -4375,7 +4375,7 @@
   },
   {
     "id": 903246,
-    "question": "Según CE 159.1, ¿quién nombra formalmente a los magistrados del TC?",
+    "question": "Según CE 159.1: ¿Quién nombra formalmente a los magistrados del TC?",
     "answer": "El Rey",
     "options": [
       "El Congreso",
@@ -4393,7 +4393,7 @@
   },
   {
     "id": 903247,
-    "question": "Según CE 159.3, ¿cada cuántos años se renueva parcialmente el Tribunal Constitucional?",
+    "question": "Según CE 159.3: ¿Cada cuántos años se renueva parcialmente el Tribunal Constitucional?",
     "answer": "3 años",
     "options": [
       "2 años",
@@ -4410,7 +4410,7 @@
   },
   {
     "id": 903248,
-    "question": "Según LOTC 9.1, ¿quién elige al Presidente del TC entre sus miembros?",
+    "question": "Según LOTC 9.1: ¿Quién elige al Presidente del TC entre sus miembros?",
     "answer": "El Pleno del TC",
     "options": [
       "El Senado",
@@ -4428,7 +4428,7 @@
   },
   {
     "id": 903249,
-    "question": "Según CE 159.3, ¿qué fracción del TC se renueva periódicamente?",
+    "question": "Según CE 159.3: ¿Qué fracción del TC se renueva periódicamente?",
     "answer": "1/3",
     "options": [
       "2/3",
@@ -4445,7 +4445,7 @@
   },
   {
     "id": 903250,
-    "question": "Según LOTC 9.1, ¿en qué tipo de votación se elige al Presidente del TC?",
+    "question": "Según LOTC 9.1: ¿En qué tipo de votación se elige al Presidente del TC?",
     "answer": "Votación secreta",
     "options": [
       "Votación electrónica abierta",
@@ -4463,7 +4463,7 @@
   },
   {
     "id": 903251,
-    "question": "Según CE 159.3, ¿cuántos magistrados del TC se renuevan en cada tercio?",
+    "question": "Según CE 159.3: ¿Cuántos magistrados del TC se renuevan en cada tercio?",
     "answer": "4",
     "options": [
       "5",
@@ -4480,7 +4480,7 @@
   },
   {
     "id": 903252,
-    "question": "Según LOTC 9.2, ¿en la segunda votación para Presidente del TC, ¿qué criterio decide??",
+    "question": "Según LOTC 9.2: En la segunda votación para Presidente del TC, ¿qué criterio decide?",
     "answer": "Mayor número de votos",
     "options": [
       "Mayoría absoluta",
@@ -4498,7 +4498,7 @@
   },
   {
     "id": 903253,
-    "question": "Según CE 159.2, ¿cuántos años de ejercicio profesional se exigen para ser magistrado del TC?",
+    "question": "Según CE 159.2: ¿Cuántos años de ejercicio profesional se exigen para ser magistrado del TC?",
     "answer": "15 años",
     "options": [
       "17 años",
@@ -4515,7 +4515,7 @@
   },
   {
     "id": 903254,
-    "question": "Según LOTC 9.1, ¿qué órgano propone al Rey el nombramiento del Presidente del TC?",
+    "question": "Según LOTC 9.1: ¿Qué órgano propone al Rey el nombramiento del Presidente del TC?",
     "answer": "El Pleno del TC",
     "options": [
       "El Pleno del TC",
@@ -4533,7 +4533,7 @@
   },
   {
     "id": 903255,
-    "question": "Según LOTC 9.3, ¿cuántos años dura el mandato del presidente del Tribunal Constitucional?",
+    "question": "Según LOTC 9.3: ¿Cuántos años dura el mandato del presidente del Tribunal Constitucional?",
     "answer": "3 años",
     "options": [
       "4 años",
@@ -4550,7 +4550,7 @@
   },
   {
     "id": 903256,
-    "question": "Según LOTC 7.2, ¿qué órgano preside ordinariamente la Sala Primera del TC?",
+    "question": "Según LOTC 7.2: ¿Qué órgano preside ordinariamente la Sala Primera del TC?",
     "answer": "El Presidente del TC",
     "options": [
       "El magistrado más joven",
@@ -4568,7 +4568,7 @@
   },
   {
     "id": 903257,
-    "question": "Según LOTC 9.3, ¿cuántas veces consecutivas puede ser reelegido el presidente del TC?",
+    "question": "Según LOTC 9.3: ¿Cuántas veces consecutivas puede ser reelegido el presidente del TC?",
     "answer": "1",
     "options": [
       "3",
@@ -4585,7 +4585,7 @@
   },
   {
     "id": 903258,
-    "question": "Según LOTC 6.2, ¿quién preside el Pleno del TC si faltan el Presidente y el Vicepresidente?",
+    "question": "Según LOTC 6.2: ¿Quién preside el Pleno del TC si faltan el Presidente y el Vicepresidente?",
     "answer": "El magistrado más antiguo en el cargo",
     "options": [
       "El de mayor edad siempre",
@@ -4603,7 +4603,7 @@
   },
   {
     "id": 903259,
-    "question": "Según LOTC 33.1, ¿cuál es el plazo general para interponer un recurso de inconstitucionalidad?",
+    "question": "Según LOTC 33.1: ¿Cuál es el plazo general para interponer un recurso de inconstitucionalidad?",
     "answer": "3 meses",
     "options": [
       "4 meses",
@@ -4620,7 +4620,7 @@
   },
   {
     "id": 903260,
-    "question": "Según LOTC 14; INAP GACE-L OEP 2022, pregunta 3, ¿qué quórum de presencia requiere el Pleno para adoptar acuerdos?",
+    "question": "Según LOTC 14; INAP GACE-L OEP 2022, pregunta 3: ¿Qué quórum de presencia requiere el Pleno para adoptar acuerdos?",
     "answer": "Dos tercios",
     "options": [
       "Dos tercios",
@@ -4638,7 +4638,7 @@
   },
   {
     "id": 903261,
-    "question": "Según LOTC 33.2, ¿qué plazo especial puede aplicarse al recurso de inconstitucionalidad con el procedimiento del art. 33.2 LOTC?",
+    "question": "Según LOTC 33.2: ¿Qué plazo especial puede aplicarse al recurso de inconstitucionalidad con el procedimiento del art. 33.2 LOTC?",
     "answer": "9 meses",
     "options": [
       "11 meses",
@@ -4655,7 +4655,7 @@
   },
   {
     "id": 903262,
-    "question": "Según LOTC 14, ¿cuántos magistrados deben estar presentes en una Sección para adoptar acuerdos sin discrepancia?",
+    "question": "Según LOTC 14: ¿Cuántos magistrados deben estar presentes en una Sección para adoptar acuerdos sin discrepancia?",
     "answer": "2",
     "options": [
       "2",
@@ -4673,7 +4673,7 @@
   },
   {
     "id": 903263,
-    "question": "Según LOTC 43.2, ¿qué plazo hay para presentar amparo frente a disposiciones, actos o vías de hecho del Ejecutivo tras agotar la vía judicial?",
+    "question": "Según LOTC 43.2: ¿Qué plazo hay para presentar amparo frente a disposiciones, actos o vías de hecho del Ejecutivo tras agotar la vía judicial?",
     "answer": "20 días",
     "options": [
       "19 días",
@@ -4690,7 +4690,7 @@
   },
   {
     "id": 903264,
-    "question": "Según LOTC 14, ¿si discrepan los miembros de una Sección del TC, ¿cuántos deben estar presentes??",
+    "question": "Según LOTC 14: Si discrepan los miembros de una Sección del TC, ¿cuántos deben estar presentes?",
     "answer": "3",
     "options": [
       "4",
@@ -4708,7 +4708,7 @@
   },
   {
     "id": 903265,
-    "question": "Según LOTC 44.2, ¿cuántos días hay para interponer amparo frente a resoluciones judiciales?",
+    "question": "Según LOTC 44.2: ¿Cuántos días hay para interponer amparo frente a resoluciones judiciales?",
     "answer": "30 días",
     "options": [
       "20 días",
@@ -4725,7 +4725,7 @@
   },
   {
     "id": 903266,
-    "question": "Según LOTC 8.1, ¿cuántos magistrados integran ordinariamente una Sección del TC?",
+    "question": "Según LOTC 8.1: ¿Cuántos magistrados integran ordinariamente una Sección del TC?",
     "answer": "3",
     "options": [
       "2",
@@ -4743,7 +4743,7 @@
   },
   {
     "id": 903267,
-    "question": "Según LOTC 42, ¿cuál es el plazo para recurrir en amparo actos parlamentarios sin valor de ley?",
+    "question": "Según LOTC 42: ¿Cuál es el plazo para recurrir en amparo actos parlamentarios sin valor de ley?",
     "answer": "3 meses",
     "options": [
       "2 meses",
@@ -4760,7 +4760,7 @@
   },
   {
     "id": 903268,
-    "question": "Según LOTC 24, ¿con qué mayoría acuerda el Pleno suspender cautelarmente a un magistrado del TC?",
+    "question": "Según LOTC 24: ¿Con qué mayoría acuerda el Pleno suspender cautelarmente a un magistrado del TC?",
     "answer": "Tres cuartas partes",
     "options": [
       "Mayoría absoluta",
@@ -4778,7 +4778,7 @@
   },
   {
     "id": 903269,
-    "question": "Según LOTC 63.5, ¿qué plazo existe para plantear conflicto positivo de competencia tras el rechazo del requerimiento?",
+    "question": "Según LOTC 63.5: ¿Qué plazo existe para plantear conflicto positivo de competencia tras el rechazo del requerimiento?",
     "answer": "1 mes",
     "options": [
       "3 meses",
@@ -4795,7 +4795,7 @@
   },
   {
     "id": 903270,
-    "question": "Según LOTC 23.2; INAP GACE-L OEP 2022-2024, pregunta 4, ¿con qué mayoría decide el Pleno el cese de un magistrado por responsabilidad civil dolosa?",
+    "question": "Según LOTC 23.2; INAP GACE-L OEP 2022-2024, pregunta 4: ¿Con qué mayoría decide el Pleno el cese de un magistrado por responsabilidad civil dolosa?",
     "answer": "Tres cuartas partes",
     "options": [
       "Dos tercios",
@@ -4813,7 +4813,7 @@
   },
   {
     "id": 903271,
-    "question": "Según LOTC 63.2, ¿en qué plazo puede formularse el requerimiento previo en un conflicto positivo de competencia?",
+    "question": "Según LOTC 63.2: ¿En qué plazo puede formularse el requerimiento previo en un conflicto positivo de competencia?",
     "answer": "2 meses",
     "options": [
       "1 meses",
@@ -4830,7 +4830,7 @@
   },
   {
     "id": 903272,
-    "question": "Según LOTC 16.1, LO 2/2024, ¿qué porcentaje mínimo de cada sexo exige la LOTC en las nuevas propuestas de magistrados?",
+    "question": "Según LOTC 16.1, LO 2/2024: ¿Qué porcentaje mínimo de cada sexo exige la LOTC en las nuevas propuestas de magistrados?",
     "answer": "40 %",
     "options": [
       "50 %",
@@ -4848,7 +4848,7 @@
   },
   {
     "id": 903273,
-    "question": "Según CE 161.2, ¿en qué plazo máximo debe el TC ratificar o levantar la suspensión del art. 161.2 CE?",
+    "question": "Según CE 161.2: ¿En qué plazo máximo debe el TC ratificar o levantar la suspensión del art. 161.2 CE?",
     "answer": "5 meses",
     "options": [
       "7 meses",
@@ -4865,7 +4865,7 @@
   },
   {
     "id": 903274,
-    "question": "Según LOTC 15, ¿a qué cargo corresponde comunicar las vacantes de magistrados del TC a los órganos proponentes?",
+    "question": "Según LOTC 15: ¿A qué cargo corresponde comunicar las vacantes de magistrados del TC a los órganos proponentes?",
     "answer": "Presidente del TC",
     "options": [
       "Secretario General",
@@ -4883,7 +4883,7 @@
   },
   {
     "id": 903275,
-    "question": "Según CE 162.1.a, ¿cuántos diputados pueden interponer recurso de inconstitucionalidad?",
+    "question": "Según CE 162.1.a: ¿Cuántos diputados pueden interponer recurso de inconstitucionalidad?",
     "answer": "50 diputados",
     "options": [
       "25 diputados",
@@ -4900,7 +4900,7 @@
   },
   {
     "id": 903276,
-    "question": "Según LOTC 49.4, ¿en qué plazo deben las Secretarías de Justicia poner de manifiesto al interesado los defectos de una demanda de amparo?",
+    "question": "Según LOTC 49.4: ¿En qué plazo deben las Secretarías de Justicia poner de manifiesto al interesado los defectos de una demanda de amparo?",
     "answer": "10 días",
     "options": [
       "9 días",
@@ -4918,7 +4918,7 @@
   },
   {
     "id": 903277,
-    "question": "Según CE 162.1.a, ¿cuántos senadores pueden interponer recurso de inconstitucionalidad?",
+    "question": "Según CE 162.1.a: ¿Cuántos senadores pueden interponer recurso de inconstitucionalidad?",
     "answer": "50 senadores",
     "options": [
       "25 senadores",
@@ -4935,7 +4935,7 @@
   },
   {
     "id": 903278,
-    "question": "Según LOTC 93.1, ¿cuántos días después de su notificación pueden las partes pedir aclaración de una sentencia del TC?",
+    "question": "Según LOTC 93.1: ¿Cuántos días después de su notificación pueden las partes pedir aclaración de una sentencia del TC?",
     "answer": "2 días",
     "options": [
       "1 días",
@@ -4956,7 +4956,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 6",
-    "question": "Según LOTC art. 6, ¿la LOTC establece que el Tribunal Constitucional actúa:?",
+    "question": "Según LOTC art. 6: La LOTC establece que el Tribunal Constitucional actúa:",
     "answer": "En Pleno, en Sala o en Sección.",
     "options": [
       "Por Salas y Juntas, sin Secciones.",
@@ -4975,7 +4975,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 7.1",
-    "question": "Según LOTC art. 7.1, ¿cuál es la composición de las Salas del Tribunal Constitucional?",
+    "question": "Según LOTC art. 7.1: ¿Cuál es la composición de las Salas del Tribunal Constitucional?",
     "answer": "Dos Salas de seis magistrados cada una.",
     "options": [
       "Dos Salas de cinco magistrados.",
@@ -4994,7 +4994,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 8.1",
-    "question": "Según LOTC art. 8.1, ¿una Sección del TC debe pronunciarse sobre la admisión de un asunto. ¿Cómo se compone??",
+    "question": "Según LOTC art. 8.1: Una Sección del TC debe pronunciarse sobre la admisión de un asunto. ¿Cómo se compone?",
     "answer": "Del presidente respectivo o quien le sustituya y dos magistrados.",
     "options": [
       "De dos magistrados sin presidente.",
@@ -5013,7 +5013,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 7.3",
-    "question": "Según LOTC art. 7.3, ¿quién preside ordinariamente la Sala Segunda del Tribunal Constitucional?",
+    "question": "Según LOTC art. 7.3: ¿Quién preside ordinariamente la Sala Segunda del Tribunal Constitucional?",
     "answer": "El Vicepresidente del Tribunal Constitucional.",
     "options": [
       "El Presidente del Tribunal Supremo.",
@@ -5032,7 +5032,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 9.2",
-    "question": "Según LOTC art. 9.2, ¿en la primera votación para elegir al Presidente del TC, ¿qué mayoría se requiere??",
+    "question": "Según LOTC art. 9.2: En la primera votación para elegir al Presidente del TC, ¿qué mayoría se requiere?",
     "answer": "Mayoría absoluta.",
     "options": [
       "Mayoría absoluta.",
@@ -5051,7 +5051,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 9.4",
-    "question": "Según LOTC art. 9.4, ¿quién elige al Vicepresidente del Tribunal Constitucional?",
+    "question": "Según LOTC art. 9.4: ¿Quién elige al Vicepresidente del Tribunal Constitucional?",
     "answer": "El Pleno del Tribunal, entre sus miembros.",
     "options": [
       "El Consejo de Ministros.",
@@ -5070,7 +5070,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 16.1",
-    "question": "Según LOTC art. 16.1, ¿los magistrados del TC propuestos por el Senado se eligen entre:?",
+    "question": "Según LOTC art. 16.1: Los magistrados del TC propuestos por el Senado se eligen entre:",
     "answer": "Las candidaturas presentadas por las Asambleas Legislativas autonómicas.",
     "options": [
       "Las candidaturas presentadas por las Asambleas Legislativas autonómicas.",
@@ -5089,7 +5089,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 16.5",
-    "question": "Según LOTC art. 16.5, ¿un magistrado del TC es sustituido por una vacante no derivada de expiración. ¿Cuánto dura, como regla, el mandato del sustituto??",
+    "question": "Según LOTC art. 16.5: Un magistrado del TC es sustituido por una vacante no derivada de expiración. ¿Cuánto dura, como regla, el mandato del sustituto?",
     "answer": "El tiempo restante del mandato de quien produjo la vacante.",
     "options": [
       "El tiempo restante del mandato de quien produjo la vacante.",
@@ -5108,7 +5108,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 16.4",
-    "question": "Según LOTC art. 16.4, ¿qué excepción permite proponer a un magistrado del TC para un período inmediato posterior?",
+    "question": "Según LOTC art. 16.4: ¿Qué excepción permite proponer a un magistrado del TC para un período inmediato posterior?",
     "answer": "Que haya ocupado el cargo por un plazo no superior a tres años.",
     "options": [
       "Que haya ocupado el cargo por un plazo no superior a tres años.",
@@ -5127,7 +5127,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 17.2",
-    "question": "Según LOTC art. 17.2, ¿expira el nombramiento de un magistrado del TC, pero su sucesor aún no ha tomado posesión. ¿Qué sucede??",
+    "question": "Según LOTC art. 17.2: Expira el nombramiento de un magistrado del TC, pero su sucesor aún no ha tomado posesión. ¿Qué sucede?",
     "answer": "Continúa en el ejercicio de sus funciones hasta la toma de posesión del sucesor.",
     "options": [
       "Cesa y queda vacante su puesto automáticamente.",
@@ -5146,7 +5146,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 26",
-    "question": "Según LOTC art. 26, ¿la responsabilidad criminal de un magistrado del Tribunal Constitucional solo será exigible ante:?",
+    "question": "Según LOTC art. 26: La responsabilidad criminal de un magistrado del Tribunal Constitucional solo será exigible ante:",
     "answer": "La Sala de lo Penal del Tribunal Supremo.",
     "options": [
       "El Tribunal Superior de Justicia de Madrid.",
@@ -5165,7 +5165,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 10.1.d",
-    "question": "Según LOTC art. 10.1.d, ¿qué órgano del TC conoce de los conflictos constitucionales de competencia entre el Estado y las comunidades autónomas?",
+    "question": "Según LOTC art. 10.1.d: ¿Qué órgano del TC conoce de los conflictos constitucionales de competencia entre el Estado y las comunidades autónomas?",
     "answer": "El Pleno.",
     "options": [
       "La Sala Primera exclusivamente.",
@@ -5184,7 +5184,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 10.1.d bis",
-    "question": "Según LOTC art. 10.1.d bis, ¿a qué órgano se atribuyen los recursos previos de inconstitucionalidad sobre proyectos de Estatutos de Autonomía?",
+    "question": "Según LOTC art. 10.1.d bis: ¿A qué órgano se atribuyen los recursos previos de inconstitucionalidad sobre proyectos de Estatutos de Autonomía?",
     "answer": "Al Pleno del TC.",
     "options": [
       "Al Pleno del TC.",
@@ -5203,7 +5203,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 27.2.f",
-    "question": "Según LOTC art. 27.2.f, ¿un reglamento de una Asamblea Legislativa autonómica es cuestionado por inconstitucionalidad. ¿Qué respuesta es correcta??",
+    "question": "Según LOTC art. 27.2.f: Un reglamento de una Asamblea Legislativa autonómica es cuestionado por inconstitucionalidad. ¿Qué respuesta es correcta?",
     "answer": "Es susceptible de declaración de inconstitucionalidad por el TC.",
     "options": [
       "Queda inmune a todo control constitucional.",
@@ -5222,7 +5222,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 35.2",
-    "question": "Según LOTC art. 35.2, ¿un juez cree que una ley relevante para el fallo es inconstitucional. ¿En qué fase puede plantear la cuestión??",
+    "question": "Según LOTC art. 35.2: Un juez cree que una ley relevante para el fallo es inconstitucional. ¿En qué fase puede plantear la cuestión?",
     "answer": "Una vez concluso el procedimiento y dentro del plazo para dictar sentencia o resolución procedente.",
     "options": [
       "Una vez concluso el procedimiento y dentro del plazo para dictar sentencia o resolución procedente.",
@@ -5241,7 +5241,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 35.2",
-    "question": "Según LOTC art. 35.2, ¿antes de plantear una cuestión de inconstitucionalidad, ¿qué plazo común e improrrogable de audiencia se concede a las partes y al Ministerio Fiscal??",
+    "question": "Según LOTC art. 35.2: Antes de plantear una cuestión de inconstitucionalidad, ¿qué plazo común e improrrogable de audiencia se concede a las partes y al Ministerio Fiscal?",
     "answer": "Diez días.",
     "options": [
       "Tres días.",
@@ -5260,7 +5260,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 35.2",
-    "question": "Según LOTC art. 35.2, ¿después de la audiencia sobre una posible cuestión de inconstitucionalidad, ¿cuánto plazo tiene el juez para resolver??",
+    "question": "Según LOTC art. 35.2: Después de la audiencia sobre una posible cuestión de inconstitucionalidad, ¿cuánto plazo tiene el juez para resolver?",
     "answer": "Tres días.",
     "options": [
       "Tres días.",
@@ -5279,7 +5279,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 35.2",
-    "question": "Según LOTC art. 35.2, ¿una parte intenta recurrir el auto que plantea una cuestión de inconstitucionalidad. ¿Qué señala la LOTC??",
+    "question": "Según LOTC art. 35.2: Una parte intenta recurrir el auto que plantea una cuestión de inconstitucionalidad. ¿Qué señala la LOTC?",
     "answer": "Contra ese auto no cabe recurso de ninguna clase.",
     "options": [
       "Cabe apelación ordinaria.",
@@ -5298,7 +5298,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 35.3",
-    "question": "Según LOTC art. 35.3, ¿admitida a trámite una cuestión de inconstitucionalidad, ¿qué ocurre con el proceso judicial de origen??",
+    "question": "Según LOTC art. 35.3: Admitida a trámite una cuestión de inconstitucionalidad, ¿qué ocurre con el proceso judicial de origen?",
     "answer": "Permanece suspendido hasta que el TC resuelva definitivamente.",
     "options": [
       "Permanece suspendido hasta que el TC resuelva definitivamente.",
@@ -5317,7 +5317,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 39.1",
-    "question": "Según LOTC art. 39.1, ¿una sentencia del TC declara inconstitucional un precepto de una ley y otro depende directamente de él. ¿Qué puede hacer el TC??",
+    "question": "Según LOTC art. 39.1: Una sentencia del TC declara inconstitucional un precepto de una ley y otro depende directamente de él. ¿Qué puede hacer el TC?",
     "answer": "Extender la nulidad a otros preceptos de esa ley por conexión o consecuencia.",
     "options": [
       "Declarar la nulidad solo tras autorización del Senado.",
@@ -5336,7 +5336,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 40.1",
-    "question": "Según LOTC art. 40.1, ¿la anulación de una norma penal aplicada en sentencia firme permitiría reducir la pena. ¿Qué prevé la LOTC??",
+    "question": "Según LOTC art. 40.1: La anulación de una norma penal aplicada en sentencia firme permitiría reducir la pena. ¿Qué prevé la LOTC?",
     "answer": "Una excepción que permite revisar el proceso firme en ese supuesto.",
     "options": [
       "Revisión solo mediante referéndum.",
@@ -5355,7 +5355,7 @@
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "reference": "LOTC art. 49.1",
-    "question": "Según LOTC art. 49.1, ¿una demanda de amparo cita el derecho vulnerado, pero omite justificar su especial trascendencia constitucional. ¿Qué requisito falta??",
+    "question": "Según LOTC art. 49.1: Una demanda de amparo cita el derecho vulnerado, pero omite justificar su especial trascendencia constitucional. ¿Qué requisito falta?",
     "answer": "La justificación de la especial trascendencia constitucional.",
     "options": [
       "La aprobación del Senado.",
