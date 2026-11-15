@@ -1,6 +1,276 @@
 [
   {
-    "id": 2487,
+    "id": 49,
+    "question": "¿Cuánto dura el mandato del Defensor del Pueblo?",
+    "answer": "5 años",
+    "options": [
+      "4 años",
+      "5 años",
+      "6 años",
+      "7 años"
+    ],
+    "reference": "LO 3/1981 art. 2.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question": "¿Por cuántos años se elige al Defensor del Pueblo?",
+    "answer": "5 años",
+    "options": [
+      "7 años",
+      "4 años",
+      "6 años",
+      "5 años"
+    ],
+    "reference": "LO 3/1981 art. 2.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "difficulty": 1
+  },
+  {
+    "id": 51,
+    "question": "¿Qué mayoría requiere el Congreso para elegir al Defensor del Pueblo?",
+    "answer": "3/5",
+    "options": [
+      "2/3",
+      "mayoría simple",
+      "3/5",
+      "mayoría absoluta"
+    ],
+    "reference": "LO 3/1981 art. 2.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "difficulty": 2
+  },
+  {
+    "id": 52,
+    "question": "¿Qué mayoría del Congreso es necesaria para designar al Defensor del Pueblo?",
+    "answer": "3/5",
+    "options": [
+      "2/3",
+      "mayoría absoluta",
+      "mayoría simple",
+      "3/5"
+    ],
+    "reference": "LO 3/1981 art. 2.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
+    "question": "¿Qué mayoría requiere inicialmente el Senado para elegir al Defensor del Pueblo?",
+    "answer": "3/5",
+    "options": [
+      "mayoría absoluta",
+      "2/3",
+      "3/5",
+      "mayoría simple"
+    ],
+    "reference": "LO 3/1981 art. 2.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "difficulty": 2
+  },
+  {
+    "id": 54,
+    "question": "En la primera votación, ¿qué mayoría necesita el candidato a Defensor del Pueblo en el Senado?",
+    "answer": "3/5",
+    "options": [
+      "mayoría absoluta",
+      "2/3",
+      "3/5",
+      "mayoría simple"
+    ],
+    "reference": "LO 3/1981 art. 2.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "difficulty": 2
+  },
+  {
+    "id": 55,
+    "question": "En una nueva propuesta, ¿qué mayoría requiere el Congreso para elegir al Defensor del Pueblo?",
+    "answer": "3/5",
+    "options": [
+      "mayoría absoluta",
+      "3/5",
+      "mayoría simple",
+      "2/3"
+    ],
+    "reference": "LO 3/1981 art. 2.5",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "difficulty": 2
+  },
+  {
+    "id": 56,
+    "question": "Si se presenta una nueva candidatura, ¿qué mayoría exige su aprobación en el Congreso?",
+    "answer": "3/5",
+    "options": [
+      "mayoría simple",
+      "3/5",
+      "mayoría absoluta",
+      "2/3"
+    ],
+    "reference": "LO 3/1981 art. 2.5",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "difficulty": 3
+  },
+  {
+    "id": 57,
+    "question": "En una nueva propuesta, ¿qué mayoría basta en el Senado para elegir al Defensor del Pueblo?",
+    "answer": "mayoría absoluta",
+    "options": [
+      "mayoría absoluta",
+      "mayoría simple",
+      "3/5",
+      "2/3"
+    ],
+    "reference": "LO 3/1981 art. 2.5",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "difficulty": 2
+  },
+  {
+    "id": 58,
+    "question": "Ante una nueva propuesta de Defensor del Pueblo, ¿qué mayoría es suficiente en el Senado?",
+    "answer": "mayoría absoluta",
+    "options": [
+      "mayoría simple",
+      "3/5",
+      "mayoría absoluta",
+      "2/3"
+    ],
+    "reference": "LO 3/1981 art. 2.5",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "difficulty": 2
+  },
+  {
+    "id": 59,
+    "question": "¿Cuántos adjuntos asisten al Defensor del Pueblo?",
+    "answer": "2",
+    "options": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "reference": "LO 3/1981 art. 8.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "difficulty": 1
+  },
+  {
+    "id": 60,
+    "question": "¿Con cuántos adjuntos cuenta la institución del Defensor del Pueblo?",
+    "answer": "2",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "reference": "LO 3/1981 art. 8.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "difficulty": 1
+  },
+  {
+    "id": 61,
+    "question": "¿Qué condición de edad exige la Ley para poder ser Defensor del Pueblo?",
+    "answer": "mayor de edad",
+    "options": [
+      "25 años",
+      "mayor de edad",
+      "30 años",
+      "35 años"
+    ],
+    "reference": "LO 3/1981 art. 3",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "difficulty": 2
+  },
+  {
+    "id": 62,
+    "question": "¿Qué requisito relativo a la mayoría de edad debe cumplir el Defensor del Pueblo?",
+    "answer": "mayor de edad",
+    "options": [
+      "30 años",
+      "35 años",
+      "25 años",
+      "mayor de edad"
+    ],
+    "reference": "LO 3/1981 art. 3",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "difficulty": 2
+  },
+  {
+    "id": 63,
+    "question": "¿Qué plazo existe para presentar una queja al Defensor del Pueblo desde que se conocen los hechos?",
+    "answer": "1 año",
+    "options": [
+      "2 año",
+      "1 año",
+      "3 año",
+      "4 año"
+    ],
+    "reference": "LO 3/1981 art. 15.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "difficulty": 2
+  },
+  {
+    "id": 64,
+    "question": "Desde que se conocen los hechos, ¿cuánto tiempo hay para presentar una queja al Defensor del Pueblo?",
+    "answer": "1 año",
+    "options": [
+      "2 año",
+      "1 año",
+      "3 año",
+      "4 año"
+    ],
+    "reference": "LO 3/1981 art. 15.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "difficulty": 2
+  },
+  {
+    "id": 65,
+    "question": "¿Cuántos días tiene inicialmente un organismo para informar al Defensor del Pueblo sobre una queja?",
+    "answer": "15 días",
+    "options": [
+      "13 días",
+      "14 días",
+      "15 días",
+      "16 días"
+    ],
+    "reference": "LO 3/1981 art. 18.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "difficulty": 2
+  },
+  {
+    "id": 66,
+    "question": "Recibida una solicitud de informe del Defensor del Pueblo, ¿cuántos días tiene inicialmente el organismo?",
+    "answer": "15 días",
+    "options": [
+      "14 días",
+      "16 días",
+      "15 días",
+      "13 días"
+    ],
+    "reference": "LO 3/1981 art. 18.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "difficulty": 2
+  },
+  {
+    "id": 2277,
     "question": "¿Qué artículos abarca el Título I de la CE?",
     "answer": "Del 10 al 55",
     "options": [
@@ -14,10 +284,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 1,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE Título I",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2487
   },
   {
-    "id": 2488,
+    "id": 2278,
     "question": "¿Qué artículos abarca la sección 1.ª del capítulo II del Título I?",
     "answer": "Del 15 al 29",
     "options": [
@@ -31,10 +302,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE Título I",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2488
   },
   {
-    "id": 2489,
+    "id": 2279,
     "question": "¿Qué artículos abarca la sección 2.ª del capítulo II del Título I?",
     "answer": "Del 30 al 38",
     "options": [
@@ -48,10 +320,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE Título I",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2489
   },
   {
-    "id": 2490,
+    "id": 2280,
     "question": "¿Qué artículos comprenden los principios rectores de la política social y económica?",
     "answer": "Del 39 al 52",
     "options": [
@@ -65,10 +338,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE Título I, cap. III",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2490
   },
   {
-    "id": 2491,
+    "id": 2281,
     "question": "¿Qué artículo recoge las garantías de los derechos y libertades?",
     "answer": "Artículo 53",
     "options": [
@@ -82,10 +356,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 53",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2491
   },
   {
-    "id": 2492,
+    "id": 2282,
     "question": "¿Qué artículo regula la figura del Defensor del Pueblo?",
     "answer": "Artículo 54",
     "options": [
@@ -99,10 +374,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 54",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2492
   },
   {
-    "id": 2493,
+    "id": 2283,
     "question": "¿Qué artículo se ocupa de la suspensión de derechos y libertades?",
     "answer": "Artículo 55",
     "options": [
@@ -116,10 +392,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 3,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 55",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2493
   },
   {
-    "id": 2494,
+    "id": 2284,
     "question": "¿A qué edad se alcanza la mayoría de edad en España conforme a la CE?",
     "answer": "18 años",
     "options": [
@@ -133,10 +410,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 12",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2494
   },
   {
-    "id": 2495,
+    "id": 2285,
     "question": "¿Qué precepto garantiza la igualdad ante la ley sin discriminación?",
     "answer": "Artículo 14",
     "options": [
@@ -150,10 +428,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 1,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 14",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2495
   },
   {
-    "id": 2496,
+    "id": 2286,
     "question": "¿En qué artículo se reconoce el derecho a la vida e integridad física y moral?",
     "answer": "Artículo 15",
     "options": [
@@ -167,10 +446,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 15",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2496
   },
   {
-    "id": 2497,
+    "id": 2287,
     "question": "¿En qué artículo se garantiza la libertad ideológica y religiosa?",
     "answer": "Artículo 16",
     "options": [
@@ -184,10 +464,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 16",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2497
   },
   {
-    "id": 2498,
+    "id": 2288,
     "question": "¿En qué artículo se reconoce la libertad y seguridad personales?",
     "answer": "Artículo 17",
     "options": [
@@ -201,10 +482,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 17",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2498
   },
   {
-    "id": 2499,
+    "id": 2289,
     "question": "¿En qué artículo se reconoce el honor, la intimidad y la propia imagen?",
     "answer": "Artículo 18",
     "options": [
@@ -218,10 +500,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 3,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 18",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2499
   },
   {
-    "id": 2500,
+    "id": 2290,
     "question": "¿Qué artículo garantiza la libertad de residencia y circulación?",
     "answer": "Artículo 19",
     "options": [
@@ -235,10 +518,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 19",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2500
   },
   {
-    "id": 2501,
+    "id": 2291,
     "question": "¿En qué artículo se reconoce la libertad de expresión e información?",
     "answer": "Artículo 20",
     "options": [
@@ -252,10 +536,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 20",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2501
   },
   {
-    "id": 2502,
+    "id": 2292,
     "question": "¿Qué artículo regula el derecho de reunión pacífica?",
     "answer": "Artículo 21",
     "options": [
@@ -269,10 +554,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 21",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2502
   },
   {
-    "id": 2503,
+    "id": 2293,
     "question": "¿Qué artículo regula el derecho de asociación?",
     "answer": "Artículo 22",
     "options": [
@@ -286,10 +572,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 1,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 22",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2503
   },
   {
-    "id": 2504,
+    "id": 2294,
     "question": "¿Qué artículo regula la participación en los asuntos públicos?",
     "answer": "Artículo 23",
     "options": [
@@ -303,10 +590,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 23",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2504
   },
   {
-    "id": 2505,
+    "id": 2295,
     "question": "¿Qué artículo garantiza la tutela judicial efectiva?",
     "answer": "Artículo 24",
     "options": [
@@ -320,10 +608,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 3,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 24",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2505
   },
   {
-    "id": 2506,
+    "id": 2296,
     "question": "¿Dónde figura el principio de legalidad penal y sancionadora?",
     "answer": "Artículo 25",
     "options": [
@@ -337,10 +626,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 25",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2506
   },
   {
-    "id": 2507,
+    "id": 2297,
     "question": "¿Qué artículo prohíbe los tribunales de honor en la Administración civil?",
     "answer": "Artículo 26",
     "options": [
@@ -354,10 +644,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 26",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2507
   },
   {
-    "id": 2508,
+    "id": 2298,
     "question": "¿Qué artículo reconoce el derecho a la educación?",
     "answer": "Artículo 27",
     "options": [
@@ -371,10 +662,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 27",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2508
   },
   {
-    "id": 2509,
+    "id": 2299,
     "question": "¿Qué artículo regula la libertad sindical y el derecho de huelga?",
     "answer": "Artículo 28",
     "options": [
@@ -388,10 +680,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 28",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2509
   },
   {
-    "id": 2510,
+    "id": 2300,
     "question": "¿Qué artículo reconoce el derecho de petición?",
     "answer": "Artículo 29",
     "options": [
@@ -405,10 +698,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 29",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2510
   },
   {
-    "id": 2511,
+    "id": 2301,
     "question": "¿Dónde se reconoce el deber de defender España y la objeción de conciencia?",
     "answer": "Artículo 30",
     "options": [
@@ -422,10 +716,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 1,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 30",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2511
   },
   {
-    "id": 2512,
+    "id": 2302,
     "question": "¿Qué artículo establece la contribución a los gastos públicos según capacidad económica?",
     "answer": "Artículo 31",
     "options": [
@@ -439,10 +734,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 31",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2512
   },
   {
-    "id": 2513,
+    "id": 2303,
     "question": "¿En qué artículo se reconoce el derecho a contraer matrimonio?",
     "answer": "Artículo 32",
     "options": [
@@ -456,10 +752,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 32",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2513
   },
   {
-    "id": 2514,
+    "id": 2304,
     "question": "¿En qué artículo se reconoce la propiedad privada y la herencia?",
     "answer": "Artículo 33",
     "options": [
@@ -473,10 +770,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 33",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2514
   },
   {
-    "id": 2515,
+    "id": 2305,
     "question": "¿Qué artículo regula el derecho de fundación?",
     "answer": "Artículo 34",
     "options": [
@@ -490,10 +788,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 34",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2515
   },
   {
-    "id": 2516,
+    "id": 2306,
     "question": "¿Qué artículo se ocupa del deber y derecho al trabajo?",
     "answer": "Artículo 35",
     "options": [
@@ -507,10 +806,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 35",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2516
   },
   {
-    "id": 2517,
+    "id": 2307,
     "question": "¿Dónde se regulan los colegios profesionales?",
     "answer": "Artículo 36",
     "options": [
@@ -524,10 +824,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 3,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 36",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2517
   },
   {
-    "id": 2518,
+    "id": 2308,
     "question": "¿Qué artículo reconoce la negociación colectiva laboral?",
     "answer": "Artículo 37",
     "options": [
@@ -541,10 +842,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 37",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2518
   },
   {
-    "id": 2519,
+    "id": 2309,
     "question": "¿Qué artículo reconoce la libertad de empresa?",
     "answer": "Artículo 38",
     "options": [
@@ -558,10 +860,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 1,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 38",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2519
   },
   {
-    "id": 2520,
+    "id": 2310,
     "question": "¿Dónde se dispone la protección social, económica y jurídica de la familia?",
     "answer": "Artículo 39",
     "options": [
@@ -575,10 +878,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 39",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2520
   },
   {
-    "id": 2521,
+    "id": 2311,
     "question": "¿Qué artículo prevé una política orientada al pleno empleo?",
     "answer": "Artículo 40",
     "options": [
@@ -592,10 +896,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 40",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2521
   },
   {
-    "id": 2522,
+    "id": 2312,
     "question": "¿En qué artículo se establece un régimen público de Seguridad Social?",
     "answer": "Artículo 41",
     "options": [
@@ -609,10 +914,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 41",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2522
   },
   {
-    "id": 2523,
+    "id": 2313,
     "question": "¿Qué artículo garantiza la salvaguardia de los derechos de trabajadores españoles en el extranjero?",
     "answer": "Artículo 42",
     "options": [
@@ -626,10 +932,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 3,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 42",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2523
   },
   {
-    "id": 2524,
+    "id": 2314,
     "question": "¿Qué artículo reconoce la protección de la salud?",
     "answer": "Artículo 43",
     "options": [
@@ -643,10 +950,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 43",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2524
   },
   {
-    "id": 2525,
+    "id": 2315,
     "question": "¿Qué artículo regula el acceso a la cultura y la promoción de la ciencia?",
     "answer": "Artículo 44",
     "options": [
@@ -660,10 +968,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 44",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2525
   },
   {
-    "id": 2526,
+    "id": 2316,
     "question": "¿Qué artículo reconoce el derecho a un medio ambiente adecuado?",
     "answer": "Artículo 45",
     "options": [
@@ -677,10 +986,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 45",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2526
   },
   {
-    "id": 2527,
+    "id": 2317,
     "question": "¿Dónde se garantiza la conservación del patrimonio histórico, cultural y artístico?",
     "answer": "Artículo 46",
     "options": [
@@ -694,10 +1004,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 1,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 46",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2527
   },
   {
-    "id": 2528,
+    "id": 2318,
     "question": "¿Qué artículo recoge el derecho a una vivienda digna?",
     "answer": "Artículo 47",
     "options": [
@@ -711,10 +1022,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 47",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2528
   },
   {
-    "id": 2529,
+    "id": 2319,
     "question": "¿En qué artículo se prevé la participación libre y eficaz de la juventud?",
     "answer": "Artículo 48",
     "options": [
@@ -728,10 +1040,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 3,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 48",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2529
   },
   {
-    "id": 2530,
+    "id": 2320,
     "question": "¿Qué artículo protege específicamente los derechos de las personas con discapacidad?",
     "answer": "Artículo 49",
     "options": [
@@ -745,10 +1058,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 49",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2530
   },
   {
-    "id": 2531,
+    "id": 2321,
     "question": "¿Qué artículo garantiza pensiones adecuadas y periódicamente actualizadas para los mayores?",
     "answer": "Artículo 50",
     "options": [
@@ -762,10 +1076,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 50",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2531
   },
   {
-    "id": 2532,
+    "id": 2322,
     "question": "¿Qué artículo protege a consumidores y usuarios?",
     "answer": "Artículo 51",
     "options": [
@@ -779,10 +1094,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 51",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2532
   },
   {
-    "id": 2533,
+    "id": 2323,
     "question": "¿Qué artículo reconoce las organizaciones profesionales que defienden intereses económicos?",
     "answer": "Artículo 52",
     "options": [
@@ -796,10 +1112,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 52",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2533
   },
   {
-    "id": 2534,
+    "id": 2324,
     "question": "¿Dónde se desarrolla la protección preferente y sumaria de ciertos derechos?",
     "answer": "Artículo 53.2",
     "options": [
@@ -813,10 +1130,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 53.2",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2534
   },
   {
-    "id": 2535,
+    "id": 2325,
     "question": "¿Qué derechos dan acceso en su caso al amparo del TC?",
     "answer": "Art. 14, sección 1.ª capítulo II y objeción del 30",
     "options": [
@@ -830,10 +1148,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 1,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 53.2",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2535
   },
   {
-    "id": 2536,
+    "id": 2326,
     "question": "¿Qué estado NO habilita la suspensión general del artículo 55.1 CE?",
     "answer": "Estado de alarma",
     "options": [
@@ -847,10 +1166,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 55.1",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2536
   },
   {
-    "id": 2537,
+    "id": 2327,
     "question": "¿En qué estado opera entre otros la suspensión general de derechos del artículo 55.1 CE?",
     "answer": "Estado de sitio",
     "options": [
@@ -864,10 +1184,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 55.1",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2537
   },
   {
-    "id": 2538,
+    "id": 2328,
     "question": "¿Qué ley orgánica regula al Defensor del Pueblo?",
     "answer": "Ley Orgánica 3/1981",
     "options": [
@@ -881,10 +1202,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); LO 3/1981",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2538
   },
   {
-    "id": 2539,
+    "id": 2329,
     "question": "¿Qué duración tiene el mandato del Defensor del Pueblo?",
     "answer": "5 años",
     "options": [
@@ -898,10 +1220,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); LO 3/1981 art. 2",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2539
   },
   {
-    "id": 2540,
+    "id": 2330,
     "question": "¿Cuántos adjuntos asisten al Defensor del Pueblo?",
     "answer": "2",
     "options": [
@@ -915,10 +1238,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); LO 3/1981 art. 8",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2540
   },
   {
-    "id": 2541,
+    "id": 2331,
     "question": "¿Qué mayoría necesita inicialmente el Congreso para designar al Defensor del Pueblo?",
     "answer": "Tres quintos",
     "options": [
@@ -932,10 +1256,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 3,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); LO 3/1981 art. 2",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2541
   },
   {
-    "id": 2544,
+    "id": 2332,
     "question": "¿En qué plazo desde el conocimiento de los hechos puede presentarse una queja al Defensor del Pueblo?",
     "answer": "1 año",
     "options": [
@@ -949,10 +1274,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); LO 3/1981 art. 15",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2544
   },
   {
-    "id": 2545,
+    "id": 2333,
     "question": "¿Qué plazo inicial tiene la Administración para informar de una queja al Defensor del Pueblo?",
     "answer": "15 días",
     "options": [
@@ -966,10 +1292,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); LO 3/1981 art. 18",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2545
   },
   {
-    "id": 2546,
+    "id": 2334,
     "question": "¿Qué institución es alto comisionado de las Cortes para defender los derechos del Título I?",
     "answer": "Defensor del Pueblo",
     "options": [
@@ -983,10 +1310,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 54",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2546
   },
   {
-    "id": 2547,
+    "id": 2335,
     "question": "¿Qué artículo consagra la dignidad de la persona y el libre desarrollo de la personalidad?",
     "answer": "Artículo 10",
     "options": [
@@ -1000,10 +1328,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 3,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 10",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2547
   },
   {
-    "id": 2548,
+    "id": 2336,
     "question": "¿Dónde se regula la nacionalidad española?",
     "answer": "Artículo 11",
     "options": [
@@ -1017,10 +1346,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 11",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2548
   },
   {
-    "id": 2549,
+    "id": 2337,
     "question": "¿Qué artículo aborda los derechos de extranjeros en España?",
     "answer": "Artículo 13",
     "options": [
@@ -1034,10 +1364,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 13",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2549
   },
   {
-    "id": 2550,
+    "id": 2338,
     "question": "¿Cuál es el plazo máximo ordinario de detención preventiva antes de libertad o puesta a disposición judicial?",
     "answer": "72 horas",
     "options": [
@@ -1051,10 +1382,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 17.2",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2550
   },
   {
-    "id": 2551,
+    "id": 2339,
     "question": "¿Para cuál de estos derechos exige el artículo 53.1 respeto del contenido esencial?",
     "answer": "Derechos del capítulo II del Título I",
     "options": [
@@ -1068,10 +1400,11 @@
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 1,
     "source": "CEF Organización del Estado, tema 2 (noviembre 2026); CE 53.1",
-    "origin": "nueva pregunta específica"
+    "origin": "nueva pregunta específica",
+    "previous_id": 2551
   },
   {
-    "id": 2554,
+    "id": 2340,
     "question": "¿Qué artículo de la Constitución Española regula la dignidad de la persona y la interpretación de los derechos?",
     "answer": "Artículo 10",
     "options": [
@@ -1087,10 +1420,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 10 de la CE se ocupa de la dignidad de la persona y la interpretación de los derechos.",
     "origin_id": 385,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2554
   },
   {
-    "id": 2555,
+    "id": 2341,
     "question": "¿Qué materia regula el artículo 10 de la Constitución Española?",
     "answer": "la dignidad de la persona y la interpretación de los derechos",
     "options": [
@@ -1106,10 +1440,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 10: la dignidad de la persona y la interpretación de los derechos.",
     "origin_id": 386,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2555
   },
   {
-    "id": 2556,
+    "id": 2342,
     "question": "¿Qué artículo de la Constitución Española regula la nacionalidad española?",
     "answer": "Artículo 11",
     "options": [
@@ -1125,10 +1460,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 11 de la CE se ocupa de la nacionalidad española.",
     "origin_id": 387,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2556
   },
   {
-    "id": 2557,
+    "id": 2343,
     "question": "¿Qué materia regula el artículo 11 de la Constitución Española?",
     "answer": "la nacionalidad española",
     "options": [
@@ -1144,10 +1480,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 11: la nacionalidad española.",
     "origin_id": 388,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2557
   },
   {
-    "id": 2558,
+    "id": 2344,
     "question": "¿Qué artículo de la Constitución Española regula la mayoría de edad de los españoles?",
     "answer": "Artículo 12",
     "options": [
@@ -1163,10 +1500,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 12 de la CE se ocupa de la mayoría de edad de los españoles.",
     "origin_id": 389,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2558
   },
   {
-    "id": 2559,
+    "id": 2345,
     "question": "¿Qué materia regula el artículo 12 de la Constitución Española?",
     "answer": "la mayoría de edad de los españoles",
     "options": [
@@ -1182,10 +1520,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 12: la mayoría de edad de los españoles.",
     "origin_id": 390,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2559
   },
   {
-    "id": 2560,
+    "id": 2346,
     "question": "¿Qué artículo de la Constitución Española regula los derechos de los extranjeros en España?",
     "answer": "Artículo 13",
     "options": [
@@ -1201,10 +1540,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 13 de la CE se ocupa de los derechos de los extranjeros en España.",
     "origin_id": 391,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2560
   },
   {
-    "id": 2561,
+    "id": 2347,
     "question": "¿Qué materia regula el artículo 13 de la Constitución Española?",
     "answer": "los derechos de los extranjeros en España",
     "options": [
@@ -1220,10 +1560,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 13: los derechos de los extranjeros en España.",
     "origin_id": 392,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2561
   },
   {
-    "id": 2562,
+    "id": 2348,
     "question": "¿Qué artículo de la Constitución Española regula la igualdad ante la ley y la no discriminación?",
     "answer": "Artículo 14",
     "options": [
@@ -1239,10 +1580,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 14 de la CE se ocupa de la igualdad ante la ley y la no discriminación.",
     "origin_id": 393,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2562
   },
   {
-    "id": 2563,
+    "id": 2349,
     "question": "¿Qué materia regula el artículo 14 de la Constitución Española?",
     "answer": "la igualdad ante la ley y la no discriminación",
     "options": [
@@ -1258,10 +1600,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 14: la igualdad ante la ley y la no discriminación.",
     "origin_id": 394,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2563
   },
   {
-    "id": 2564,
+    "id": 2350,
     "question": "¿Qué artículo de la Constitución Española regula el derecho a la vida y a la integridad física y moral?",
     "answer": "Artículo 15",
     "options": [
@@ -1277,10 +1620,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 15 de la CE se ocupa de el derecho a la vida y a la integridad física y moral.",
     "origin_id": 395,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2564
   },
   {
-    "id": 2565,
+    "id": 2351,
     "question": "¿Qué materia regula el artículo 15 de la Constitución Española?",
     "answer": "el derecho a la vida y a la integridad física y moral",
     "options": [
@@ -1296,10 +1640,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 15: el derecho a la vida y a la integridad física y moral.",
     "origin_id": 396,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2565
   },
   {
-    "id": 2566,
+    "id": 2352,
     "question": "¿Qué artículo de la Constitución Española regula la libertad ideológica, religiosa y de culto?",
     "answer": "Artículo 16",
     "options": [
@@ -1315,10 +1660,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 16 de la CE se ocupa de la libertad ideológica, religiosa y de culto.",
     "origin_id": 397,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2566
   },
   {
-    "id": 2567,
+    "id": 2353,
     "question": "¿Qué materia regula el artículo 16 de la Constitución Española?",
     "answer": "la libertad ideológica, religiosa y de culto",
     "options": [
@@ -1334,10 +1680,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 16: la libertad ideológica, religiosa y de culto.",
     "origin_id": 398,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2567
   },
   {
-    "id": 2568,
+    "id": 2354,
     "question": "¿Qué artículo de la Constitución Española regula el derecho a la libertad y a la seguridad?",
     "answer": "Artículo 17",
     "options": [
@@ -1353,10 +1700,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 17 de la CE se ocupa de el derecho a la libertad y a la seguridad.",
     "origin_id": 399,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2568
   },
   {
-    "id": 2569,
+    "id": 2355,
     "question": "¿Qué materia regula el artículo 17 de la Constitución Española?",
     "answer": "el derecho a la libertad y a la seguridad",
     "options": [
@@ -1372,10 +1720,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 17: el derecho a la libertad y a la seguridad.",
     "origin_id": 400,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2569
   },
   {
-    "id": 2570,
+    "id": 2356,
     "question": "¿Qué artículo de la Constitución Española regula el honor, la intimidad, el domicilio y las comunicaciones?",
     "answer": "Artículo 18",
     "options": [
@@ -1391,10 +1740,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 18 de la CE se ocupa de el honor, la intimidad, el domicilio y las comunicaciones.",
     "origin_id": 401,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2570
   },
   {
-    "id": 2571,
+    "id": 2357,
     "question": "¿Qué materia regula el artículo 18 de la Constitución Española?",
     "answer": "el honor, la intimidad, el domicilio y las comunicaciones",
     "options": [
@@ -1410,10 +1760,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 18: el honor, la intimidad, el domicilio y las comunicaciones.",
     "origin_id": 402,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2571
   },
   {
-    "id": 2572,
+    "id": 2358,
     "question": "¿Qué artículo de la Constitución Española regula la libertad de residencia y circulación?",
     "answer": "Artículo 19",
     "options": [
@@ -1429,10 +1780,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 19 de la CE se ocupa de la libertad de residencia y circulación.",
     "origin_id": 403,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2572
   },
   {
-    "id": 2573,
+    "id": 2359,
     "question": "¿Qué materia regula el artículo 19 de la Constitución Española?",
     "answer": "la libertad de residencia y circulación",
     "options": [
@@ -1448,10 +1800,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 19: la libertad de residencia y circulación.",
     "origin_id": 404,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2573
   },
   {
-    "id": 2574,
+    "id": 2360,
     "question": "¿Qué artículo de la Constitución Española regula la libertad de expresión y de información?",
     "answer": "Artículo 20",
     "options": [
@@ -1467,10 +1820,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 20 de la CE se ocupa de la libertad de expresión y de información.",
     "origin_id": 405,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2574
   },
   {
-    "id": 2575,
+    "id": 2361,
     "question": "¿Qué materia regula el artículo 20 de la Constitución Española?",
     "answer": "la libertad de expresión y de información",
     "options": [
@@ -1486,10 +1840,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 20: la libertad de expresión y de información.",
     "origin_id": 406,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2575
   },
   {
-    "id": 2576,
+    "id": 2362,
     "question": "¿Qué artículo de la Constitución Española regula el derecho de reunión?",
     "answer": "Artículo 21",
     "options": [
@@ -1505,10 +1860,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 21 de la CE se ocupa de el derecho de reunión.",
     "origin_id": 407,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2576
   },
   {
-    "id": 2577,
+    "id": 2363,
     "question": "¿Qué materia regula el artículo 21 de la Constitución Española?",
     "answer": "el derecho de reunión",
     "options": [
@@ -1524,10 +1880,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 21: el derecho de reunión.",
     "origin_id": 408,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2577
   },
   {
-    "id": 2578,
+    "id": 2364,
     "question": "¿Qué artículo de la Constitución Española regula el derecho de asociación?",
     "answer": "Artículo 22",
     "options": [
@@ -1543,10 +1900,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 22 de la CE se ocupa de el derecho de asociación.",
     "origin_id": 409,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2578
   },
   {
-    "id": 2579,
+    "id": 2365,
     "question": "¿Qué materia regula el artículo 22 de la Constitución Española?",
     "answer": "el derecho de asociación",
     "options": [
@@ -1562,10 +1920,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 22: el derecho de asociación.",
     "origin_id": 410,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2579
   },
   {
-    "id": 2580,
+    "id": 2366,
     "question": "¿Qué artículo de la Constitución Española regula la participación política y el acceso a funciones públicas?",
     "answer": "Artículo 23",
     "options": [
@@ -1581,10 +1940,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 23 de la CE se ocupa de la participación política y el acceso a funciones públicas.",
     "origin_id": 411,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2580
   },
   {
-    "id": 2581,
+    "id": 2367,
     "question": "¿Qué materia regula el artículo 23 de la Constitución Española?",
     "answer": "la participación política y el acceso a funciones públicas",
     "options": [
@@ -1600,10 +1960,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 23: la participación política y el acceso a funciones públicas.",
     "origin_id": 412,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2581
   },
   {
-    "id": 2582,
+    "id": 2368,
     "question": "¿Qué artículo de la Constitución Española regula la tutela judicial efectiva?",
     "answer": "Artículo 24",
     "options": [
@@ -1619,10 +1980,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 24 de la CE se ocupa de la tutela judicial efectiva.",
     "origin_id": 413,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2582
   },
   {
-    "id": 2583,
+    "id": 2369,
     "question": "¿Qué materia regula el artículo 24 de la Constitución Española?",
     "answer": "la tutela judicial efectiva",
     "options": [
@@ -1638,10 +2000,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 24: la tutela judicial efectiva.",
     "origin_id": 414,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2583
   },
   {
-    "id": 2584,
+    "id": 2370,
     "question": "¿Qué artículo de la Constitución Española regula la legalidad penal y sancionadora?",
     "answer": "Artículo 25",
     "options": [
@@ -1657,10 +2020,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 25 de la CE se ocupa de la legalidad penal y sancionadora.",
     "origin_id": 415,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2584
   },
   {
-    "id": 2585,
+    "id": 2371,
     "question": "¿Qué materia regula el artículo 25 de la Constitución Española?",
     "answer": "la legalidad penal y sancionadora",
     "options": [
@@ -1676,10 +2040,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 25: la legalidad penal y sancionadora.",
     "origin_id": 416,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2585
   },
   {
-    "id": 2586,
+    "id": 2372,
     "question": "¿Qué artículo de la Constitución Española regula la prohibición de los tribunales de honor en la Administración civil y las organizaciones profesionales?",
     "answer": "Artículo 26",
     "options": [
@@ -1695,10 +2060,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 26 de la CE se ocupa de la prohibición de los tribunales de honor en la Administración civil y las organizaciones profesionales.",
     "origin_id": 417,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2586
   },
   {
-    "id": 2587,
+    "id": 2373,
     "question": "¿Qué materia regula el artículo 26 de la Constitución Española?",
     "answer": "la prohibición de los tribunales de honor en la Administración civil y las organizaciones profesionales",
     "options": [
@@ -1714,10 +2080,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 26: la prohibición de los tribunales de honor en la Administración civil y las organizaciones profesionales.",
     "origin_id": 418,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2587
   },
   {
-    "id": 2588,
+    "id": 2374,
     "question": "¿Qué artículo de la Constitución Española regula el derecho a la educación y la libertad de enseñanza?",
     "answer": "Artículo 27",
     "options": [
@@ -1733,10 +2100,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 27 de la CE se ocupa de el derecho a la educación y la libertad de enseñanza.",
     "origin_id": 419,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2588
   },
   {
-    "id": 2589,
+    "id": 2375,
     "question": "¿Qué materia regula el artículo 27 de la Constitución Española?",
     "answer": "el derecho a la educación y la libertad de enseñanza",
     "options": [
@@ -1752,10 +2120,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 27: el derecho a la educación y la libertad de enseñanza.",
     "origin_id": 420,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2589
   },
   {
-    "id": 2590,
+    "id": 2376,
     "question": "¿Qué artículo de la Constitución Española regula la libertad sindical y el derecho de huelga?",
     "answer": "Artículo 28",
     "options": [
@@ -1771,10 +2140,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 28 de la CE se ocupa de la libertad sindical y el derecho de huelga.",
     "origin_id": 421,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2590
   },
   {
-    "id": 2591,
+    "id": 2377,
     "question": "¿Qué materia regula el artículo 28 de la Constitución Española?",
     "answer": "la libertad sindical y el derecho de huelga",
     "options": [
@@ -1790,10 +2160,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 28: la libertad sindical y el derecho de huelga.",
     "origin_id": 422,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2591
   },
   {
-    "id": 2592,
+    "id": 2378,
     "question": "¿Qué artículo de la Constitución Española regula el derecho de petición?",
     "answer": "Artículo 29",
     "options": [
@@ -1809,10 +2180,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 29 de la CE se ocupa de el derecho de petición.",
     "origin_id": 423,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2592
   },
   {
-    "id": 2593,
+    "id": 2379,
     "question": "¿Qué materia regula el artículo 29 de la Constitución Española?",
     "answer": "el derecho de petición",
     "options": [
@@ -1828,10 +2200,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 29: el derecho de petición.",
     "origin_id": 424,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2593
   },
   {
-    "id": 2594,
+    "id": 2380,
     "question": "¿Qué artículo de la Constitución Española regula el derecho y deber de defender España y la objeción de conciencia?",
     "answer": "Artículo 30",
     "options": [
@@ -1847,10 +2220,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 30 de la CE se ocupa de el derecho y deber de defender España y la objeción de conciencia.",
     "origin_id": 425,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2594
   },
   {
-    "id": 2595,
+    "id": 2381,
     "question": "¿Qué materia regula el artículo 30 de la Constitución Española?",
     "answer": "el derecho y deber de defender España y la objeción de conciencia",
     "options": [
@@ -1866,10 +2240,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 30: el derecho y deber de defender España y la objeción de conciencia.",
     "origin_id": 426,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2595
   },
   {
-    "id": 2596,
+    "id": 2382,
     "question": "¿Qué artículo de la Constitución Española regula el sistema tributario y el deber de contribuir?",
     "answer": "Artículo 31",
     "options": [
@@ -1885,10 +2260,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 31 de la CE se ocupa de el sistema tributario y el deber de contribuir.",
     "origin_id": 427,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2596
   },
   {
-    "id": 2597,
+    "id": 2383,
     "question": "¿Qué materia regula el artículo 31 de la Constitución Española?",
     "answer": "el sistema tributario y el deber de contribuir",
     "options": [
@@ -1904,10 +2280,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 31: el sistema tributario y el deber de contribuir.",
     "origin_id": 428,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2597
   },
   {
-    "id": 2598,
+    "id": 2384,
     "question": "¿Qué artículo de la Constitución Española regula el derecho a contraer matrimonio?",
     "answer": "Artículo 32",
     "options": [
@@ -1923,10 +2300,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 32 de la CE se ocupa de el derecho a contraer matrimonio.",
     "origin_id": 429,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2598
   },
   {
-    "id": 2599,
+    "id": 2385,
     "question": "¿Qué materia regula el artículo 32 de la Constitución Española?",
     "answer": "el derecho a contraer matrimonio",
     "options": [
@@ -1942,10 +2320,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 32: el derecho a contraer matrimonio.",
     "origin_id": 430,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2599
   },
   {
-    "id": 2600,
+    "id": 2386,
     "question": "¿Qué artículo de la Constitución Española regula la propiedad privada, la herencia y la expropiación?",
     "answer": "Artículo 33",
     "options": [
@@ -1961,10 +2340,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 33 de la CE se ocupa de la propiedad privada, la herencia y la expropiación.",
     "origin_id": 431,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2600
   },
   {
-    "id": 2601,
+    "id": 2387,
     "question": "¿Qué materia regula el artículo 33 de la Constitución Española?",
     "answer": "la propiedad privada, la herencia y la expropiación",
     "options": [
@@ -1980,10 +2360,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 33: la propiedad privada, la herencia y la expropiación.",
     "origin_id": 432,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2601
   },
   {
-    "id": 2602,
+    "id": 2388,
     "question": "¿Qué artículo de la Constitución Española regula el derecho de fundación?",
     "answer": "Artículo 34",
     "options": [
@@ -1999,10 +2380,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 34 de la CE se ocupa de el derecho de fundación.",
     "origin_id": 433,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2602
   },
   {
-    "id": 2603,
+    "id": 2389,
     "question": "¿Qué materia regula el artículo 34 de la Constitución Española?",
     "answer": "el derecho de fundación",
     "options": [
@@ -2018,10 +2400,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 34: el derecho de fundación.",
     "origin_id": 434,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2603
   },
   {
-    "id": 2604,
+    "id": 2390,
     "question": "¿Qué artículo de la Constitución Española regula el derecho al trabajo y la remuneración suficiente?",
     "answer": "Artículo 35",
     "options": [
@@ -2037,10 +2420,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 35 de la CE se ocupa de el derecho al trabajo y la remuneración suficiente.",
     "origin_id": 435,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2604
   },
   {
-    "id": 2605,
+    "id": 2391,
     "question": "¿Qué materia regula el artículo 35 de la Constitución Española?",
     "answer": "el derecho al trabajo y la remuneración suficiente",
     "options": [
@@ -2056,10 +2440,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 35: el derecho al trabajo y la remuneración suficiente.",
     "origin_id": 436,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2605
   },
   {
-    "id": 2606,
+    "id": 2392,
     "question": "¿Qué artículo de la Constitución Española regula el régimen jurídico de los colegios profesionales?",
     "answer": "Artículo 36",
     "options": [
@@ -2075,10 +2460,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 36 de la CE se ocupa de el régimen jurídico de los colegios profesionales.",
     "origin_id": 437,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2606
   },
   {
-    "id": 2607,
+    "id": 2393,
     "question": "¿Qué materia regula el artículo 36 de la Constitución Española?",
     "answer": "el régimen jurídico de los colegios profesionales",
     "options": [
@@ -2094,10 +2480,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 36: el régimen jurídico de los colegios profesionales.",
     "origin_id": 438,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2607
   },
   {
-    "id": 2608,
+    "id": 2394,
     "question": "¿Qué artículo de la Constitución Española regula la negociación colectiva y el conflicto colectivo?",
     "answer": "Artículo 37",
     "options": [
@@ -2113,10 +2500,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 37 de la CE se ocupa de la negociación colectiva y el conflicto colectivo.",
     "origin_id": 439,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2608
   },
   {
-    "id": 2609,
+    "id": 2395,
     "question": "¿Qué materia regula el artículo 37 de la Constitución Española?",
     "answer": "la negociación colectiva y el conflicto colectivo",
     "options": [
@@ -2132,10 +2520,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 37: la negociación colectiva y el conflicto colectivo.",
     "origin_id": 440,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2609
   },
   {
-    "id": 2610,
+    "id": 2396,
     "question": "¿Qué artículo de la Constitución Española regula la libertad de empresa?",
     "answer": "Artículo 38",
     "options": [
@@ -2151,10 +2540,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 38 de la CE se ocupa de la libertad de empresa.",
     "origin_id": 441,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2610
   },
   {
-    "id": 2611,
+    "id": 2397,
     "question": "¿Qué materia regula el artículo 38 de la Constitución Española?",
     "answer": "la libertad de empresa",
     "options": [
@@ -2170,10 +2560,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 38: la libertad de empresa.",
     "origin_id": 442,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2611
   },
   {
-    "id": 2612,
+    "id": 2398,
     "question": "¿Qué artículo de la Constitución Española regula la protección social, económica y jurídica de la familia?",
     "answer": "Artículo 39",
     "options": [
@@ -2189,10 +2580,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 39 de la CE se ocupa de la protección social, económica y jurídica de la familia.",
     "origin_id": 443,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2612
   },
   {
-    "id": 2613,
+    "id": 2399,
     "question": "¿Qué materia regula el artículo 39 de la Constitución Española?",
     "answer": "la protección social, económica y jurídica de la familia",
     "options": [
@@ -2208,10 +2600,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 39: la protección social, económica y jurídica de la familia.",
     "origin_id": 444,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2613
   },
   {
-    "id": 2614,
+    "id": 2400,
     "question": "¿Qué artículo de la Constitución Española regula el progreso social y económico y la formación profesional?",
     "answer": "Artículo 40",
     "options": [
@@ -2227,10 +2620,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 40 de la CE se ocupa de el progreso social y económico y la formación profesional.",
     "origin_id": 445,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2614
   },
   {
-    "id": 2615,
+    "id": 2401,
     "question": "¿Qué materia regula el artículo 40 de la Constitución Española?",
     "answer": "el progreso social y económico y la formación profesional",
     "options": [
@@ -2246,10 +2640,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 40: el progreso social y económico y la formación profesional.",
     "origin_id": 446,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2615
   },
   {
-    "id": 2616,
+    "id": 2402,
     "question": "¿Qué artículo de la Constitución Española regula el régimen público de Seguridad Social?",
     "answer": "Artículo 41",
     "options": [
@@ -2265,10 +2660,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 41 de la CE se ocupa de el régimen público de Seguridad Social.",
     "origin_id": 447,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2616
   },
   {
-    "id": 2617,
+    "id": 2403,
     "question": "¿Qué materia regula el artículo 41 de la Constitución Española?",
     "answer": "el régimen público de Seguridad Social",
     "options": [
@@ -2284,10 +2680,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 41: el régimen público de Seguridad Social.",
     "origin_id": 448,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2617
   },
   {
-    "id": 2618,
+    "id": 2404,
     "question": "¿Qué artículo de la Constitución Española regula la protección de los trabajadores españoles en el extranjero?",
     "answer": "Artículo 42",
     "options": [
@@ -2303,10 +2700,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 42 de la CE se ocupa de la protección de los trabajadores españoles en el extranjero.",
     "origin_id": 449,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2618
   },
   {
-    "id": 2619,
+    "id": 2405,
     "question": "¿Qué materia regula el artículo 42 de la Constitución Española?",
     "answer": "la protección de los trabajadores españoles en el extranjero",
     "options": [
@@ -2322,10 +2720,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 42: la protección de los trabajadores españoles en el extranjero.",
     "origin_id": 450,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2619
   },
   {
-    "id": 2620,
+    "id": 2406,
     "question": "¿Qué artículo de la Constitución Española regula el derecho a la protección de la salud?",
     "answer": "Artículo 43",
     "options": [
@@ -2341,10 +2740,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 43 de la CE se ocupa de el derecho a la protección de la salud.",
     "origin_id": 451,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2620
   },
   {
-    "id": 2621,
+    "id": 2407,
     "question": "¿Qué materia regula el artículo 43 de la Constitución Española?",
     "answer": "el derecho a la protección de la salud",
     "options": [
@@ -2360,10 +2760,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 43: el derecho a la protección de la salud.",
     "origin_id": 452,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2621
   },
   {
-    "id": 2622,
+    "id": 2408,
     "question": "¿Qué artículo de la Constitución Española regula el acceso a la cultura y la promoción de la ciencia?",
     "answer": "Artículo 44",
     "options": [
@@ -2379,10 +2780,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 44 de la CE se ocupa de el acceso a la cultura y la promoción de la ciencia.",
     "origin_id": 453,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2622
   },
   {
-    "id": 2623,
+    "id": 2409,
     "question": "¿Qué materia regula el artículo 44 de la Constitución Española?",
     "answer": "el acceso a la cultura y la promoción de la ciencia",
     "options": [
@@ -2398,10 +2800,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 44: el acceso a la cultura y la promoción de la ciencia.",
     "origin_id": 454,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2623
   },
   {
-    "id": 2624,
+    "id": 2410,
     "question": "¿Qué artículo de la Constitución Española regula el derecho al medio ambiente y el deber de conservarlo?",
     "answer": "Artículo 45",
     "options": [
@@ -2417,10 +2820,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 45 de la CE se ocupa de el derecho al medio ambiente y el deber de conservarlo.",
     "origin_id": 455,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2624
   },
   {
-    "id": 2625,
+    "id": 2411,
     "question": "¿Qué materia regula el artículo 45 de la Constitución Española?",
     "answer": "el derecho al medio ambiente y el deber de conservarlo",
     "options": [
@@ -2436,10 +2840,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 45: el derecho al medio ambiente y el deber de conservarlo.",
     "origin_id": 456,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2625
   },
   {
-    "id": 2626,
+    "id": 2412,
     "question": "¿Qué artículo de la Constitución Española regula la conservación del patrimonio histórico, cultural y artístico?",
     "answer": "Artículo 46",
     "options": [
@@ -2455,10 +2860,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 46 de la CE se ocupa de la conservación del patrimonio histórico, cultural y artístico.",
     "origin_id": 457,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2626
   },
   {
-    "id": 2627,
+    "id": 2413,
     "question": "¿Qué materia regula el artículo 46 de la Constitución Española?",
     "answer": "la conservación del patrimonio histórico, cultural y artístico",
     "options": [
@@ -2474,10 +2880,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 46: la conservación del patrimonio histórico, cultural y artístico.",
     "origin_id": 458,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2627
   },
   {
-    "id": 2628,
+    "id": 2414,
     "question": "¿Qué artículo de la Constitución Española regula el derecho a disfrutar de una vivienda digna y adecuada?",
     "answer": "Artículo 47",
     "options": [
@@ -2493,10 +2900,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 47 de la CE se ocupa de el derecho a disfrutar de una vivienda digna y adecuada.",
     "origin_id": 459,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2628
   },
   {
-    "id": 2629,
+    "id": 2415,
     "question": "¿Qué materia regula el artículo 47 de la Constitución Española?",
     "answer": "el derecho a disfrutar de una vivienda digna y adecuada",
     "options": [
@@ -2512,10 +2920,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 47: el derecho a disfrutar de una vivienda digna y adecuada.",
     "origin_id": 460,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2629
   },
   {
-    "id": 2630,
+    "id": 2416,
     "question": "¿Qué artículo de la Constitución Española regula la participación libre y eficaz de la juventud?",
     "answer": "Artículo 48",
     "options": [
@@ -2531,10 +2940,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 48 de la CE se ocupa de la participación libre y eficaz de la juventud.",
     "origin_id": 461,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2630
   },
   {
-    "id": 2631,
+    "id": 2417,
     "question": "¿Qué materia regula el artículo 48 de la Constitución Española?",
     "answer": "la participación libre y eficaz de la juventud",
     "options": [
@@ -2550,10 +2960,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 48: la participación libre y eficaz de la juventud.",
     "origin_id": 462,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2631
   },
   {
-    "id": 2632,
+    "id": 2418,
     "question": "¿Qué artículo de la Constitución Española regula los derechos de las personas con discapacidad?",
     "answer": "Artículo 49",
     "options": [
@@ -2569,10 +2980,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 49 de la CE se ocupa de los derechos de las personas con discapacidad.",
     "origin_id": 463,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2632
   },
   {
-    "id": 2633,
+    "id": 2419,
     "question": "¿Qué materia regula el artículo 49 de la Constitución Española?",
     "answer": "los derechos de las personas con discapacidad",
     "options": [
@@ -2588,10 +3000,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 49: los derechos de las personas con discapacidad.",
     "origin_id": 464,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2633
   },
   {
-    "id": 2634,
+    "id": 2420,
     "question": "¿Qué artículo de la Constitución Española regula las pensiones y el bienestar de las personas mayores?",
     "answer": "Artículo 50",
     "options": [
@@ -2607,10 +3020,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 50 de la CE se ocupa de las pensiones y el bienestar de las personas mayores.",
     "origin_id": 465,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2634
   },
   {
-    "id": 2635,
+    "id": 2421,
     "question": "¿Qué materia regula el artículo 50 de la Constitución Española?",
     "answer": "las pensiones y el bienestar de las personas mayores",
     "options": [
@@ -2626,10 +3040,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 50: las pensiones y el bienestar de las personas mayores.",
     "origin_id": 466,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2635
   },
   {
-    "id": 2636,
+    "id": 2422,
     "question": "¿Qué artículo de la Constitución Española regula la defensa de consumidores y usuarios?",
     "answer": "Artículo 51",
     "options": [
@@ -2645,10 +3060,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 51 de la CE se ocupa de la defensa de consumidores y usuarios.",
     "origin_id": 467,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2636
   },
   {
-    "id": 2637,
+    "id": 2423,
     "question": "¿Qué materia regula el artículo 51 de la Constitución Española?",
     "answer": "la defensa de consumidores y usuarios",
     "options": [
@@ -2664,10 +3080,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 51: la defensa de consumidores y usuarios.",
     "origin_id": 468,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2637
   },
   {
-    "id": 2638,
+    "id": 2424,
     "question": "¿Qué artículo de la Constitución Española regula las organizaciones profesionales que defienden intereses económicos?",
     "answer": "Artículo 52",
     "options": [
@@ -2683,10 +3100,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 52 de la CE se ocupa de las organizaciones profesionales que defienden intereses económicos.",
     "origin_id": 469,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2638
   },
   {
-    "id": 2639,
+    "id": 2425,
     "question": "¿Qué materia regula el artículo 52 de la Constitución Española?",
     "answer": "las organizaciones profesionales que defienden intereses económicos",
     "options": [
@@ -2702,10 +3120,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 52: las organizaciones profesionales que defienden intereses económicos.",
     "origin_id": 470,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2639
   },
   {
-    "id": 2640,
+    "id": 2426,
     "question": "¿Qué artículo de la Constitución Española regula las garantías de los derechos y libertades?",
     "answer": "Artículo 53",
     "options": [
@@ -2721,10 +3140,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 53 de la CE se ocupa de las garantías de los derechos y libertades.",
     "origin_id": 471,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2640
   },
   {
-    "id": 2641,
+    "id": 2427,
     "question": "¿Qué materia regula el artículo 53 de la Constitución Española?",
     "answer": "las garantías de los derechos y libertades",
     "options": [
@@ -2740,10 +3160,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 53: las garantías de los derechos y libertades.",
     "origin_id": 472,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2641
   },
   {
-    "id": 2642,
+    "id": 2428,
     "question": "¿Qué artículo de la Constitución Española regula la institución del Defensor del Pueblo?",
     "answer": "Artículo 54",
     "options": [
@@ -2759,10 +3180,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 54 de la CE se ocupa de la institución del Defensor del Pueblo.",
     "origin_id": 473,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2642
   },
   {
-    "id": 2643,
+    "id": 2429,
     "question": "¿Qué materia regula el artículo 54 de la Constitución Española?",
     "answer": "la institución del Defensor del Pueblo",
     "options": [
@@ -2778,10 +3200,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 54: la institución del Defensor del Pueblo.",
     "origin_id": 474,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2643
   },
   {
-    "id": 2644,
+    "id": 2430,
     "question": "¿Qué artículo de la Constitución Española regula la suspensión de derechos y libertades?",
     "answer": "Artículo 55",
     "options": [
@@ -2797,10 +3220,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "El artículo 55 de la CE se ocupa de la suspensión de derechos y libertades.",
     "origin_id": 475,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2644
   },
   {
-    "id": 2645,
+    "id": 2431,
     "question": "¿Qué materia regula el artículo 55 de la Constitución Española?",
     "answer": "la suspensión de derechos y libertades",
     "options": [
@@ -2816,10 +3240,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "Materia principal del artículo 55: la suspensión de derechos y libertades.",
     "origin_id": 476,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2645
   },
   {
-    "id": 2646,
+    "id": 2432,
     "question": "Completa el inicio del artículo 14 CE: «Los españoles son ...»",
     "answer": "iguales ante la ley",
     "options": [
@@ -2835,10 +3260,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "La opción correcta coincide con la formulación del artículo 14 CE.",
     "origin_id": 814,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2646
   },
   {
-    "id": 2647,
+    "id": 2433,
     "question": "¿Con qué expresión finaliza la primera frase del artículo 27.1 CE?",
     "answer": "el derecho a la educación",
     "options": [
@@ -2854,10 +3280,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "La opción correcta coincide con la formulación del artículo 27.1 CE.",
     "origin_id": 815,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2647
   },
   {
-    "id": 2648,
+    "id": 2434,
     "question": "Completa la segunda frase del artículo 27.1 CE: «Se reconoce la ...»",
     "answer": "libertad de enseñanza",
     "options": [
@@ -2873,10 +3300,11 @@
     "source": "BOE-A-1978-31229 · Texto consolidado 20/05/2026",
     "explanation": "La opción correcta coincide con la formulación del artículo 27.1 CE.",
     "origin_id": 816,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2648
   },
   {
-    "id": 2649,
+    "id": 2435,
     "category": "Organización del Estado",
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "reference": "CE art. 53.2",
@@ -2892,10 +3320,11 @@
     "difficulty": 3,
     "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)",
     "origin_id": 849,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2649
   },
   {
-    "id": 2650,
+    "id": 2436,
     "category": "Organización del Estado",
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "reference": "CE art. 53.3",
@@ -2911,10 +3340,11 @@
     "difficulty": 3,
     "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)",
     "origin_id": 850,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2650
   },
   {
-    "id": 2651,
+    "id": 2437,
     "category": "Organización del Estado",
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "reference": "CE art. 55.1",
@@ -2930,6 +3360,133 @@
     "difficulty": 3,
     "source": "BOE-A-1978-31229 · CE (texto consolidado 20/05/2026)",
     "origin_id": 851,
-    "origin": "pregunta preexistente"
+    "origin": "pregunta preexistente",
+    "previous_id": 2651
+  },
+  {
+    "id": 2497,
+    "question": "En el procedimiento especial de tutela de derechos fundamentales de la LJCA, ¿qué plazo rige para interponer recurso?",
+    "answer": "10 días",
+    "options": [
+      "10 días",
+      "8 días",
+      "15 días",
+      "20 días"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "reference": "CEF T2 §2.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2498,
+    "question": "En el procedimiento especial de derechos fundamentales de la LJCA, ¿en qué plazo máximo debe remitirse el expediente administrativo?",
+    "answer": "5 días",
+    "options": [
+      "5 días",
+      "8 días",
+      "10 días",
+      "15 días"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "reference": "CEF T2 §2.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2499,
+    "question": "En el procedimiento especial de la LJCA, ¿qué plazo se concede para formalizar la demanda?",
+    "answer": "8 días",
+    "options": [
+      "8 días",
+      "5 días",
+      "10 días",
+      "15 días"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "reference": "CEF T2 §2.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2500,
+    "question": "En el procedimiento especial de derechos fundamentales de la LJCA, ¿cuál es la duración máxima del trámite de prueba?",
+    "answer": "20 días",
+    "options": [
+      "20 días",
+      "10 días",
+      "15 días",
+      "30 días"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "reference": "CEF T2 §2.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2501,
+    "question": "¿Qué ley regula la jurisdicción social y la tutela laboral de derechos fundamentales?",
+    "answer": "Ley 36/2011",
+    "options": [
+      "Ley 36/2011",
+      "Ley 29/1998",
+      "Ley 1/2000",
+      "Ley 6/1984"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "reference": "CEF T2 §2.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2502,
+    "question": "¿Qué ley regula el procedimiento especial contencioso-administrativo de tutela de derechos fundamentales?",
+    "answer": "Ley 29/1998",
+    "options": [
+      "Ley 29/1998",
+      "Ley 36/2011",
+      "Ley 1/2000",
+      "Ley 39/2015"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "reference": "CEF T2 §2.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2503,
+    "question": "¿Qué estados de excepción constitucional permiten la suspensión general de derechos del artículo 55.1?",
+    "answer": "Excepción y sitio",
+    "options": [
+      "Excepción y sitio",
+      "Alarma y excepción",
+      "Alarma y sitio",
+      "Alarma, excepción y sitio"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "reference": "CEF T2 §2.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
   }
 ]
