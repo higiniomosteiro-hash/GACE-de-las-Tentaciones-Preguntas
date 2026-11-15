@@ -3599,20 +3599,20 @@
   },
   {
     "id": 2457,
-    "question": "¿Qué artículo constitucional regula la composición del TC?",
-    "answer": "Artículo 159",
+    "question": "¿Qué norma de organización interna del Tribunal Constitucional cita el CEF como aprobada el 5 de julio de 1990?",
+    "answer": "Reglamento de Organización y Personal del Tribunal Constitucional",
     "options": [
-      "Artículo 160",
-      "Artículo 158",
-      "Artículo 159",
-      "Artículo 161"
+      "Reglamento de Organización y Personal del Tribunal Constitucional",
+      "Reglamento Orgánico del Consejo General del Poder Judicial",
+      "Reglamento de Procedimientos de las Cortes Generales",
+      "Reglamento de Relaciones con el Defensor del Pueblo"
     ],
-    "reference": "CE 159",
+    "reference": "CEF T3 §1.1",
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "difficulty": 2,
-    "source": "CEF Organización del Estado, tema 3 (noviembre 2026); CE 159",
-    "origin": "nueva pregunta específica",
+    "source": "CEF Organización del Estado, Tema 3, material aportado",
+    "origin": "corrección de duplicado",
     "previous_id": 2818
   },
   {
