@@ -50,10 +50,10 @@
     "question": "¿En qué fecha se aprobó la Ley Orgánica del Tribunal Constitucional?",
     "answer": "3 de octubre de 1979",
     "options": [
-      "6 de diciembre de 1978",
-      "3 de octubre de 1981",
+      "2 de octubre de 1979",
+      "4 de octubre de 1979",
       "3 de octubre de 1979",
-      "24 de mayo de 2007"
+      "3 de octubre de 1980"
     ],
     "reference": "LOTC",
     "category": "Tribunal Constitucional",
@@ -2099,9 +2099,9 @@
     "question": "¿En qué fecha se firmó el Tratado de París (CECA)?",
     "answer": "18-04-1951",
     "options": [
-      "22-04-1970",
-      "07-02-1992",
-      "25-03-1957",
+      "18-04-1952",
+      "17-04-1951",
+      "19-04-1951",
       "18-04-1951"
     ],
     "reference": "CECA",
@@ -2116,9 +2116,9 @@
     "question": "¿Cuándo entró en vigor el Tratado de París (CECA)?",
     "answer": "23-07-1952",
     "options": [
-      "01-01-1971",
-      "01-11-1993",
-      "01-01-1958",
+      "23-07-1953",
+      "22-07-1952",
+      "24-07-1952",
       "23-07-1952"
     ],
     "reference": "CECA",
@@ -2134,9 +2134,9 @@
     "answer": "25-03-1957",
     "options": [
       "25-03-1957",
-      "08-04-1965",
-      "02-10-1997",
-      "22-07-1975"
+      "24-03-1957",
+      "26-03-1957",
+      "25-03-1958"
     ],
     "reference": "CEE y Euratom",
     "category": "Unión Europea",
@@ -2150,9 +2150,9 @@
     "question": "¿Cuándo entraron en vigor los Tratados de Roma (CEE y Euratom)?",
     "answer": "01-01-1958",
     "options": [
-      "01-05-1999",
-      "01-06-1977",
-      "01-07-1967",
+      "02-01-1958",
+      "01-01-1959",
+      "01-01-1957",
       "01-01-1958"
     ],
     "reference": "CEE y Euratom",
@@ -2167,10 +2167,10 @@
     "question": "¿En qué fecha se firmó el Tratado de Fusión de Ejecutivos?",
     "answer": "08-04-1965",
     "options": [
-      "17-02-1986",
-      "26-02-2001",
+      "08-04-1966",
+      "07-04-1965",
       "08-04-1965",
-      "22-04-1970"
+      "09-04-1965"
     ],
     "reference": "Fusión de Ejecutivos",
     "category": "Unión Europea",
@@ -2184,10 +2184,10 @@
     "question": "¿Cuándo entró en vigor el Tratado de Fusión de Ejecutivos?",
     "answer": "01-07-1967",
     "options": [
-      "01-07-1987",
+      "01-07-1966",
       "01-07-1967",
-      "01-02-2003",
-      "01-01-1971"
+      "02-07-1967",
+      "01-07-1968"
     ],
     "reference": "Fusión de Ejecutivos",
     "category": "Unión Europea",
@@ -2201,10 +2201,10 @@
     "question": "¿En qué fecha se firmó el Tratado presupuestario de Luxemburgo?",
     "answer": "22-04-1970",
     "options": [
-      "13-12-2007",
-      "22-07-1975",
+      "23-04-1970",
+      "22-04-1971",
       "22-04-1970",
-      "07-02-1992"
+      "21-04-1970"
     ],
     "reference": "Presupuesto",
     "category": "Unión Europea",
@@ -2219,9 +2219,9 @@
     "answer": "01-01-1971",
     "options": [
       "01-01-1971",
-      "01-11-1993",
-      "01-12-2009",
-      "01-06-1977"
+      "01-01-1970",
+      "02-01-1971",
+      "01-01-1972"
     ],
     "reference": "Presupuesto",
     "category": "Unión Europea",
@@ -2235,10 +2235,10 @@
     "question": "¿En qué fecha se firmó el Tratado presupuestario de Bruselas?",
     "answer": "22-07-1975",
     "options": [
-      "18-04-1951",
+      "21-07-1975",
       "22-07-1975",
-      "02-10-1997",
-      "17-02-1986"
+      "23-07-1975",
+      "22-07-1976"
     ],
     "reference": "Presupuesto",
     "category": "Unión Europea",
@@ -2252,10 +2252,10 @@
     "question": "¿Cuándo entró en vigor el Tratado presupuestario de Bruselas?",
     "answer": "01-06-1977",
     "options": [
-      "01-05-1999",
-      "23-07-1952",
+      "01-06-1976",
+      "02-06-1977",
       "01-06-1977",
-      "01-07-1987"
+      "01-06-1978"
     ],
     "reference": "Presupuesto",
     "category": "Unión Europea",
@@ -2269,9 +2269,9 @@
     "question": "¿Cuándo se firmó por primera vez el Acta Única Europea?",
     "answer": "17-02-1986",
     "options": [
-      "26-02-2001",
-      "25-03-1957",
-      "07-02-1992",
+      "17-02-1987",
+      "16-02-1986",
+      "18-02-1986",
       "17-02-1986"
     ],
     "reference": "Acta Única",
@@ -2287,9 +2287,9 @@
     "answer": "01-07-1987",
     "options": [
       "01-07-1987",
-      "01-02-2003",
-      "01-11-1993",
-      "01-01-1958"
+      "02-07-1987",
+      "01-07-1988",
+      "01-07-1986"
     ],
     "reference": "Acta Única",
     "category": "Unión Europea",
@@ -2303,10 +2303,10 @@
     "question": "¿En qué fecha se firmó el Tratado de Maastricht?",
     "answer": "07-02-1992",
     "options": [
-      "13-12-2007",
+      "06-02-1992",
       "07-02-1992",
-      "02-10-1997",
-      "08-04-1965"
+      "08-02-1992",
+      "07-02-1993"
     ],
     "reference": "TUE y Maastricht",
     "category": "Unión Europea",
@@ -2321,9 +2321,9 @@
     "answer": "01-11-1993",
     "options": [
       "01-11-1993",
-      "01-12-2009",
-      "01-05-1999",
-      "01-07-1967"
+      "02-11-1993",
+      "01-11-1994",
+      "01-11-1992"
     ],
     "reference": "TUE y Maastricht",
     "category": "Unión Europea",
@@ -2337,10 +2337,10 @@
     "question": "¿En qué fecha se firmó el Tratado de Ámsterdam?",
     "answer": "02-10-1997",
     "options": [
-      "22-04-1970",
-      "26-02-2001",
+      "03-10-1997",
+      "02-10-1998",
       "02-10-1997",
-      "18-04-1951"
+      "01-10-1997"
     ],
     "reference": "Ámsterdam",
     "category": "Unión Europea",
@@ -2354,9 +2354,9 @@
     "question": "¿Cuándo entró en vigor el Tratado de Ámsterdam?",
     "answer": "01-05-1999",
     "options": [
-      "01-01-1971",
-      "23-07-1952",
-      "01-02-2003",
+      "02-05-1999",
+      "01-05-2000",
+      "01-05-1998",
       "01-05-1999"
     ],
     "reference": "Ámsterdam",
@@ -2371,9 +2371,9 @@
     "question": "¿En qué fecha se firmó el Tratado de Niza?",
     "answer": "26-02-2001",
     "options": [
-      "25-03-1957",
-      "13-12-2007",
-      "22-07-1975",
+      "25-02-2001",
+      "27-02-2001",
+      "26-02-2002",
       "26-02-2001"
     ],
     "reference": "Niza",
@@ -2388,9 +2388,9 @@
     "question": "¿Cuándo entró en vigor el Tratado de Niza?",
     "answer": "01-02-2003",
     "options": [
-      "01-06-1977",
-      "01-01-1958",
-      "01-12-2009",
+      "02-02-2003",
+      "01-02-2004",
+      "01-02-2002",
       "01-02-2003"
     ],
     "reference": "Niza",
@@ -2405,10 +2405,10 @@
     "question": "¿En qué fecha se firmó el Tratado de Lisboa?",
     "answer": "13-12-2007",
     "options": [
-      "18-04-1951",
-      "17-02-1986",
+      "12-12-2007",
+      "14-12-2007",
       "13-12-2007",
-      "08-04-1965"
+      "13-12-2008"
     ],
     "reference": "Lisboa",
     "category": "Unión Europea",
@@ -2422,10 +2422,10 @@
     "question": "¿Cuándo entró en vigor el Tratado de Lisboa?",
     "answer": "01-12-2009",
     "options": [
-      "01-07-1967",
+      "01-12-2008",
       "01-12-2009",
-      "01-07-1987",
-      "23-07-1952"
+      "02-12-2009",
+      "01-12-2010"
     ],
     "reference": "Lisboa",
     "category": "Unión Europea",
@@ -2542,9 +2542,9 @@
     "answer": "09-05-1950",
     "options": [
       "09-05-1950",
-      "09-05-1949",
-      "18-04-1951",
-      "25-03-1957"
+      "08-05-1950",
+      "10-05-1950",
+      "09-05-1951"
     ],
     "reference": "Declaración Schuman",
     "category": "Unión Europea",
@@ -2609,9 +2609,9 @@
     "question": "¿En qué fecha expiró el Tratado CECA?",
     "answer": "23-07-2002",
     "options": [
-      "01-01-2003",
-      "01-12-2009",
-      "23-07-1992",
+      "23-07-2003",
+      "22-07-2002",
+      "24-07-2002",
       "23-07-2002"
     ],
     "reference": "Tratado CECA",
@@ -2626,9 +2626,9 @@
     "question": "¿En qué fecha se adoptó el Acta electoral del Parlamento Europeo?",
     "answer": "20-09-1976",
     "options": [
-      "01-06-1977",
-      "07-02-1992",
-      "22-07-1975",
+      "20-09-1977",
+      "19-09-1976",
+      "21-09-1976",
       "20-09-1976"
     ],
     "reference": "Elecciones europeas",
@@ -2643,10 +2643,10 @@
     "question": "¿En qué fecha se firmó el proyecto de Constitución Europea que nunca entró en vigor?",
     "answer": "29-10-2004",
     "options": [
-      "26-02-2001",
-      "01-11-2006",
+      "29-10-2005",
+      "29-10-2003",
       "29-10-2004",
-      "13-12-2007"
+      "28-10-2004"
     ],
     "reference": "Constitución europea fallida",
     "category": "Unión Europea",
@@ -2745,9 +2745,9 @@
     "question": "¿En qué fecha concreta empezó a aplicarse la doble mayoría cualificada?",
     "answer": "01-11-2014",
     "options": [
-      "01-01-2014",
-      "01-05-2004",
-      "01-12-2009",
+      "01-11-2013",
+      "02-11-2014",
+      "01-11-2015",
       "01-11-2014"
     ],
     "reference": "Mayoría cualificada",
@@ -4411,9 +4411,9 @@
     "question": "¿En qué fecha notificó el Reino Unido su intención de salir de la UE?",
     "answer": "29-03-2017",
     "options": [
-      "24-01-2020",
-      "01-02-2020",
-      "31-12-2020",
+      "28-03-2017",
+      "29-03-2018",
+      "29-03-2016",
       "29-03-2017"
     ],
     "reference": "Brexit",
@@ -4428,10 +4428,10 @@
     "question": "¿En qué fecha se firmó por la UE el acuerdo de retirada del Reino Unido?",
     "answer": "24-01-2020",
     "options": [
-      "31-12-2020",
+      "23-01-2020",
       "24-01-2020",
-      "01-02-2020",
-      "29-03-2017"
+      "25-01-2020",
+      "24-01-2021"
     ],
     "reference": "Brexit",
     "category": "Unión Europea",
@@ -4446,9 +4446,9 @@
     "answer": "01-02-2020",
     "options": [
       "01-02-2020",
-      "31-12-2020",
-      "24-01-2020",
-      "29-03-2017"
+      "02-02-2020",
+      "01-02-2021",
+      "01-02-2019"
     ],
     "reference": "Brexit",
     "category": "Unión Europea",
@@ -4547,9 +4547,9 @@
     "question": "¿Cuándo tuvo lugar la primera ampliación de las Comunidades/UE?",
     "answer": "01-01-1973",
     "options": [
-      "01-01-1995",
-      "01-01-1986",
-      "01-01-1981",
+      "02-01-1973",
+      "01-01-1974",
+      "01-01-1972",
       "01-01-1973"
     ],
     "reference": "Ampliación primera",
@@ -4615,10 +4615,10 @@
     "question": "¿Cuándo se firmó el tratado de adhesión de la primera ampliación?",
     "answer": "22-01-1972",
     "options": [
-      "24-06-1994",
-      "28-05-1979",
+      "23-01-1972",
+      "22-01-1973",
       "22-01-1972",
-      "12-06-1985"
+      "21-01-1972"
     ],
     "reference": "Ampliación primera",
     "category": "Unión Europea",
@@ -4632,10 +4632,10 @@
     "question": "¿Cuándo tuvo lugar la segunda ampliación de las Comunidades/UE?",
     "answer": "01-01-1981",
     "options": [
-      "01-01-1995",
+      "02-01-1981",
       "01-01-1981",
-      "01-01-1986",
-      "01-01-1973"
+      "01-01-1982",
+      "01-01-1980"
     ],
     "reference": "Ampliación segunda",
     "category": "Unión Europea",
@@ -4700,9 +4700,9 @@
     "question": "¿Cuándo se firmó el tratado de adhesión de la segunda ampliación?",
     "answer": "28-05-1979",
     "options": [
-      "22-01-1972",
-      "12-06-1985",
-      "24-06-1994",
+      "27-05-1979",
+      "28-05-1980",
+      "28-05-1978",
       "28-05-1979"
     ],
     "reference": "Ampliación segunda",
@@ -4717,10 +4717,10 @@
     "question": "¿Cuándo tuvo lugar la tercera ampliación de las Comunidades/UE?",
     "answer": "01-01-1986",
     "options": [
-      "01-01-1995",
+      "01-01-1987",
       "01-01-1986",
-      "01-01-1973",
-      "01-01-1981"
+      "01-01-1985",
+      "02-01-1986"
     ],
     "reference": "Ampliación tercera",
     "category": "Unión Europea",
@@ -4785,10 +4785,10 @@
     "question": "¿Cuándo se firmó el tratado de adhesión de la tercera ampliación?",
     "answer": "12-06-1985",
     "options": [
-      "28-05-1979",
-      "22-01-1972",
+      "11-06-1985",
+      "13-06-1985",
       "12-06-1985",
-      "24-06-1994"
+      "12-06-1986"
     ],
     "reference": "Ampliación tercera",
     "category": "Unión Europea",
@@ -4802,10 +4802,10 @@
     "question": "¿Cuándo tuvo lugar la cuarta ampliación de las Comunidades/UE?",
     "answer": "01-01-1995",
     "options": [
-      "01-01-1986",
+      "02-01-1995",
       "01-01-1995",
-      "01-01-1981",
-      "01-01-1973"
+      "01-01-1996",
+      "01-01-1994"
     ],
     "reference": "Ampliación cuarta",
     "category": "Unión Europea",
@@ -4870,9 +4870,9 @@
     "question": "¿Cuándo se firmó el tratado de adhesión de la cuarta ampliación?",
     "answer": "24-06-1994",
     "options": [
-      "22-01-1972",
-      "12-06-1985",
-      "28-05-1979",
+      "23-06-1994",
+      "25-06-1994",
+      "24-06-1995",
       "24-06-1994"
     ],
     "reference": "Ampliación cuarta",
@@ -4888,9 +4888,9 @@
     "answer": "01-05-2004",
     "options": [
       "01-05-2004",
-      "01-01-1973",
-      "01-01-1981",
-      "01-01-1986"
+      "02-05-2004",
+      "01-05-2005",
+      "01-05-2003"
     ],
     "reference": "Ampliación quinta",
     "category": "Unión Europea",
@@ -4955,10 +4955,10 @@
     "question": "¿Cuándo se firmó el tratado de adhesión de la quinta ampliación?",
     "answer": "16-04-2003",
     "options": [
-      "22-01-1972",
-      "28-05-1979",
+      "15-04-2003",
+      "17-04-2003",
       "16-04-2003",
-      "12-06-1985"
+      "16-04-2004"
     ],
     "reference": "Ampliación quinta",
     "category": "Unión Europea",
@@ -4972,9 +4972,9 @@
     "question": "¿Cuándo tuvo lugar la sexta ampliación de las Comunidades/UE?",
     "answer": "01-01-2007",
     "options": [
-      "01-01-1981",
-      "01-01-1973",
-      "01-01-1986",
+      "02-01-2007",
+      "01-01-2008",
+      "01-01-2006",
       "01-01-2007"
     ],
     "reference": "Ampliación sexta",
@@ -5040,9 +5040,9 @@
     "question": "¿Cuándo se firmó el tratado de adhesión de la sexta ampliación?",
     "answer": "25-04-2005",
     "options": [
-      "12-06-1985",
-      "22-01-1972",
-      "28-05-1979",
+      "26-04-2005",
+      "25-04-2006",
+      "24-04-2005",
       "25-04-2005"
     ],
     "reference": "Ampliación sexta",
@@ -5057,9 +5057,9 @@
     "question": "¿Cuándo tuvo lugar la séptima ampliación de las Comunidades/UE?",
     "answer": "01-07-2013",
     "options": [
-      "01-01-1973",
-      "01-01-1981",
-      "01-01-1986",
+      "02-07-2013",
+      "01-07-2014",
+      "01-07-2012",
       "01-07-2013"
     ],
     "reference": "Ampliación séptima",
@@ -5125,10 +5125,10 @@
     "question": "¿Cuándo se firmó el tratado de adhesión de la séptima ampliación?",
     "answer": "09-12-2011",
     "options": [
-      "22-01-1972",
+      "08-12-2011",
       "09-12-2011",
-      "12-06-1985",
-      "28-05-1979"
+      "10-12-2011",
+      "09-12-2012"
     ],
     "reference": "Ampliación séptima",
     "category": "Unión Europea",
@@ -5857,9 +5857,9 @@
     "answer": "20-12-2010",
     "options": [
       "20-12-2010",
-      "01-12-2009",
-      "10-03-2011",
-      "12-10-2017"
+      "21-12-2010",
+      "20-12-2011",
+      "19-12-2010"
     ],
     "reference": "Cooperación reforzada",
     "category": "Unión Europea",
@@ -5873,10 +5873,10 @@
     "question": "¿En qué fecha se adoptó la decisión sobre patente unitaria mencionada en el resumen?",
     "answer": "10-03-2011",
     "options": [
-      "01-02-2020",
+      "09-03-2011",
       "10-03-2011",
-      "12-10-2017",
-      "20-12-2010"
+      "11-03-2011",
+      "10-03-2012"
     ],
     "reference": "Cooperación reforzada",
     "category": "Unión Europea",
@@ -5924,10 +5924,10 @@
     "question": "Según el resumen, ¿cuándo se adoptó el Reglamento que crea la Fiscalía Europea?",
     "answer": "12-10-2017",
     "options": [
-      "20-12-2010",
+      "11-10-2017",
       "12-10-2017",
-      "10-03-2011",
-      "13-12-2007"
+      "13-10-2017",
+      "12-10-2018"
     ],
     "reference": "Cooperación reforzada",
     "category": "Unión Europea",
@@ -12830,9 +12830,9 @@
     "answer": "Potestad legislativa en sus ámbitos competenciales",
     "options": [
       "Potestad legislativa en sus ámbitos competenciales",
-      "Potestad constituyente originaria",
-      "Potestad para reformar la CE unilateralmente",
-      "Solo potestad de dictar instrucciones internas"
+      "Potestad normativa autonómica limitada en todo caso a normas reglamentarias",
+      "Potestad legislativa autonómica solo mediante delegación de las Cortes Generales",
+      "Potestad para aprobar leyes estatales en materias de competencia compartida"
     ],
     "reference": "CE 152-153; CEF Tema 1",
     "category": "Derecho Administrativo · Fuentes",
@@ -12973,10 +12973,10 @@
     "question": "Un ministerio intenta modificar mediante orden ministerial un real decreto del Gobierno. ¿Cuál es la regla general?",
     "answer": "No puede hacerlo por su inferior rango reglamentario",
     "options": [
-      "La orden tiene fuerza de ley cuando la firma el ministro",
+      "Sí, si la orden desarrolla una habilitación contenida en la Ley 40/2015",
       "No puede hacerlo por su inferior rango reglamentario",
-      "Puede hacerlo libremente por ser una norma más reciente",
-      "La orden prevalece siempre que se publique en el BOE"
+      "Sí, si el ministerio firmante impulsó previamente ese real decreto",
+      "Sí, si la orden regula una materia no reservada a ley"
     ],
     "reference": "CEF Tema 1, 1.3.2",
     "category": "Derecho Administrativo · Fuentes",
@@ -12991,10 +12991,10 @@
     "question": "¿Qué es una ley en sentido formal?",
     "answer": "Norma emanada del órgano titular de la potestad legislativa",
     "options": [
-      "Cualquier práctica reiterada y probada",
+      "Norma dictada por el Gobierno en ejercicio de delegación legislativa",
       "Norma emanada del órgano titular de la potestad legislativa",
-      "Toda resolución judicial",
-      "Una orden de un ministerio"
+      "Norma dictada por el Gobierno al amparo de la potestad reglamentaria",
+      "Norma con fuerza de ley adoptada por el ejecutivo por extraordinaria urgencia"
     ],
     "reference": "CEF Tema 2, 1",
     "category": "Derecho Administrativo · La ley",
@@ -13928,9 +13928,9 @@
     "answer": "Jerarquía normativa y congelación del rango de la regulación legal",
     "options": [
       "Jerarquía normativa y congelación del rango de la regulación legal",
-      "La prioridad del reglamento más reciente",
-      "La competencia exclusiva del Consejo de Estado",
-      "El procedimiento agravado de reforma constitucional"
+      "La simple preferencia de los reglamentos posteriores frente a todas las leyes anteriores",
+      "La libertad del Gobierno para modificar leyes ordinarias cuando no se reserve la materia a ley",
+      "La prioridad de las disposiciones reglamentarias que se dicten en desarrollo de una ley"
     ],
     "reference": "CEF Tema 2, 1.2.3; CE 9.3",
     "category": "Derecho Administrativo · La ley",
@@ -14611,10 +14611,10 @@
     "question": "Una Sección del TC debe pronunciarse sobre la admisión de un asunto. ¿Cómo se compone?",
     "answer": "Del presidente respectivo o quien le sustituya y dos magistrados.",
     "options": [
-      "De seis magistrados y el presidente.",
-      "De dos magistrados sin presidente.",
+      "Del presidente y tres magistrados del propio Tribunal",
+      "Del presidente y dos magistrados designados por el Gobierno",
       "Del presidente respectivo o quien le sustituya y dos magistrados.",
-      "De cuatro magistrados nombrados por el Senado."
+      "De dos magistrados sin intervención del presidente respectivo"
     ],
     "explanation": "Las Secciones tienen tres integrantes: presidente o sustituto y dos magistrados.",
     "difficulty": 2,
@@ -16704,10 +16704,10 @@
     "question": "¿Qué valor tienen las sentencias del TC en procesos de inconstitucionalidad?",
     "answer": "Cosa juzgada",
     "options": [
-      "Dictamen no vinculante",
-      "Acto administrativo",
+      "Fuerza obligatoria subordinada a una nueva sentencia de la jurisdicción ordinaria",
+      "Eficacia condicionada a su ratificación por los órganos jurisdiccionales ordinarios",
       "Cosa juzgada",
-      "Simple recomendación"
+      "Eficacia únicamente entre las partes y sin valor de cosa juzgada"
     ],
     "reference": "LOTC 38.1",
     "category": "Tribunal Constitucional",
@@ -17472,10 +17472,10 @@
     "question": "¿Qué actos ejecutivos o administrativos pueden ser objeto de amparo según el artículo 43 LOTC?",
     "answer": "Disposiciones, actos, omisiones y vías de hecho",
     "options": [
-      "Solo tratados internacionales",
+      "Disposiciones y omisiones, pero no actuaciones materiales constitutivas de vía de hecho",
       "Disposiciones, actos, omisiones y vías de hecho",
-      "Solo leyes orgánicas",
-      "Solo sentencias judiciales"
+      "Únicamente resoluciones administrativas definitivas, no disposiciones ni inactividad",
+      "Solo disposiciones y actos expresos, sin incluir omisiones ni vías de hecho"
     ],
     "reference": "LOTC 43.1",
     "category": "Tribunal Constitucional",
@@ -17488,10 +17488,10 @@
     "question": "¿Qué excepción de la actuación judicial revisa el TC en el amparo judicial?",
     "answer": "La vulneración de derechos fundamentales",
     "options": [
-      "La oportunidad política de la sentencia",
+      "La revisión de la valoración probatoria cuando el recurrente discrepe del tribunal",
       "La vulneración de derechos fundamentales",
-      "El fondo civil sin lesión constitucional",
-      "La corrección de cualquier valoración de la prueba"
+      "La revisión de la legalidad ordinaria aunque no se invoque lesión de derechos",
+      "La revisión de las decisiones de oportunidad de los órganos judiciales"
     ],
     "reference": "LOTC 54",
     "category": "Tribunal Constitucional",
@@ -17504,10 +17504,10 @@
     "question": "¿En qué fecha se aprobó la Ley de Contratos del Sector Público?",
     "answer": "8 de noviembre de 2017",
     "options": [
-      "8 de octubre de 2017",
-      "9 de diciembre de 2017",
+      "7 de noviembre de 2017",
+      "9 de noviembre de 2017",
       "8 de noviembre de 2017",
-      "9 de noviembre de 2017"
+      "8 de noviembre de 2018"
     ],
     "reference": "LCSP, encabezamiento",
     "category": "Contratos del Sector Público · Tema 1",
@@ -17522,10 +17522,10 @@
     "question": "La norma general de contratación pública vigente que estudia el tema es la Ley 9/2017. ¿De qué fecha es?",
     "answer": "8 de noviembre de 2017",
     "options": [
-      "9 de noviembre de 2017",
+      "7 de noviembre de 2017",
       "8 de noviembre de 2017",
-      "9 de diciembre de 2017",
-      "8 de octubre de 2017"
+      "9 de noviembre de 2017",
+      "8 de noviembre de 2018"
     ],
     "reference": "LCSP, encabezamiento",
     "category": "Contratos del Sector Público · Tema 1",
@@ -17648,10 +17648,10 @@
     "question": "¿Qué artículo de la LCSP regula su objeto y finalidad?",
     "answer": "Artículo 1",
     "options": [
-      "Artículo 63",
+      "Artículo 2",
       "Artículo 1",
-      "Artículo 29",
-      "Artículo 12"
+      "Artículo 3",
+      "Artículo 4"
     ],
     "reference": "LCSP art. 1",
     "category": "Contratos del Sector Público · Tema 1",
@@ -17666,10 +17666,10 @@
     "question": "¿Dónde se enuncian los principios de libertad de acceso, publicidad, transparencia e integridad de la contratación?",
     "answer": "Artículo 1",
     "options": [
-      "Artículo 29",
+      "Artículo 2",
       "Artículo 1",
-      "Artículo 12",
-      "Artículo 63"
+      "Artículo 3",
+      "Artículo 4"
     ],
     "reference": "LCSP art. 1",
     "category": "Contratos del Sector Público · Tema 1",
@@ -17972,9 +17972,9 @@
     "question": "¿Qué artículo define el contrato de obras?",
     "answer": "Artículo 13",
     "options": [
-      "Artículo 17",
-      "Artículo 29",
-      "Artículo 16",
+      "Artículo 12",
+      "Artículo 14",
+      "Artículo 15",
       "Artículo 13"
     ],
     "reference": "LCSP art. 13",
@@ -17991,9 +17991,9 @@
     "answer": "Artículo 13",
     "options": [
       "Artículo 13",
-      "Artículo 29",
-      "Artículo 16",
-      "Artículo 17"
+      "Artículo 12",
+      "Artículo 14",
+      "Artículo 15"
     ],
     "reference": "LCSP art. 13",
     "category": "Contratos del Sector Público · Tema 1",
@@ -18009,9 +18009,9 @@
     "answer": "Artículo 14",
     "options": [
       "Artículo 14",
-      "Artículo 15",
+      "Artículo 12",
       "Artículo 13",
-      "Artículo 18"
+      "Artículo 15"
     ],
     "reference": "LCSP art. 14",
     "category": "Contratos del Sector Público · Tema 1",
@@ -18027,9 +18027,9 @@
     "answer": "Artículo 14",
     "options": [
       "Artículo 14",
-      "Artículo 15",
       "Artículo 13",
-      "Artículo 18"
+      "Artículo 15",
+      "Artículo 12"
     ],
     "reference": "LCSP art. 14",
     "category": "Contratos del Sector Público · Tema 1",
@@ -18044,10 +18044,10 @@
     "question": "¿Qué artículo define la concesión de servicios?",
     "answer": "Artículo 15",
     "options": [
-      "Artículo 25",
+      "Artículo 14",
       "Artículo 16",
       "Artículo 15",
-      "Artículo 17"
+      "Artículo 13"
     ],
     "reference": "LCSP art. 15",
     "category": "Contratos del Sector Público · Tema 1",
@@ -18063,9 +18063,9 @@
     "answer": "Artículo 15",
     "options": [
       "Artículo 15",
+      "Artículo 14",
       "Artículo 16",
-      "Artículo 17",
-      "Artículo 25"
+      "Artículo 13"
     ],
     "reference": "LCSP art. 15",
     "category": "Contratos del Sector Público · Tema 1",
@@ -18080,10 +18080,10 @@
     "question": "¿Qué artículo define el contrato de suministro?",
     "answer": "Artículo 16",
     "options": [
-      "Artículo 18",
-      "Artículo 13",
+      "Artículo 17",
+      "Artículo 15",
       "Artículo 16",
-      "Artículo 17"
+      "Artículo 14"
     ],
     "reference": "LCSP art. 16",
     "category": "Contratos del Sector Público · Tema 1",
@@ -18098,10 +18098,10 @@
     "question": "La adquisición o arrendamiento de productos y bienes muebles se califica conforme a la LCSP como suministro. ¿Qué artículo lo define?",
     "answer": "Artículo 16",
     "options": [
-      "Artículo 13",
+      "Artículo 17",
       "Artículo 16",
-      "Artículo 18",
-      "Artículo 17"
+      "Artículo 15",
+      "Artículo 14"
     ],
     "reference": "LCSP art. 16",
     "category": "Contratos del Sector Público · Tema 1",
@@ -18116,10 +18116,10 @@
     "question": "¿Qué artículo define el contrato de servicios?",
     "answer": "Artículo 17",
     "options": [
-      "Artículo 15",
+      "Artículo 18",
       "Artículo 17",
-      "Artículo 22",
-      "Artículo 13"
+      "Artículo 16",
+      "Artículo 15"
     ],
     "reference": "LCSP art. 17",
     "category": "Contratos del Sector Público · Tema 1",
@@ -18134,10 +18134,10 @@
     "question": "El contrato cuyo objeto es una prestación de hacer distinta de obra o suministro se define principalmente en:",
     "answer": "Artículo 17",
     "options": [
-      "Artículo 13",
-      "Artículo 17",
       "Artículo 15",
-      "Artículo 22"
+      "Artículo 17",
+      "Artículo 18",
+      "Artículo 16"
     ],
     "reference": "LCSP art. 17",
     "category": "Contratos del Sector Público · Tema 1",
@@ -18153,8 +18153,8 @@
     "answer": "Artículo 18",
     "options": [
       "Artículo 19",
-      "Artículo 23",
-      "Artículo 14",
+      "Artículo 17",
+      "Artículo 20",
       "Artículo 18"
     ],
     "reference": "LCSP art. 18",
@@ -18170,10 +18170,10 @@
     "question": "La adjudicación conjunta de prestaciones correspondientes a diversos tipos de contrato se rige en su calificación por el artículo:",
     "answer": "Artículo 18",
     "options": [
-      "Artículo 19",
+      "Artículo 20",
       "Artículo 18",
-      "Artículo 14",
-      "Artículo 23"
+      "Artículo 19",
+      "Artículo 17"
     ],
     "reference": "LCSP art. 18",
     "category": "Contratos del Sector Público · Tema 1",
@@ -19196,10 +19196,10 @@
     "question": "¿Qué artículo distingue contratos administrativos de privados celebrados por AAPP?",
     "answer": "Artículo 25",
     "options": [
-      "Artículo 14",
+      "Artículo 24",
       "Artículo 25",
-      "Artículo 102",
-      "Artículo 21"
+      "Artículo 26",
+      "Artículo 23"
     ],
     "reference": "LCSP art. 25",
     "category": "Contratos del Sector Público · Tema 1",
@@ -19214,10 +19214,10 @@
     "question": "Una Administración pública contrata un suministro ordinario. ¿Qué artículo contiene la regla de su carácter administrativo?",
     "answer": "Artículo 25",
     "options": [
-      "Artículo 14",
-      "Artículo 102",
+      "Artículo 24",
+      "Artículo 26",
       "Artículo 25",
-      "Artículo 21"
+      "Artículo 23"
     ],
     "reference": "LCSP art. 25",
     "category": "Contratos del Sector Público · Tema 1",
@@ -19772,9 +19772,9 @@
     "question": "¿Qué artículo regula el órgano de contratación?",
     "answer": "Artículo 61",
     "options": [
-      "Artículo 69",
       "Artículo 62",
       "Artículo 63",
+      "Artículo 60",
       "Artículo 61"
     ],
     "reference": "LCSP 61",
@@ -19790,10 +19790,10 @@
     "question": "El órgano con facultades legalmente atribuidas para celebrar contratos en nombre de una entidad se regula en el:",
     "answer": "Artículo 61",
     "options": [
-      "Artículo 62",
+      "Artículo 60",
       "Artículo 61",
-      "Artículo 63",
-      "Artículo 69"
+      "Artículo 62",
+      "Artículo 63"
     ],
     "reference": "LCSP 61",
     "category": "Contratos del Sector Público · Tema 2",
@@ -19880,10 +19880,10 @@
     "question": "¿Qué artículo regula al responsable del contrato?",
     "answer": "Artículo 62",
     "options": [
+      "Artículo 63",
       "Artículo 61",
-      "Artículo 100",
       "Artículo 62",
-      "Artículo 323"
+      "Artículo 64"
     ],
     "reference": "LCSP 62",
     "category": "Contratos del Sector Público · Tema 2",
@@ -19898,10 +19898,10 @@
     "question": "La supervisión de la ejecución contractual y las instrucciones al contratista se contemplan específicamente en el:",
     "answer": "Artículo 62",
     "options": [
-      "Artículo 323",
+      "Artículo 63",
       "Artículo 61",
       "Artículo 62",
-      "Artículo 100"
+      "Artículo 64"
     ],
     "reference": "LCSP 62",
     "category": "Contratos del Sector Público · Tema 2",
@@ -19988,10 +19988,10 @@
     "question": "¿Qué artículo regula el perfil de contratante?",
     "answer": "Artículo 63",
     "options": [
-      "Artículo 337",
-      "Artículo 347 exclusivamente",
+      "Artículo 64",
+      "Artículo 62",
       "Artículo 63",
-      "Artículo 107"
+      "Artículo 65"
     ],
     "reference": "LCSP 63",
     "category": "Contratos del Sector Público · Tema 2",
@@ -20006,9 +20006,9 @@
     "question": "El espacio de difusión en Internet de anuncios, pliegos y actividad contractual de cada órgano corresponde al:",
     "answer": "Artículo 63",
     "options": [
-      "Artículo 337",
-      "Artículo 347 exclusivamente",
-      "Artículo 107",
+      "Artículo 64",
+      "Artículo 62",
+      "Artículo 65",
       "Artículo 63"
     ],
     "reference": "LCSP 63",
@@ -20025,9 +20025,9 @@
     "answer": "Artículo 347",
     "options": [
       "Artículo 347",
-      "Artículo 82",
-      "Artículo 63 exclusivamente",
-      "Artículo 99"
+      "Artículo 348",
+      "Artículo 346",
+      "Artículo 345"
     ],
     "reference": "LCSP 347",
     "category": "Contratos del Sector Público · Tema 2",
@@ -20043,9 +20043,9 @@
     "answer": "Artículo 347",
     "options": [
       "Artículo 347",
-      "Artículo 82",
-      "Artículo 99",
-      "Artículo 63 exclusivamente"
+      "Artículo 345",
+      "Artículo 348",
+      "Artículo 346"
     ],
     "reference": "LCSP 347",
     "category": "Contratos del Sector Público · Tema 2",
@@ -20276,10 +20276,10 @@
     "question": "¿Desde qué VE se requiere ordinariamente autorización del Consejo de Ministros para contratos estatales?",
     "answer": "12.000.000 € o más",
     "options": [
-      "Desde 900.000 € sin excepción",
+      "12.100.000 € o más",
       "12.000.000 € o más",
-      "Más de 5.404.000 € en todos los casos",
-      "Más de 15.000.000 €"
+      "11.950.000 € o más",
+      "12.050.000 € o más"
     ],
     "reference": "LCSP 324",
     "category": "Contratos del Sector Público · Tema 2",
@@ -20294,9 +20294,9 @@
     "question": "Una entidad estatal poder adjudicador prepara un contrato con VE de 12 millones de euros. ¿Qué autorización exige el artículo 324?",
     "answer": "12.000.000 € o más",
     "options": [
-      "Más de 5.404.000 € en todos los casos",
-      "Desde 900.000 € sin excepción",
-      "Más de 15.000.000 €",
+      "11.950.000 € o más",
+      "12.050.000 € o más",
+      "12.100.000 € o más",
       "12.000.000 € o más"
     ],
     "reference": "LCSP 324",
@@ -20637,9 +20637,9 @@
     "answer": "Artículo 328",
     "options": [
       "Artículo 329",
-      "Artículo 333",
+      "Artículo 327",
       "Artículo 328",
-      "Artículo 332"
+      "Artículo 330"
     ],
     "reference": "LCSP 328",
     "category": "Contratos del Sector Público · Tema 2",
@@ -20654,10 +20654,10 @@
     "question": "La Junta Consultiva de Contratación Pública del Estado, órgano de consulta en materia contractual, se regula en:",
     "answer": "Artículo 328",
     "options": [
-      "Artículo 332",
-      "Artículo 328",
       "Artículo 329",
-      "Artículo 333"
+      "Artículo 328",
+      "Artículo 327",
+      "Artículo 330"
     ],
     "reference": "LCSP 328",
     "category": "Contratos del Sector Público · Tema 2",
@@ -20672,9 +20672,9 @@
     "question": "¿Cada cuánto remite la JCCPE el informe sobre contratación SARA a la Comisión Europea?",
     "answer": "Cada 3 años",
     "options": [
-      "Cada 6 años",
-      "Cada año",
       "Cada 2 años",
+      "Cada 5 años",
+      "Cada 4 años",
       "Cada 3 años"
     ],
     "reference": "LCSP 328",
@@ -20691,9 +20691,9 @@
     "answer": "Cada 3 años",
     "options": [
       "Cada 3 años",
-      "Cada 6 años",
+      "Cada 4 años",
       "Cada 2 años",
-      "Cada año"
+      "Cada 5 años"
     ],
     "reference": "LCSP 328",
     "category": "Contratos del Sector Público · Tema 2",
@@ -21212,10 +21212,10 @@
     "question": "¿Qué artículo fija las condiciones generales de aptitud para contratar?",
     "answer": "Artículo 65",
     "options": [
-      "Artículo 124",
-      "Artículo 107",
+      "Artículo 64",
+      "Artículo 66",
       "Artículo 65",
-      "Artículo 99"
+      "Artículo 63"
     ],
     "reference": "LCSP 65",
     "category": "Contratos del Sector Público · Tema 2",
@@ -21231,9 +21231,9 @@
     "answer": "Artículo 65",
     "options": [
       "Artículo 65",
-      "Artículo 107",
-      "Artículo 124",
-      "Artículo 99"
+      "Artículo 63",
+      "Artículo 64",
+      "Artículo 66"
     ],
     "reference": "LCSP 65",
     "category": "Contratos del Sector Público · Tema 2",
@@ -21356,10 +21356,10 @@
     "question": "¿Qué artículo enumera medios de solvencia económica y financiera?",
     "answer": "Artículo 87",
     "options": [
-      "Artículo 90",
+      "Artículo 86",
       "Artículo 87",
-      "Artículo 89",
-      "Artículo 88"
+      "Artículo 88",
+      "Artículo 89"
     ],
     "reference": "LCSP 87",
     "category": "Contratos del Sector Público · Tema 2",
@@ -21376,7 +21376,7 @@
     "options": [
       "Artículo 89",
       "Artículo 87",
-      "Artículo 90",
+      "Artículo 86",
       "Artículo 88"
     ],
     "reference": "LCSP 87",
@@ -21573,9 +21573,9 @@
     "answer": "500.000 € o más",
     "options": [
       "500.000 € o más",
-      "80.000 € o más",
-      "Más de 600.000 €",
-      "Nunca se exige"
+      "450.000 € o más",
+      "550.000 € o más",
+      "600.000 € o más"
     ],
     "reference": "LCSP 77",
     "category": "Contratos del Sector Público · Tema 2",
@@ -21590,9 +21590,9 @@
     "question": "Un contrato de obras tiene VE de exactamente 500.000 €. ¿Qué regla de clasificación se aplica?",
     "answer": "500.000 € o más",
     "options": [
-      "Más de 600.000 €",
-      "80.000 € o más",
-      "Nunca se exige",
+      "450.000 € o más",
+      "550.000 € o más",
+      "600.000 € o más",
       "500.000 € o más"
     ],
     "reference": "LCSP 77",
@@ -21716,10 +21716,10 @@
     "question": "¿Cada cuánto se acredita mantenimiento de solvencia técnica para clasificación?",
     "answer": "Cada 3 años",
     "options": [
-      "Cada 5 años",
+      "Cada 4 años",
       "Cada 3 años",
-      "Cada 6 meses",
-      "Cada año"
+      "Cada 2 años",
+      "Cada 5 años"
     ],
     "reference": "LCSP 82",
     "category": "Contratos del Sector Público · Tema 2",
@@ -21734,8 +21734,8 @@
     "question": "Una empresa clasificada debe acreditar periódicamente su capacidad técnica o profesional. ¿Cuál es el plazo?",
     "answer": "Cada 3 años",
     "options": [
-      "Cada año",
-      "Cada 6 meses",
+      "Cada 4 años",
+      "Cada 2 años",
       "Cada 3 años",
       "Cada 5 años"
     ],
@@ -22509,7 +22509,7 @@
     "answer": "Artículo 124",
     "options": [
       "Artículo 122",
-      "Artículo 121",
+      "Artículo 125",
       "Artículo 123",
       "Artículo 124"
     ],
@@ -22526,10 +22526,10 @@
     "question": "Las prestaciones técnicas exigidas para un suministro concreto se incorporan a pliego regulado en:",
     "answer": "Artículo 124",
     "options": [
-      "Artículo 121",
-      "Artículo 124",
       "Artículo 123",
-      "Artículo 122"
+      "Artículo 124",
+      "Artículo 122",
+      "Artículo 125"
     ],
     "reference": "LCSP 124",
     "category": "Contratos del Sector Público · Tema 2",
@@ -22546,7 +22546,7 @@
     "options": [
       "Artículo 121",
       "Artículo 122",
-      "Artículo 124",
+      "Artículo 120",
       "Artículo 123"
     ],
     "reference": "LCSP 121",
@@ -22563,7 +22563,7 @@
     "answer": "Artículo 121",
     "options": [
       "Artículo 122",
-      "Artículo 124",
+      "Artículo 120",
       "Artículo 123",
       "Artículo 121"
     ],
@@ -23371,10 +23371,10 @@
     "question": "¿Cuál es la denominación oficial COMPLETA de la norma conocida como «TREBEP»?",
     "answer": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.",
     "options": [
-      "Real Decreto 349/2001, de 4 de abril, por el que se regula la composición y funciones de la Comisión Superior de Personal.",
-      "Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.",
+      "Real Decreto Legislativo 4/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.",
+      "Real Decreto Legislativo 5/2014, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.",
       "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.",
-      "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical."
+      "Real Decreto Legislativo 5/2015, de 29 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público."
     ],
     "reference": "BOE · Real Decreto Legislativo 5/2015",
     "category": "RRHH",
@@ -23461,9 +23461,9 @@
     "question": "¿En qué fecha fue dictada la disposición Ley 30/1984?",
     "answer": "2 de agosto de 1984",
     "options": [
-      "19 de diciembre de 2023",
-      "23 de octubre de 2015",
-      "6 de junio de 2002",
+      "1 de agosto de 1984",
+      "3 de agosto de 1984",
+      "2 de agosto de 1985",
       "2 de agosto de 1984"
     ],
     "reference": "BOE · Ley 30/1984",
@@ -23515,9 +23515,9 @@
     "question": "¿En qué fecha fue dictada la disposición Ley 53/1984?",
     "answer": "26 de diciembre de 1984",
     "options": [
-      "23 de octubre de 2015",
-      "6 de junio de 2002",
-      "30 de octubre de 2015",
+      "25 de diciembre de 1984",
+      "27 de diciembre de 1984",
+      "26 de diciembre de 1985",
       "26 de diciembre de 1984"
     ],
     "reference": "BOE · Ley 53/1984",
@@ -23569,10 +23569,10 @@
     "question": "¿En qué fecha fue dictada la disposición Ley 50/1997?",
     "answer": "27 de noviembre de 1997",
     "options": [
-      "6 de junio de 2002",
+      "26 de noviembre de 1997",
       "27 de noviembre de 1997",
-      "30 de octubre de 2015",
-      "13 de marzo de 1986"
+      "28 de noviembre de 1997",
+      "27 de noviembre de 1998"
     ],
     "reference": "BOE · Ley 50/1997",
     "category": "RRHH",
@@ -23623,9 +23623,9 @@
     "question": "¿En qué fecha fue dictada la disposición Ley Orgánica 2/1986?",
     "answer": "13 de marzo de 1986",
     "options": [
-      "30 de octubre de 2015",
-      "27 de noviembre de 1997",
-      "10 de marzo de 1995",
+      "12 de marzo de 1986",
+      "14 de marzo de 1986",
+      "13 de marzo de 1987",
       "13 de marzo de 1986"
     ],
     "reference": "BOE · Ley Orgánica 2/1986",
@@ -23677,10 +23677,10 @@
     "question": "¿En qué fecha fue dictada la disposición Real Decreto-ley 6/2023?",
     "answer": "19 de diciembre de 2023",
     "options": [
-      "10 de marzo de 1995",
-      "27 de noviembre de 1997",
+      "18 de diciembre de 2023",
+      "20 de diciembre de 2023",
       "19 de diciembre de 2023",
-      "8 de noviembre de 1995"
+      "19 de diciembre de 2024"
     ],
     "reference": "BOE · Real Decreto-ley 6/2023",
     "category": "RRHH",
@@ -23731,9 +23731,9 @@
     "question": "¿En qué fecha fue dictada la disposición Real Decreto 349/2001?",
     "answer": "4 de abril de 2001",
     "options": [
-      "8 de noviembre de 2017",
-      "10 de marzo de 1995",
-      "8 de noviembre de 1995",
+      "5 de abril de 2001",
+      "4 de abril de 2002",
+      "3 de abril de 2001",
       "4 de abril de 2001"
     ],
     "reference": "BOE · Real Decreto 349/2001",
@@ -23785,10 +23785,10 @@
     "question": "¿En qué fecha fue dictada la disposición Real Decreto 364/1995?",
     "answer": "10 de marzo de 1995",
     "options": [
-      "26 de diciembre de 1984",
-      "8 de noviembre de 1995",
+      "11 de marzo de 1995",
+      "10 de marzo de 1996",
       "10 de marzo de 1995",
-      "8 de noviembre de 2017"
+      "9 de marzo de 1995"
     ],
     "reference": "BOE · Real Decreto 364/1995",
     "category": "RRHH",
@@ -23839,10 +23839,10 @@
     "question": "¿En qué fecha fue dictada la disposición Real Decreto 365/1995?",
     "answer": "10 de marzo de 1995",
     "options": [
-      "26 de diciembre de 1984",
+      "10 de marzo de 1996",
       "10 de marzo de 1995",
-      "19 de diciembre de 2023",
-      "8 de noviembre de 2017"
+      "9 de marzo de 1995",
+      "11 de marzo de 1995"
     ],
     "reference": "BOE · Real Decreto 365/1995",
     "category": "RRHH",
@@ -23893,10 +23893,10 @@
     "question": "¿En qué fecha fue dictada la disposición Real Decreto Legislativo 2/2015?",
     "answer": "23 de octubre de 2015",
     "options": [
-      "26 de diciembre de 1984",
-      "2 de agosto de 1985",
+      "22 de octubre de 2015",
+      "24 de octubre de 2015",
       "23 de octubre de 2015",
-      "19 de diciembre de 2023"
+      "23 de octubre de 2016"
     ],
     "reference": "BOE · Real Decreto Legislativo 2/2015",
     "category": "RRHH",
@@ -23948,9 +23948,9 @@
     "answer": "2 de agosto de 1985",
     "options": [
       "2 de agosto de 1985",
-      "19 de diciembre de 2023",
-      "1 de octubre de 2015",
-      "23 de octubre de 2015"
+      "1 de agosto de 1985",
+      "3 de agosto de 1985",
+      "2 de agosto de 1986"
     ],
     "reference": "BOE · Ley Orgánica 11/1985",
     "category": "RRHH",
@@ -24002,9 +24002,9 @@
     "answer": "8 de noviembre de 1995",
     "options": [
       "8 de noviembre de 1995",
-      "23 de octubre de 2015",
-      "2 de agosto de 1984",
-      "1 de octubre de 2015"
+      "7 de noviembre de 1995",
+      "9 de noviembre de 1995",
+      "8 de noviembre de 1996"
     ],
     "reference": "BOE · Ley 31/1995",
     "category": "RRHH",
@@ -24055,10 +24055,10 @@
     "question": "¿En qué fecha fue dictada la disposición Orden APU/1461/2002?",
     "answer": "6 de junio de 2002",
     "options": [
-      "13 de marzo de 1986",
-      "1 de octubre de 2015",
+      "7 de junio de 2002",
+      "6 de junio de 2003",
       "6 de junio de 2002",
-      "2 de agosto de 1984"
+      "5 de junio de 2002"
     ],
     "reference": "BOE · Orden APU/1461/2002",
     "category": "RRHH",
@@ -24110,9 +24110,9 @@
     "answer": "1 de octubre de 2015",
     "options": [
       "1 de octubre de 2015",
-      "13 de marzo de 1986",
-      "2 de agosto de 1984",
-      "10 de marzo de 1995"
+      "2 de octubre de 2015",
+      "1 de octubre de 2016",
+      "1 de octubre de 2014"
     ],
     "reference": "BOE · Ley 40/2015",
     "category": "RRHH",
@@ -24163,10 +24163,10 @@
     "question": "¿En qué fecha fue dictada la disposición Ley 39/2015?",
     "answer": "1 de octubre de 2015",
     "options": [
-      "13 de marzo de 1986",
-      "8 de noviembre de 1995",
+      "2 de octubre de 2015",
+      "1 de octubre de 2016",
       "1 de octubre de 2015",
-      "10 de marzo de 1995"
+      "1 de octubre de 2014"
     ],
     "reference": "BOE · Ley 39/2015",
     "category": "RRHH",
@@ -24217,10 +24217,10 @@
     "question": "¿En qué fecha fue dictada la disposición Ley 9/2017?",
     "answer": "8 de noviembre de 2017",
     "options": [
-      "30 de octubre de 2015",
-      "8 de noviembre de 1995",
+      "7 de noviembre de 2017",
+      "9 de noviembre de 2017",
       "8 de noviembre de 2017",
-      "10 de marzo de 1995"
+      "8 de noviembre de 2018"
     ],
     "reference": "BOE · Ley 9/2017",
     "category": "RRHH",
@@ -24595,8 +24595,8 @@
     "question": "¿Cuál es el precepto general del TREBEP sobre ámbito de aplicación?",
     "answer": "Artículo 2",
     "options": [
-      "Artículo 6",
-      "Artículo 8",
+      "Artículo 4",
+      "Artículo 1",
       "Artículo 2",
       "Artículo 3"
     ],
@@ -24614,9 +24614,9 @@
     "answer": "Artículo 3",
     "options": [
       "Artículo 4",
-      "Artículo 13",
+      "Artículo 2",
       "Artículo 3",
-      "Artículo 7"
+      "Artículo 5"
     ],
     "reference": "TREBEP arts. 2-7",
     "category": "RRHH",
@@ -24632,9 +24632,9 @@
     "answer": "Artículo 4",
     "options": [
       "Artículo 4",
-      "Artículo 2",
       "Artículo 5",
-      "Artículo 8"
+      "Artículo 2",
+      "Artículo 3"
     ],
     "reference": "TREBEP arts. 2-7",
     "category": "RRHH",
@@ -24649,10 +24649,10 @@
     "question": "¿Dónde regula el TREBEP al personal de Correos?",
     "answer": "Artículo 5",
     "options": [
-      "Artículo 3",
       "Artículo 6",
+      "Artículo 7",
       "Artículo 5",
-      "Artículo 13"
+      "Artículo 4"
     ],
     "reference": "TREBEP arts. 2-7",
     "category": "RRHH",
@@ -24668,9 +24668,9 @@
     "answer": "Artículo 6",
     "options": [
       "Artículo 6",
-      "Artículo 2",
-      "Artículo 4",
-      "Artículo 7"
+      "Artículo 8",
+      "Artículo 7",
+      "Artículo 5"
     ],
     "reference": "TREBEP arts. 2-7",
     "category": "RRHH",
@@ -24686,9 +24686,9 @@
     "answer": "Artículo 7",
     "options": [
       "Artículo 7",
-      "Artículo 3",
       "Artículo 5",
-      "Artículo 8"
+      "Artículo 8",
+      "Artículo 6"
     ],
     "reference": "TREBEP arts. 2-7",
     "category": "RRHH",
@@ -24703,10 +24703,10 @@
     "question": "¿Qué artículo contiene la clasificación de empleados públicos en cuatro clases?",
     "answer": "Artículo 8",
     "options": [
-      "Artículo 4",
+      "Artículo 10",
       "Artículo 8",
-      "Artículo 6",
-      "Artículo 13"
+      "Artículo 7",
+      "Artículo 9"
     ],
     "reference": "TREBEP arts. 2-7",
     "category": "RRHH",
@@ -24722,9 +24722,9 @@
     "answer": "Artículo 13",
     "options": [
       "Artículo 13",
-      "Artículo 7",
-      "Artículo 5",
-      "Artículo 2"
+      "Artículo 12",
+      "Artículo 14",
+      "Artículo 15"
     ],
     "reference": "TREBEP arts. 2-7",
     "category": "RRHH",
@@ -24902,8 +24902,8 @@
     "answer": "Artículo 9",
     "options": [
       "Artículo 9",
-      "Artículo 13",
-      "Cuatro",
+      "Artículo 7",
+      "Artículo 8",
       "Artículo 10"
     ],
     "reference": "TREBEP arts. 8-13",
@@ -24921,8 +24921,8 @@
     "options": [
       "Artículo 10",
       "Artículo 9",
-      "Artículo 11",
-      "Relación estatutaria permanente"
+      "Artículo 8",
+      "Artículo 11"
     ],
     "reference": "TREBEP arts. 8-13",
     "category": "RRHH",
@@ -24937,9 +24937,9 @@
     "question": "¿Qué artículo del TREBEP regula al personal laboral?",
     "answer": "Artículo 11",
     "options": [
-      "Contrato de trabajo escrito",
-      "Artículo 10",
+      "Artículo 9",
       "Artículo 12",
+      "Artículo 10",
       "Artículo 11"
     ],
     "reference": "TREBEP arts. 8-13",
@@ -24957,8 +24957,8 @@
     "options": [
       "Artículo 12",
       "Artículo 11",
-      "Artículo 13",
-      "Cuatro"
+      "Artículo 14",
+      "Artículo 13"
     ],
     "reference": "TREBEP arts. 8-13",
     "category": "RRHH",
@@ -24973,10 +24973,10 @@
     "question": "¿Qué artículo del TREBEP regula separadamente al directivo profesional?",
     "answer": "Artículo 13",
     "options": [
-      "Artículo 9",
+      "Artículo 15",
       "Artículo 13",
       "Artículo 12",
-      "Relación estatutaria permanente"
+      "Artículo 14"
     ],
     "reference": "TREBEP arts. 8-13",
     "category": "RRHH",
@@ -25045,10 +25045,10 @@
     "question": "¿Qué artículo regula cuerpos y escalas de los funcionarios?",
     "answer": "Artículo 75",
     "options": [
-      "A2",
+      "Artículo 76",
       "Artículo 75",
-      "Bachiller o Técnico",
-      "Artículo 76"
+      "Artículo 74",
+      "Artículo 73"
     ],
     "reference": "TREBEP arts. 9, 75-76, DT 3 y DA 6",
     "category": "RRHH",
@@ -25063,10 +25063,10 @@
     "question": "¿Qué artículo clasifica cuerpos y escalas según titulación y responsabilidad?",
     "answer": "Artículo 76",
     "options": [
-      "C1",
+      "Artículo 75",
       "Artículo 76",
-      "Graduado en ESO",
-      "Grado universitario"
+      "Artículo 77",
+      "Artículo 78"
     ],
     "reference": "TREBEP arts. 9, 75-76, DT 3 y DA 6",
     "category": "RRHH",
@@ -26071,9 +26071,9 @@
     "question": "¿Qué ocurre con el eventual cuando cesa la autoridad a quien asesora?",
     "answer": "Cesa en todo caso",
     "options": [
-      "No permanente",
-      "Confianza o asesoramiento especial",
-      "Libre",
+      "Cesa únicamente cuando la nueva autoridad lo acuerde de forma expresa",
+      "Conserva el puesto hasta la siguiente oferta de empleo público",
+      "Cesa al cumplirse el plazo del nombramiento, pero no por el cese de la autoridad",
       "Cesa en todo caso"
     ],
     "reference": "TREBEP art. 12; Ley 50/1997 art. 10",
@@ -26089,9 +26089,9 @@
     "question": "¿Qué valor tiene ser personal eventual para acceder a la función pública?",
     "answer": "No constituye mérito",
     "options": [
-      "No permanente",
-      "Libre",
-      "Confianza o asesoramiento especial",
+      "Permanece hasta que culmine el proceso selectivo de funcionarios de carrera",
+      "Solo puede mantenerse si el nuevo titular confirma la confianza mediante resolución expresa",
+      "Continúa hasta la siguiente revisión presupuestaria sin posibilidad de cese anticipado",
       "No constituye mérito"
     ],
     "reference": "TREBEP art. 12; Ley 50/1997 art. 10",
@@ -26971,9 +26971,9 @@
     "question": "¿Qué artículo del TREBEP regula los registros de personal y la gestión integrada de recursos humanos?",
     "answer": "Artículo 71",
     "options": [
-      "Entidades locales sin capacidad suficiente",
-      "Convenio de Conferencia Sectorial",
-      "Información agregada",
+      "Artículo 72",
+      "Artículo 73",
+      "Artículo 70",
       "Artículo 71"
     ],
     "reference": "TREBEP art. 71",
@@ -27133,9 +27133,9 @@
     "question": "¿Qué artículo de la Ley 30/1984 se cita como base específica del Registro Central de Personal?",
     "answer": "Artículo 13",
     "options": [
-      "Registro de personal autonómico",
-      "Real Decreto 2073/1999",
-      "Registro Central de Personal",
+      "Artículo 15",
+      "Artículo 12",
+      "Artículo 14",
       "Artículo 13"
     ],
     "reference": "TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999",
@@ -27620,9 +27620,9 @@
     "answer": "15 de julio de 2020",
     "options": [
       "15 de julio de 2020",
-      "Tres días",
-      "Otros noventa días",
-      "Noventa días naturales"
+      "14 de julio de 2020",
+      "16 de julio de 2020",
+      "15 de julio de 2021"
     ],
     "reference": "RD 2073/1999; apuntes profesor, pp. 10-12",
     "category": "RRHH",

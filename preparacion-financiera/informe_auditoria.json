@@ -2,14 +2,17 @@
   "old": 1626,
   "new": 560,
   "total": 2186,
-  "modified_distractors": 470,
+  "modified_distractors": 604,
   "changed_by_category": {
-    "Tribunal Constitucional": 52,
+    "Tribunal Constitucional": 57,
     "Defensor del Pueblo": 6,
-    "Unión Europea": 36,
+    "Unión Europea": 81,
     "Constitución": 338,
-    "Contratos del Sector Público · Tema 1": 18,
-    "Contratos del Sector Público · Tema 2": 20
+    "Derecho Administrativo · Fuentes": 2,
+    "Derecho Administrativo · La ley": 2,
+    "Contratos del Sector Público · Tema 1": 36,
+    "Contratos del Sector Público · Tema 2": 46,
+    "RRHH": 36
   },
   "new_by_topic": {
     "Tema 1 · Estabilidad y sostenibilidad": 72,
@@ -74,6 +77,22 @@
         "5",
         "4",
         "2"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Tribunal Constitucional",
+      "old": [
+        "3 de octubre de 1979",
+        "6 de diciembre de 1978",
+        "24 de mayo de 2007",
+        "3 de octubre de 1981"
+      ],
+      "new": [
+        "2 de octubre de 1979",
+        "4 de octubre de 1979",
+        "3 de octubre de 1979",
+        "3 de octubre de 1980"
       ]
     },
     {
@@ -219,27 +238,12 @@
         "2 años",
         "5 años"
       ]
-    },
-    {
-      "id": 18,
-      "category": "Tribunal Constitucional",
-      "old": [
-        "El Congreso",
-        "El Senado",
-        "El Pleno del TC",
-        "El Rey"
-      ],
-      "new": [
-        "Una Sala del TC",
-        "El Pleno del TC",
-        "Una Sección del TC",
-        "El Presidente del TC"
-      ]
     }
   ],
   "audit": {
     "Tribunal Constitucional / examinadas": 200,
     "Tribunal Constitucional / cantidades cercanas": 13,
+    "Tribunal Constitucional / fechas de normas próximas": 1,
     "Tribunal Constitucional / números y plazos cercanos": 31,
     "Tribunal Constitucional / órganos internos del TC": 5,
     "Tribunal Constitucional / porcentajes vecinos": 1,
@@ -247,21 +251,33 @@
     "Defensor del Pueblo / números y plazos cercanos": 6,
     "Constitución / examinadas": 468,
     "Unión Europea / examinadas": 228,
+    "Unión Europea / fechas próximas": 45,
     "Unión Europea / números y plazos cercanos": 4,
     "Unión Europea / cantidades cercanas": 30,
     "Unión Europea / porcentajes vecinos": 2,
     "Constitución / CE artículos próximos": 169,
     "Constitución / CE contenidos del mismo bloque": 169,
     "Derecho Administrativo · Fuentes / examinadas": 33,
+    "Derecho Administrativo · Fuentes / distractores específicos contrastados": 2,
     "Derecho Administrativo · La ley / examinadas": 53,
+    "Derecho Administrativo · La ley / distractores específicos contrastados": 2,
+    "Tribunal Constitucional / distractores específicos contrastados": 4,
     "Tribunal Constitucional / resoluciones procesales verosímiles": 2,
     "Contratos del Sector Público · Tema 1 / examinadas": 126,
+    "Contratos del Sector Público · Tema 1 / fechas de normas próximas": 2,
     "Contratos del Sector Público · Tema 1 / cantidades cercanas": 2,
+    "Contratos del Sector Público · Tema 1 / referencias legales del mismo entorno": 16,
     "Contratos del Sector Público · Tema 1 / números y plazos cercanos": 14,
     "Contratos del Sector Público · Tema 1 / porcentajes vecinos": 2,
     "Contratos del Sector Público · Tema 2 / examinadas": 200,
+    "Contratos del Sector Público · Tema 2 / referencias legales del mismo entorno": 18,
+    "Contratos del Sector Público · Tema 2 / umbrales cercanos": 4,
+    "Contratos del Sector Público · Tema 2 / periodicidades próximas": 4,
     "Contratos del Sector Público · Tema 2 / números y plazos cercanos": 16,
     "Contratos del Sector Público · Tema 2 / porcentajes vecinos": 4,
-    "RRHH / examinadas": 300
+    "RRHH / examinadas": 300,
+    "RRHH / distractores específicos contrastados": 3,
+    "RRHH / fechas de normas próximas": 16,
+    "RRHH / referencias legales del mismo entorno": 17
   }
 }
