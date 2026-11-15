@@ -1,48 +1,56 @@
 {
   "fecha": "2026-11-15",
+  "fuente": "Organizacion_del_Estado_CEF_Temas_1_2_3.pdf",
+  "estado": "depuracion_conservadora_publicada",
+  "banco_total": 2503,
   "materia": "Organización del Estado",
-  "total": 900,
-  "temas": [
+  "totales": [
     {
       "tema": 1,
-      "total": 300,
-      "por_dificultad": {
-        "1": 69,
-        "2": 146,
-        "3": 85
-      },
-      "nuevas": 38,
-      "procedentes_banco_previo": 262,
-      "variantes_de_repaso": 0
+      "preguntas": 128,
+      "duplicados_enunciado_normalizado": 0
     },
     {
       "tema": 2,
-      "total": 300,
-      "por_dificultad": {
-        "1": 38,
-        "2": 180,
-        "3": 82
-      },
-      "nuevas": 65,
-      "procedentes_banco_previo": 117,
-      "variantes_de_repaso": 118
+      "preguntas": 186,
+      "duplicados_enunciado_normalizado": 0
     },
     {
       "tema": 3,
-      "total": 300,
-      "por_dificultad": {
-        "1": 65,
-        "2": 140,
-        "3": 95
-      },
-      "nuevas": 33,
-      "procedentes_banco_previo": 197,
-      "variantes_de_repaso": 70
+      "preguntas": 221,
+      "duplicados_enunciado_normalizado": 0
     }
   ],
-  "ids_unicos": 900,
-  "enunciados_unicos": 900,
-  "errores_formales": [],
-  "control_calidad": "Validación de estructura, unicidad, opciones y presencia de respuesta; no sustituye revisión jurídica y pedagógica individual.",
-  "estado_publicacion": "Preparado como módulo separado; todavía no importado al banco maestro ni integrado en APK V4.0.4."
+  "constitucion_separada": 468,
+  "derecho_administrativo_separado": true,
+  "tribunal_constitucional_categoria_independiente": false,
+  "defensor_categoria_independiente": false,
+  "primeros_2186_ids_y_posiciones_preservados": true,
+  "registros_de_900_iniciales_retirados": 628,
+  "preguntas_nuevas_añadidas_tras_depuracion": 45,
+  "registros_historicos_reubicados": {
+    "tribunal_constitucional": 200,
+    "defensor_del_pueblo": 18
+  },
+  "preguntas_historicas_corregidas_ids": [
+    46,
+    48,
+    848,
+    992,
+    993,
+    994,
+    995,
+    996,
+    997,
+    998
+  ],
+  "advertenicas": [
+    "La V5 actual guarda las rachas por posición: las preguntas creadas tras la 2186 y posteriormente reordenadas no conservan necesariamente un progreso atribuible correctamente.",
+    "Diez preguntas antiguas del Tribunal Constitucional se reescribieron en su posición original. Su dominio previo no se reinicia en la APK actualmente instalada.",
+    "Cribado de contenido y referencias según los epígrafes del CEF; no equivale a verificación jurídica exhaustiva de cada enunciado o distractor."
+  ],
+  "validacion_estructural": {
+    "errores": 0,
+    "lista": []
+  }
 }
