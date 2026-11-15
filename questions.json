@@ -43476,5 +43476,815 @@
     "source": "CEF Organización del Estado, tema 3 (noviembre 2026); CE 161",
     "origin": "nueva pregunta específica",
     "previous_id": 2819
+  },
+  {
+    "id": 2459,
+    "question": "¿Qué fecha señala el CEF como fallecimiento de Franco, antes del inicio de la Transición?",
+    "answer": "20 de noviembre de 1975",
+    "options": [
+      "20 de noviembre de 1975",
+      "20 de noviembre de 1976",
+      "15 de junio de 1977",
+      "22 de noviembre de 1975"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 3,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2460,
+    "question": "¿En qué mes de 1976 fue nombrado presidente del Gobierno Adolfo Suárez?",
+    "answer": "Julio",
+    "options": [
+      "Julio",
+      "Junio",
+      "Agosto",
+      "Septiembre"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2461,
+    "question": "¿Qué ley abrió formalmente el camino hacia las elecciones democráticas de 1977?",
+    "answer": "Ley 1/1977, de 4 de enero, para la Reforma Política",
+    "options": [
+      "Ley 1/1977, de 4 de enero, para la Reforma Política",
+      "Ley 1/1976, de 4 de enero, para la Reforma Política",
+      "Ley 2/1977, de 4 de enero, para la Reforma Política",
+      "Ley 1/1977, de 14 de enero, para la Reforma Política"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2462,
+    "question": "¿Cuál fue el partido más votado en las elecciones del 15 de junio de 1977, según el CEF?",
+    "answer": "UCD",
+    "options": [
+      "UCD",
+      "PSOE",
+      "AP",
+      "PCE"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2463,
+    "question": "¿Qué órgano designó la Ponencia que redactó el anteproyecto constitucional?",
+    "answer": "Comisión de Asuntos Constitucionales y Libertades Públicas",
+    "options": [
+      "Comisión de Asuntos Constitucionales y Libertades Públicas",
+      "Comisión Mixta Congreso-Senado",
+      "Comisión de Justicia del Congreso",
+      "Mesa del Senado"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2464,
+    "question": "¿Cuántos de los siete ponentes constitucionales pertenecían al PSOE?",
+    "answer": "1",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 3,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2465,
+    "question": "¿Qué ponente constitucional representó a Alianza Popular?",
+    "answer": "Manuel Fraga Iribarne",
+    "options": [
+      "Manuel Fraga Iribarne",
+      "Gabriel Cisneros Laborda",
+      "Jordi Solé Tura",
+      "Gregorio Peces-Barba"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2466,
+    "question": "¿Qué ponente constitucional pertenecía al Partido Comunista de España?",
+    "answer": "Jordi Solé Tura",
+    "options": [
+      "Jordi Solé Tura",
+      "Miguel Roca Junyent",
+      "Gabriel Cisneros Laborda",
+      "José Pedro Pérez-Llorca"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2467,
+    "question": "¿Quién fue el ponente constitucional por la minoría vasco-catalana?",
+    "answer": "Miguel Roca Junyent",
+    "options": [
+      "Miguel Roca Junyent",
+      "Jordi Solé Tura",
+      "Miguel Herrero y Rodríguez de Miñón",
+      "Gregorio Peces-Barba"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2468,
+    "question": "¿Qué porcentaje aproximado de votos favorables recibió la Constitución en el referéndum de 1978?",
+    "answer": "Casi el 88 %",
+    "options": [
+      "Casi el 88 %",
+      "Casi el 78 %",
+      "Casi el 83 %",
+      "Casi el 93 %"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2469,
+    "question": "¿A qué artículo remite el CEF para el plazo general de 15 días de sanción de las leyes por el Rey?",
+    "answer": "Artículo 91",
+    "options": [
+      "Artículo 91",
+      "Artículo 90",
+      "Artículo 92",
+      "Artículo 93"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2470,
+    "question": "¿Qué modelo de texto jurídico caracteriza la Constitución escrita de 1978, según el CEF?",
+    "answer": "Ley codificada y cerrada",
+    "options": [
+      "Ley codificada y cerrada",
+      "Conjunto flexible de costumbres",
+      "Ley dispersa y abierta",
+      "Norma exclusivamente consuetudinaria"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2471,
+    "question": "¿Qué autor distingue las constituciones rígidas y flexibles en el temario?",
+    "answer": "Bryce",
+    "options": [
+      "Bryce",
+      "Kelsen",
+      "Hauriou",
+      "Dicey"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2472,
+    "question": "¿Qué caracteriza a una Constitución flexible en la clasificación estudiada?",
+    "answer": "Puede reformarse mediante el procedimiento legislativo ordinario",
+    "options": [
+      "Puede reformarse mediante el procedimiento legislativo ordinario",
+      "Solo admite reforma mediante referéndum",
+      "Exige siempre dos legislaturas",
+      "No admite reforma parcial"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2473,
+    "question": "¿Qué Constitución española supera en extensión a la de 1978, según el CEF?",
+    "answer": "La de Cádiz",
+    "options": [
+      "La de Cádiz",
+      "La de 1931",
+      "La de 1869",
+      "La de 1876"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2474,
+    "question": "¿Qué expresión caracteriza la forma de elaboración pactada de la Constitución de 1978?",
+    "answer": "Constitución del consenso",
+    "options": [
+      "Constitución del consenso",
+      "Constitución otorgada",
+      "Constitución provisional",
+      "Constitución impuesta"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2475,
+    "question": "¿En qué parte de la Constitución se sitúan fundamentalmente el Título Preliminar y el Título I?",
+    "answer": "Parte dogmática",
+    "options": [
+      "Parte dogmática",
+      "Parte orgánica",
+      "Parte transitoria",
+      "Parte derogatoria"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2476,
+    "question": "¿Qué parte constitucional organiza los poderes del Estado y sus relaciones?",
+    "answer": "Parte orgánica",
+    "options": [
+      "Parte orgánica",
+      "Parte dogmática",
+      "Preámbulo",
+      "Parte transitoria"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2477,
+    "question": "¿Cuántas disposiciones adicionales contiene la Constitución de 1978?",
+    "answer": "4",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2478,
+    "question": "¿Cuántas disposiciones transitorias contiene la Constitución de 1978?",
+    "answer": "9",
+    "options": [
+      "9",
+      "8",
+      "10",
+      "11"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2479,
+    "question": "¿Cuántas disposiciones derogatorias contiene la Constitución de 1978?",
+    "answer": "1",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "3"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2480,
+    "question": "¿Cuántos títulos tiene la Constitución contando el Preliminar?",
+    "answer": "11",
+    "options": [
+      "11",
+      "10",
+      "12",
+      "13"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 3,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2481,
+    "question": "¿Qué capítulo está dividido en dos secciones dentro del Título I de la Constitución?",
+    "answer": "El capítulo II",
+    "options": [
+      "El capítulo II",
+      "El capítulo I",
+      "El capítulo III",
+      "El capítulo IV"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2482,
+    "question": "¿Qué título de la CE contiene los artículos 128 a 136?",
+    "answer": "Título VII",
+    "options": [
+      "Título VII",
+      "Título VI",
+      "Título VIII",
+      "Título IX"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2483,
+    "question": "¿Qué título constitucional contiene los artículos 137 a 158?",
+    "answer": "Título VIII",
+    "options": [
+      "Título VIII",
+      "Título VII",
+      "Título IX",
+      "Título X"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2484,
+    "question": "¿Qué título constitucional contiene los artículos 159 a 165?",
+    "answer": "Título IX",
+    "options": [
+      "Título IX",
+      "Título VIII",
+      "Título X",
+      "Título VII"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2485,
+    "question": "¿Qué disposición de la Constitución derogó las anteriores Leyes Fundamentales?",
+    "answer": "La derogatoria",
+    "options": [
+      "La derogatoria",
+      "La final",
+      "La adicional primera",
+      "La transitoria novena"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2486,
+    "question": "¿Qué iniciativa queda excluida de la reforma constitucional?",
+    "answer": "La iniciativa legislativa popular",
+    "options": [
+      "La iniciativa legislativa popular",
+      "La del Gobierno",
+      "La de las Asambleas autonómicas",
+      "La del Senado"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §3.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2487,
+    "question": "¿Qué fracción mínima de diputados puede suscribir una proposición de reforma constitucional?",
+    "answer": "Una quinta parte",
+    "options": [
+      "Una quinta parte",
+      "Una sexta parte",
+      "Una décima parte",
+      "Una cuarta parte"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §3.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2488,
+    "question": "¿Cuántos grupos parlamentarios del Congreso pueden suscribir conjuntamente una proposición de reforma constitucional?",
+    "answer": "2",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §3.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 3,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2489,
+    "question": "¿Cuántos senadores que no pertenezcan al mismo grupo exige el CEF para proponer una reforma constitucional?",
+    "answer": "50",
+    "options": [
+      "50",
+      "45",
+      "55",
+      "60"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §3.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 3,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2490,
+    "question": "¿Qué mayoría exige el Reglamento del Senado a las nuevas Cámaras para ratificar el principio de reforma agravada?",
+    "answer": "Mayoría absoluta",
+    "options": [
+      "Mayoría absoluta",
+      "Tres quintos",
+      "Dos tercios",
+      "Mayoría simple"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §3.3",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 3,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2491,
+    "question": "¿Qué carácter tiene el referéndum de reforma ordinaria cuando llega a solicitarse?",
+    "answer": "Facultativo y vinculante",
+    "options": [
+      "Facultativo y vinculante",
+      "Obligatorio y consultivo",
+      "Facultativo y consultivo",
+      "Obligatorio y no vinculante"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §3.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2492,
+    "question": "¿Qué carácter tiene el referéndum de reforma agravada del artículo 168?",
+    "answer": "Preceptivo y vinculante",
+    "options": [
+      "Preceptivo y vinculante",
+      "Facultativo y vinculante",
+      "Preceptivo y consultivo",
+      "Facultativo y consultivo"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §3.3",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2493,
+    "question": "¿Qué reforma constitucional se inició por el Parlamento balear, según el CEF?",
+    "answer": "La del artículo 69.3 en 2026",
+    "options": [
+      "La del artículo 69.3 en 2026",
+      "La del artículo 49 en 2024",
+      "La del artículo 135 en 2011",
+      "La del artículo 13.2 en 1992"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2494,
+    "question": "¿Cuándo aprobó el Congreso la reforma constitucional del artículo 69.3 en 2026?",
+    "answer": "26 de marzo de 2026",
+    "options": [
+      "26 de marzo de 2026",
+      "22 de marzo de 2026",
+      "26 de abril de 2026",
+      "22 de abril de 2026"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 3,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2495,
+    "question": "¿Cuándo aprobó el Senado la reforma constitucional del artículo 69.3 en 2026?",
+    "answer": "22 de abril de 2026",
+    "options": [
+      "22 de abril de 2026",
+      "26 de marzo de 2026",
+      "22 de marzo de 2026",
+      "26 de abril de 2026"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 3,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2496,
+    "question": "¿Cuándo se publicó en el BOE la reforma constitucional del artículo 49?",
+    "answer": "17 de febrero de 2024",
+    "options": [
+      "17 de febrero de 2024",
+      "15 de febrero de 2024",
+      "18 de febrero de 2024",
+      "25 de enero de 2024"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+    "reference": "CEF T1 §1.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 3,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2497,
+    "question": "En el procedimiento especial de tutela de derechos fundamentales de la LJCA, ¿qué plazo rige para interponer recurso?",
+    "answer": "10 días",
+    "options": [
+      "10 días",
+      "8 días",
+      "15 días",
+      "20 días"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "reference": "CEF T2 §2.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2498,
+    "question": "En el procedimiento especial de derechos fundamentales de la LJCA, ¿en qué plazo máximo debe remitirse el expediente administrativo?",
+    "answer": "5 días",
+    "options": [
+      "5 días",
+      "8 días",
+      "10 días",
+      "15 días"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "reference": "CEF T2 §2.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2499,
+    "question": "En el procedimiento especial de la LJCA, ¿qué plazo se concede para formalizar la demanda?",
+    "answer": "8 días",
+    "options": [
+      "8 días",
+      "5 días",
+      "10 días",
+      "15 días"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "reference": "CEF T2 §2.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2500,
+    "question": "En el procedimiento especial de derechos fundamentales de la LJCA, ¿cuál es la duración máxima del trámite de prueba?",
+    "answer": "20 días",
+    "options": [
+      "20 días",
+      "10 días",
+      "15 días",
+      "30 días"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "reference": "CEF T2 §2.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2501,
+    "question": "¿Qué ley regula la jurisdicción social y la tutela laboral de derechos fundamentales?",
+    "answer": "Ley 36/2011",
+    "options": [
+      "Ley 36/2011",
+      "Ley 29/1998",
+      "Ley 1/2000",
+      "Ley 6/1984"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "reference": "CEF T2 §2.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2502,
+    "question": "¿Qué ley regula el procedimiento especial contencioso-administrativo de tutela de derechos fundamentales?",
+    "answer": "Ley 29/1998",
+    "options": [
+      "Ley 29/1998",
+      "Ley 36/2011",
+      "Ley 1/2000",
+      "Ley 39/2015"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "reference": "CEF T2 §2.1",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2503,
+    "question": "¿Qué estados de excepción constitucional permiten la suspensión general de derechos del artículo 55.1?",
+    "answer": "Excepción y sitio",
+    "options": [
+      "Excepción y sitio",
+      "Alarma y excepción",
+      "Alarma y sitio",
+      "Alarma, excepción y sitio"
+    ],
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "reference": "CEF T2 §2.2",
+    "source": "CEF Organización del Estado, material del usuario",
+    "difficulty": 2,
+    "format": "memoria",
+    "origin": "nueva comprobada sobre el CEF"
   }
 ]
