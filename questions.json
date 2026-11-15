@@ -40990,20 +40990,20 @@
   },
   {
     "id": 2330,
-    "question": "¿Cuántos adjuntos asisten al Defensor del Pueblo?",
-    "answer": "2",
+    "question": "¿Con qué mayoría adopta sus acuerdos la Comisión Mixta de Relaciones con el Defensor del Pueblo?",
+    "answer": "Mayoría simple",
     "options": [
-      "2",
-      "4",
-      "3",
-      "1"
+      "Mayoría simple",
+      "Mayoría absoluta",
+      "Tres quintos",
+      "Dos tercios"
     ],
-    "reference": "LO 3/1981 art. 8",
+    "reference": "CEF T2 §3.1",
     "category": "Organización del Estado",
     "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "difficulty": 2,
-    "source": "CEF Organización del Estado, tema 2 (noviembre 2026); LO 3/1981 art. 8",
-    "origin": "nueva pregunta específica",
+    "source": "CEF Organización del Estado, Tema 2, material aportado",
+    "origin": "corrección de duplicado",
     "previous_id": 2540
   },
   {
@@ -43472,20 +43472,20 @@
   },
   {
     "id": 2457,
-    "question": "¿Qué artículo constitucional regula la composición del TC?",
-    "answer": "Artículo 159",
+    "question": "¿Qué norma de organización interna del Tribunal Constitucional cita el CEF como aprobada el 5 de julio de 1990?",
+    "answer": "Reglamento de Organización y Personal del Tribunal Constitucional",
     "options": [
-      "Artículo 160",
-      "Artículo 158",
-      "Artículo 159",
-      "Artículo 161"
+      "Reglamento de Organización y Personal del Tribunal Constitucional",
+      "Reglamento Orgánico del Consejo General del Poder Judicial",
+      "Reglamento de Procedimientos de las Cortes Generales",
+      "Reglamento de Relaciones con el Defensor del Pueblo"
     ],
-    "reference": "CE 159",
+    "reference": "CEF T3 §1.1",
     "category": "Organización del Estado",
     "topic": "Tema 3 · Tribunal Constitucional",
     "difficulty": 2,
-    "source": "CEF Organización del Estado, tema 3 (noviembre 2026); CE 159",
-    "origin": "nueva pregunta específica",
+    "source": "CEF Organización del Estado, Tema 3, material aportado",
+    "origin": "corrección de duplicado",
     "previous_id": 2818
   },
   {
