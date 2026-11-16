@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "updated": "2026-11-16",
+  "startDate": "2026-11-16",
+  "timezone": "Europe/Madrid",
+  "order": [
+    "defensor",
+    "tribunal",
+    "personal",
+    "directivo",
+    "fuentes",
+    "ley",
+    "derechos",
+    "constitucion",
+    "preliminar",
+    "estados",
+    "reforma",
+    "ue-origen",
+    "ue-modificativos",
+    "ue-adhesiones",
+    "ue-candidatos",
+    "ue-reforma",
+    "presupuesto",
+    "ciclo",
+    "gasto",
+    "lcsp1",
+    "lcsp2",
+    "interinos"
+  ],
+  "published": [
+    {
+      "date": "2026-11-16",
+      "id": "defensor",
+      "path": "hoy-estudiamos/defensor-del-pueblo.md",
+      "exam": {
+        "count": 25,
+        "includeSubtopics": [
+          "Defensor del Pueblo"
+        ],
+        "includeIds": [
+          49,
+          51,
+          53,
+          55,
+          57,
+          59,
+          61,
+          63,
+          65,
+          473,
+          2328,
+          2330,
+          2334
+        ],
+        "excludeInactive": true
+      }
+    }
+  ],
+  "instructions": "Los temas nuevos se publican como documentos .md largos en este repositorio y se añaden a published con date,id,path y exam. La web consulta GitHub: no se necesitan cambios en Netlify para cambiar documento o examen. El orden de 22 temas solo es un respaldo histórico y NO implica que todos hayan sido editados jurídicamente.",
+  "sources": {
+    "bank": "questions.json",
+    "curation": "data/curacion-defensor-conceptos.json",
+    "defensorExpansion": "data/ampliacion-defensor-unica-2026.json"
+  }
+}
