@@ -1,0 +1,629 @@
+[
+  {
+    "id": 900001,
+    "question": "Convocado el Pleno del Congreso tras proponerse un candidato a Defensor del Pueblo, ¿qué antelación mínima exige la ley?",
+    "answer": "10 días",
+    "options": [
+      "10 días",
+      "5 días",
+      "15 días",
+      "20 días"
+    ],
+    "reference": "LO 3/1981 art. 2.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 2.4 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900002,
+    "question": "¿Cuál es el plazo máximo para que el Senado ratifique la elección inicial del Defensor del Pueblo?",
+    "answer": "20 días",
+    "options": [
+      "20 días",
+      "10 días",
+      "15 días",
+      "1 mes"
+    ],
+    "reference": "LO 3/1981 art. 2.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 2.4 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900003,
+    "question": "Si no prospera la primera candidatura, ¿en qué plazo máximo deben formularse nuevas propuestas?",
+    "answer": "1 mes",
+    "options": [
+      "1 mes",
+      "15 días",
+      "2 meses",
+      "3 meses"
+    ],
+    "reference": "LO 3/1981 art. 2.5",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 2.5 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900004,
+    "question": "¿Quién presta conformidad previa al nombramiento de los adjuntos propuestos por el Defensor del Pueblo?",
+    "answer": "La Comisión Mixta Congreso-Senado",
+    "options": [
+      "La Comisión Mixta Congreso-Senado",
+      "El Consejo de Ministros",
+      "El Tribunal Constitucional",
+      "El CGPJ"
+    ],
+    "reference": "LO 3/1981 art. 2.6",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "inap",
+    "difficulty": 3,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 2.6 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900005,
+    "question": "¿Ante quién toma posesión el Defensor del Pueblo?",
+    "answer": "Las Mesas de ambas Cámaras reunidas conjuntamente",
+    "options": [
+      "Las Mesas de ambas Cámaras reunidas conjuntamente",
+      "El Rey en audiencia pública",
+      "El Congreso exclusivamente",
+      "El Presidente del Gobierno"
+    ],
+    "reference": "LO 3/1981 art. 4.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 4.2 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900006,
+    "question": "¿Qué autoridades acreditan conjuntamente el nombramiento del Defensor del Pueblo mediante sus firmas?",
+    "answer": "Los presidentes del Congreso y del Senado",
+    "options": [
+      "Los presidentes del Congreso y del Senado",
+      "El Rey y el presidente del Gobierno",
+      "El presidente del Congreso y el ministro de Justicia",
+      "Los presidentes del TC y del TS"
+    ],
+    "reference": "LO 3/1981 art. 4.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 4.1 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900007,
+    "question": "¿Por condena firme de qué clase de delito cesa el Defensor del Pueblo?",
+    "answer": "Delito doloso",
+    "options": [
+      "Delito doloso",
+      "Cualquier delito leve",
+      "Solo delitos contra la Administración",
+      "Delitos imprudentes exclusivamente"
+    ],
+    "reference": "LO 3/1981 art. 5.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 5.1 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900008,
+    "question": "Para acordar el cese por notoria negligencia del Defensor del Pueblo, ¿qué mayoría exige cada Cámara?",
+    "answer": "Tres quintos",
+    "options": [
+      "Tres quintos",
+      "Mayoría simple",
+      "Mayoría absoluta",
+      "Dos tercios"
+    ],
+    "reference": "LO 3/1981 art. 5.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "inap",
+    "difficulty": 3,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 5.2 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900009,
+    "question": "Vacante el cargo, ¿en qué plazo máximo debe iniciarse el nombramiento del nuevo Defensor del Pueblo?",
+    "answer": "1 mes",
+    "options": [
+      "1 mes",
+      "10 días",
+      "2 meses",
+      "6 meses"
+    ],
+    "reference": "LO 3/1981 art. 5.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 5.3 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900010,
+    "question": "¿Quién asume interinamente las funciones del Defensor del Pueblo hasta el nuevo nombramiento?",
+    "answer": "Los adjuntos, por su orden",
+    "options": [
+      "Los adjuntos, por su orden",
+      "El presidente del Congreso",
+      "El secretario general del Senado",
+      "La Comisión Mixta"
+    ],
+    "reference": "LO 3/1981 art. 5.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 5.4 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900011,
+    "question": "¿Está sujeto el Defensor del Pueblo a mandato imperativo o instrucciones de las autoridades?",
+    "answer": "No, actúa autónomamente",
+    "options": [
+      "No, actúa autónomamente",
+      "Sí, del Congreso",
+      "Sí, de la Comisión Mixta",
+      "Sí, del Gobierno"
+    ],
+    "reference": "LO 3/1981 art. 6.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 6.1 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900012,
+    "question": "Fuera de los actos cubiertos por la inviolabilidad, ¿cuándo puede ser detenido el Defensor del Pueblo en ejercicio?",
+    "answer": "En caso de flagrante delito",
+    "options": [
+      "En caso de flagrante delito",
+      "Si lo pide la Comisión Mixta",
+      "Por orden de cualquier juez",
+      "Si lo solicita el Gobierno"
+    ],
+    "reference": "LO 3/1981 art. 6.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "inap",
+    "difficulty": 3,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 6.3 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900013,
+    "question": "¿Qué órgano juzga penalmente al Defensor del Pueblo durante el ejercicio de su cargo, fuera de la inviolabilidad?",
+    "answer": "Sala de lo Penal del Tribunal Supremo",
+    "options": [
+      "Sala de lo Penal del Tribunal Supremo",
+      "Audiencia Nacional",
+      "Tribunal Constitucional",
+      "TSJ de Madrid"
+    ],
+    "reference": "LO 3/1981 art. 6.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 6.3 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900014,
+    "question": "¿En cuántos días desde su nombramiento debe cesar en las incompatibilidades el Defensor del Pueblo?",
+    "answer": "10 días",
+    "options": [
+      "10 días",
+      "5 días",
+      "15 días",
+      "1 mes"
+    ],
+    "reference": "LO 3/1981 art. 7.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 7.2 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900015,
+    "question": "¿Puede una autoridad administrativa presentar una queja sobre asuntos de su competencia?",
+    "answer": "No",
+    "options": [
+      "No",
+      "Sí, siempre",
+      "Solo con autorización gubernamental",
+      "Solo si es funcionario de carrera"
+    ],
+    "reference": "LO 3/1981 art. 10.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 10.3 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900016,
+    "question": "¿Puede presentar quejas una persona jurídica con interés legítimo ante el Defensor del Pueblo?",
+    "answer": "Sí",
+    "options": [
+      "Sí",
+      "No, solo personas físicas",
+      "Solo si es una Administración",
+      "Solo las empresas cotizadas"
+    ],
+    "reference": "LO 3/1981 art. 10.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "inap",
+    "difficulty": 3,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 10.1 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900017,
+    "question": "Disueltas las Cortes Generales, ¿se interrumpe la actividad del Defensor del Pueblo?",
+    "answer": "No",
+    "options": [
+      "No",
+      "Sí, hasta las nuevas Cámaras",
+      "Sí, salvo acuerdo gubernamental",
+      "Solo se suspende la recepción de quejas"
+    ],
+    "reference": "LO 3/1981 art. 11.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 11.1 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900018,
+    "question": "¿Qué relación tienen los órganos autonómicos análogos con el Defensor del Pueblo estatal?",
+    "answer": "Coordinan sus funciones y pueden cooperar",
+    "options": [
+      "Coordinan sus funciones y pueden cooperar",
+      "Están subordinados orgánicamente",
+      "Tienen competencia excluyente",
+      "No pueden compartir información"
+    ],
+    "reference": "LO 3/1981 art. 12.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 12.2 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900019,
+    "question": "¿A quién remite el Defensor del Pueblo las quejas sobre el funcionamiento de la Justicia, según el caso?",
+    "answer": "Al Ministerio Fiscal o al CGPJ",
+    "options": [
+      "Al Ministerio Fiscal o al CGPJ",
+      "Al Ministerio de Hacienda",
+      "Solo a la Abogacía del Estado",
+      "Al Tribunal de Cuentas"
+    ],
+    "reference": "LO 3/1981 art. 13",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 13 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900020,
+    "question": "En la Administración Militar, ¿cuál es un límite expreso a la actuación del Defensor del Pueblo?",
+    "answer": "No interferir en el mando de la Defensa Nacional",
+    "options": [
+      "No interferir en el mando de la Defensa Nacional",
+      "No supervisar derechos fundamentales",
+      "No tratar con autoridades militares",
+      "No recibir quejas del personal militar"
+    ],
+    "reference": "LO 3/1981 art. 14",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "inap",
+    "difficulty": 3,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 14 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900021,
+    "question": "¿Cuánto cuesta presentar una queja ante el Defensor del Pueblo?",
+    "answer": "Es gratuito y no exige letrado ni procurador",
+    "options": [
+      "Es gratuito y no exige letrado ni procurador",
+      "Se cobra una tasa estatal",
+      "Es obligatorio designar procurador",
+      "Se exige un depósito de 100 euros"
+    ],
+    "reference": "LO 3/1981 art. 15.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 15.2 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900022,
+    "question": "¿Puede ser censurada la correspondencia enviada al Defensor del Pueblo desde un centro de detención?",
+    "answer": "No",
+    "options": [
+      "No",
+      "Sí, si el director lo autoriza",
+      "Sí, por razones de conveniencia",
+      "Solo si el remitente carece de abogado"
+    ],
+    "reference": "LO 3/1981 art. 16.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 16.1 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900023,
+    "question": "¿Qué debe hacer el Defensor del Pueblo con las quejas anónimas?",
+    "answer": "Rechazarlas",
+    "options": [
+      "Rechazarlas",
+      "Tramitarlas si hay documentos",
+      "Admitirlas si son penales",
+      "Remitirlas al Congreso"
+    ],
+    "reference": "LO 3/1981 art. 17.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 17.3 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900024,
+    "question": "¿Qué ocurre con una queja individual pendiente de resolución judicial?",
+    "answer": "No se examina individualmente, sin perjuicio de investigar problemas generales",
+    "options": [
+      "No se examina individualmente, sin perjuicio de investigar problemas generales",
+      "Se anula la vía judicial",
+      "Se resuelve antes que el juez",
+      "Se remite siempre al Consejo de Estado"
+    ],
+    "reference": "LO 3/1981 art. 17.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "inap",
+    "difficulty": 3,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 17.2 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900025,
+    "question": "¿Con qué carácter deben auxiliar los poderes públicos al Defensor del Pueblo en sus investigaciones?",
+    "answer": "Preferente y urgente",
+    "options": [
+      "Preferente y urgente",
+      "Solo por acuerdo del Consejo de Ministros",
+      "En el plazo general de tres meses",
+      "Solo a petición del Congreso"
+    ],
+    "reference": "LO 3/1981 art. 19.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 19.1 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900026,
+    "question": "Si se pide respuesta escrita a un funcionario investigado, ¿qué plazo mínimo debe concedérsele?",
+    "answer": "10 días",
+    "options": [
+      "10 días",
+      "48 horas",
+      "5 días",
+      "1 mes"
+    ],
+    "reference": "LO 3/1981 art. 20.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 20.2 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900027,
+    "question": "¿Quién puede denegar el envío de documentos secretos requeridos por el Defensor del Pueblo?",
+    "answer": "El Consejo de Ministros",
+    "options": [
+      "El Consejo de Ministros",
+      "El secretario de Estado",
+      "El presidente del Congreso",
+      "El director del organismo"
+    ],
+    "reference": "LO 3/1981 art. 22.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 22.1 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900028,
+    "question": "¿Puede el Defensor del Pueblo anular por sí solo actos y resoluciones administrativos?",
+    "answer": "No; puede sugerir modificar criterios",
+    "options": [
+      "No; puede sugerir modificar criterios",
+      "Sí, mediante resolución ejecutiva",
+      "Sí, si el acto vulnera una ley orgánica",
+      "Solo con aprobación del Senado"
+    ],
+    "reference": "LO 3/1981 art. 28.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "inap",
+    "difficulty": 3,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 28.1 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900029,
+    "question": "¿En qué plazo máximo deben responder las autoridades por escrito a recomendaciones del Defensor del Pueblo?",
+    "answer": "1 mes",
+    "options": [
+      "1 mes",
+      "15 días",
+      "2 meses",
+      "3 meses"
+    ],
+    "reference": "LO 3/1981 art. 30.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 30.1 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900030,
+    "question": "¿Con qué periodicidad debe presentar el Defensor del Pueblo informe ordinario de su gestión a las Cortes?",
+    "answer": "Anualmente",
+    "options": [
+      "Anualmente",
+      "Cada dos años",
+      "Semestralmente",
+      "Al terminar el mandato"
+    ],
+    "reference": "LO 3/1981 art. 32.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 32.1 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900031,
+    "question": "¿A qué órgano se dirige el informe extraordinario cuando las Cámaras no se encuentran reunidas?",
+    "answer": "A las Diputaciones Permanentes",
+    "options": [
+      "A las Diputaciones Permanentes",
+      "Solo al Gobierno",
+      "Al Consejo de Estado",
+      "Al Tribunal Constitucional"
+    ],
+    "reference": "LO 3/1981 art. 32.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 32.2 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900032,
+    "question": "¿En qué presupuestos se integra la dotación económica del Defensor del Pueblo?",
+    "answer": "En los presupuestos de las Cortes Generales",
+    "options": [
+      "En los presupuestos de las Cortes Generales",
+      "En los del Ministerio del Interior",
+      "En los del Tribunal Constitucional",
+      "En los del CGPJ"
+    ],
+    "reference": "LO 3/1981 art. 37",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "inap",
+    "difficulty": 3,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo 37 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  },
+  {
+    "id": 900033,
+    "question": "¿Qué función adicional atribuye al Defensor del Pueblo la disposición final única de su ley orgánica?",
+    "answer": "Mecanismo Nacional de Prevención de la Tortura",
+    "options": [
+      "Mecanismo Nacional de Prevención de la Tortura",
+      "Fiscalización del Tribunal de Cuentas",
+      "Presidencia del Consejo de Estado",
+      "Dirección de la Policía Judicial"
+    ],
+    "reference": "LO 3/1981, disposición final única",
+    "category": "Organización del Estado",
+    "topic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
+    "subtopic": "Defensor del Pueblo",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1981-10325, texto consolidado",
+    "explanation": "Consulta el artículo disposición final única de la Ley Orgánica 3/1981 y su contexto en el BOE."
+  }
+]
