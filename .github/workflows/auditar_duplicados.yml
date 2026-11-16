@@ -1,0 +1,50 @@
+name: GACE - Auditoría de preguntas repetidas
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/reemplazos_duplicados_constitucion_2026.json'
+      - 'scripts/auditar_duplicados.py'
+      - '.github/workflows/auditar_duplicados.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  limpiar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Corregir repetidas y documentar sospechosas
+        run: python scripts/auditar_duplicados.py
+      - name: Validar IDs, opciones y preguntas
+        run: |
+          python - <<'PY'
+          import json
+          b=json.load(open("questions.json",encoding="utf-8"))
+          a=json.load(open("auditorias/duplicados_2026_11_16.json",encoding="utf-8"))
+          assert len(b)==2584
+          assert all(q["id"]==i+1 for i,q in enumerate(b))
+          assert all(len(set(q["options"]))==4 and q["answer"] in q["options"] for q in b)
+          assert a["replacement_count"]==38
+          print("Banco validado: ",len(b)," preguntas, 38 duplicados sustituidos")
+          PY
+      - name: Publicar banco y auditoría en GitHub
+        run: |
+          git config user.name "GACE banco automático"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add questions.json auditorias/duplicados_2026_11_16.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios"
+            exit 0
+          fi
+          git commit -m "Reducir preguntas repetidas en Constitución y RRHH; auditar banco"
+          git push origin HEAD:main
