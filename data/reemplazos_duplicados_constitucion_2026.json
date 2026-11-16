@@ -1,0 +1,500 @@
+{
+  "version": "2026-11-16",
+  "source": "BOE Constitución vigente y CEF",
+  "replacements": [
+    {
+      "id": 68,
+      "question": "¿Permite la Constitución ocupar simultáneamente un escaño en el Congreso y otro en el Senado?",
+      "answer": "No",
+      "alternatives": [
+        "Sí, sin requisitos",
+        "Sí, con autorización de las Mesas",
+        "Sí, si se pertenece a la misma provincia"
+      ],
+      "reference": "CE, art. 67.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 70,
+      "question": "¿Están sometidos a mandato imperativo los miembros de las Cortes Generales?",
+      "answer": "No",
+      "alternatives": [
+        "Sí, por sus electores",
+        "Sí, por los partidos",
+        "Sí, solo los senadores autonómicos"
+      ],
+      "reference": "CE, art. 67.2",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 72,
+      "question": "¿Cuál es la circunscripción electoral del Congreso de los Diputados?",
+      "answer": "La provincia",
+      "alternatives": [
+        "La comunidad autónoma",
+        "El partido judicial",
+        "Todo el Estado como circunscripción única"
+      ],
+      "reference": "CE, art. 68.2",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 74,
+      "question": "¿Qué criterio constitucional rige la elección de diputados en cada circunscripción del Congreso?",
+      "answer": "Representación proporcional",
+      "alternatives": [
+        "Mayoría simple uninominal",
+        "Representación corporativa",
+        "Designación por el Senado"
+      ],
+      "reference": "CE, art. 68.3",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 76,
+      "question": "¿Quiénes son electores y elegibles para el Congreso, conforme a la Constitución?",
+      "answer": "Los españoles en pleno uso de sus derechos políticos",
+      "alternatives": [
+        "Solo quienes tengan más de 25 años",
+        "Solo quienes residan en España",
+        "Únicamente funcionarios y cargos electos"
+      ],
+      "reference": "CE, art. 68.5",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 78,
+      "question": "¿Qué Cámara de las Cortes Generales se define constitucionalmente como de representación territorial?",
+      "answer": "El Senado",
+      "alternatives": [
+        "El Congreso",
+        "Ambas Cámaras con la misma definición",
+        "El Parlamento Europeo"
+      ],
+      "reference": "CE, art. 69.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 80,
+      "question": "¿Qué tres islas eligen tres senadores cada una según el artículo 69.3 CE?",
+      "answer": "Gran Canaria, Mallorca y Tenerife",
+      "alternatives": [
+        "Lanzarote, Ibiza y La Palma",
+        "Menorca, La Gomera y El Hierro",
+        "Fuerteventura, Mallorca y La Palma"
+      ],
+      "reference": "CE, art. 69.3",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 82,
+      "question": "¿A quién corresponde designar los senadores de representación autonómica?",
+      "answer": "A la Asamblea legislativa o al órgano colegiado superior de la comunidad",
+      "alternatives": [
+        "Al Gobierno central exclusivamente",
+        "Al Senado directamente",
+        "A las diputaciones provinciales siempre"
+      ],
+      "reference": "CE, art. 69.5",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 84,
+      "question": "¿Qué norma establece las causas de inelegibilidad e incompatibilidad de diputados y senadores?",
+      "answer": "La ley electoral",
+      "alternatives": [
+        "El Reglamento del Senado exclusivamente",
+        "Una orden ministerial",
+        "El acuerdo anual del Consejo de Ministros"
+      ],
+      "reference": "CE, art. 70.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 86,
+      "question": "¿Qué prerrogativa protege las opiniones expresadas por diputados y senadores en el ejercicio de sus funciones?",
+      "answer": "La inviolabilidad",
+      "alternatives": [
+        "La extraterritorialidad",
+        "La inmunidad absoluta ante cualquier delito",
+        "El aforamiento municipal"
+      ],
+      "reference": "CE, art. 71.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 88,
+      "question": "¿Quién aprueba los reglamentos internos del Congreso y del Senado?",
+      "answer": "Cada Cámara autónomamente",
+      "alternatives": [
+        "El Gobierno por decreto",
+        "El Tribunal Constitucional",
+        "Las Cortes reunidas siempre en sesión conjunta"
+      ],
+      "reference": "CE, art. 72.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 90,
+      "question": "¿Quién elige a los presidentes y demás miembros de las Mesas del Congreso y del Senado?",
+      "answer": "Cada Cámara",
+      "alternatives": [
+        "El Rey",
+        "El Gobierno",
+        "El Consejo General del Poder Judicial"
+      ],
+      "reference": "CE, art. 72.2",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 92,
+      "question": "¿Cuáles son los períodos ordinarios de sesiones de las Cámaras?",
+      "answer": "De septiembre a diciembre y de febrero a junio",
+      "alternatives": [
+        "De enero a junio y de julio a diciembre",
+        "De octubre a mayo exclusivamente",
+        "De enero a marzo y de julio a septiembre"
+      ],
+      "reference": "CE, art. 73.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 94,
+      "question": "¿Qué tres sujetos pueden pedir una sesión extraordinaria de una Cámara?",
+      "answer": "El Gobierno, la Diputación Permanente o la mayoría absoluta de sus miembros",
+      "alternatives": [
+        "Solo el Rey",
+        "Solo la Presidencia del Gobierno y el Senado",
+        "El Defensor del Pueblo, el fiscal y el TC"
+      ],
+      "reference": "CE, art. 73.2",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 96,
+      "question": "¿Quién preside las sesiones conjuntas de las Cortes Generales?",
+      "answer": "El presidente del Congreso",
+      "alternatives": [
+        "El presidente del Senado",
+        "El Rey",
+        "El presidente del Gobierno"
+      ],
+      "reference": "CE, art. 74.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 98,
+      "question": "¿A través de qué órganos funcionan las Cámaras de las Cortes Generales?",
+      "answer": "El Pleno y las comisiones",
+      "alternatives": [
+        "Únicamente la Mesa",
+        "Exclusivamente el Pleno",
+        "Solo las Diputaciones Permanentes"
+      ],
+      "reference": "CE, art. 75.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 100,
+      "question": "¿Qué materia NO puede delegarse en comisiones legislativas permanentes para su aprobación definitiva?",
+      "answer": "La reforma constitucional",
+      "alternatives": [
+        "Una ley ordinaria sobre tráfico",
+        "Una ley ordinaria de patrimonio",
+        "Una norma ordinaria sobre ferias"
+      ],
+      "reference": "CE, art. 75.3",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 102,
+      "question": "¿Son vinculantes para los tribunales las conclusiones de una comisión parlamentaria de investigación?",
+      "answer": "No",
+      "alternatives": [
+        "Sí, con fuerza de sentencia",
+        "Sí, si las aprueba el Senado",
+        "Sí, cuando las firma el presidente de la comisión"
+      ],
+      "reference": "CE, art. 76.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 104,
+      "question": "¿Cómo pueden recibir las Cámaras peticiones individuales y colectivas de los ciudadanos?",
+      "answer": "Siempre por escrito",
+      "alternatives": [
+        "Solo mediante comparecencia oral",
+        "Solo a través del Ministerio del Interior",
+        "Únicamente por referéndum"
+      ],
+      "reference": "CE, art. 77.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 106,
+      "question": "¿Puede un diputado delegar su voto parlamentario según la regla general del artículo 79 CE?",
+      "answer": "No, el voto es personal e indelegable",
+      "alternatives": [
+        "Sí, en cualquier otro diputado",
+        "Sí, mediante poder notarial",
+        "Sí, siempre en su grupo parlamentario"
+      ],
+      "reference": "CE, art. 79.3",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 108,
+      "question": "¿Son públicas las sesiones plenarias de las Cámaras con carácter general?",
+      "answer": "Sí, salvo las excepciones constitucionales y reglamentarias",
+      "alternatives": [
+        "No, son secretas por defecto",
+        "Solo las sesiones del Senado",
+        "Solo las sesiones para aprobación de presupuestos"
+      ],
+      "reference": "CE, art. 80",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 110,
+      "question": "¿Qué mayoría necesita el Congreso en la votación final sobre el conjunto para aprobar una ley orgánica?",
+      "answer": "Mayoría absoluta",
+      "alternatives": [
+        "Mayoría simple",
+        "Tres quintos",
+        "Dos tercios"
+      ],
+      "reference": "CE, art. 81.2",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 112,
+      "question": "¿Se permite subdelegar la delegación legislativa concedida al Gobierno?",
+      "answer": "No",
+      "alternatives": [
+        "Sí, al ministro competente",
+        "Sí, a cualquier órgano autonómico",
+        "Sí, al Consejo de Estado"
+      ],
+      "reference": "CE, art. 82.3",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 114,
+      "question": "¿Puede una ley de bases autorizar normas con carácter retroactivo?",
+      "answer": "No",
+      "alternatives": [
+        "Sí, en cualquier materia",
+        "Sí, si el Gobierno lo acuerda",
+        "Sí, mediante orden ministerial"
+      ],
+      "reference": "CE, art. 83.b",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 116,
+      "question": "¿En qué plazo debe el Congreso debatir la convalidación o derogación de un decreto-ley?",
+      "answer": "30 días desde su promulgación",
+      "alternatives": [
+        "15 días desde su aprobación",
+        "Dos meses desde su publicación",
+        "90 días desde su entrada en vigor"
+      ],
+      "reference": "CE, art. 86.2",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 118,
+      "question": "¿Cuántas firmas acreditadas exige como mínimo la iniciativa legislativa popular?",
+      "answer": "500.000",
+      "alternatives": [
+        "100.000",
+        "250.000",
+        "1.000.000"
+      ],
+      "reference": "CE, art. 87.3",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 120,
+      "question": "¿Quién convoca un referéndum consultivo previsto en el artículo 92 CE?",
+      "answer": "El Rey, a propuesta del presidente del Gobierno y previa autorización del Congreso",
+      "alternatives": [
+        "El presidente del Congreso directamente",
+        "El Tribunal Constitucional",
+        "El Consejo de Ministros sin intervención de otro órgano"
+      ],
+      "reference": "CE, art. 92.2",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 122,
+      "question": "¿Qué institución debe autorizar previamente los tratados internacionales de carácter político del artículo 94 CE?",
+      "answer": "Las Cortes Generales",
+      "alternatives": [
+        "El Consejo General del Poder Judicial",
+        "El Tribunal Constitucional en todo caso",
+        "El Defensor del Pueblo"
+      ],
+      "reference": "CE, art. 94.1.a",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 124,
+      "question": "¿Quién propone un candidato a la Presidencia del Gobierno tras las consultas constitucionales?",
+      "answer": "El Rey a través del presidente del Congreso",
+      "alternatives": [
+        "El presidente del Senado en exclusiva",
+        "El Tribunal Constitucional",
+        "El Consejo de Estado"
+      ],
+      "reference": "CE, art. 99.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 126,
+      "question": "¿A propuesta de quién nombra y separa el Rey a los ministros?",
+      "answer": "Del presidente del Gobierno",
+      "alternatives": [
+        "Del presidente del Congreso",
+        "Del Fiscal General del Estado",
+        "Del presidente del Tribunal Supremo"
+      ],
+      "reference": "CE, art. 100",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 128,
+      "question": "¿Cuál de estos hechos produce el cese del Gobierno conforme al artículo 101 CE?",
+      "answer": "La celebración de elecciones generales",
+      "alternatives": [
+        "La aprobación anual de los PGE",
+        "La renovación parcial del Tribunal Constitucional",
+        "El inicio del período ordinario de sesiones"
+      ],
+      "reference": "CE, art. 101.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 130,
+      "question": "¿Ante qué órgano se exige la responsabilidad criminal del presidente del Gobierno?",
+      "answer": "Ante la Sala de lo Penal del Tribunal Supremo",
+      "alternatives": [
+        "Ante el Tribunal Constitucional",
+        "Ante la Audiencia Provincial",
+        "Ante el Tribunal de Cuentas"
+      ],
+      "reference": "CE, art. 102.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 132,
+      "question": "¿A qué intereses sirve con objetividad la Administración pública según la Constitución?",
+      "answer": "A los intereses generales",
+      "alternatives": [
+        "A los intereses de los partidos gobernantes",
+        "A los intereses corporativos de sus empleados",
+        "A los intereses particulares de sus directivos"
+      ],
+      "reference": "CE, art. 103.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 134,
+      "question": "¿Qué carácter tiene el Consejo de Estado según la Constitución?",
+      "answer": "Supremo órgano consultivo del Gobierno",
+      "alternatives": [
+        "Supremo órgano judicial",
+        "Cámara legislativa territorial",
+        "Órgano de control de constitucionalidad"
+      ],
+      "reference": "CE, art. 107",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 136,
+      "question": "¿Quién declara el estado de sitio según el artículo 116 CE?",
+      "answer": "El Congreso por mayoría absoluta, a propuesta exclusiva del Gobierno",
+      "alternatives": [
+        "El Rey mediante decreto",
+        "El Senado por mayoría simple",
+        "El presidente del Gobierno sin autorización parlamentaria"
+      ],
+      "reference": "CE, art. 116.4",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 138,
+      "question": "¿Cuál es la duración máxima inicial del estado de alarma conforme al artículo 116 CE?",
+      "answer": "15 días",
+      "alternatives": [
+        "7 días",
+        "30 días",
+        "60 días"
+      ],
+      "reference": "CE, art. 116.2",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "id": 1380,
+      "question": "¿Qué número de la Constitución atribuye al Estado las bases del régimen estatutario de los funcionarios públicos?",
+      "answer": "Artículo 149.1.18.ª CE",
+      "alternatives": [
+        "Artículo 23.2 CE",
+        "Artículo 103.1 CE",
+        "Artículo 155.1 CE"
+      ],
+      "reference": "CE, art. 149.1.18.ª",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "id": 1381,
+      "question": "¿Qué principios expresos menciona el artículo 103.3 CE para el acceso a la función pública?",
+      "answer": "Mérito y capacidad",
+      "alternatives": [
+        "Publicidad y concurrencia mercantil",
+        "Gratuidad y jerarquía",
+        "Igualdad tributaria y progresividad"
+      ],
+      "reference": "CE, art. 103.3",
+      "difficulty": 3,
+      "format": "inap"
+    }
+  ]
+}
