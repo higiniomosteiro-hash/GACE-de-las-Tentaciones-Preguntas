@@ -1,0 +1,54 @@
+name: GACE - Corregir y ampliar Defensor del Pueblo
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/defensor_refuerzo_2026.json'
+      - 'scripts/reforzar_defensor.py'
+      - '.github/workflows/refuerzo_defensor.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar-defensor-main
+  cancel-in-progress: false
+
+jobs:
+  publicar-banco:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Corregir duplicados y ampliar Defensor sin tocar IDs previos
+        run: python scripts/reforzar_defensor.py
+      - name: Validación estricta del banco
+        run: |
+          python - <<'PY'
+          import json
+          a=json.load(open('questions.json',encoding='utf-8'))
+          assert len(a)>=2584,len(a)
+          assert all(q['id']==i+1 for i,q in enumerate(a))
+          assert all(len(q['options'])==4 and q['answer'] in q['options'] for q in a)
+          focus=[q for q in a if q['category']=='Organización del Estado' and q['topic']=='Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo']
+          assert len(focus)>=90,len(focus)
+          print("Validado:",len(a),"preguntas; Defensor:",len(focus))
+          PY
+      - name: Publicar banco actualizado en main
+        run: |
+          if git diff --quiet -- questions.json; then
+            echo 'Sin cambios que publicar'
+            exit 0
+          fi
+          git config user.name "GACE banco automático"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add questions.json
+          git commit -m "Corregir repetidas del Defensor y ampliar banco sin reiniciar progreso"
+          git push origin HEAD:main
