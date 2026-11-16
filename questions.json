@@ -1055,18 +1055,20 @@
   },
   {
     "id": 68,
-    "question": "¿Cuánto dura la legislatura del Congreso, salvo disolución anticipada?",
-    "answer": "4 años",
+    "question": "¿Permite la Constitución ocupar simultáneamente un escaño en el Congreso y otro en el Senado?",
+    "answer": "No",
     "options": [
-      "6 años",
-      "4 años",
-      "3 años",
-      "5 años"
+      "No",
+      "Sí, sin requisitos",
+      "Sí, con autorización de las Mesas",
+      "Sí, si se pertenece a la misma provincia"
     ],
-    "reference": "CE 68.4",
+    "reference": "CE, art. 67.1",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 1
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 67.1."
   },
   {
     "id": 69,
@@ -1085,18 +1087,20 @@
   },
   {
     "id": 70,
-    "question": "¿Cuál es la duración ordinaria del mandato de los senadores?",
-    "answer": "4 años",
+    "question": "¿Están sometidos a mandato imperativo los miembros de las Cortes Generales?",
+    "answer": "No",
     "options": [
-      "5 años",
-      "6 años",
-      "3 años",
-      "4 años"
+      "Sí, por sus electores",
+      "Sí, por los partidos",
+      "No",
+      "Sí, solo los senadores autonómicos"
     ],
-    "reference": "CE 69.6",
+    "reference": "CE, art. 67.2",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 67.2."
   },
   {
     "id": 71,
@@ -1115,18 +1119,20 @@
   },
   {
     "id": 72,
-    "question": "Según la Constitución, ¿cuál es el número mínimo de diputados?",
-    "answer": "300",
+    "question": "¿Cuál es la circunscripción electoral del Congreso de los Diputados?",
+    "answer": "La provincia",
     "options": [
-      "400",
-      "300",
-      "350",
-      "250"
+      "La provincia",
+      "La comunidad autónoma",
+      "El partido judicial",
+      "Todo el Estado como circunscripción única"
     ],
-    "reference": "CE 68.1",
+    "reference": "CE, art. 68.2",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 68.2."
   },
   {
     "id": 73,
@@ -1145,18 +1151,20 @@
   },
   {
     "id": 74,
-    "question": "Según la Constitución, ¿cuál es el número máximo de diputados?",
-    "answer": "400",
+    "question": "¿Qué criterio constitucional rige la elección de diputados en cada circunscripción del Congreso?",
+    "answer": "Representación proporcional",
     "options": [
-      "450",
-      "300",
-      "350",
-      "400"
+      "Mayoría simple uninominal",
+      "Representación corporativa",
+      "Representación proporcional",
+      "Designación por el Senado"
     ],
-    "reference": "CE 68.1",
+    "reference": "CE, art. 68.3",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 68.3."
   },
   {
     "id": 75,
@@ -1175,18 +1183,20 @@
   },
   {
     "id": 76,
-    "question": "¿Qué número de senadores corresponde elegir a cada provincia peninsular?",
-    "answer": "4",
+    "question": "¿Quiénes son electores y elegibles para el Congreso, conforme a la Constitución?",
+    "answer": "Los españoles en pleno uso de sus derechos políticos",
     "options": [
-      "4",
-      "2",
-      "5",
-      "3"
+      "Los españoles en pleno uso de sus derechos políticos",
+      "Solo quienes tengan más de 25 años",
+      "Solo quienes residan en España",
+      "Únicamente funcionarios y cargos electos"
     ],
-    "reference": "CE 69.2",
+    "reference": "CE, art. 68.5",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 1
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 68.5."
   },
   {
     "id": 77,
@@ -1205,18 +1215,20 @@
   },
   {
     "id": 78,
-    "question": "En las islas mayores contempladas en la Constitución, ¿cuántos senadores se eligen por isla?",
-    "answer": "3",
+    "question": "¿Qué Cámara de las Cortes Generales se define constitucionalmente como de representación territorial?",
+    "answer": "El Senado",
     "options": [
-      "4",
-      "3",
-      "1",
-      "2"
+      "El Congreso",
+      "Ambas Cámaras con la misma definición",
+      "El Senado",
+      "El Parlamento Europeo"
     ],
-    "reference": "CE 69.3",
+    "reference": "CE, art. 69.1",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 1
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 69.1."
   },
   {
     "id": 79,
@@ -1235,18 +1247,20 @@
   },
   {
     "id": 80,
-    "question": "En las islas menores o agrupaciones insulares, ¿cuántos senadores se eligen en cada circunscripción?",
-    "answer": "1",
+    "question": "¿Qué tres islas eligen tres senadores cada una según el artículo 69.3 CE?",
+    "answer": "Gran Canaria, Mallorca y Tenerife",
     "options": [
-      "1",
-      "3",
-      "4",
-      "2"
+      "Gran Canaria, Mallorca y Tenerife",
+      "Lanzarote, Ibiza y La Palma",
+      "Menorca, La Gomera y El Hierro",
+      "Fuerteventura, Mallorca y La Palma"
     ],
-    "reference": "CE 69.3",
+    "reference": "CE, art. 69.3",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 1
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 69.3."
   },
   {
     "id": 81,
@@ -1265,18 +1279,20 @@
   },
   {
     "id": 82,
-    "question": "¿Cuántos representantes en el Senado elige la ciudad de Ceuta?",
-    "answer": "2",
+    "question": "¿A quién corresponde designar los senadores de representación autonómica?",
+    "answer": "A la Asamblea legislativa o al órgano colegiado superior de la comunidad",
     "options": [
-      "2",
-      "3",
-      "4",
-      "1"
+      "Al Gobierno central exclusivamente",
+      "Al Senado directamente",
+      "A la Asamblea legislativa o al órgano colegiado superior de la comunidad",
+      "A las diputaciones provinciales siempre"
     ],
-    "reference": "CE 69.4",
+    "reference": "CE, art. 69.5",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 69.5."
   },
   {
     "id": 83,
@@ -1295,18 +1311,20 @@
   },
   {
     "id": 84,
-    "question": "¿Cuántos representantes en el Senado elige la ciudad de Melilla?",
-    "answer": "2",
+    "question": "¿Qué norma establece las causas de inelegibilidad e incompatibilidad de diputados y senadores?",
+    "answer": "La ley electoral",
     "options": [
-      "4",
-      "2",
-      "3",
-      "1"
+      "La ley electoral",
+      "El Reglamento del Senado exclusivamente",
+      "Una orden ministerial",
+      "El acuerdo anual del Consejo de Ministros"
     ],
-    "reference": "CE 69.4",
+    "reference": "CE, art. 70.1",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 70.1."
   },
   {
     "id": 85,
@@ -1325,18 +1343,20 @@
   },
   {
     "id": 86,
-    "question": "¿Cuántos senadores corresponden de partida a cada comunidad autónoma?",
-    "answer": "1",
+    "question": "¿Qué prerrogativa protege las opiniones expresadas por diputados y senadores en el ejercicio de sus funciones?",
+    "answer": "La inviolabilidad",
     "options": [
-      "4",
-      "2",
-      "1",
-      "3"
+      "La extraterritorialidad",
+      "La inmunidad absoluta ante cualquier delito",
+      "La inviolabilidad",
+      "El aforamiento municipal"
     ],
-    "reference": "CE 69.5",
+    "reference": "CE, art. 71.1",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 1
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 71.1."
   },
   {
     "id": 87,
@@ -1355,18 +1375,20 @@
   },
   {
     "id": 88,
-    "question": "¿Qué población da derecho a un senador autonómico adicional?",
-    "answer": "1 millón",
+    "question": "¿Quién aprueba los reglamentos internos del Congreso y del Senado?",
+    "answer": "Cada Cámara autónomamente",
     "options": [
-      "500.000",
-      "250.000",
-      "1 millón",
-      "2 millones"
+      "Cada Cámara autónomamente",
+      "El Gobierno por decreto",
+      "El Tribunal Constitucional",
+      "Las Cortes reunidas siempre en sesión conjunta"
     ],
-    "reference": "CE 69.5",
+    "reference": "CE, art. 72.1",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 72.1."
   },
   {
     "id": 89,
@@ -1385,18 +1407,20 @@
   },
   {
     "id": 90,
-    "question": "Tras unas elecciones generales, ¿en qué plazo debe convocarse el Congreso electo?",
-    "answer": "25 días",
+    "question": "¿Quién elige a los presidentes y demás miembros de las Mesas del Congreso y del Senado?",
+    "answer": "Cada Cámara",
     "options": [
-      "20 días",
-      "25 días",
-      "30 días",
-      "15 días"
+      "El Rey",
+      "El Gobierno",
+      "Cada Cámara",
+      "El Consejo General del Poder Judicial"
     ],
-    "reference": "CE 68.6",
+    "reference": "CE, art. 72.2",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 72.2."
   },
   {
     "id": 91,
@@ -1415,18 +1439,20 @@
   },
   {
     "id": 92,
-    "question": "¿Qué mayoría de una Cámara puede pedir que se reúna en sesión extraordinaria?",
-    "answer": "mayoría absoluta",
+    "question": "¿Cuáles son los períodos ordinarios de sesiones de las Cámaras?",
+    "answer": "De septiembre a diciembre y de febrero a junio",
     "options": [
-      "mayoría absoluta",
-      "1/5",
-      "3/5",
-      "1/3"
+      "De septiembre a diciembre y de febrero a junio",
+      "De enero a junio y de julio a diciembre",
+      "De octubre a mayo exclusivamente",
+      "De enero a marzo y de julio a septiembre"
     ],
-    "reference": "CE 73.2",
+    "reference": "CE, art. 73.1",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 73.1."
   },
   {
     "id": 93,
@@ -1445,18 +1471,20 @@
   },
   {
     "id": 94,
-    "question": "¿Qué proporción de diputados o senadores puede exigir referéndum sobre una reforma ordinaria?",
-    "answer": "1/10",
+    "question": "¿Qué tres sujetos pueden pedir una sesión extraordinaria de una Cámara?",
+    "answer": "El Gobierno, la Diputación Permanente o la mayoría absoluta de sus miembros",
     "options": [
-      "1/3",
-      "1/4",
-      "1/5",
-      "1/10"
+      "Solo el Rey",
+      "Solo la Presidencia del Gobierno y el Senado",
+      "El Gobierno, la Diputación Permanente o la mayoría absoluta de sus miembros",
+      "El Defensor del Pueblo, el fiscal y el TC"
     ],
-    "reference": "CE 167.3",
+    "reference": "CE, art. 73.2",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 73.2."
   },
   {
     "id": 95,
@@ -1475,18 +1503,20 @@
   },
   {
     "id": 96,
-    "question": "Después de aprobarse una reforma ordinaria, ¿cuántos días hay para solicitar referéndum?",
-    "answer": "15 días",
+    "question": "¿Quién preside las sesiones conjuntas de las Cortes Generales?",
+    "answer": "El presidente del Congreso",
     "options": [
-      "20 días",
-      "10 días",
-      "15 días",
-      "30 días"
+      "El presidente del Congreso",
+      "El presidente del Senado",
+      "El Rey",
+      "El presidente del Gobierno"
     ],
-    "reference": "CE 167.3",
+    "reference": "CE, art. 74.1",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 74.1."
   },
   {
     "id": 97,
@@ -1505,18 +1535,20 @@
   },
   {
     "id": 98,
-    "question": "Para aprobar una reforma ordinaria por el procedimiento general, ¿qué mayoría necesita cada Cámara?",
-    "answer": "3/5",
+    "question": "¿A través de qué órganos funcionan las Cámaras de las Cortes Generales?",
+    "answer": "El Pleno y las comisiones",
     "options": [
-      "2/3",
-      "mayoría absoluta",
-      "mayoría simple",
-      "3/5"
+      "Únicamente la Mesa",
+      "Exclusivamente el Pleno",
+      "El Pleno y las comisiones",
+      "Solo las Diputaciones Permanentes"
     ],
-    "reference": "CE 167.1",
+    "reference": "CE, art. 75.1",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 75.1."
   },
   {
     "id": 99,
@@ -1535,18 +1567,20 @@
   },
   {
     "id": 100,
-    "question": "En el artículo 167.2 CE, ¿qué mayoría del Senado permite acudir a la vía alternativa?",
-    "answer": "mayoría absoluta",
+    "question": "¿Qué materia NO puede delegarse en comisiones legislativas permanentes para su aprobación definitiva?",
+    "answer": "La reforma constitucional",
     "options": [
-      "mayoría absoluta",
-      "2/3",
-      "3/5",
-      "mayoría simple"
+      "La reforma constitucional",
+      "Una ley ordinaria sobre tráfico",
+      "Una ley ordinaria de patrimonio",
+      "Una norma ordinaria sobre ferias"
     ],
-    "reference": "CE 167.2",
+    "reference": "CE, art. 75.3",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 75.3."
   },
   {
     "id": 101,
@@ -1565,18 +1599,20 @@
   },
   {
     "id": 102,
-    "question": "Si se aplica la vía alternativa del artículo 167.2 CE, ¿qué mayoría necesita el Congreso?",
-    "answer": "2/3",
+    "question": "¿Son vinculantes para los tribunales las conclusiones de una comisión parlamentaria de investigación?",
+    "answer": "No",
     "options": [
-      "mayoría simple",
-      "mayoría absoluta",
-      "2/3",
-      "3/5"
+      "Sí, con fuerza de sentencia",
+      "Sí, si las aprueba el Senado",
+      "No",
+      "Sí, cuando las firma el presidente de la comisión"
     ],
-    "reference": "CE 167.2",
+    "reference": "CE, art. 76.1",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 3
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 76.1."
   },
   {
     "id": 103,
@@ -1595,18 +1631,20 @@
   },
   {
     "id": 104,
-    "question": "En la primera fase de la reforma agravada, ¿con qué mayoría deben pronunciarse ambas Cámaras?",
-    "answer": "2/3",
+    "question": "¿Cómo pueden recibir las Cámaras peticiones individuales y colectivas de los ciudadanos?",
+    "answer": "Siempre por escrito",
     "options": [
-      "mayoría simple",
-      "3/5",
-      "mayoría absoluta",
-      "2/3"
+      "Siempre por escrito",
+      "Solo mediante comparecencia oral",
+      "Solo a través del Ministerio del Interior",
+      "Únicamente por referéndum"
     ],
-    "reference": "CE 168.1",
+    "reference": "CE, art. 77.1",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 77.1."
   },
   {
     "id": 105,
@@ -1625,18 +1663,20 @@
   },
   {
     "id": 106,
-    "question": "Aprobado el nuevo texto de una reforma agravada, ¿qué mayoría debe alcanzarse en cada Cámara?",
-    "answer": "2/3",
+    "question": "¿Puede un diputado delegar su voto parlamentario según la regla general del artículo 79 CE?",
+    "answer": "No, el voto es personal e indelegable",
     "options": [
-      "2/3",
-      "mayoría simple",
-      "3/5",
-      "mayoría absoluta"
+      "Sí, en cualquier otro diputado",
+      "Sí, mediante poder notarial",
+      "No, el voto es personal e indelegable",
+      "Sí, siempre en su grupo parlamentario"
     ],
-    "reference": "CE 168.2",
+    "reference": "CE, art. 79.3",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 79.3."
   },
   {
     "id": 107,
@@ -1655,18 +1695,20 @@
   },
   {
     "id": 108,
-    "question": "En un proyecto de ley ordinario no urgente, ¿de cuánto tiempo dispone el Senado para vetarlo?",
-    "answer": "2 meses",
+    "question": "¿Son públicas las sesiones plenarias de las Cámaras con carácter general?",
+    "answer": "Sí, salvo las excepciones constitucionales y reglamentarias",
     "options": [
-      "1 mes",
-      "2 meses",
-      "3 meses",
-      "20 días"
+      "Sí, salvo las excepciones constitucionales y reglamentarias",
+      "No, son secretas por defecto",
+      "Solo las sesiones del Senado",
+      "Solo las sesiones para aprobación de presupuestos"
     ],
-    "reference": "CE 90.2",
+    "reference": "CE, art. 80",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 80."
   },
   {
     "id": 109,
@@ -1685,18 +1727,20 @@
   },
   {
     "id": 110,
-    "question": "Si un proyecto de ley se declara urgente, ¿cuál es el plazo del Senado para vetar o enmendar?",
-    "answer": "20 días naturales",
+    "question": "¿Qué mayoría necesita el Congreso en la votación final sobre el conjunto para aprobar una ley orgánica?",
+    "answer": "Mayoría absoluta",
     "options": [
-      "15 días hábiles",
-      "10 días naturales",
-      "20 días naturales",
-      "30 días naturales"
+      "Mayoría simple",
+      "Tres quintos",
+      "Mayoría absoluta",
+      "Dos tercios"
     ],
-    "reference": "CE 90.3",
+    "reference": "CE, art. 81.2",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 81.2."
   },
   {
     "id": 111,
@@ -1715,18 +1759,20 @@
   },
   {
     "id": 112,
-    "question": "¿Qué mayoría del Senado es necesaria para aprobar un veto legislativo?",
-    "answer": "mayoría absoluta",
+    "question": "¿Se permite subdelegar la delegación legislativa concedida al Gobierno?",
+    "answer": "No",
     "options": [
-      "mayoría absoluta",
-      "3/5",
-      "mayoría simple",
-      "2/3"
+      "No",
+      "Sí, al ministro competente",
+      "Sí, a cualquier órgano autonómico",
+      "Sí, al Consejo de Estado"
     ],
-    "reference": "CE 90.2",
+    "reference": "CE, art. 82.3",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 82.3."
   },
   {
     "id": 113,
@@ -1745,18 +1791,20 @@
   },
   {
     "id": 114,
-    "question": "Tras su aprobación, ¿en qué plazo debe sancionar el Rey una ley?",
-    "answer": "15 días",
+    "question": "¿Puede una ley de bases autorizar normas con carácter retroactivo?",
+    "answer": "No",
     "options": [
-      "20 días",
-      "10 días",
-      "30 días",
-      "15 días"
+      "Sí, en cualquier materia",
+      "Sí, si el Gobierno lo acuerda",
+      "No",
+      "Sí, mediante orden ministerial"
     ],
-    "reference": "CE 91",
+    "reference": "CE, art. 83.b",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 83.b."
   },
   {
     "id": 115,
@@ -1775,18 +1823,20 @@
   },
   {
     "id": 116,
-    "question": "Con carácter general, ¿cuánto debe transcurrir entre dos disoluciones a propuesta del presidente del Gobierno?",
-    "answer": "1 año",
+    "question": "¿En qué plazo debe el Congreso debatir la convalidación o derogación de un decreto-ley?",
+    "answer": "30 días desde su promulgación",
     "options": [
-      "1 año",
-      "3 años",
-      "2 años",
-      "6 meses"
+      "30 días desde su promulgación",
+      "15 días desde su aprobación",
+      "Dos meses desde su publicación",
+      "90 días desde su entrada en vigor"
     ],
-    "reference": "CE 115.3",
+    "reference": "CE, art. 86.2",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 86.2."
   },
   {
     "id": 117,
@@ -1805,18 +1855,20 @@
   },
   {
     "id": 118,
-    "question": "Si ningún candidato logra la investidura, ¿cuánto tiempo transcurre hasta la disolución automática?",
-    "answer": "2 meses",
+    "question": "¿Cuántas firmas acreditadas exige como mínimo la iniciativa legislativa popular?",
+    "answer": "500.000",
     "options": [
-      "1 mes",
-      "4 meses",
-      "2 meses",
-      "3 meses"
+      "100.000",
+      "250.000",
+      "500.000",
+      "1.000.000"
     ],
-    "reference": "CE 99.5",
+    "reference": "CE, art. 87.3",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 87.3."
   },
   {
     "id": 119,
@@ -1835,18 +1887,20 @@
   },
   {
     "id": 120,
-    "question": "En primera votación, ¿qué mayoría necesita un candidato a presidente del Gobierno?",
-    "answer": "mayoría absoluta",
+    "question": "¿Quién convoca un referéndum consultivo previsto en el artículo 92 CE?",
+    "answer": "El Rey, a propuesta del presidente del Gobierno y previa autorización del Congreso",
     "options": [
-      "mayoría simple",
-      "3/5",
-      "mayoría absoluta",
-      "2/3"
+      "El Rey, a propuesta del presidente del Gobierno y previa autorización del Congreso",
+      "El presidente del Congreso directamente",
+      "El Tribunal Constitucional",
+      "El Consejo de Ministros sin intervención de otro órgano"
     ],
-    "reference": "CE 99.3",
+    "reference": "CE, art. 92.2",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 92.2."
   },
   {
     "id": 121,
@@ -1865,18 +1919,20 @@
   },
   {
     "id": 122,
-    "question": "Tras la primera votación de investidura, ¿cuántas horas deben pasar hasta la segunda?",
-    "answer": "48 horas",
+    "question": "¿Qué institución debe autorizar previamente los tratados internacionales de carácter político del artículo 94 CE?",
+    "answer": "Las Cortes Generales",
     "options": [
-      "72 horas",
-      "96 horas",
-      "24 horas",
-      "48 horas"
+      "El Consejo General del Poder Judicial",
+      "El Tribunal Constitucional en todo caso",
+      "Las Cortes Generales",
+      "El Defensor del Pueblo"
     ],
-    "reference": "CE 99.3",
+    "reference": "CE, art. 94.1.a",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 1
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 94.1.a."
   },
   {
     "id": 123,
@@ -1895,18 +1951,20 @@
   },
   {
     "id": 124,
-    "question": "En segunda votación de investidura, ¿qué mayoría resulta suficiente?",
-    "answer": "mayoría simple",
+    "question": "¿Quién propone un candidato a la Presidencia del Gobierno tras las consultas constitucionales?",
+    "answer": "El Rey a través del presidente del Congreso",
     "options": [
-      "2/3",
-      "mayoría absoluta",
-      "mayoría simple",
-      "3/5"
+      "El Rey a través del presidente del Congreso",
+      "El presidente del Senado en exclusiva",
+      "El Tribunal Constitucional",
+      "El Consejo de Estado"
     ],
-    "reference": "CE 99.3",
+    "reference": "CE, art. 99.1",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 99.1."
   },
   {
     "id": 125,
@@ -1925,18 +1983,20 @@
   },
   {
     "id": 126,
-    "question": "¿Qué porcentaje mínimo de diputados debe suscribir una moción de censura?",
-    "answer": "1/10",
+    "question": "¿A propuesta de quién nombra y separa el Rey a los ministros?",
+    "answer": "Del presidente del Gobierno",
     "options": [
-      "1/3",
-      "mayoría absoluta",
-      "1/10",
-      "1/5"
+      "Del presidente del Congreso",
+      "Del Fiscal General del Estado",
+      "Del presidente del Gobierno",
+      "Del presidente del Tribunal Supremo"
     ],
-    "reference": "CE 113.2",
+    "reference": "CE, art. 100",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 100."
   },
   {
     "id": 127,
@@ -1955,18 +2015,20 @@
   },
   {
     "id": 128,
-    "question": "Presentada una moción de censura, ¿cuántos días deben pasar para poder votarla?",
-    "answer": "5 días",
+    "question": "¿Cuál de estos hechos produce el cese del Gobierno conforme al artículo 101 CE?",
+    "answer": "La celebración de elecciones generales",
     "options": [
-      "7 días",
-      "5 días",
-      "2 días",
-      "3 días"
+      "La celebración de elecciones generales",
+      "La aprobación anual de los PGE",
+      "La renovación parcial del Tribunal Constitucional",
+      "El inicio del período ordinario de sesiones"
     ],
-    "reference": "CE 113.3",
+    "reference": "CE, art. 101.1",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 101.1."
   },
   {
     "id": 129,
@@ -1985,18 +2047,20 @@
   },
   {
     "id": 130,
-    "question": "¿Durante cuántos días iniciales pueden presentarse mociones de censura alternativas?",
-    "answer": "2 días",
+    "question": "¿Ante qué órgano se exige la responsabilidad criminal del presidente del Gobierno?",
+    "answer": "Ante la Sala de lo Penal del Tribunal Supremo",
     "options": [
-      "3 días",
-      "1 día",
-      "5 días",
-      "2 días"
+      "Ante el Tribunal Constitucional",
+      "Ante la Audiencia Provincial",
+      "Ante la Sala de lo Penal del Tribunal Supremo",
+      "Ante el Tribunal de Cuentas"
     ],
-    "reference": "CE 113.3",
+    "reference": "CE, art. 102.1",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 102.1."
   },
   {
     "id": 131,
@@ -2015,18 +2079,20 @@
   },
   {
     "id": 132,
-    "question": "¿Qué mayoría del Congreso permite aprobar una moción de censura?",
-    "answer": "mayoría absoluta",
+    "question": "¿A qué intereses sirve con objetividad la Administración pública según la Constitución?",
+    "answer": "A los intereses generales",
     "options": [
-      "mayoría absoluta",
-      "2/3",
-      "3/5",
-      "mayoría simple"
+      "A los intereses generales",
+      "A los intereses de los partidos gobernantes",
+      "A los intereses corporativos de sus empleados",
+      "A los intereses particulares de sus directivos"
     ],
-    "reference": "CE 113.1",
+    "reference": "CE, art. 103.1",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 103.1."
   },
   {
     "id": 133,
@@ -2045,18 +2111,20 @@
   },
   {
     "id": 134,
-    "question": "Sin prórroga, ¿cuántos días puede durar como máximo una declaración del estado de excepción?",
-    "answer": "30 días",
+    "question": "¿Qué carácter tiene el Consejo de Estado según la Constitución?",
+    "answer": "Supremo órgano consultivo del Gobierno",
     "options": [
-      "60 días",
-      "15 días",
-      "45 días",
-      "30 días"
+      "Supremo órgano judicial",
+      "Cámara legislativa territorial",
+      "Supremo órgano consultivo del Gobierno",
+      "Órgano de control de constitucionalidad"
     ],
-    "reference": "CE 116.3",
+    "reference": "CE, art. 107",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 107."
   },
   {
     "id": 135,
@@ -2075,18 +2143,20 @@
   },
   {
     "id": 136,
-    "question": "¿Cuál es el máximo de días adicionales de la prórroga del estado de excepción?",
-    "answer": "30 días",
+    "question": "¿Quién declara el estado de sitio según el artículo 116 CE?",
+    "answer": "El Congreso por mayoría absoluta, a propuesta exclusiva del Gobierno",
     "options": [
-      "15 días",
-      "45 días",
-      "30 días",
-      "60 días"
+      "El Congreso por mayoría absoluta, a propuesta exclusiva del Gobierno",
+      "El Rey mediante decreto",
+      "El Senado por mayoría simple",
+      "El presidente del Gobierno sin autorización parlamentaria"
     ],
-    "reference": "CE 116.3",
+    "reference": "CE, art. 116.4",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 116.4."
   },
   {
     "id": 137,
@@ -2105,18 +2175,20 @@
   },
   {
     "id": 138,
-    "question": "¿Cuál es el límite de horas de una detención preventiva ordinaria antes de liberar o llevar ante el juez?",
-    "answer": "72 horas",
+    "question": "¿Cuál es la duración máxima inicial del estado de alarma conforme al artículo 116 CE?",
+    "answer": "15 días",
     "options": [
-      "24 horas",
-      "48 horas",
-      "96 horas",
-      "72 horas"
+      "7 días",
+      "30 días",
+      "15 días",
+      "60 días"
     ],
-    "reference": "CE 17.2",
+    "reference": "CE, art. 116.2",
     "category": "Constitución",
     "topic": "Constitución",
-    "difficulty": 2
+    "difficulty": 2,
+    "format": "memoria",
+    "explanation": "Fuente: CE, art. 116.2."
   },
   {
     "id": 139,
@@ -24781,39 +24853,39 @@
     "id": 1379
   },
   {
-    "question": "¿Qué artículo de la CE configura el acceso en condiciones de igualdad a las funciones públicas?",
-    "answer": "Artículo 23.2 CE",
+    "question": "¿Qué número de la Constitución atribuye al Estado las bases del régimen estatutario de los funcionarios públicos?",
+    "answer": "Artículo 149.1.18.ª CE",
     "options": [
-      "Artículo 23.2 CE",
       "Artículo 149.1.18.ª CE",
-      "Artículo 103.3 CE",
-      "Artículo 149.1.7.ª CE"
+      "Artículo 23.2 CE",
+      "Artículo 103.1 CE",
+      "Artículo 155.1 CE"
     ],
-    "reference": "CE 23.2, 103.3 y 149.1",
+    "reference": "CE, art. 149.1.18.ª",
     "category": "RRHH",
     "topic": "Marco constitucional",
-    "difficulty": 1,
+    "difficulty": 3,
     "source": "Apuntes del profesor · Normativa vigente y TREBEP (noviembre 2026); BOE",
-    "explanation": "Respuesta correcta: Artículo 23.2 CE",
-    "format": "memoria",
+    "explanation": "Fuente: CE, art. 149.1.18.ª.",
+    "format": "inap",
     "id": 1380
   },
   {
-    "question": "¿Qué precepto de la CE establece específicamente el mandato de regular el estatuto funcionarial por ley?",
-    "answer": "Artículo 103.3 CE",
+    "question": "¿Qué principios expresos menciona el artículo 103.3 CE para el acceso a la función pública?",
+    "answer": "Mérito y capacidad",
     "options": [
-      "Artículo 149.1.7.ª CE",
-      "Artículo 103.1 CE",
-      "Artículo 149.1.18.ª CE",
-      "Artículo 103.3 CE"
+      "Publicidad y concurrencia mercantil",
+      "Gratuidad y jerarquía",
+      "Igualdad tributaria y progresividad",
+      "Mérito y capacidad"
     ],
-    "reference": "CE 23.2, 103.3 y 149.1",
+    "reference": "CE, art. 103.3",
     "category": "RRHH",
     "topic": "Marco constitucional",
-    "difficulty": 1,
+    "difficulty": 3,
     "source": "Apuntes del profesor · Normativa vigente y TREBEP (noviembre 2026); BOE",
-    "explanation": "Respuesta correcta: Artículo 103.3 CE",
-    "format": "memoria",
+    "explanation": "Fuente: CE, art. 103.3.",
+    "format": "inap",
     "id": 1381
   },
   {
