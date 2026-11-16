@@ -45287,5 +45287,37 @@
     "difficulty": 2,
     "format": "memoria",
     "origin": "nueva comprobada sobre el CEF"
+  },
+  {
+    "id": 2504,
+    "question": "Según el artículo 37.3 LOTC, cuando el Tribunal Constitucional amplía motivadamente el plazo para dictar sentencia en una cuestión de inconstitucionalidad, ¿cuál es el plazo máximo?",
+    "answer": "30 días",
+    "options": [
+      "20 días",
+      "30 días",
+      "45 días",
+      "60 días"
+    ],
+    "reference": "LOTC 37.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "difficulty": 2,
+    "source": "LOTC 2/1979, art. 37.3 (BOE consolidado, actualización 02/08/2024)"
+  },
+  {
+    "id": 2505,
+    "question": "Según la LOTC, concluidas las alegaciones, ¿cuáles son los plazos ordinarios para dictar sentencia en el recurso y en la cuestión de inconstitucionalidad, respectivamente?",
+    "answer": "10 días y 15 días",
+    "options": [
+      "15 días y 10 días",
+      "10 días y 15 días",
+      "15 días y 15 días",
+      "10 días y 30 días"
+    ],
+    "reference": "LOTC 34.2 y 37.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "difficulty": 3,
+    "source": "LOTC 2/1979, arts. 34.2 y 37.3 (BOE consolidado, actualización 02/08/2024)"
   }
 ]
