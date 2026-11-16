@@ -1,0 +1,1062 @@
+{
+  "version": "2026-11-16",
+  "source": "LO 3/1981 consolidada, BOE-A-1981-10325",
+  "rows": [
+    {
+      "question": "¿Qué órgano acredita conjuntamente el nombramiento del Defensor del Pueblo?",
+      "answer": "Los presidentes del Congreso y del Senado",
+      "alternatives": [
+        "El Rey y el presidente del Gobierno",
+        "El presidente del Congreso y el del TC",
+        "Las Mesas del Congreso y del Senado"
+      ],
+      "reference": "LO 3/1981, art. 4.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Ante quién toma posesión el Defensor del Pueblo?",
+      "answer": "Ante las Mesas de ambas Cámaras reunidas conjuntamente",
+      "alternatives": [
+        "Ante el Rey",
+        "Ante la Comisión Mixta exclusivamente",
+        "Ante el Pleno del Senado"
+      ],
+      "reference": "LO 3/1981, art. 4.2",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Con qué antelación mínima se convoca al Pleno del Congreso para elegir al Defensor tras la propuesta?",
+      "answer": "10 días",
+      "alternatives": [
+        "5 días",
+        "15 días",
+        "20 días"
+      ],
+      "reference": "LO 3/1981, art. 2.4",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Qué mayoría utiliza la Comisión Mixta para acordar sus propuestas de candidato?",
+      "answer": "Mayoría simple",
+      "alternatives": [
+        "Mayoría absoluta",
+        "Tres quintos",
+        "Dos tercios"
+      ],
+      "reference": "LO 3/1981, art. 2.3",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Quién declara la vacante cuando el Defensor del Pueblo fallece o renuncia?",
+      "answer": "El presidente del Congreso",
+      "alternatives": [
+        "El presidente del Senado",
+        "El Rey",
+        "El Tribunal Constitucional"
+      ],
+      "reference": "LO 3/1981, art. 5.2",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Qué plazo máximo hay para iniciar el nombramiento de un nuevo Defensor tras quedar vacante el cargo?",
+      "answer": "1 mes",
+      "alternatives": [
+        "15 días",
+        "2 meses",
+        "3 meses"
+      ],
+      "reference": "LO 3/1981, art. 5.3",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Qué mayoría exige el cese del Defensor por notoria negligencia?",
+      "answer": "Tres quintos de cada Cámara",
+      "alternatives": [
+        "Mayoría simple de ambas Cámaras",
+        "Mayoría absoluta solo del Congreso",
+        "Dos tercios del Congreso"
+      ],
+      "reference": "LO 3/1981, art. 5.2",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Cuál de estas situaciones es incompatible con ejercer como Defensor del Pueblo?",
+      "answer": "La afiliación a un partido político",
+      "alternatives": [
+        "Haber sido funcionario años atrás",
+        "Haber cursado estudios universitarios",
+        "Haber presentado una queja con anterioridad"
+      ],
+      "reference": "LO 3/1981, art. 7.1",
+      "difficulty": 1,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Cuántos días tiene el nuevo Defensor para cesar en una incompatibilidad previa al cargo?",
+      "answer": "10 días desde el nombramiento y antes de tomar posesión",
+      "alternatives": [
+        "20 días desde la toma de posesión",
+        "Un mes desde la elección",
+        "15 días desde la publicación"
+      ],
+      "reference": "LO 3/1981, art. 7.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Qué sucede si sobreviene una incompatibilidad cuando el Defensor ya ha tomado posesión?",
+      "answer": "Se entiende que renuncia en la fecha en que aparece la incompatibilidad",
+      "alternatives": [
+        "Conserva el cargo hasta que finalice el mandato",
+        "La Cámara inicia siempre una moción de censura",
+        "Se suspende automáticamente durante seis meses"
+      ],
+      "reference": "LO 3/1981, art. 7.3",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Puede una autoridad administrativa presentar una queja ante el Defensor sobre un asunto de su propia competencia?",
+      "answer": "No",
+      "alternatives": [
+        "Sí, sin límites",
+        "Sí, con autorización del Senado",
+        "Sí, si es un asunto urgente"
+      ],
+      "reference": "LO 3/1981, art. 10.3",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "Si las Cortes Generales están disueltas, ¿se interrumpe la actividad del Defensor del Pueblo?",
+      "answer": "No",
+      "alternatives": [
+        "Sí, hasta constituirse el Congreso",
+        "Sí, salvo autorización del Gobierno",
+        "Solo puede atender quejas ya presentadas"
+      ],
+      "reference": "LO 3/1981, art. 11.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "Cuando las Cortes están disueltas, ¿ante quién se dirige el Defensor del Pueblo?",
+      "answer": "Ante las Diputaciones Permanentes de las Cámaras",
+      "alternatives": [
+        "Ante el Gobierno",
+        "Ante el Tribunal Supremo",
+        "Ante la Junta Electoral Central"
+      ],
+      "reference": "LO 3/1981, art. 11.2",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Interrumpen los estados de excepción o de sitio la actividad del Defensor del Pueblo?",
+      "answer": "No",
+      "alternatives": [
+        "Solo el estado de sitio",
+        "Sí, ambos estados",
+        "Solo el estado de excepción"
+      ],
+      "reference": "LO 3/1981, art. 11.3",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Puede el Defensor supervisar la actuación de las comunidades autónomas?",
+      "answer": "Sí, de oficio o a instancia de parte",
+      "alternatives": [
+        "No, es competencia exclusiva de defensores autonómicos",
+        "Solo tras autorización del Senado",
+        "Solo en asuntos de la Administración General del Estado"
+      ],
+      "reference": "LO 3/1981, art. 12.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Cómo se relacionan los órganos autonómicos equivalentes al Defensor del Pueblo con la institución estatal?",
+      "answer": "Coordinan sus funciones y pueden cooperar",
+      "alternatives": [
+        "Actúan bajo dependencia jerárquica",
+        "Están excluidos de toda cooperación",
+        "Son órganos internos de las Cortes Generales"
+      ],
+      "reference": "LO 3/1981, art. 12.2",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "Si una queja se refiere al funcionamiento de la Administración de Justicia, ¿a qué instituciones debe dirigirla el Defensor?",
+      "answer": "Al Ministerio Fiscal o al CGPJ, según proceda",
+      "alternatives": [
+        "Al Consejo de Estado exclusivamente",
+        "Al Gobierno para su resolución",
+        "Al Tribunal Constitucional obligatoriamente"
+      ],
+      "reference": "LO 3/1981, art. 13",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Puede el Defensor intervenir en la Administración Militar?",
+      "answer": "Sí, para velar por los derechos del Título I sin interferir en el mando militar",
+      "alternatives": [
+        "No, carece de toda atribución",
+        "Sí, puede ejercer el mando de la Defensa Nacional",
+        "Solo sobre contrataciones civiles"
+      ],
+      "reference": "LO 3/1981, art. 14",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Necesita abogado o procurador quien presenta una queja al Defensor del Pueblo?",
+      "answer": "No, ninguno es preceptivo",
+      "alternatives": [
+        "Debe comparecer con ambos",
+        "Solo abogado",
+        "Solo procurador"
+      ],
+      "reference": "LO 3/1981, art. 15.2",
+      "difficulty": 1,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Qué coste tiene para el interesado el procedimiento ante el Defensor del Pueblo?",
+      "answer": "Es gratuito",
+      "alternatives": [
+        "Una tasa judicial",
+        "Depende del valor del procedimiento",
+        "Se paga la tasa administrativa ordinaria"
+      ],
+      "reference": "LO 3/1981, art. 15.2",
+      "difficulty": 1,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Puede la Administración censurar la correspondencia de un interno dirigida al Defensor del Pueblo?",
+      "answer": "No, está prohibida cualquier censura",
+      "alternatives": [
+        "Sí, por decisión ordinaria del director",
+        "Sí, con permiso del fiscal",
+        "Sí, durante los estados de alarma"
+      ],
+      "reference": "LO 3/1981, art. 16.1",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Puede escucharse o interferirse una conversación entre el Defensor y una persona internada?",
+      "answer": "No",
+      "alternatives": [
+        "Sí, si se informa al defensor después",
+        "Sí, cuando la autoridad administrativa lo ordene",
+        "Solo si lo decide el responsable del centro"
+      ],
+      "reference": "LO 3/1981, art. 16.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Debe el Defensor del Pueblo motivar por escrito el rechazo de una queja?",
+      "answer": "Sí",
+      "alternatives": [
+        "No, se presume motivado",
+        "Solo cuando lo solicite el Congreso",
+        "Solo si la queja supera una cantidad económica"
+      ],
+      "reference": "LO 3/1981, art. 17.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Está obligado el Defensor a admitir y tramitar una queja anónima?",
+      "answer": "No, debe rechazarla",
+      "alternatives": [
+        "Sí, siempre",
+        "Sí, si llega de un funcionario",
+        "Sí, si versa sobre derechos fundamentales"
+      ],
+      "reference": "LO 3/1981, art. 17.3",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Cabe recurso contra la decisión del Defensor del Pueblo de rechazar una queja?",
+      "answer": "No",
+      "alternatives": [
+        "Recurso de alzada",
+        "Recurso de reposición",
+        "Recurso contencioso ordinario contra la decisión del Defensor"
+      ],
+      "reference": "LO 3/1981, art. 17.3",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "Si una queja individual está pendiente ante un tribunal, ¿puede el Defensor examinar individualmente ese mismo asunto?",
+      "answer": "No, sin perjuicio de investigar problemas generales",
+      "alternatives": [
+        "Sí, sustituye al tribunal",
+        "Sí, si lo autoriza el fiscal",
+        "Solo cuando la sentencia sea firme"
+      ],
+      "reference": "LO 3/1981, art. 17.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "Si una persona interpone una demanda después de que el Defensor empezase a examinar su queja, ¿qué sucede?",
+      "answer": "Se suspende su examen individual",
+      "alternatives": [
+        "La demanda queda suspendida",
+        "El Defensor anula el proceso judicial",
+        "La queja se transforma automáticamente en amparo"
+      ],
+      "reference": "LO 3/1981, art. 17.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Puede rechazar el Defensor una queja cuya tramitación perjudique derechos legítimos de terceros?",
+      "answer": "Sí",
+      "alternatives": [
+        "No, nunca",
+        "Solo el Congreso puede rechazarla",
+        "Solo si existe condena penal"
+      ],
+      "reference": "LO 3/1981, art. 17.3",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Puede ampliarse el plazo de 15 días para remitir el informe inicial de una queja?",
+      "answer": "Sí, si las circunstancias lo aconsejan a juicio del Defensor",
+      "alternatives": [
+        "No, es improrrogable",
+        "Solo por acuerdo del Senado",
+        "Solo por resolución judicial"
+      ],
+      "reference": "LO 3/1981, art. 18.1",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Cómo debe auxiliar al Defensor del Pueblo una Administración requerida?",
+      "answer": "Con carácter preferente y urgente",
+      "alternatives": [
+        "Solo tras agotar los recursos administrativos",
+        "Cuando disponga de fondos presupuestarios",
+        "Mediante autorización judicial previa"
+      ],
+      "reference": "LO 3/1981, art. 19.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Puede el Defensor personarse en centros administrativos para estudiar expedientes e inspeccionar?",
+      "answer": "Sí, personalmente o por Adjunto o delegado",
+      "alternatives": [
+        "Solo mediante autorización del Consejo de Ministros",
+        "No, únicamente recibe informes escritos",
+        "Solo en centros de la Administración estatal"
+      ],
+      "reference": "LO 3/1981, art. 19.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "Al investigar la conducta de un funcionario, ¿a quién comunica la queja el Defensor?",
+      "answer": "Al funcionario y a su superior inmediato u organismo",
+      "alternatives": [
+        "Únicamente al funcionario",
+        "Solo al fiscal",
+        "Solo al ministro del ramo"
+      ],
+      "reference": "LO 3/1981, art. 20.1",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Cuál es el plazo mínimo para que responda por escrito el funcionario investigado?",
+      "answer": "10 días",
+      "alternatives": [
+        "5 días",
+        "15 días",
+        "20 días"
+      ],
+      "reference": "LO 3/1981, art. 20.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿En qué proporción puede prorrogarse el plazo de respuesta concedido al funcionario investigado, a instancia de parte?",
+      "answer": "Hasta la mitad del plazo inicialmente concedido",
+      "alternatives": [
+        "Por el doble del plazo",
+        "Por un tercio exactamente",
+        "Sin límite legal"
+      ],
+      "reference": "LO 3/1981, art. 20.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Qué carácter tiene el testimonio personal prestado por un funcionario al Defensor en una investigación?",
+      "answer": "Reservado, con las salvedades legales penales",
+      "alternatives": [
+        "Siempre público",
+        "Se incorpora al BOE",
+        "No puede utilizarse en investigaciones"
+      ],
+      "reference": "LO 3/1981, art. 20.4",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "Si un superior impide a un funcionario responder al Defensor, ¿cómo debe formalizar esa prohibición?",
+      "answer": "Por escrito motivado dirigido a ambos",
+      "alternatives": [
+        "Verbalmente ante testigos",
+        "Solo mediante circular interna",
+        "Por decreto del Consejo de Ministros"
+      ],
+      "reference": "LO 3/1981, art. 21",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Puede el Defensor solicitar documentos oficialmente clasificados como secretos?",
+      "answer": "Sí",
+      "alternatives": [
+        "No, en ningún caso",
+        "Solo una vez que se desclasifiquen",
+        "Solo con autorización previa del Congreso"
+      ],
+      "reference": "LO 3/1981, art. 22.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Qué órgano puede acordar la no remisión al Defensor de documentos clasificados como secretos?",
+      "answer": "El Consejo de Ministros",
+      "alternatives": [
+        "El subsecretario correspondiente",
+        "El presidente del Congreso",
+        "La autoridad que los hubiera elaborado"
+      ],
+      "reference": "LO 3/1981, art. 22.1",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Qué debe acompañar a la negativa de remitir un documento secreto solicitado por el Defensor?",
+      "answer": "Certificación acreditativa del acuerdo denegatorio",
+      "alternatives": [
+        "Una orden verbal",
+        "Informe reservado del secretario de Estado sin acuerdo",
+        "Autorización del Tribunal Constitucional"
+      ],
+      "reference": "LO 3/1981, art. 22.1",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "Si un documento secreto no entregado es decisivo para una investigación, ¿a quién informa el Defensor?",
+      "answer": "A la Comisión Mixta Congreso-Senado competente",
+      "alternatives": [
+        "A la Audiencia Nacional",
+        "A la Fiscalía Europea",
+        "Al Banco de España"
+      ],
+      "reference": "LO 3/1981, art. 22.3",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Con qué nivel de reserva deben tramitarse las investigaciones del Defensor del Pueblo?",
+      "answer": "Con la más absoluta reserva",
+      "alternatives": [
+        "Mediante publicidad íntegra inmediata",
+        "Con carácter público salvo denuncia penal",
+        "Se publican todas las actuaciones en el BOE"
+      ],
+      "reference": "LO 3/1981, art. 22.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "Si el Defensor detecta indicios de abuso de un funcionario, ¿a quién remite simultáneamente su criterio?",
+      "answer": "Al funcionario afectado y a su superior jerárquico",
+      "alternatives": [
+        "Solo al tribunal civil",
+        "Solo al Consejo de Ministros",
+        "A la Comisión Electoral"
+      ],
+      "reference": "LO 3/1981, art. 23",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "Si una Administración mantiene una actitud hostil u obstructiva hacia el Defensor, ¿qué puede hacer este?",
+      "answer": "Destacarlo en informe anual y elaborar informe especial",
+      "alternatives": [
+        "Destituir directamente a los funcionarios",
+        "Declarar la nulidad de su presupuesto",
+        "Inhabilitar de oficio a sus directivos"
+      ],
+      "reference": "LO 3/1981, art. 24.1",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Está vigente el artículo 24.2 de la LO 3/1981, que tipificaba una modalidad de desobediencia?",
+      "answer": "No, fue derogado por la LO 10/1995",
+      "alternatives": [
+        "Sí, íntegramente",
+        "Se sustituyó por una sanción administrativa en 2015",
+        "Fue derogado por la LO 2/1992"
+      ],
+      "reference": "LO 3/1981, art. 24.2 (derogado)",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "Si el Defensor conoce hechos presuntamente delictivos en sus funciones, ¿a quién debe comunicarlos de inmediato?",
+      "answer": "Al Fiscal General del Estado",
+      "alternatives": [
+        "Al Tribunal de Cuentas",
+        "Al presidente del Senado",
+        "A la Junta Electoral"
+      ],
+      "reference": "LO 3/1981, art. 25.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Quién informa al Defensor del trámite de las actuaciones penales iniciadas a su instancia?",
+      "answer": "El Fiscal General del Estado",
+      "alternatives": [
+        "El presidente del Congreso",
+        "La Abogacía del Estado",
+        "La Sala de Gobierno del Tribunal Supremo"
+      ],
+      "reference": "LO 3/1981, art. 25.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Puede el Defensor ejercitar de oficio la acción de responsabilidad frente a autoridades administrativas?",
+      "answer": "Sí, sin reclamación previa por escrito",
+      "alternatives": [
+        "No, únicamente el Ministerio Fiscal",
+        "Sí, pero siempre con reclamación previa",
+        "Solo en procesos electorales"
+      ],
+      "reference": "LO 3/1981, art. 26",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "Si un tercero soporta gastos al ser citado a informar sin haber promovido la queja, ¿quién los satisface?",
+      "answer": "El presupuesto del Defensor, previa justificación",
+      "alternatives": [
+        "El particular sin compensación",
+        "El Tribunal Constitucional",
+        "La cámara que promovió la queja"
+      ],
+      "reference": "LO 3/1981, art. 27",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Puede el Defensor del Pueblo anular directamente un acto administrativo?",
+      "answer": "No",
+      "alternatives": [
+        "Sí, mediante resolución ejecutiva",
+        "Sí, con mayoría de tres quintos",
+        "Sí, si se trata de derechos del Título I"
+      ],
+      "reference": "LO 3/1981, art. 28.1",
+      "difficulty": 1,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Qué puede sugerir el Defensor respecto de los criterios empleados para dictar actos administrativos?",
+      "answer": "Su modificación",
+      "alternatives": [
+        "Su nulidad automática",
+        "La destitución del órgano",
+        "Su validación por las Cortes"
+      ],
+      "reference": "LO 3/1981, art. 28.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "Si aplicar rigurosamente una norma produce efectos injustos, ¿qué puede proponer el Defensor?",
+      "answer": "La modificación de la norma al órgano competente",
+      "alternatives": [
+        "La derogación inmediata por decisión propia",
+        "Una sentencia que inaplique toda norma",
+        "La aprobación directa de un decreto ley"
+      ],
+      "reference": "LO 3/1981, art. 28.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "Si una actividad privada se realiza mediante habilitación administrativa, ¿qué puede solicitar el Defensor a la Administración?",
+      "answer": "Que ejerza sus potestades de inspección y sanción",
+      "alternatives": [
+        "Que el particular adquiera rango funcionarial",
+        "Que el Congreso asuma la actividad",
+        "Que se extinga automáticamente la concesión"
+      ],
+      "reference": "LO 3/1981, art. 28.3",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Qué dos recursos constitucionales puede interponer el Defensor del Pueblo?",
+      "answer": "Recurso de inconstitucionalidad y recurso de amparo",
+      "alternatives": [
+        "Habeas corpus y casación civil",
+        "Casación penal y revisión extraordinaria",
+        "Conflicto colectivo y recurso económico"
+      ],
+      "reference": "LO 3/1981, art. 29; CE, art. 162",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Está legitimado el Defensor para interponer recurso de inconstitucionalidad?",
+      "answer": "Sí",
+      "alternatives": [
+        "No, solo el Gobierno",
+        "Solo en leyes autonómicas",
+        "Únicamente con aval del Senado"
+      ],
+      "reference": "LO 3/1981, art. 29; CE, art. 162.1.a",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Está legitimado el Defensor para interponer recurso de amparo constitucional?",
+      "answer": "Sí",
+      "alternatives": [
+        "No, solo personas físicas",
+        "Solo como representante de un diputado",
+        "Solo cuando la Administración es estatal"
+      ],
+      "reference": "LO 3/1981, art. 29; CE, art. 162.1.b",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿En qué plazo máximo deben responder por escrito las autoridades a las recomendaciones del Defensor?",
+      "answer": "1 mes",
+      "alternatives": [
+        "15 días",
+        "2 meses",
+        "10 días"
+      ],
+      "reference": "LO 3/1981, art. 30.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Qué puede emitir el Defensor además de recomendaciones y advertencias?",
+      "answer": "Recordatorios de deberes legales y sugerencias",
+      "alternatives": [
+        "Sentencias y decretos-ley",
+        "Leyes orgánicas y reglamentos",
+        "Órdenes judiciales ejecutivas"
+      ],
+      "reference": "LO 3/1981, art. 30.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "Si una autoridad no atiende las recomendaciones ni razona su negativa, ¿cuál es el siguiente escalón previsto?",
+      "answer": "Comunicarlo al ministro o máxima autoridad administrativa",
+      "alternatives": [
+        "Disolver la Administración afectada",
+        "Destituir a la autoridad por decreto",
+        "Imponer una multa coercitiva"
+      ],
+      "reference": "LO 3/1981, art. 30.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "Cuando no se ofrece justificación adecuada tras elevar la queja, ¿dónde puede identificar el Defensor a las autoridades?",
+      "answer": "En su informe anual o especial",
+      "alternatives": [
+        "En una sentencia penal",
+        "En un decreto de destitución",
+        "En el Registro Mercantil"
+      ],
+      "reference": "LO 3/1981, art. 30.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Debe el Defensor comunicar al interesado los resultados de sus investigaciones, salvo materias reservadas?",
+      "answer": "Sí",
+      "alternatives": [
+        "Solo si se lo ordena el Congreso",
+        "No, siempre son secretos",
+        "Solo si hay sentencia judicial firme"
+      ],
+      "reference": "LO 3/1981, art. 31.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Qué hace el Defensor cuando rechaza intervenir a petición de un parlamentario o comisión?",
+      "answer": "Informa motivadamente de su decisión",
+      "alternatives": [
+        "No comunica la decisión",
+        "Remite automáticamente el asunto a la Audiencia Nacional",
+        "Exige conformidad del Consejo de Ministros"
+      ],
+      "reference": "LO 3/1981, art. 31.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Con qué periodicidad presenta el Defensor un informe de su gestión a las Cortes?",
+      "answer": "Anualmente",
+      "alternatives": [
+        "Mensualmente",
+        "Cada cinco años",
+        "Semestralmente"
+      ],
+      "reference": "LO 3/1981, art. 32.1",
+      "difficulty": 1,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Ante qué órganos presenta el Defensor un informe extraordinario si las Cámaras no están reunidas?",
+      "answer": "Ante las Diputaciones Permanentes",
+      "alternatives": [
+        "Ante el Consejo General del Poder Judicial",
+        "Ante el Consejo de Estado",
+        "Ante los parlamentos autonómicos"
+      ],
+      "reference": "LO 3/1981, art. 32.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Se publican los informes anuales y extraordinarios del Defensor?",
+      "answer": "Sí",
+      "alternatives": [
+        "No, son secretos",
+        "Solo si contienen resoluciones judiciales",
+        "Solo los extraordinarios"
+      ],
+      "reference": "LO 3/1981, art. 32.3",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Pueden figurar datos personales identificativos de los interesados en el informe anual del Defensor?",
+      "answer": "No, como regla general",
+      "alternatives": [
+        "Sí, obligatoriamente",
+        "Solo en informes de la Comisión Mixta",
+        "Siempre que haya consentimiento del ministro"
+      ],
+      "reference": "LO 3/1981, art. 33.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Qué información presupuestaria debe anexarse al informe anual del Defensor?",
+      "answer": "La liquidación de su presupuesto",
+      "alternatives": [
+        "El presupuesto de todas las comunidades autónomas",
+        "Las declaraciones fiscales de los reclamantes",
+        "El estado de deuda pública"
+      ],
+      "reference": "LO 3/1981, art. 33.3",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Quién presenta oralmente un resumen del informe anual ante los Plenos de Congreso y Senado?",
+      "answer": "El Defensor del Pueblo",
+      "alternatives": [
+        "El ministro de Justicia",
+        "El secretario general del Senado",
+        "El presidente del Tribunal Constitucional"
+      ],
+      "reference": "LO 3/1981, art. 33.4",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Quién puede designar libremente a los asesores necesarios de la institución dentro de sus límites presupuestarios?",
+      "answer": "El Defensor del Pueblo",
+      "alternatives": [
+        "El ministro de Hacienda",
+        "El Consejo General del Poder Judicial",
+        "El Congreso mediante votación de cada asesor"
+      ],
+      "reference": "LO 3/1981, art. 34",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Cómo se considera al personal que presta servicios en la institución del Defensor del Pueblo?",
+      "answer": "Personal al servicio de las Cortes",
+      "alternatives": [
+        "Personal de la Administración de Justicia",
+        "Personal estatutario sanitario",
+        "Personal de las entidades locales"
+      ],
+      "reference": "LO 3/1981, art. 35.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Qué sucede con la plaza del funcionario público adscrito a la oficina del Defensor?",
+      "answer": "Se le reserva su plaza y destino anteriores",
+      "alternatives": [
+        "Los pierde definitivamente",
+        "Se convierte en laboral fijo",
+        "Solo conserva la antigüedad si vuelve en un año"
+      ],
+      "reference": "LO 3/1981, art. 35.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Cuándo cesan automáticamente los adjuntos y asesores del Defensor del Pueblo?",
+      "answer": "Al tomar posesión un nuevo Defensor del Pueblo",
+      "alternatives": [
+        "Cada 1 de enero",
+        "Cuando se disuelven las Cortes",
+        "Al finalizar la legislatura del Congreso"
+      ],
+      "reference": "LO 3/1981, art. 36",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿En qué presupuesto se integra la dotación económica del Defensor del Pueblo?",
+      "answer": "En los presupuestos de las Cortes Generales",
+      "alternatives": [
+        "En el del Ministerio de Justicia",
+        "En el del Consejo General del Poder Judicial",
+        "En los presupuestos autonómicos"
+      ],
+      "reference": "LO 3/1981, art. 37",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Qué función ejerce el Defensor del Pueblo tras la LO 1/2009 frente a la tortura?",
+      "answer": "Mecanismo Nacional de Prevención de la Tortura",
+      "alternatives": [
+        "Fiscal General en asuntos de tortura",
+        "Juez de vigilancia penitenciaria",
+        "Órgano de enjuiciamiento penal"
+      ],
+      "reference": "LO 3/1981, disposición final única.1",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Quién preside el Consejo Asesor del Mecanismo Nacional de Prevención de la Tortura?",
+      "answer": "El Adjunto en quien el Defensor delegue esa función",
+      "alternatives": [
+        "El ministro del Interior",
+        "El presidente del Tribunal Supremo",
+        "El Fiscal General del Estado"
+      ],
+      "reference": "LO 3/1981, disposición final única.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Cuántos órganos adjuntos están previstos nominalmente para sustituir al Defensor y en qué orden?",
+      "answer": "Adjunto Primero, después Adjunto Segundo",
+      "alternatives": [
+        "Dos secretarios generales, indistintamente",
+        "Presidente y vicepresidente del Congreso",
+        "Adjunto Segundo, después Adjunto Primero"
+      ],
+      "reference": "LO 3/1981, art. 8.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Qué órgano debe prestar conformidad previa al nombramiento de los adjuntos propuestos por el Defensor?",
+      "answer": "La Comisión Mixta Congreso-Senado",
+      "alternatives": [
+        "El Consejo de Estado",
+        "El Consejo de Ministros",
+        "El Tribunal Constitucional"
+      ],
+      "reference": "LO 3/1981, arts. 2.6 y 8.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Se publica el nombramiento de los adjuntos en el Boletín Oficial del Estado?",
+      "answer": "Sí",
+      "alternatives": [
+        "No, es un acto secreto",
+        "Solo por decisión del Defensor",
+        "Solo en el diario de sesiones"
+      ],
+      "reference": "LO 3/1981, art. 8.3",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Cuál de estas personas puede solicitar motivadamente la intervención del Defensor en un asunto administrativo?",
+      "answer": "Un diputado individualmente",
+      "alternatives": [
+        "Una autoridad administrativa en asuntos de su propia competencia",
+        "Solo el presidente del Gobierno",
+        "Solo los presidentes autonómicos"
+      ],
+      "reference": "LO 3/1981, art. 10.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Puede una persona menor de edad dirigirse al Defensor del Pueblo?",
+      "answer": "Sí, la minoría de edad no impide presentar queja",
+      "alternatives": [
+        "No, hasta cumplir 18 años",
+        "Solo por medio de un procurador",
+        "Solo con autorización del Congreso"
+      ],
+      "reference": "LO 3/1981, art. 10.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Debe el Defensor del Pueblo recibir instrucciones del presidente del Gobierno durante sus investigaciones?",
+      "answer": "No, actúa autónomamente y sin mandato imperativo",
+      "alternatives": [
+        "Sí, cuando investiga ministros",
+        "Sí, tras acuerdo del Consejo de Ministros",
+        "Sí, en todos los casos urgentes"
+      ],
+      "reference": "LO 3/1981, art. 6.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Qué tribunal conoce de la inculpación y enjuiciamiento del Defensor durante su mandato en supuestos legalmente previstos?",
+      "answer": "La Sala de lo Penal del Tribunal Supremo",
+      "alternatives": [
+        "El Tribunal Constitucional",
+        "El Tribunal Superior de Justicia de Madrid",
+        "La Audiencia Provincial del domicilio"
+      ],
+      "reference": "LO 3/1981, art. 6.3",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿En qué único caso cabe detener al Defensor por hechos ajenos a sus funciones durante su mandato?",
+      "answer": "En caso de flagrante delito",
+      "alternatives": [
+        "Con autorización del presidente del Congreso",
+        "En cualquier delito leve",
+        "Por orden administrativa motivada"
+      ],
+      "reference": "LO 3/1981, art. 6.3",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Alcanza la inviolabilidad del Defensor a sus opiniones en ejercicio de las competencias propias del cargo?",
+      "answer": "Sí",
+      "alternatives": [
+        "No, solo a las resoluciones escritas",
+        "Solo tras dejar el cargo",
+        "Solo con inmunidad concedida por el Senado"
+      ],
+      "reference": "LO 3/1981, art. 6.2",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Qué relación debe existir entre una queja y la persona o entidad que la presenta?",
+      "answer": "Invocar un interés legítimo",
+      "alternatives": [
+        "Ser funcionario de carrera",
+        "Residir obligatoriamente en Madrid",
+        "Tener exclusivamente nacionalidad española"
+      ],
+      "reference": "LO 3/1981, art. 10.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Qué puede hacer el Defensor cuando una norma rigurosamente aplicada perjudica a administrados?",
+      "answer": "Sugerir su modificación al órgano legislativo o a la Administración",
+      "alternatives": [
+        "Derogarla directamente",
+        "Ignorar la norma por decreto",
+        "Aprobar una ley correctora"
+      ],
+      "reference": "LO 3/1981, art. 28.2",
+      "difficulty": 3,
+      "format": "inap"
+    },
+    {
+      "question": "¿Qué debe hacer el Defensor al recibir una queja de un ciudadano?",
+      "answer": "Registrar y acusar recibo; después tramitarla o rechazarla motivadamente",
+      "alternatives": [
+        "Enviar la queja siempre a un juzgado",
+        "Iniciar de oficio un recurso de amparo",
+        "Resolverla con sentencia"
+      ],
+      "reference": "LO 3/1981, art. 17.1",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Está obligada la Administración a responder expresamente las peticiones y recursos presentados por los ciudadanos, cuya tramitación vigila el Defensor?",
+      "answer": "Sí, en tiempo y forma",
+      "alternatives": [
+        "No, basta el silencio en cualquier caso",
+        "Solo cuando una comisión del Congreso lo ordene",
+        "Solo cuando exista condena judicial"
+      ],
+      "reference": "LO 3/1981, art. 17.2",
+      "difficulty": 2,
+      "format": "memoria"
+    },
+    {
+      "question": "¿Qué ley orgánica creó expresamente la institución del Defensor del Pueblo?",
+      "answer": "Ley Orgánica 3/1981, de 6 de abril",
+      "alternatives": [
+        "Ley Orgánica 2/1979",
+        "Ley Orgánica 5/1985",
+        "Ley Orgánica 10/1995"
+      ],
+      "reference": "LO 3/1981, encabezamiento",
+      "difficulty": 1,
+      "format": "memoria"
+    }
+  ]
+}
