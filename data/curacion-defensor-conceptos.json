@@ -1,0 +1,103 @@
+{
+  "schema": 1,
+  "revision": "2026-11-16-defensor-conceptos-1",
+  "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1981-10325",
+  "scope": "Todas las modalidades de la aplicación. Los IDs se conservan para no perder progreso; solo dejan de ser seleccionables.",
+  "inactiveIds": [
+    50,
+    52,
+    54,
+    56,
+    58,
+    60,
+    62,
+    64,
+    66,
+    2282,
+    2329,
+    2331,
+    2332,
+    2333,
+    2428,
+    2429
+  ],
+  "groups": [
+    {
+      "concepto": "mandato de cinco años",
+      "keep": 49,
+      "hide": [
+        50,
+        2329
+      ]
+    },
+    {
+      "concepto": "mayoría Congreso primera elección (3/5)",
+      "keep": 51,
+      "hide": [
+        52,
+        2331
+      ]
+    },
+    {
+      "concepto": "mayoría Senado primera ratificación (3/5)",
+      "keep": 53,
+      "hide": [
+        54
+      ]
+    },
+    {
+      "concepto": "mayoría Congreso candidatura sucesiva (3/5)",
+      "keep": 55,
+      "hide": [
+        56
+      ]
+    },
+    {
+      "concepto": "mayoría Senado candidatura sucesiva (absoluta)",
+      "keep": 57,
+      "hide": [
+        58
+      ]
+    },
+    {
+      "concepto": "dos adjuntos",
+      "keep": 59,
+      "hide": [
+        60
+      ]
+    },
+    {
+      "concepto": "español mayor de edad",
+      "keep": 61,
+      "hide": [
+        62
+      ]
+    },
+    {
+      "concepto": "plazo de un año desde los hechos",
+      "keep": 63,
+      "hide": [
+        64,
+        2332
+      ]
+    },
+    {
+      "concepto": "plazo inicial de informe 15 días",
+      "keep": 65,
+      "hide": [
+        66,
+        2333
+      ]
+    },
+    {
+      "concepto": "artículo 54 CE",
+      "keep": 473,
+      "hide": [
+        2282,
+        2428,
+        2429
+      ]
+    }
+  ],
+  "notes": "No agrupar por mera coincidencia de respuesta: la primera votación en Congreso y Senado y las votaciones sucesivas constituyen hechos distintos. Revisado sobre las preguntas 1-2505 de la APK V6.0.1."
+}
