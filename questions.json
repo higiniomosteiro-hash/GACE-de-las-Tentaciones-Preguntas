@@ -13776,10 +13776,10 @@
     "question": "¿Qué es una ley en sentido formal?",
     "answer": "Norma emanada del órgano titular de la potestad legislativa",
     "options": [
-      "Norma dictada por el Gobierno en ejercicio de delegación legislativa",
+      "Norma del Gobierno aprobada por delegación legislativa de las Cortes",
       "Norma emanada del órgano titular de la potestad legislativa",
-      "Norma dictada por el Gobierno al amparo de la potestad reglamentaria",
-      "Norma con fuerza de ley adoptada por el ejecutivo por extraordinaria urgencia"
+      "Norma gubernamental con fuerza de ley por extraordinaria y urgente necesidad",
+      "Disposición general aprobada por un órgano con potestad reglamentaria"
     ],
     "reference": "Tema 2, 1",
     "category": "Derecho Administrativo",
@@ -13795,9 +13795,9 @@
     "question": "¿Qué es una ley en sentido material amplio según el tema?",
     "answer": "Toda norma escrita con rasgos de generalidad",
     "options": [
-      "Un acto administrativo individual",
-      "Únicamente una disposición constitucional",
-      "Solo una ley orgánica",
+      "Toda disposición escrita con rango de ley, aunque no tenga alcance general",
+      "Solo las normas escritas aprobadas por las Cortes Generales",
+      "Cualquier norma general, aunque no esté formalizada por escrito",
       "Toda norma escrita con rasgos de generalidad"
     ],
     "reference": "Tema 2, 1",
@@ -13815,9 +13815,9 @@
     "answer": "Mayoría absoluta del Congreso en votación final del conjunto",
     "options": [
       "Mayoría absoluta del Congreso en votación final del conjunto",
-      "Dos tercios del Congreso y del Senado",
-      "Tres quintos de ambas Cámaras",
-      "Mayoría absoluta del Senado en segunda votación"
+      "Mayoría absoluta del Congreso en una votación final de cada artículo",
+      "Mayoría absoluta de ambas Cámaras en una votación final de conjunto",
+      "Mayoría de tres quintos del Congreso en la votación final de conjunto"
     ],
     "reference": "CE 81.2",
     "category": "Derecho Administrativo",
@@ -13834,9 +13834,9 @@
     "answer": "81.1",
     "options": [
       "81.1",
-      "90.1",
-      "86.3",
-      "82.2"
+      "81.2",
+      "82.1",
+      "86.1"
     ],
     "reference": "CE 81.1",
     "category": "Derecho Administrativo",
@@ -13852,9 +13852,9 @@
     "question": "¿Qué materia requiere una ley orgánica por el artículo 81.1 CE?",
     "answer": "El régimen electoral general",
     "options": [
-      "Toda concesión administrativa",
-      "Toda ordenación urbanística local",
-      "Cualquier impuesto municipal concreto",
+      "El régimen de los derechos y deberes del capítulo segundo en su conjunto",
+      "La regulación del ejercicio de todos los principios rectores del título I",
+      "Las bases del régimen estatutario de los funcionarios públicos",
       "El régimen electoral general"
     ],
     "reference": "CE 81.1",
@@ -13871,10 +13871,10 @@
     "question": "¿Quién puede ejercer la iniciativa de reforma constitucional del artículo 166 CE?",
     "answer": "Gobierno, Congreso, Senado y asambleas autonómicas",
     "options": [
-      "Solo el Congreso y el Tribunal Constitucional",
-      "Solo el Gobierno",
+      "Gobierno y Cortes Generales, excluidas las asambleas autonómicas",
+      "Gobierno, Congreso y asambleas autonómicas, excluido el Senado",
       "Gobierno, Congreso, Senado y asambleas autonómicas",
-      "Cualquier grupo de 500.000 ciudadanos mediante ILP"
+      "Gobierno, Congreso, Senado y la iniciativa popular del artículo 87.3"
     ],
     "reference": "CE 166 y 87.1-2",
     "category": "Derecho Administrativo",
@@ -13890,10 +13890,10 @@
     "question": "¿Cuál es la mayoría inicial del procedimiento de reforma del artículo 167 CE?",
     "answer": "Tres quintos de cada Cámara",
     "options": [
-      "Mayoría absoluta del Congreso únicamente",
-      "Dos tercios del Senado únicamente",
+      "Dos tercios de cada Cámara",
+      "Mayoría absoluta de cada Cámara",
       "Tres quintos de cada Cámara",
-      "Mayoría simple de ambas Cámaras"
+      "Tres quintos únicamente del Congreso y mayoría absoluta del Senado"
     ],
     "reference": "CE 167.1",
     "category": "Derecho Administrativo",
@@ -13909,10 +13909,10 @@
     "question": "Si fracasa el acuerdo de reforma ordinaria y el Senado ha dado su mayoría absoluta, ¿con qué mayoría puede aprobar el Congreso según el artículo 167.2 CE?",
     "answer": "Dos tercios",
     "options": [
-      "Mayoría absoluta",
+      "Tres quintos",
       "Dos tercios",
-      "Mayoría simple",
-      "Tres quintos"
+      "Mayoría absoluta",
+      "Dos tercios del Senado y mayoría absoluta del Congreso"
     ],
     "reference": "CE 167.2",
     "category": "Derecho Administrativo",
@@ -13928,10 +13928,10 @@
     "question": "¿Qué fracción de miembros de cualquiera de las Cámaras puede pedir referéndum en una reforma del artículo 167 CE?",
     "answer": "Una décima parte",
     "options": [
-      "Un tercio",
+      "Una quinta parte",
       "Una décima parte",
       "Una cuarta parte",
-      "Dos quintas partes"
+      "Un tercio"
     ],
     "reference": "CE 167.3",
     "category": "Derecho Administrativo",
@@ -13947,10 +13947,10 @@
     "question": "¿En qué plazo puede solicitarse referéndum tras aprobar una reforma ordinaria?",
     "answer": "Quince días",
     "options": [
-      "Treinta días",
+      "Diez días",
       "Quince días",
-      "Sesenta días",
-      "Dos meses"
+      "Veinte días",
+      "Treinta días"
     ],
     "reference": "CE 167.3",
     "category": "Derecho Administrativo",
@@ -13966,9 +13966,9 @@
     "question": "¿Qué mayoría se exige para aprobar el principio de reforma del artículo 168 CE?",
     "answer": "Dos tercios de cada Cámara",
     "options": [
-      "Mayoría simple conjunta",
-      "Mayoría absoluta del Senado",
-      "Tres quintos del Congreso",
+      "Tres quintos de cada Cámara",
+      "Dos tercios del Congreso y mayoría absoluta del Senado",
+      "Mayoría absoluta de cada Cámara",
       "Dos tercios de cada Cámara"
     ],
     "reference": "CE 168.1",
@@ -13986,9 +13986,9 @@
     "answer": "Se disuelven inmediatamente",
     "options": [
       "Se disuelven inmediatamente",
-      "Solo se disuelve el Senado",
-      "Continúan hasta agotar la legislatura",
-      "Se suspenden durante quince días"
+      "Se disuelven tras la ratificación del texto por las nuevas Cámaras",
+      "Se disuelven solo después del referéndum de ratificación",
+      "Se mantiene la legislatura y se convocan nuevas elecciones tras aprobar el texto"
     ],
     "reference": "CE 168.1",
     "category": "Derecho Administrativo",
@@ -14004,10 +14004,10 @@
     "question": "¿Es obligatorio el referéndum en la reforma constitucional agravada?",
     "answer": "Sí, siempre",
     "options": [
-      "Solo si lo solicita el presidente del TC",
+      "Sí, pero solo si lo solicita una décima parte de una Cámara",
       "Sí, siempre",
-      "No, nunca",
-      "No, solo si lo piden 1/10 de los diputados"
+      "No, salvo que las nuevas Cortes acuerden someterla a consulta",
+      "Solo si el Congreso lo solicita por mayoría absoluta"
     ],
     "reference": "CE 168.3",
     "category": "Derecho Administrativo",
@@ -14023,10 +14023,10 @@
     "question": "¿Cuándo no puede iniciarse una reforma constitucional según el artículo 169 CE?",
     "answer": "Durante guerra o vigencia de estados del artículo 116",
     "options": [
-      "Durante la legislatura de un Gobierno en minoría",
-      "Durante cualquier período de sesiones parlamentarias",
+      "Durante los estados de excepción y sitio, pero no durante el de alarma",
+      "Únicamente durante la declaración formal del estado de sitio",
       "Durante guerra o vigencia de estados del artículo 116",
-      "Mientras el Congreso esté reunido"
+      "Durante guerra o suspensión de determinados derechos, aunque no se haya declarado un estado del artículo 116"
     ],
     "reference": "CE 169",
     "category": "Derecho Administrativo",
@@ -14043,9 +14043,9 @@
     "answer": "150.1",
     "options": [
       "150.1",
-      "150.3",
       "150.2",
-      "149.3"
+      "150.3",
+      "149.1"
     ],
     "reference": "CE 150.1",
     "category": "Derecho Administrativo",
@@ -14061,10 +14061,10 @@
     "question": "¿Qué rango exige el artículo 150.2 CE a las leyes estatales de transferencia o delegación?",
     "answer": "Ley orgánica",
     "options": [
-      "Real decreto",
-      "Orden ministerial",
+      "Ley ordinaria con mayoría absoluta del Congreso",
+      "Ley marco aprobada por mayoría simple",
       "Ley orgánica",
-      "Ley de bases necesariamente"
+      "Decreto legislativo estatal por delegación de las Cortes"
     ],
     "reference": "CE 150.2",
     "category": "Derecho Administrativo",
@@ -14080,10 +14080,10 @@
     "question": "¿Qué mayoría aprecia la necesidad de una ley de armonización?",
     "answer": "Mayoría absoluta de cada Cámara",
     "options": [
-      "Dos tercios de una comisión mixta",
-      "Tres quintos del Senado exclusivamente",
+      "Mayoría de tres quintos de cada Cámara",
+      "Mayoría absoluta del Congreso y simple del Senado",
       "Mayoría absoluta de cada Cámara",
-      "Mayoría simple del Congreso exclusivamente"
+      "Mayoría de dos tercios del Congreso"
     ],
     "reference": "CE 150.3",
     "category": "Derecho Administrativo",
@@ -14099,10 +14099,10 @@
     "question": "¿Cuál de estas materias NO puede delegarse a comisiones legislativas permanentes para su aprobación?",
     "answer": "Los Presupuestos Generales del Estado",
     "options": [
-      "Una ley ordinaria no reservada al Pleno",
-      "Una ley ordinaria de contenido administrativo común",
+      "Una proposición de ley ordinaria de carácter administrativo",
+      "Un proyecto de ley ordinaria sin materias reservadas al Pleno",
       "Los Presupuestos Generales del Estado",
-      "Una proposición de ley ordinaria sin reserva"
+      "Un proyecto de ley sobre procedimiento administrativo común"
     ],
     "reference": "CE 75.2-3",
     "category": "Derecho Administrativo",
@@ -14118,10 +14118,10 @@
     "question": "¿Qué tipo de iniciativa legislativa del Gobierno se remite al Congreso?",
     "answer": "Proyecto de ley",
     "options": [
-      "Decreto de Presidencia del Senado",
-      "Proposición de ley de un grupo parlamentario",
+      "Proposición de ley presentada por el Gobierno",
+      "Proyecto de ley promovido por una asamblea autonómica",
       "Proyecto de ley",
-      "Cuestión de confianza"
+      "Proposición de ley presentada por el Congreso a iniciativa del Ejecutivo"
     ],
     "reference": "CE 88",
     "category": "Derecho Administrativo",
@@ -14137,9 +14137,9 @@
     "question": "¿De cuánto tiempo dispone ordinariamente el Senado para vetar o enmendar un proyecto de ley?",
     "answer": "Dos meses",
     "options": [
+      "Un mes",
       "Tres meses",
-      "Quince días naturales",
-      "Treinta días hábiles",
+      "Veinte días naturales",
       "Dos meses"
     ],
     "reference": "CE 90.2",
@@ -14156,9 +14156,9 @@
     "question": "¿A qué plazo se reduce la actuación del Senado cuando el proyecto se declara urgente?",
     "answer": "Veinte días naturales",
     "options": [
-      "Un mes",
-      "Diez días naturales",
-      "Quince días hábiles",
+      "Quince días naturales",
+      "Treinta días naturales",
+      "Veinte días hábiles",
       "Veinte días naturales"
     ],
     "reference": "CE 90.3",
@@ -14176,9 +14176,9 @@
     "answer": "Mayoría absoluta",
     "options": [
       "Mayoría absoluta",
-      "Dos tercios",
+      "Mayoría simple",
       "Tres quintos",
-      "Mayoría simple"
+      "Dos tercios"
     ],
     "reference": "CE 90.2",
     "category": "Derecho Administrativo",
@@ -14194,9 +14194,9 @@
     "question": "¿Cuántos días tiene el Rey para sancionar las leyes aprobadas por las Cortes?",
     "answer": "Quince días",
     "options": [
-      "Veinte días",
-      "Quince días",
       "Diez días",
+      "Quince días",
+      "Veinte días",
       "Treinta días"
     ],
     "reference": "CE 91",
@@ -14213,9 +14213,9 @@
     "question": "¿Quién propone la convocatoria del referéndum consultivo del artículo 92 CE?",
     "answer": "El presidente del Gobierno, con autorización previa del Congreso",
     "options": [
-      "El Tribunal Constitucional",
-      "El presidente del Senado, sin autorización",
-      "El Defensor del Pueblo",
+      "El Gobierno, previa autorización del Senado",
+      "El Rey, a propuesta del presidente del Gobierno",
+      "El presidente del Congreso, a iniciativa del Gobierno",
       "El presidente del Gobierno, con autorización previa del Congreso"
     ],
     "reference": "CE 92.2",
@@ -14232,10 +14232,10 @@
     "question": "¿Qué artículo exige que la ley respete el contenido esencial de los derechos del capítulo II del Título I?",
     "answer": "53.1",
     "options": [
-      "81.2",
+      "53.2",
       "53.1",
-      "9.3",
-      "86.2"
+      "81.1",
+      "86.1"
     ],
     "reference": "CE 53.1",
     "category": "Derecho Administrativo",
@@ -14253,8 +14253,8 @@
     "options": [
       "Ley ordinaria",
       "Ley de bases",
-      "Ley de armonización",
-      "Reglamento del Senado"
+      "Ley marco del artículo 150.1 CE",
+      "Ley orgánica de delegación legislativa"
     ],
     "reference": "CE 82.2",
     "category": "Derecho Administrativo",
@@ -14270,10 +14270,10 @@
     "question": "¿Mediante qué ley se delega la formación de un texto articulado?",
     "answer": "Ley de bases",
     "options": [
-      "Ley marco autonómica",
+      "Ley ordinaria de refundición",
       "Ley de bases",
-      "Ley de armonización",
-      "Ley ordinaria de refundición"
+      "Ley marco del artículo 150.1 CE",
+      "Ley orgánica de transferencia del artículo 150.2 CE"
     ],
     "reference": "CE 82.2",
     "category": "Derecho Administrativo",
@@ -14289,10 +14289,10 @@
     "question": "¿Puede la delegación legislativa de las Cortes concederse por tiempo indeterminado?",
     "answer": "No; debe fijarse plazo",
     "options": [
-      "Sí; siempre que sea para refundir normas",
-      "Sí; si la acepta el Senado",
+      "Sí, si se trata de la refundición de varias normas legales",
+      "Sí, cuando las Cortes prevean control posterior suficiente",
       "No; debe fijarse plazo",
-      "Sí; si es mediante ley orgánica"
+      "Sí, si la delegación se agota con la publicación del decreto legislativo"
     ],
     "reference": "CE 82.3",
     "category": "Derecho Administrativo",
@@ -14308,9 +14308,9 @@
     "question": "¿Puede el Gobierno subdelegar la potestad legislativa delegada por las Cortes?",
     "answer": "No; el artículo 82.3 la prohíbe",
     "options": [
-      "Sí; a las Cortes autonómicas",
-      "Sí; al Consejo de Estado",
-      "Sí; a cualquier ministro",
+      "Sí, mediante acuerdo del Consejo de Ministros a favor de un ministro",
+      "Sí, cuando lo autorice expresamente la ley de bases",
+      "Sí, cuando se trate exclusivamente de refundir textos",
       "No; el artículo 82.3 la prohíbe"
     ],
     "reference": "CE 82.3",
@@ -14327,10 +14327,10 @@
     "question": "¿Qué NO puede autorizar una ley de bases conforme al artículo 83 CE?",
     "answer": "Modificar la propia ley de bases",
     "options": [
-      "Fijar principios para el Gobierno",
+      "Autorizar al Gobierno a refundir textos legales en vez de elaborar un articulado",
       "Modificar la propia ley de bases",
-      "Establecer criterios de desarrollo",
-      "Delimitar objeto y alcance"
+      "Permitir al Gobierno aprobar normas de desarrollo ajustadas a las bases",
+      "Delimitar los principios y criterios que ha de seguir el Gobierno"
     ],
     "reference": "CE 83",
     "category": "Derecho Administrativo",
@@ -14346,9 +14346,9 @@
     "question": "¿Puede una ley de bases facultar para dictar normas con carácter retroactivo?",
     "answer": "No",
     "options": [
-      "Solo si lo pide el Senado",
-      "Solo cuando se tramite como ley marco",
-      "Sí, sin límite",
+      "Sí, si la ley de bases lo autoriza expresamente",
+      "Sí, si la norma retroactiva tiene efectos favorables",
+      "Sí, cuando el texto articulado sea convalidado por el Congreso",
       "No"
     ],
     "reference": "CE 83",
@@ -14365,10 +14365,10 @@
     "question": "¿Cómo se denominan las disposiciones gubernamentales que contienen legislación delegada?",
     "answer": "Decretos legislativos",
     "options": [
-      "Órdenes ministeriales",
+      "Decretos-leyes",
       "Decretos legislativos",
-      "Decretos ordinarios",
-      "Decretos-leyes"
+      "Reales decretos de desarrollo",
+      "Leyes delegadas aprobadas directamente por las Cortes"
     ],
     "reference": "CE 85",
     "category": "Derecho Administrativo",
@@ -14385,9 +14385,9 @@
     "answer": "Extraordinaria y urgente necesidad",
     "options": [
       "Extraordinaria y urgente necesidad",
-      "Una sentencia del Tribunal Supremo",
-      "Delegación legislativa previa de las Cortes",
-      "Cualquier mayoría parlamentaria favorable"
+      "Urgencia acreditada y delegación legislativa previa de las Cortes",
+      "Necesidad ordinaria de completar la regulación reglamentaria",
+      "Una habilitación de una ley de bases para aprobar un texto articulado"
     ],
     "reference": "CE 86.1",
     "category": "Derecho Administrativo",
@@ -14403,10 +14403,10 @@
     "question": "¿En qué plazo debe el Congreso pronunciarse sobre la convalidación o derogación de un decreto-ley?",
     "answer": "Treinta días siguientes a su promulgación",
     "options": [
-      "Dos meses desde su aprobación por el Consejo de Ministros",
+      "Veinte días desde su promulgación",
       "Treinta días siguientes a su promulgación",
-      "Veinte días naturales desde su publicación",
-      "Quince días desde su publicación"
+      "Treinta días desde su publicación oficial",
+      "Quince días desde su promulgación"
     ],
     "reference": "CE 86.2",
     "category": "Derecho Administrativo",
@@ -14423,9 +14423,9 @@
     "answer": "El Congreso de los Diputados",
     "options": [
       "El Congreso de los Diputados",
-      "Ambas Cámaras en sesión conjunta",
-      "El Senado",
-      "Las comisiones de ambas Cámaras"
+      "El Senado, con posterior ratificación del Congreso",
+      "El Congreso y el Senado mediante votaciones sucesivas",
+      "Las Cortes Generales reunidas en sesión conjunta"
     ],
     "reference": "CE 86.2",
     "category": "Derecho Administrativo",
@@ -14441,10 +14441,10 @@
     "question": "¿Qué efecto tiene la convalidación de un decreto-ley?",
     "answer": "Mantiene su eficacia como decreto-ley; no lo transforma por sí sola en ley formal",
     "options": [
-      "Lo eleva a reforma constitucional",
+      "Lo convierte en ley ordinaria sin necesidad de tramitación posterior",
       "Mantiene su eficacia como decreto-ley; no lo transforma por sí sola en ley formal",
-      "Lo convierte automáticamente en ley orgánica",
-      "Lo transforma en reglamento"
+      "Lo transforma en decreto legislativo una vez convalidado",
+      "Le confiere rango orgánico si regula derechos fundamentales"
     ],
     "reference": "CE 86; Tema 2, 2.3.2",
     "category": "Derecho Administrativo",
@@ -14460,10 +14460,10 @@
     "question": "¿Qué órgano puede controlar un decreto legislativo cuando excede los límites de la delegación, conforme a la LJCA?",
     "answer": "La jurisdicción contencioso-administrativa",
     "options": [
-      "Solo el Tribunal de Cuentas",
+      "Exclusivamente el Tribunal Constitucional, incluso cuando hay exceso de delegación",
       "La jurisdicción contencioso-administrativa",
-      "El Senado mediante recurso de amparo",
-      "Únicamente el Consejo de Estado"
+      "El Tribunal Supremo en su Sala de lo Civil",
+      "El Consejo de Estado mediante un dictamen vinculante"
     ],
     "reference": "LJCA 1; CE 82.6",
     "category": "Derecho Administrativo",
@@ -14479,10 +14479,10 @@
     "question": "¿Qué órgano puede oponerse a tramitar proposiciones contrarias a una delegación legislativa vigente?",
     "answer": "El Gobierno",
     "options": [
-      "El Tribunal Supremo",
-      "El Consejo General del Poder Judicial",
+      "El Congreso de los Diputados",
+      "La Mesa del Senado",
       "El Gobierno",
-      "El Defensor del Pueblo"
+      "La comisión legislativa competente"
     ],
     "reference": "CE 84",
     "category": "Derecho Administrativo",
@@ -14498,10 +14498,10 @@
     "question": "Una norma del Gobierno refundirá cuatro leyes vigentes. La ley habilitante no fija un plazo para ejercer la delegación. ¿Qué afirmación es correcta?",
     "answer": "La delegación es contraria al artículo 82.3 CE porque debe fijar un plazo",
     "options": [
-      "Solo sería inválida si hubiera una ley orgánica implicada",
-      "La ausencia de plazo puede subsanarse con una orden ministerial",
+      "La delegación es válida si la refundición se limita a armonizar textos",
+      "La delegación es válida si el Gobierno fija posteriormente el plazo",
       "La delegación es contraria al artículo 82.3 CE porque debe fijar un plazo",
-      "Es válida por tratarse de una refundición y no de un texto articulado"
+      "La delegación puede ejercerla el Gobierno mientras la ley habilitante siga vigente"
     ],
     "reference": "CE 82.2-3",
     "category": "Derecho Administrativo",
@@ -14517,9 +14517,9 @@
     "question": "El Gobierno desea establecer una regulación articulada sobre una materia no reservada a ley orgánica. ¿Qué instrumento de delegación debe aprobarse previamente?",
     "answer": "Una ley de bases que delimite objeto, alcance, principios y criterios",
     "options": [
-      "Una ley de armonización por mayoría absoluta de las Cámaras",
-      "Una orden ministerial que fije bases de actuación",
-      "Un decreto-ley de simple convalidación posterior",
+      "Una ley ordinaria que autorice la refundición de textos legales",
+      "Una ley orgánica que delegue la elaboración de un texto articulado",
+      "Una ley marco que habilite al Gobierno a regular mediante texto articulado",
       "Una ley de bases que delimite objeto, alcance, principios y criterios"
     ],
     "reference": "CE 82.2 y 82.4",
@@ -14536,9 +14536,9 @@
     "question": "Se propone una reforma de la CE por el artículo 167. El Senado aprueba el texto por mayoría absoluta, pero no se logra el acuerdo de tres quintos de ambas Cámaras. ¿Qué alternativa prevé la CE?",
     "answer": "Que el Congreso la apruebe por mayoría de dos tercios",
     "options": [
-      "Que baste una mayoría simple de las dos Cámaras reunidas",
-      "Que se convoque de forma automática un referéndum previo",
-      "Que el Senado la apruebe definitivamente por tres quintos",
+      "Que el Congreso apruebe por mayoría de tres quintos, sin otra condición",
+      "Que el Senado apruebe el texto por dos tercios y el Congreso por mayoría absoluta",
+      "Que las Cámaras aprueben el nuevo texto por mayoría absoluta conjunta",
       "Que el Congreso la apruebe por mayoría de dos tercios"
     ],
     "reference": "CE 167.2",
@@ -14555,10 +14555,10 @@
     "question": "Después de aprobarse una reforma constitucional conforme al artículo 167, una décima parte de los senadores solicita referéndum 12 días después. ¿Qué sucede?",
     "answer": "Debe someterse la reforma a referéndum de ratificación",
     "options": [
-      "La reforma debe pasar al artículo 168 por la solicitud",
+      "La solicitud debe proceder de una décima parte de los diputados, no de senadores",
       "Debe someterse la reforma a referéndum de ratificación",
-      "No puede solicitarlo el Senado, solo el Congreso",
-      "La solicitud es extemporánea: el plazo es de siete días"
+      "El referéndum solo es obligatorio si se solicita en los diez primeros días",
+      "La solicitud no produce efecto porque el artículo 167 exige un quinto de los senadores"
     ],
     "reference": "CE 167.3",
     "category": "Derecho Administrativo",
@@ -14574,9 +14574,9 @@
     "question": "Se pretende modificar un artículo de la sección primera del capítulo segundo del Título I. ¿Qué procedimiento corresponde?",
     "answer": "El artículo 168, con disolución de las Cortes y referéndum obligatorio",
     "options": [
-      "El artículo 167, sin posibilidad de referéndum",
-      "Un decreto legislativo con autorización especial",
-      "Una ley orgánica votada solo por el Congreso",
+      "El artículo 167, con referéndum solo si lo pide una décima parte de una Cámara",
+      "El artículo 168, pero sin disolución si ambas Cámaras logran tres quintos",
+      "El artículo 167 con aprobación por dos tercios y referéndum obligatorio",
       "El artículo 168, con disolución de las Cortes y referéndum obligatorio"
     ],
     "reference": "CE 168.1-3",
@@ -14594,9 +14594,9 @@
     "answer": "Ley marco del artículo 150.1 CE",
     "options": [
       "Ley marco del artículo 150.1 CE",
-      "Decreto-ley autonómico dictado por el Estado",
-      "Ley orgánica de transferencia del artículo 150.2 obligatoriamente",
-      "Ley de armonización del artículo 150.3"
+      "Ley orgánica de transferencia o delegación del artículo 150.2 CE",
+      "Ley de armonización del artículo 150.3 CE",
+      "Ley ordinaria de bases para legislación delegada del artículo 82 CE"
     ],
     "reference": "CE 150.1",
     "category": "Derecho Administrativo",
@@ -14612,10 +14612,10 @@
     "question": "Se pretende transferir a una Comunidad Autónoma facultades estatales susceptibles de transferencia. ¿Cuál es el cauce constitucional?",
     "answer": "Ley orgánica conforme al artículo 150.2 CE",
     "options": [
-      "Real decreto sin habilitación",
+      "Ley marco del artículo 150.1 CE",
       "Ley orgánica conforme al artículo 150.2 CE",
-      "Ley de bases para texto articulado",
-      "Orden ministerial conforme al artículo 82 CE"
+      "Ley de armonización del artículo 150.3 CE",
+      "Ley ordinaria de delegación del artículo 82 CE"
     ],
     "reference": "CE 150.2",
     "category": "Derecho Administrativo",
@@ -14631,9 +14631,9 @@
     "question": "Para aprobar una ley de armonización, ¿qué trámite especial exige el artículo 150.3 de la CE?",
     "answer": "Apreciar la necesidad por mayoría absoluta de cada Cámara",
     "options": [
-      "Requerir unanimidad de la Conferencia de Presidentes",
-      "Celebrar un referéndum vinculante de todas las autonomías",
-      "Obtener el aval previo de todos los parlamentos autonómicos",
+      "Apreciar la necesidad por tres quintos de cada Cámara",
+      "Apreciar la necesidad por mayoría absoluta solo del Congreso",
+      "Apreciar la necesidad por mayoría simple de ambas Cámaras",
       "Apreciar la necesidad por mayoría absoluta de cada Cámara"
     ],
     "reference": "CE 150.3",
@@ -14651,9 +14651,9 @@
     "answer": "Por mayoría absoluta de inmediato o simple una vez transcurridos dos meses desde el veto",
     "options": [
       "Por mayoría absoluta de inmediato o simple una vez transcurridos dos meses desde el veto",
-      "Únicamente mediante referéndum",
-      "Solo por mayoría de dos tercios en todos los casos",
-      "Por simple mayoría inmediata sin esperar"
+      "Por mayoría absoluta, sin posibilidad de levantarlo por mayoría simple",
+      "Por mayoría simple de inmediato, aunque no transcurran dos meses",
+      "Por mayoría de tres quintos tras transcurrir un mes desde el veto"
     ],
     "reference": "CE 90.2",
     "category": "Derecho Administrativo",
@@ -14669,10 +14669,10 @@
     "question": "Un proyecto legislativo declarado urgente llega al Senado. ¿Cuál es su plazo constitucional para vetarlo o enmendarlo?",
     "answer": "Veinte días naturales",
     "options": [
-      "Treinta días hábiles",
-      "Quince días hábiles",
+      "Quince días naturales",
+      "Veinte días hábiles",
       "Veinte días naturales",
-      "Dos meses"
+      "Un mes"
     ],
     "reference": "CE 90.3",
     "category": "Derecho Administrativo",
@@ -14688,10 +14688,10 @@
     "question": "El Gobierno dicta una norma provisional de urgencia que afecta al derecho electoral general. ¿Qué límite constitucional podría vulnerar?",
     "answer": "La prohibición material del artículo 86.1 CE",
     "options": [
-      "La facultad de sanción real del artículo 91 CE",
+      "La reserva de ley orgánica del artículo 81.2 CE como único límite del decreto-ley",
       "La prohibición material del artículo 86.1 CE",
-      "La obligación de delegación del artículo 82.3 CE",
-      "La reserva exclusiva del Senado del artículo 69 CE"
+      "La prohibición de delegar materias orgánicas del artículo 82.1 CE",
+      "El límite temporal de treinta días del artículo 86.2 CE, sin restricción material"
     ],
     "reference": "CE 86.1",
     "category": "Derecho Administrativo",
@@ -14707,10 +14707,10 @@
     "question": "Un decreto-ley se convalida en el Congreso y se acuerda su tramitación como proyecto de ley. ¿Qué interpretación es correcta?",
     "answer": "La convalidación por sí misma no transforma el decreto-ley en ley formal",
     "options": [
-      "El Senado debe convalidar previamente el decreto-ley",
+      "La convalidación transforma inmediatamente el decreto-ley en ley ordinaria",
       "La convalidación por sí misma no transforma el decreto-ley en ley formal",
-      "Convalidarlo lo transforma automáticamente en ley orgánica",
-      "La convalidación elimina la necesidad de tramitar el proyecto por las Cortes"
+      "La tramitación como proyecto de ley es automática tras la convalidación",
+      "El decreto-ley deja de tener efectos en cuanto se inicia la tramitación parlamentaria"
     ],
     "reference": "CE 86.2-3; Tema 2",
     "category": "Derecho Administrativo",
@@ -14726,10 +14726,10 @@
     "question": "La Comisión Legislativa Permanente del Congreso recibe delegación para aprobar una ley orgánica. ¿Qué dispone la CE?",
     "answer": "La ley orgánica está excluida de esa delegación de aprobación",
     "options": [
-      "La Comisión puede aprobarla por mayoría simple",
-      "Solo se exige que la Comisión no modifique artículos",
+      "La Comisión puede aprobarla si la delegación procede del Pleno del Congreso",
+      "La Comisión puede aprobarla si obtiene mayoría absoluta de sus miembros",
       "La ley orgánica está excluida de esa delegación de aprobación",
-      "La Comisión puede aprobarla si la confirma el Senado"
+      "La Comisión puede aprobarla con ratificación posterior del Pleno del Senado"
     ],
     "reference": "CE 75.3",
     "category": "Derecho Administrativo",
@@ -14745,10 +14745,10 @@
     "question": "La aprobación de una ley orgánica obtiene mayoría absoluta del Senado, pero en la votación final de conjunto del Congreso solo logra mayoría simple. ¿Es suficiente?",
     "answer": "No; falta la mayoría absoluta final del Congreso exigida en el artículo 81.2",
     "options": [
-      "Sí; basta la absoluta del Senado",
+      "Sí; basta la mayoría absoluta del Senado y la simple del Congreso",
       "No; falta la mayoría absoluta final del Congreso exigida en el artículo 81.2",
-      "Sí; las mayorías de las Cámaras se suman",
-      "Sí; la mayoría simple siempre basta tras el Senado"
+      "Sí; la mayoría final absoluta puede obtenerse mediante suma de votos de ambas Cámaras",
+      "No; además de la mayoría absoluta del Congreso se requieren tres quintos del Senado"
     ],
     "reference": "CE 81.2",
     "category": "Derecho Administrativo",
@@ -14765,9 +14765,9 @@
     "answer": "Jerarquía normativa y congelación del rango de la regulación legal",
     "options": [
       "Jerarquía normativa y congelación del rango de la regulación legal",
-      "La simple preferencia de los reglamentos posteriores frente a todas las leyes anteriores",
-      "La libertad del Gobierno para modificar leyes ordinarias cuando no se reserve la materia a ley",
-      "La prioridad de las disposiciones reglamentarias que se dicten en desarrollo de una ley"
+      "El reglamento prevalece si es posterior a la ley y no existe reserva constitucional",
+      "El reglamento puede modificar la ley siempre que sea ejecutivo y no independiente",
+      "La ley ordinaria solo queda protegida si regula una materia reservada a ley"
     ],
     "reference": "Tema 2, 1.2.3; CE 9.3",
     "category": "Derecho Administrativo",
@@ -49350,9 +49350,9 @@
     "answer": "En los treinta días siguientes a su promulgación.",
     "options": [
       "En los treinta días siguientes a su promulgación.",
-      "En los quince días siguientes a su publicación.",
-      "En los dos meses siguientes a su convalidación.",
-      "En un año desde su entrada en vigor."
+      "En los veinte días siguientes a su promulgación.",
+      "En los treinta días siguientes a su publicación.",
+      "En los quince días siguientes a su promulgación."
     ],
     "reference": "CE arts. 81-86, 148-150; CEF Derecho Administrativo, tema 2",
     "category": "Derecho Administrativo",
@@ -49369,9 +49369,9 @@
     "answer": "El desarrollo de los derechos fundamentales y libertades públicas.",
     "options": [
       "El desarrollo de los derechos fundamentales y libertades públicas.",
-      "La aprobación de cualquier orden ministerial.",
-      "La regulación de cada expediente de contratación menor.",
-      "La fijación de tarifas de aparcamiento municipal en todo caso."
+      "La regulación del ejercicio de todos los derechos del capítulo segundo del título I.",
+      "La regulación de todos los derechos y principios rectores del título I.",
+      "La aprobación de toda legislación básica estatal sobre derechos sociales."
     ],
     "reference": "CE arts. 81-86, 148-150; CEF Derecho Administrativo, tema 2",
     "category": "Derecho Administrativo",
@@ -49388,9 +49388,9 @@
     "answer": "Un decreto legislativo.",
     "options": [
       "Un decreto legislativo.",
-      "Un decreto autonómico sin fuerza de ley.",
-      "Una simple instrucción interna.",
-      "Un tratado internacional."
+      "Un decreto-ley aprobado por extraordinaria y urgente necesidad.",
+      "Un real decreto reglamentario dictado en desarrollo de la ley de bases.",
+      "Una ley ordinaria aprobada directamente por el Gobierno."
     ],
     "reference": "CE arts. 81-86, 148-150; CEF Derecho Administrativo, tema 2",
     "category": "Derecho Administrativo",
@@ -49407,9 +49407,9 @@
     "answer": "No; es una materia expresamente protegida frente al decreto-ley.",
     "options": [
       "No; es una materia expresamente protegida frente al decreto-ley.",
-      "Sí, si lo aprueba la Comisión Delegada del Gobierno.",
-      "Sí, siempre que lo ratifique el Senado.",
-      "Sí, cuando lo proponga una entidad local."
+      "Sí, cuando el Congreso lo convalide por mayoría absoluta.",
+      "Sí, siempre que la medida se limite a las competencias compartidas.",
+      "Sí, si la extraordinaria urgencia está motivada y el Congreso la ratifica."
     ],
     "reference": "CE arts. 81-86, 148-150; CEF Derecho Administrativo, tema 2",
     "category": "Derecho Administrativo",
@@ -49426,9 +49426,9 @@
     "answer": "Su diferencia esencial es de materia y procedimiento, no una superioridad jerárquica general.",
     "options": [
       "Su diferencia esencial es de materia y procedimiento, no una superioridad jerárquica general.",
-      "Toda ley orgánica prevalece sobre cualquier ley ordinaria por rango superior.",
-      "Toda ley ordinaria deroga cualquier ley orgánica.",
-      "Ambas normas son reglamentos del Gobierno."
+      "La ley orgánica tiene rango superior en todas las materias que regula.",
+      "La ley ordinaria puede desplazar a una orgánica siempre que sea posterior.",
+      "La ley orgánica prevalece por la mayoría reforzada de su aprobación."
     ],
     "reference": "CE arts. 81-86, 148-150; CEF Derecho Administrativo, tema 2",
     "category": "Derecho Administrativo",
@@ -49445,9 +49445,9 @@
     "answer": "Una ley ordinaria que determine el ámbito normativo de la refundición.",
     "options": [
       "Una ley ordinaria que determine el ámbito normativo de la refundición.",
-      "Una moción del Senado sin rango legal.",
-      "Una circular de un ministerio.",
-      "Un decreto-ley de convalidación inmediata."
+      "Una ley de bases que determine los principios y criterios de refundición.",
+      "Una ley orgánica que otorgue delegación específica para toda refundición.",
+      "Una ley marco aprobada por las Cortes para refundir leyes estatales."
     ],
     "reference": "CE arts. 81-86, 148-150; CEF Derecho Administrativo, tema 2",
     "category": "Derecho Administrativo",
