@@ -26,7 +26,7 @@
       "20 días",
       "10 días",
       "15 días",
-      "1 mes"
+      "30 días"
     ],
     "reference": "LO 3/1981 art. 2.4",
     "category": "Organización del Estado",
@@ -254,7 +254,7 @@
       "10 días",
       "5 días",
       "15 días",
-      "1 mes"
+      "20 días"
     ],
     "reference": "LO 3/1981 art. 7.2",
     "category": "Organización del Estado",
@@ -442,9 +442,9 @@
     "answer": "No se examina individualmente, sin perjuicio de investigar problemas generales",
     "options": [
       "No se examina individualmente, sin perjuicio de investigar problemas generales",
-      "Se anula la vía judicial",
-      "Se resuelve antes que el juez",
-      "Se remite siempre al Consejo de Estado"
+      "Se investiga individualmente la queja mientras la resolución judicial no sea firme.",
+      "Se examina individualmente si el juez aún no ha dictado sentencia.",
+      "Se resuelve la queja con efectos vinculantes aunque exista un proceso judicial pendiente."
     ],
     "reference": "LO 3/1981 art. 17.2",
     "category": "Organización del Estado",
@@ -480,9 +480,9 @@
     "answer": "10 días",
     "options": [
       "10 días",
-      "48 horas",
       "5 días",
-      "1 mes"
+      "15 días",
+      "20 días"
     ],
     "reference": "LO 3/1981 art. 20.2",
     "category": "Organización del Estado",
