@@ -4,9 +4,9 @@
     "question": "¿Qué iniciativas se someten al procedimiento general del artículo 26 de la Ley 50/1997?",
     "answer": "Anteproyectos de ley, proyectos de real decreto legislativo y normas reglamentarias",
     "options": [
-      "Únicamente proyectos de ley y decretos-leyes",
-      "Solo proyectos de real decreto reglamentario",
-      "Proyectos de ley y actos administrativos singulares",
+      "Anteproyectos de ley y reales decretos legislativos, pero no reglamentos",
+      "Proyectos de real decreto legislativo y reglamentos, pero no anteproyectos de ley",
+      "Anteproyectos de ley, proyectos de decreto-ley y reglamentos",
       "Anteproyectos de ley, proyectos de real decreto legislativo y normas reglamentarias"
     ],
     "reference": "Ley 50/1997, art. 26, encabezamiento",
@@ -24,10 +24,10 @@
     "question": "¿Cuál es el momento de la consulta pública prevista en el artículo 26.2?",
     "answer": "Antes de elaborar el texto de la iniciativa",
     "options": [
-      "Después de obtener el dictamen del Consejo de Estado",
-      "Después de la aprobación del Consejo de Ministros",
+      "Después de elaborar el primer borrador, antes de la MAIN",
+      "Una vez completada la audiencia sobre el proyecto",
       "Antes de elaborar el texto de la iniciativa",
-      "Tras la publicación oficial del proyecto en las Cortes"
+      "Después del informe de la SGT, antes del Consejo de Ministros"
     ],
     "reference": "Ley 50/1997, art. 26.2",
     "category": "Derecho Administrativo",
@@ -65,9 +65,9 @@
     "answer": "En el portal web del departamento competente",
     "options": [
       "En el portal web del departamento competente",
-      "En el tablón de anuncios del Congreso",
-      "Mediante publicación del proyecto en el BOE",
-      "En la plataforma del Consejo de Estado"
+      "En el portal de transparencia de la Administración correspondiente",
+      "En la sede electrónica del Consejo de Estado",
+      "En el BOE mediante un anuncio de apertura de alegaciones"
     ],
     "reference": "Ley 50/1997, art. 26.2",
     "category": "Derecho Administrativo",
@@ -84,9 +84,9 @@
     "question": "¿Sobre qué alternativas debe recabarse opinión en la consulta previa?",
     "answer": "Sobre soluciones regulatorias y no regulatorias",
     "options": [
-      "Solo sobre soluciones normativas de rango legal",
-      "Únicamente sobre alternativas presupuestarias",
-      "Exclusivamente sobre distintas técnicas reglamentarias",
+      "Sobre alternativas de rango legal exclusivamente",
+      "Sobre soluciones regulatorias, pero no alternativas no normativas",
+      "Sobre opciones de desarrollo reglamentario exclusivamente",
       "Sobre soluciones regulatorias y no regulatorias"
     ],
     "reference": "Ley 50/1997, art. 26.2.d",
@@ -101,33 +101,13 @@
   },
   {
     "id": 2683,
-    "question": "¿Cuál de estas cuestiones integra la consulta pública previa?",
-    "answer": "La necesidad y oportunidad de aprobar la norma",
-    "options": [
-      "La votación prevista en la comisión parlamentaria",
-      "La cuantificación definitiva de las enmiendas",
-      "La necesidad y oportunidad de aprobar la norma",
-      "El sentido del dictamen del Consejo de Estado ya emitido"
-    ],
-    "reference": "Ley 50/1997, art. 26.2.b",
-    "category": "Derecho Administrativo",
-    "topic": "Tema 2 · La ley",
-    "subtopic": "Procedimiento de elaboración de normas",
-    "difficulty": 2,
-    "format": "memoria",
-    "explanation": "La necesidad y oportunidad de la iniciativa son una de las cuatro cuestiones consultadas.",
-    "source": "Apuntes profesor: procedimiento elaboración normativa (20 pp.) · contrastado Ley 50/1997, RD 931/2017, RD 1081/2017",
-    "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
-  },
-  {
-    "id": 2684,
     "question": "¿Qué documento debe motivar la omisión legalmente permitida de la consulta pública previa?",
     "answer": "La Memoria del Análisis de Impacto Normativo",
     "options": [
-      "La exposición de motivos de una ley posterior",
+      "En la ficha ejecutiva de la MAIN sin necesidad de motivación",
+      "En el acuerdo de inicio, sin necesidad de reflejarlo en la MAIN",
       "La Memoria del Análisis de Impacto Normativo",
-      "El acta de convalidación del Congreso",
-      "El informe anual de evaluación normativa exclusivamente"
+      "En la exposición de motivos, aunque no figure en la MAIN"
     ],
     "reference": "Ley 50/1997, art. 26.2",
     "category": "Derecho Administrativo",
@@ -140,14 +120,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2685,
+    "id": 2684,
     "question": "¿Qué clase de regulación puede permitir omitir la consulta previa por su alcance?",
     "answer": "La que regula aspectos parciales de una materia",
     "options": [
+      "La que establezca un régimen completo de una materia",
       "La que regula aspectos parciales de una materia",
-      "La que afecta íntegramente a una rama del Derecho",
-      "La que regula cualquier derecho fundamental",
-      "La que modifica simultáneamente varias materias"
+      "La que afecte a varios sectores económicos conjuntamente",
+      "La que desarrolle con carácter general una ley marco"
     ],
     "reference": "Ley 50/1997, art. 26.2.e",
     "category": "Derecho Administrativo",
@@ -160,14 +140,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2686,
+    "id": 2685,
     "question": "¿Qué circunstancia económica permite prescindir motivadamente de la consulta previa?",
     "answer": "Que la propuesta no tenga impacto significativo en la actividad económica",
     "options": [
-      "Que la propuesta no produzca superávit presupuestario",
-      "Que la norma tenga costes de aplicación superiores a los ingresos",
-      "Que la propuesta afecte al mercado interior de la Unión",
-      "Que la propuesta no tenga impacto significativo en la actividad económica"
+      "Que la propuesta no tenga impacto significativo en la actividad económica",
+      "Que la propuesta no tenga impacto presupuestario relevante",
+      "Que la propuesta no modifique la regulación de competencia",
+      "Que la propuesta no genere cargas administrativas relevantes"
     ],
     "reference": "Ley 50/1997, art. 26.2.c",
     "category": "Derecho Administrativo",
@@ -180,34 +160,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2687,
-    "question": "¿Qué circunstancia relativa a los destinatarios permite prescindir de la consulta previa?",
-    "answer": "Que la propuesta no les imponga obligaciones relevantes",
-    "options": [
-      "Que el número de destinatarios sea superior a mil",
-      "Que todos los afectados residan en una misma comunidad autónoma",
-      "Que la propuesta no les imponga obligaciones relevantes",
-      "Que las obligaciones se establezcan por real decreto"
-    ],
-    "reference": "Ley 50/1997, art. 26.2.d",
-    "category": "Derecho Administrativo",
-    "topic": "Tema 2 · La ley",
-    "subtopic": "Procedimiento de elaboración de normas",
-    "difficulty": 2,
-    "format": "memoria",
-    "explanation": "La inexistencia de obligaciones relevantes es una causa legal específica.",
-    "source": "Apuntes profesor: procedimiento elaboración normativa (20 pp.) · contrastado Ley 50/1997, RD 931/2017, RD 1081/2017",
-    "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
-  },
-  {
-    "id": 2688,
+    "id": 2686,
     "question": "¿A quién corresponde elaborar preceptivamente la MAIN en el procedimiento general?",
     "answer": "Al centro directivo competente",
     "options": [
-      "Al Tribunal de Cuentas",
-      "Al centro directivo competente",
-      "A la Secretaría General del Congreso",
-      "A la comisión parlamentaria dictaminante"
+      "A la Secretaría General Técnica del ministerio, como autora exclusiva",
+      "A la Oficina de Coordinación y Calidad Normativa, como autora exclusiva",
+      "Al titular del ministerio proponente, sin intervención del centro directivo",
+      "Al centro directivo competente"
     ],
     "reference": "Ley 50/1997, art. 26.3",
     "category": "Derecho Administrativo",
@@ -220,14 +180,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2689,
+    "id": 2687,
     "question": "¿Qué alternativa debe justificarse expresamente en el juicio de oportunidad de la MAIN?",
     "answer": "La de no aprobar nueva regulación",
     "options": [
+      "Solo la alternativa de elaborar una norma de rango inferior",
+      "Solo las distintas opciones de modificación del texto inicial",
       "La de no aprobar nueva regulación",
-      "La de someter siempre la norma a referéndum",
-      "La de sustituir cualquier ley por una orden ministerial",
-      "La de delegar automáticamente el texto al Senado"
+      "Únicamente las alternativas que propongan los sujetos consultados"
     ],
     "reference": "Ley 50/1997, art. 26.3.a",
     "category": "Derecho Administrativo",
@@ -240,14 +200,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2690,
+    "id": 2688,
     "question": "¿Qué relación de derogaciones exige el análisis jurídico de la MAIN?",
     "answer": "Un listado pormenorizado de las normas que quedarán derogadas",
     "options": [
-      "Solo el número total estimado de normas afectadas",
-      "Una lista de todas las leyes vigentes del sector público",
-      "Únicamente las disposiciones reglamentarias aprobadas ese año",
-      "Un listado pormenorizado de las normas que quedarán derogadas"
+      "Una relación de normas afectadas, sin precisar cuáles se derogan",
+      "Un listado pormenorizado de las normas que quedarán derogadas",
+      "Una referencia genérica a las disposiciones anteriores incompatibles",
+      "Solo una lista de reglamentos derogados, no de leyes"
     ],
     "reference": "Ley 50/1997, art. 26.3.b",
     "category": "Derecho Administrativo",
@@ -260,34 +220,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2691,
-    "question": "¿Qué cuestión constitucional debe examinar la MAIN además del análisis jurídico ordinario?",
-    "answer": "La adecuación al orden de distribución de competencias",
-    "options": [
-      "La eventual disolución de las Cortes Generales",
-      "La oportunidad de renovar el Tribunal Constitucional",
-      "La adecuación al orden de distribución de competencias",
-      "La revisión de los reglamentos de todas las comunidades autónomas"
-    ],
-    "reference": "Ley 50/1997, art. 26.3.c",
-    "category": "Derecho Administrativo",
-    "topic": "Tema 2 · La ley",
-    "subtopic": "Procedimiento de elaboración de normas",
-    "difficulty": 2,
-    "format": "memoria",
-    "explanation": "Debe valorarse el encaje de la propuesta en la distribución de competencias.",
-    "source": "Apuntes profesor: procedimiento elaboración normativa (20 pp.) · contrastado Ley 50/1997, RD 931/2017, RD 1081/2017",
-    "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
-  },
-  {
-    "id": 2692,
+    "id": 2689,
     "question": "¿Qué herramienta de análisis empresarial exige expresamente el artículo 26.3 de la Ley del Gobierno?",
     "answer": "El test Pyme conforme a la práctica de la Comisión Europea",
     "options": [
-      "Un referéndum previo a todas las pequeñas empresas",
       "El test Pyme conforme a la práctica de la Comisión Europea",
-      "Un informe del Tribunal de Cuentas sobre cada pyme",
-      "Una auditoría financiera obligatoria de todos los operadores"
+      "Un análisis coste-beneficio obligatorio para todas las iniciativas",
+      "Un informe previo vinculante de todas las asociaciones empresariales",
+      "Una memoria contable específica del impacto en sociedades mercantiles"
     ],
     "reference": "Ley 50/1997, art. 26.3.d",
     "category": "Derecho Administrativo",
@@ -300,33 +240,13 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2693,
-    "question": "¿Qué dos aspectos del mercado menciona expresamente el análisis económico de la MAIN?",
-    "answer": "La unidad de mercado y la competitividad",
-    "options": [
-      "La unidad de mercado y la competitividad",
-      "La política monetaria y la política cambiaria",
-      "La armonización fiscal y el tipo de cambio",
-      "La deuda exterior y la prima de riesgo"
-    ],
-    "reference": "Ley 50/1997, art. 26.3.d",
-    "category": "Derecho Administrativo",
-    "topic": "Tema 2 · La ley",
-    "subtopic": "Procedimiento de elaboración de normas",
-    "difficulty": 2,
-    "format": "memoria",
-    "explanation": "El análisis contempla competencia, unidad de mercado y competitividad.",
-    "source": "Apuntes profesor: procedimiento elaboración normativa (20 pp.) · contrastado Ley 50/1997, RD 931/2017, RD 1081/2017",
-    "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
-  },
-  {
-    "id": 2694,
+    "id": 2690,
     "question": "¿Qué debe hacerse con las cargas administrativas en la MAIN?",
     "answer": "Identificarlas y cuantificar el coste de su cumplimiento",
     "options": [
-      "Omitirlas cuando la norma tenga rango legal",
-      "Sumarlas exclusivamente al gasto de personal estatal",
-      "Valorarlas solo después de que la norma entre en vigor",
+      "Identificar las cargas sin estimar el coste para los obligados",
+      "Cuantificar solo el coste que soporte la Administración",
+      "Posponer toda valoración de cargas hasta la evaluación ex post",
       "Identificarlas y cuantificar el coste de su cumplimiento"
     ],
     "reference": "Ley 50/1997, art. 26.3.e",
@@ -340,14 +260,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2695,
+    "id": 2691,
     "question": "¿Qué perspectiva se exige expresamente en el impacto de género de la MAIN?",
     "answer": "La eliminación de desigualdades y la igualdad de trato y oportunidades",
     "options": [
-      "Solo la distribución de puestos de confianza ministeriales",
-      "Únicamente la evolución del empleo público femenino",
+      "Únicamente el porcentaje de mujeres entre los destinatarios",
+      "La igualdad de oportunidades sin examinar la eliminación de desigualdades",
       "La eliminación de desigualdades y la igualdad de trato y oportunidades",
-      "La paridad de los órganos de contratación de la AGE"
+      "Solo las consecuencias presupuestarias de las medidas de igualdad"
     ],
     "reference": "Ley 50/1997, art. 26.3.f",
     "category": "Derecho Administrativo",
@@ -360,14 +280,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2696,
+    "id": 2692,
     "question": "¿Qué dos dimensiones del cambio climático deben valorarse en la MAIN?",
     "answer": "Mitigación y adaptación",
     "options": [
-      "Compensación y convalidación",
+      "Mitigación y compensación económica de emisiones",
       "Mitigación y adaptación",
-      "Subvención y evaluación contable",
-      "Conservación documental y transparencia"
+      "Adaptación y competitividad de los sectores afectados",
+      "Mitigación y evaluación ex post de la propuesta"
     ],
     "reference": "Ley 50/1997, art. 26.3.h",
     "category": "Derecho Administrativo",
@@ -380,34 +300,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2697,
-    "question": "¿Qué resultado participativo debe recoger la MAIN conforme al artículo 26.3.g?",
-    "answer": "Un resumen de las principales aportaciones recibidas en la consulta previa",
-    "options": [
-      "Un resumen de las principales aportaciones recibidas en la consulta previa",
-      "El texto completo de todas las enmiendas del Senado",
-      "Las solicitudes de amparo admitidas por el Tribunal Constitucional",
-      "Los recursos contenciosos previsibles durante diez años"
-    ],
-    "reference": "Ley 50/1997, art. 26.3.g",
-    "category": "Derecho Administrativo",
-    "topic": "Tema 2 · La ley",
-    "subtopic": "Procedimiento de elaboración de normas",
-    "difficulty": 2,
-    "format": "memoria",
-    "explanation": "Debe resumir las aportaciones de la consulta pública previa.",
-    "source": "Apuntes profesor: procedimiento elaboración normativa (20 pp.) · contrastado Ley 50/1997, RD 931/2017, RD 1081/2017",
-    "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
-  },
-  {
-    "id": 2698,
+    "id": 2693,
     "question": "¿Qué debe justificarse en la MAIN si una propuesta no figuraba en el Plan Anual Normativo?",
     "answer": "La razón de su ausencia en dicho plan",
     "options": [
-      "La disolución del órgano proponente",
-      "La convalidación por el Congreso",
-      "La derogación automática del Plan Anual Normativo",
-      "La razón de su ausencia en dicho plan"
+      "La razón de su ausencia en dicho plan",
+      "La aprobación previa del órgano responsable del Plan Anual Normativo",
+      "Una nueva consulta pública en todo caso por treinta días",
+      "La suspensión de la tramitación hasta el siguiente Plan Anual Normativo"
     ],
     "reference": "RD 931/2017, art. 2.1.a.4",
     "category": "Derecho Administrativo",
@@ -420,14 +320,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2699,
+    "id": 2694,
     "question": "¿Para qué iniciativas está prevista expresamente la primera elevación específica del artículo 26.4?",
     "answer": "Anteproyectos de ley y proyectos de real decreto legislativo",
     "options": [
-      "Todos los reales decretos-leyes sin excepción",
-      "Cualquier instrucción de servicio o circular",
-      "Anteproyectos de ley y proyectos de real decreto legislativo",
-      "Solo los reglamentos internos de organismos autónomos"
+      "Anteproyectos de ley, reales decretos legislativos y decretos-leyes",
+      "Proyectos de real decreto legislativo y de reglamentos",
+      "Anteproyectos de ley y proyectos de reales decretos reglamentarios",
+      "Anteproyectos de ley y proyectos de real decreto legislativo"
     ],
     "reference": "Ley 50/1997, art. 26.4",
     "category": "Derecho Administrativo",
@@ -440,14 +340,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2700,
+    "id": 2695,
     "question": "¿Qué decide principalmente el Consejo de Ministros en su primera intervención del artículo 26.4?",
     "answer": "Los trámites ulteriores y consultas, informes o dictámenes convenientes",
     "options": [
-      "La aprobación definitiva de todas las leyes de Cortes",
+      "La aprobación definitiva y la remisión parlamentaria en todo caso",
+      "La emisión de un dictamen vinculante sobre la constitucionalidad",
       "Los trámites ulteriores y consultas, informes o dictámenes convenientes",
-      "La convalidación parlamentaria de la disposición",
-      "La declaración de nulidad de los reglamentos existentes"
+      "La fijación de los plazos de comparecencia del Congreso"
     ],
     "reference": "Ley 50/1997, art. 26.4",
     "category": "Derecho Administrativo",
@@ -460,14 +360,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2701,
+    "id": 2696,
     "question": "¿Qué órgano examina la propuesta antes de su primera elevación al Consejo de Ministros?",
     "answer": "La Comisión General de Secretarios de Estado y Subsecretarios",
     "options": [
+      "La Secretaría General Técnica y después la Oficina de Calidad Normativa",
       "La Comisión General de Secretarios de Estado y Subsecretarios",
-      "La Junta de Portavoces del Congreso",
-      "La Sala de Gobierno del Tribunal Supremo",
-      "La Comisión Mixta para la Unión Europea"
+      "La Oficina de Coordinación y Calidad Normativa sin intervención de la Comisión",
+      "La Comisión General solo después de la primera sesión del Consejo"
     ],
     "reference": "Ley 50/1997, art. 26.4",
     "category": "Derecho Administrativo",
@@ -480,14 +380,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2702,
+    "id": 2697,
     "question": "¿Con qué condición puede el Consejo de Ministros prescindir de la primera intervención del artículo 26.4 por urgencia?",
     "answer": "Que se hayan cumplimentado los trámites preceptivos",
     "options": [
-      "Que hayan transcurrido dos meses desde la consulta",
-      "Que la Oficina de Calidad Normativa haya publicado la norma",
-      "Que las Cortes hayan aprobado ya el texto",
-      "Que se hayan cumplimentado los trámites preceptivos"
+      "Que se hayan cumplimentado los trámites preceptivos",
+      "Que la Oficina haya informado, aunque resten informes preceptivos",
+      "Que lo solicite el centro directivo sin acuerdo del Consejo",
+      "Que se haya realizado la consulta previa, aunque falten los demás trámites"
     ],
     "reference": "Ley 50/1997, art. 26.4",
     "category": "Derecho Administrativo",
@@ -500,7 +400,7 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2703,
+    "id": 2698,
     "question": "¿Cuál es el plazo general de emisión de informes preceptivos si no existe regla especial?",
     "answer": "10 días",
     "options": [
@@ -520,7 +420,7 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2704,
+    "id": 2699,
     "question": "¿Qué plazo general corresponde a un informe pedido a otra Administración?",
     "answer": "1 mes",
     "options": [
@@ -540,7 +440,7 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2705,
+    "id": 2700,
     "question": "¿Qué plazo general corresponde a un informe pedido a un órgano dotado de especial independencia o autonomía?",
     "answer": "1 mes",
     "options": [
@@ -560,14 +460,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2706,
+    "id": 2701,
     "question": "¿A cuánto puede reducirse motivadamente la duración de los informes solicitados con emisión urgente?",
     "answer": "A no más de la mitad del plazo ordinario aplicable",
     "options": [
-      "A tres cuartas partes del plazo ordinario",
-      "A un tercio del plazo legal en todo caso",
-      "A cinco días naturales con independencia del órgano",
-      "A no más de la mitad del plazo ordinario aplicable"
+      "A no más de la mitad del plazo ordinario aplicable",
+      "A la mitad solo cuando los informes los emita otra Administración",
+      "A diez días en todo caso, incluso si el plazo ordinario es un mes",
+      "A cinco días en todo caso, incluso si el plazo ordinario es un mes"
     ],
     "reference": "Ley 50/1997, art. 26.5",
     "category": "Derecho Administrativo",
@@ -580,14 +480,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2707,
+    "id": 2702,
     "question": "¿Qué órgano ministerial informa obligatoriamente los anteproyectos de ley, proyectos de real decreto legislativo y reglamentos?",
     "answer": "La Secretaría General Técnica del ministerio proponente",
     "options": [
-      "La Intervención General del Estado en todo caso",
-      "El Consejo de Estado en todo caso",
-      "La Secretaría General Técnica del ministerio proponente",
-      "La Secretaría General del Senado"
+      "La Oficina de Coordinación y Calidad Normativa, que sustituye a la SGT",
+      "La Secretaría General Técnica solo en proyectos reglamentarios",
+      "El Consejo de Estado, aun cuando el dictamen no sea preceptivo",
+      "La Secretaría General Técnica del ministerio proponente"
     ],
     "reference": "Ley 50/1997, art. 26.5",
     "category": "Derecho Administrativo",
@@ -600,14 +500,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2708,
+    "id": 2703,
     "question": "¿Qué clase de propuesta precisa aprobación previa ministerial por afectar al régimen de personal de la AGE?",
     "answer": "La que afecta al régimen de personal, organización, procedimientos o inspección de servicios",
     "options": [
-      "Solo la que crea un tribunal arbitral privado",
+      "La que afecte exclusivamente al reparto competencial territorial",
+      "La que incida únicamente en la evaluación ex post de las normas",
       "La que afecta al régimen de personal, organización, procedimientos o inspección de servicios",
-      "La que afecta únicamente al régimen electoral autonómico",
-      "Toda norma que utilice fondos europeos sin excepción"
+      "La que regule exclusivamente los requisitos de publicación en el BOE"
     ],
     "reference": "Ley 50/1997, art. 26.5",
     "category": "Derecho Administrativo",
@@ -620,7 +520,7 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2709,
+    "id": 2704,
     "question": "¿Cuántos días sin objeciones permiten entender concedida la aprobación previa ministerial del artículo 26.5?",
     "answer": "15 días",
     "options": [
@@ -640,14 +540,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2710,
+    "id": 2705,
     "question": "¿En qué momento se solicita la aprobación previa del artículo 26.5 sobre personal u organización?",
     "answer": "Tras los demás informes, salvo en su caso el Consejo de Estado, y antes de la aprobación final",
     "options": [
-      "Antes de elaborar la primera versión del texto",
-      "Tras la publicación de la norma en el BOE",
-      "Solo después del dictamen de todas las comisiones parlamentarias",
-      "Tras los demás informes, salvo en su caso el Consejo de Estado, y antes de la aprobación final"
+      "Tras los demás informes, salvo en su caso el Consejo de Estado, y antes de la aprobación final",
+      "Antes del resto de informes, salvo el de la SGT",
+      "Después de la aprobación gubernamental, pero antes de la publicación",
+      "Después del dictamen del Consejo de Estado en todo caso"
     ],
     "reference": "Ley 50/1997, art. 26.5",
     "category": "Derecho Administrativo",
@@ -660,14 +560,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2711,
+    "id": 2706,
     "question": "¿Cuándo es necesario el informe previo del ministerio competente en política territorial?",
     "answer": "Cuando la norma pueda afectar al reparto de competencias Estado-comunidades autónomas",
     "options": [
-      "Siempre que el proyecto contemple gasto de inversión pública",
-      "Cuando se trate de toda modificación de una orden ministerial",
-      "Cuando la norma pueda afectar al reparto de competencias Estado-comunidades autónomas",
-      "Solo si el Consejo de Estado advierte una inconstitucionalidad"
+      "Cuando el proyecto modifique las plantillas estatales sin repercusión competencial",
+      "Cuando la propuesta altere exclusivamente el régimen interno del ministerio",
+      "Cuando se trate de cualquier disposición aplicable en todo el territorio",
+      "Cuando la norma pueda afectar al reparto de competencias Estado-comunidades autónomas"
     ],
     "reference": "Ley 50/1997, art. 26.5",
     "category": "Derecho Administrativo",
@@ -680,14 +580,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2712,
+    "id": 2707,
     "question": "¿Qué presupuesto material activa el trámite de audiencia del artículo 26.6?",
     "answer": "Que la norma afecte a derechos o intereses legítimos de las personas",
     "options": [
-      "Que la consulta previa haya recibido más de cien escritos",
+      "Que se prevea una afectación económica significativa a las empresas",
+      "Que el proyecto incluya disposiciones derogatorias",
       "Que la norma afecte a derechos o intereses legítimos de las personas",
-      "Que exista propuesta formal del Senado",
-      "Que el proyecto haya superado un informe desfavorable de la SGT"
+      "Que el proyecto no figure en el Plan Anual Normativo"
     ],
     "reference": "Ley 50/1997, art. 26.6",
     "category": "Derecho Administrativo",
@@ -700,7 +600,7 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2713,
+    "id": 2708,
     "question": "¿Cuál es el plazo mínimo ordinario de audiencia e información públicas?",
     "answer": "15 días hábiles",
     "options": [
@@ -720,7 +620,7 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2714,
+    "id": 2709,
     "question": "¿Hasta qué mínimo puede reducirse motivadamente la audiencia e información públicas?",
     "answer": "7 días hábiles",
     "options": [
@@ -740,14 +640,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2715,
+    "id": 2710,
     "question": "¿Qué motivo general permite omitir la audiencia e información públicas del artículo 26.6?",
     "answer": "Graves razones de interés público debidamente justificadas",
     "options": [
-      "La mera ausencia de impacto económico significativo",
-      "La aprobación por mayoría simple en el Consejo de Ministros",
-      "Graves razones de interés público debidamente justificadas",
-      "La existencia de menos de cien alegaciones previas"
+      "Que la propuesta carezca de impacto económico significativo",
+      "Que la propuesta regule solo aspectos parciales de una materia",
+      "Que no se impongan obligaciones relevantes a los destinatarios",
+      "Graves razones de interés público debidamente justificadas"
     ],
     "reference": "Ley 50/1997, art. 26.6",
     "category": "Derecho Administrativo",
@@ -760,34 +660,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2716,
-    "question": "¿A qué disposiciones no se aplica el trámite de audiencia según la excepción organizativa del artículo 26.6?",
-    "answer": "Las que regulan órganos, cargos y autoridades del Gobierno o sus entidades vinculadas",
-    "options": [
-      "Todas las que establezcan cualquier obligación de empleados públicos",
-      "Las que regulan órganos, cargos y autoridades del Gobierno o sus entidades vinculadas",
-      "Todos los reglamentos dictados por un ministerio",
-      "Las iniciativas que se incluyan en el Plan Anual Normativo"
-    ],
-    "reference": "Ley 50/1997, art. 26.6",
-    "category": "Derecho Administrativo",
-    "topic": "Tema 2 · La ley",
-    "subtopic": "Procedimiento de elaboración de normas",
-    "difficulty": 2,
-    "format": "memoria",
-    "explanation": "La excepción de audiencia se limita a disposiciones presupuestarias y a ciertas materias orgánicas del Gobierno.",
-    "source": "Apuntes profesor: procedimiento elaboración normativa (20 pp.) · contrastado Ley 50/1997, RD 931/2017, RD 1081/2017",
-    "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
-  },
-  {
-    "id": 2717,
+    "id": 2711,
     "question": "¿Cuándo se recaba dictamen del Consejo de Estado u órgano consultivo equivalente?",
     "answer": "Cuando sea preceptivo o se considere conveniente",
     "options": [
+      "Solo cuando sea legalmente preceptivo y no por oportunidad",
+      "Siempre que se trate de un proyecto reglamentario",
       "Cuando sea preceptivo o se considere conveniente",
-      "Solo cuando exista una ley orgánica de delegación",
-      "En todos los proyectos de real decreto sin excepción",
-      "Únicamente tras la aprobación de las Cortes Generales"
+      "Solo cuando ya exista informe desfavorable de la SGT"
     ],
     "reference": "Ley 50/1997, art. 26.7",
     "category": "Derecho Administrativo",
@@ -800,14 +680,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2718,
+    "id": 2712,
     "question": "¿Qué órgano interviene inmediatamente antes de la aprobación final del Consejo de Ministros según el artículo 26.8?",
     "answer": "La Comisión General de Secretarios de Estado y Subsecretarios",
     "options": [
-      "La Junta de Portavoces del Senado",
-      "La Comisión de Peticiones del Congreso",
-      "La Conferencia de Presidentes autonómicos",
-      "La Comisión General de Secretarios de Estado y Subsecretarios"
+      "La Oficina de Coordinación y Calidad Normativa con carácter decisorio",
+      "La Comisión General de Secretarios de Estado y Subsecretarios",
+      "La Secretaría General Técnica en sustitución de la Comisión General",
+      "El Consejo de Estado como órgano que aprueba definitivamente"
     ],
     "reference": "Ley 50/1997, art. 26.8",
     "category": "Derecho Administrativo",
@@ -820,14 +700,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2719,
+    "id": 2713,
     "question": "¿Con qué documento se remiten a las Cortes los proyectos de ley aprobados por el Consejo de Ministros?",
     "answer": "Con la exposición de motivos y documentación legalmente exigida",
     "options": [
-      "Con la sentencia previa del Tribunal Constitucional",
-      "Con el informe de fiscalización definitiva del Tribunal de Cuentas",
       "Con la exposición de motivos y documentación legalmente exigida",
-      "Con un dictamen siempre vinculante del Consejo de Estado"
+      "Con la MAIN pero sin exposición de motivos",
+      "Con la exposición de motivos, sin la documentación del procedimiento",
+      "Con los informes de la SGT exclusivamente, sin MAIN"
     ],
     "reference": "Ley 50/1997, art. 26.8",
     "category": "Derecho Administrativo",
@@ -840,14 +720,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2720,
+    "id": 2714,
     "question": "¿Qué ministerio tiene atribuida la coordinación y calidad de la actividad normativa gubernamental en el artículo 26.9?",
     "answer": "El Ministerio de la Presidencia",
     "options": [
-      "El Ministerio de Justicia exclusivamente",
-      "El Ministerio de la Presidencia",
-      "El Ministerio de Hacienda exclusivamente",
-      "El Ministerio de Política Territorial exclusivamente"
+      "El Ministerio de Hacienda, por su intervención en cargas presupuestarias",
+      "El Ministerio de Política Territorial, por el control competencial",
+      "El departamento proponente, sin control transversal de la Presidencia",
+      "El Ministerio de la Presidencia"
     ],
     "reference": "Ley 50/1997, art. 26.9",
     "category": "Derecho Administrativo",
@@ -860,14 +740,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2721,
+    "id": 2715,
     "question": "¿Qué órgano emite el informe técnico previsto en el artículo 26.9?",
     "answer": "La Oficina de Coordinación y Calidad Normativa",
     "options": [
+      "La Secretaría General Técnica del ministerio proponente",
+      "La Comisión General de Secretarios de Estado y Subsecretarios",
       "La Oficina de Coordinación y Calidad Normativa",
-      "La Comisión de Secretarios de Estado y Subsecretarios",
-      "La Oficina Presupuestaria del Congreso",
-      "La Dirección General de Tributos"
+      "El centro directivo responsable de la MAIN"
     ],
     "reference": "RD 1081/2017, arts. 1 y 2",
     "category": "Derecho Administrativo",
@@ -880,14 +760,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2722,
+    "id": 2716,
     "question": "¿Qué orden exige el RD 1081/2017 para solicitar el informe de la Oficina de Calidad Normativa?",
     "answer": "Antes de solicitar el informe de la Secretaría General Técnica",
     "options": [
-      "Siempre después de obtener el informe de la Secretaría General Técnica",
-      "Después de la publicación del proyecto en el BOE",
-      "Una vez celebrada la votación en el Congreso",
-      "Antes de solicitar el informe de la Secretaría General Técnica"
+      "En el mismo momento en que se solicita el informe de la SGT",
+      "Antes de solicitar el informe de la Secretaría General Técnica",
+      "Después de emitir el informe de la SGT, antes del Consejo",
+      "Una vez terminados los trámites y antes de la publicación"
     ],
     "reference": "RD 1081/2017, art. 7.2",
     "category": "Derecho Administrativo",
@@ -900,7 +780,7 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2723,
+    "id": 2717,
     "question": "¿Cuál es el plazo general de la Oficina de Coordinación y Calidad Normativa?",
     "answer": "15 días",
     "options": [
@@ -920,7 +800,7 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2724,
+    "id": 2718,
     "question": "¿Cuál es el plazo de la Oficina de Calidad Normativa para proyectos de real decreto-ley?",
     "answer": "5 días",
     "options": [
@@ -940,14 +820,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2725,
+    "id": 2719,
     "question": "¿Qué carácter tiene el informe de la Oficina de Coordinación y Calidad Normativa?",
     "answer": "Preceptivo y no vinculante",
     "options": [
+      "Preceptivo y vinculante para el texto final",
+      "Facultativo y no vinculante",
       "Preceptivo y no vinculante",
-      "Potestativo y vinculante",
-      "Preceptivo y vinculante",
-      "Potestativo y reservado al Consejo de Estado"
+      "Vinculante únicamente cuando contiene observaciones jurídicas"
     ],
     "reference": "RD 1081/2017, art. 7.7",
     "category": "Derecho Administrativo",
@@ -960,14 +840,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2726,
+    "id": 2720,
     "question": "¿Qué efecto tiene la falta de informe de la Oficina dentro de su plazo?",
     "answer": "Puede continuar la tramitación sin perjuicio de incorporar después el informe",
     "options": [
-      "Se entiende automáticamente prohibida la aprobación del texto",
-      "Queda aprobada la norma por silencio positivo",
-      "La propuesta se convierte en un decreto-ley",
-      "Puede continuar la tramitación sin perjuicio de incorporar después el informe"
+      "La tramitación queda suspendida hasta la recepción formal del informe",
+      "Puede continuar la tramitación sin perjuicio de incorporar después el informe",
+      "Se entiende informado favorablemente con carácter vinculante",
+      "Solo puede continuar si la SGT sustituye formalmente a la Oficina"
     ],
     "reference": "RD 1081/2017, art. 7.5",
     "category": "Derecho Administrativo",
@@ -980,14 +860,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2727,
+    "id": 2721,
     "question": "¿Dónde se justifican las recomendaciones de la Oficina que el ministerio decide no aceptar?",
     "answer": "En la Memoria del Análisis de Impacto Normativo",
     "options": [
-      "En el acta de la sesión plenaria del Senado",
-      "En un recurso de amparo preventivo",
       "En la Memoria del Análisis de Impacto Normativo",
-      "Únicamente en la memoria anual de la Oficina"
+      "En un escrito separado, sin incorporar justificación a la MAIN",
+      "En el acuerdo final del Consejo, sin motivación previa en la MAIN",
+      "No debe motivarse si se trata de recomendaciones no vinculantes"
     ],
     "reference": "RD 1081/2017, art. 7.7",
     "category": "Derecho Administrativo",
@@ -1000,14 +880,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2728,
+    "id": 2722,
     "question": "¿Qué rango orgánico atribuye el RD 1081/2017 a la Oficina de Coordinación y Calidad Normativa?",
     "answer": "Subdirección General",
     "options": [
-      "Dirección General",
-      "Subdirección General",
-      "Secretaría General Técnica",
-      "Subsecretaría"
+      "Dirección General adscrita al Ministerio de la Presidencia",
+      "Secretaría General Técnica adscrita a la Subsecretaría",
+      "Subdirección de organismo autónomo con independencia funcional",
+      "Subdirección General"
     ],
     "reference": "RD 1081/2017, art. 1.2",
     "category": "Derecho Administrativo",
@@ -1020,14 +900,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2729,
+    "id": 2723,
     "question": "¿Qué posible exceso de transposición examina la Oficina de Calidad Normativa?",
     "answer": "La extralimitación de la iniciativa frente a la norma de la UE transpuesta",
     "options": [
+      "La falta de correspondencia literal con el texto de una ley autonómica",
+      "La omisión de cualquier desarrollo adicional de una directiva",
       "La extralimitación de la iniciativa frente a la norma de la UE transpuesta",
-      "La reducción de los tipos tributarios autonómicos",
-      "La falta de convalidación de decretos legislativos",
-      "El incremento de las firmas exigidas a una iniciativa popular"
+      "La posible invasión de competencias del Consejo de Estado"
     ],
     "reference": "Ley 50/1997, art. 26.9.g",
     "category": "Derecho Administrativo",
@@ -1040,14 +920,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2730,
+    "id": 2724,
     "question": "¿Quién acuerda la tramitación urgente regulada en el artículo 27?",
     "answer": "El Consejo de Ministros, a propuesta del titular del departamento",
     "options": [
-      "La Secretaría General Técnica de oficio",
-      "La Oficina de Coordinación y Calidad Normativa",
-      "El Congreso por mayoría simple antes de redactar el texto",
-      "El Consejo de Ministros, a propuesta del titular del departamento"
+      "La Comisión General de Secretarios de Estado y Subsecretarios",
+      "El Consejo de Ministros, a propuesta del titular del departamento",
+      "El titular del departamento proponente mediante resolución propia",
+      "La Secretaría General Técnica tras recibir la propuesta"
     ],
     "reference": "Ley 50/1997, art. 27.1",
     "category": "Derecho Administrativo",
@@ -1060,14 +940,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2731,
+    "id": 2725,
     "question": "¿Cuál de estos supuestos justifica la urgencia del artículo 27?",
     "answer": "Necesidad de cumplir un plazo de transposición de una directiva de la UE",
     "options": [
-      "Que el anteproyecto tenga más de veinte artículos",
-      "Que la norma no figure en el Plan Anual Normativo",
       "Necesidad de cumplir un plazo de transposición de una directiva de la UE",
-      "Que la SGT tenga pendiente otra consulta no urgente"
+      "La falta de inclusión de la propuesta en el Plan Anual Normativo",
+      "El volumen de alegaciones recibido en la consulta previa",
+      "La necesidad genérica de simplificar la tramitación de una norma"
     ],
     "reference": "Ley 50/1997, art. 27.1.a",
     "category": "Derecho Administrativo",
@@ -1080,14 +960,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2732,
+    "id": 2726,
     "question": "¿Qué características exige la segunda causa de urgencia del artículo 27?",
     "answer": "Circunstancias extraordinarias e imprevisibles que exijan aprobación urgente",
     "options": [
-      "Circunstancias ordinarias y previsibles con mera conveniencia política",
-      "Circunstancias extraordinarias e imprevisibles que exijan aprobación urgente",
-      "Ausencia total de impacto económico y presupuestario",
-      "Exclusiva existencia de alegaciones contradictorias de los interesados"
+      "Circunstancias extraordinarias, aunque previsibles y sin urgencia real",
+      "Circunstancias sobrevenidas, aunque ordinarias y previsibles",
+      "Circunstancias de especial interés administrativo previstas desde el inicio",
+      "Circunstancias extraordinarias e imprevisibles que exijan aprobación urgente"
     ],
     "reference": "Ley 50/1997, art. 27.1.b",
     "category": "Derecho Administrativo",
@@ -1100,14 +980,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2733,
+    "id": 2727,
     "question": "¿Qué ocurre con los plazos del procedimiento al acordar la urgencia del artículo 27?",
     "answer": "Se reducen en general a la mitad",
     "options": [
+      "Se reduce a la mitad solo la consulta previa, manteniendo los informes",
+      "Se reducen a siete días todos los plazos con independencia de su duración",
       "Se reducen en general a la mitad",
-      "Se reducen todos a cinco días naturales",
-      "Se mantienen íntegros salvo el del Consejo de Estado",
-      "Se sustituyen por un plazo único de quince días hábiles"
+      "Se reducen a la mitad exclusivamente los informes facultativos"
     ],
     "reference": "Ley 50/1997, art. 27.2.a",
     "category": "Derecho Administrativo",
@@ -1120,14 +1000,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2734,
+    "id": 2728,
     "question": "¿Qué trámite participativo deja de ser necesario con la urgencia del artículo 27?",
     "answer": "La consulta pública previa del artículo 26.2",
     "options": [
-      "Toda audiencia a interesados afectada por la propuesta",
-      "La conservación electrónica del expediente",
-      "El informe de la Secretaría General Técnica",
-      "La consulta pública previa del artículo 26.2"
+      "La audiencia sobre el texto cuando afecte a derechos legítimos",
+      "La consulta pública previa del artículo 26.2",
+      "El informe preceptivo de la Secretaría General Técnica",
+      "El trámite de aprobación final del Consejo de Ministros"
     ],
     "reference": "Ley 50/1997, art. 27.2.b",
     "category": "Derecho Administrativo",
@@ -1140,7 +1020,7 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2735,
+    "id": 2729,
     "question": "¿Cuál es el plazo de audiencia pública en la tramitación urgente del artículo 27?",
     "answer": "7 días",
     "options": [
@@ -1160,14 +1040,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2736,
+    "id": 2730,
     "question": "¿Qué efecto tiene, en urgencia, la falta de informe o dictamen preceptivo en plazo?",
     "answer": "No impide continuar y podrá incorporarse posteriormente",
     "options": [
-      "Determina automáticamente la nulidad del anteproyecto",
-      "No impide continuar y podrá incorporarse posteriormente",
-      "Equivale a un informe favorable y vinculante",
-      "Obliga a abrir de nuevo la consulta pública previa"
+      "Impide continuar hasta su recepción por ser preceptivo",
+      "Se tiene por emitido favorablemente de manera vinculante",
+      "Solo permite continuar si se sustituye por dictamen de otro órgano",
+      "No impide continuar y podrá incorporarse posteriormente"
     ],
     "reference": "Ley 50/1997, art. 27.2.c",
     "category": "Derecho Administrativo",
@@ -1180,14 +1060,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2737,
+    "id": 2731,
     "question": "¿Qué apartados del artículo 26 siguen aplicándose a los decretos-leyes por el artículo 26.11?",
     "answer": "Los apartados 1, 3 abreviado, 8, 9 y 10",
     "options": [
+      "Los apartados 1, 2, 3 y 4, pero no los de aprobación final",
+      "Los apartados 1, 3 ordinario, 4, 8 y 10",
       "Los apartados 1, 3 abreviado, 8, 9 y 10",
-      "Los apartados 2, 4, 5, 6 y 7 exclusivamente",
-      "Todos los apartados del 1 al 10 sin excepción",
-      "Solo los apartados 2 y 6"
+      "Los apartados 1, 3 abreviado, 5, 8 y 10"
     ],
     "reference": "Ley 50/1997, art. 26.11",
     "category": "Derecho Administrativo",
@@ -1200,14 +1080,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2738,
+    "id": 2732,
     "question": "¿Qué tipo de MAIN se exige para elaborar un proyecto de real decreto-ley?",
     "answer": "MAIN abreviada preceptiva",
     "options": [
-      "MAIN ordinaria potestativa en todos los casos",
-      "Ausencia de MAIN por naturaleza urgente",
-      "MAIN posterior a la convalidación parlamentaria",
-      "MAIN abreviada preceptiva"
+      "MAIN ordinaria obligatoria sin excepción",
+      "MAIN abreviada preceptiva",
+      "MAIN abreviada únicamente cuando los impactos sean insignificantes",
+      "Ausencia de MAIN siempre que exista extraordinaria urgencia"
     ],
     "reference": "Ley 50/1997, art. 26.11; RD 931/2017, art. 3.1",
     "category": "Derecho Administrativo",
@@ -1220,14 +1100,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2739,
+    "id": 2733,
     "question": "¿Qué dos impactos deben aparecer al menos en la MAIN abreviada del RD 931/2017?",
     "answer": "Impacto presupuestario e impacto por razón de género",
     "options": [
-      "Impacto electoral e impacto sobre la composición del Congreso",
-      "Impacto sobre la potestad judicial e impacto sobre la Corona",
       "Impacto presupuestario e impacto por razón de género",
-      "Impacto sobre financiación local e impacto internacional exclusivamente"
+      "Impacto económico y climático sin necesidad de presupuestario",
+      "Impacto social y de género sin obligación presupuestaria",
+      "Impacto presupuestario y sobre discapacidad, sin exigencia de género"
     ],
     "reference": "RD 931/2017, art. 3.2",
     "category": "Derecho Administrativo",
@@ -1240,14 +1120,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2740,
+    "id": 2734,
     "question": "¿Qué aspecto competencial identifica específicamente la MAIN abreviada?",
     "answer": "El título competencial prevalente",
     "options": [
-      "La competencia del juez ordinario sobre cualquier ley",
-      "El título competencial prevalente",
-      "El órgano parlamentario que hará la ponencia",
-      "La competencia de cada ayuntamiento afectado sin excepción"
+      "El título competencial de todos los órganos consultados",
+      "Solo el fundamento competencial del ministerio promotor",
+      "Únicamente las normas europeas que permitan la transposición",
+      "El título competencial prevalente"
     ],
     "reference": "RD 931/2017, art. 3.2",
     "category": "Derecho Administrativo",
@@ -1260,14 +1140,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2741,
+    "id": 2735,
     "question": "¿Qué debe explicarse respecto de la elección de una MAIN abreviada?",
     "answer": "Los motivos que justifican recurrir a ese formato",
     "options": [
+      "Solo el valor estimado de las cargas administrativas de la iniciativa",
+      "Solo los motivos de extraordinaria necesidad sin explicar el formato",
       "Los motivos que justifican recurrir a ese formato",
-      "El modo en que se suprimió la intervención parlamentaria",
-      "La imposibilidad de valorar cualquier impacto económico",
-      "La renuncia a toda evaluación posterior"
+      "La inexistencia de cualquier impacto de género o presupuestario"
     ],
     "reference": "RD 931/2017, art. 3.3",
     "category": "Derecho Administrativo",
@@ -1280,14 +1160,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2742,
+    "id": 2736,
     "question": "¿Qué significa la evaluación ex post de una norma?",
     "answer": "Analizar sus resultados reales una vez aplicada",
     "options": [
-      "Anticipar únicamente los costes presupuestarios antes de aprobarla",
-      "Sustituir el trámite de consulta pública previa",
-      "Ratificar por referéndum todas las disposiciones reglamentarias",
-      "Analizar sus resultados reales una vez aplicada"
+      "Prever los resultados antes de que la norma entre en vigor",
+      "Analizar sus resultados reales una vez aplicada",
+      "Emitir un dictamen sobre el proyecto antes de aprobarlo",
+      "Examinar la legalidad formal de los trámites ya realizados"
     ],
     "reference": "RD 931/2017, art. 2.1.j",
     "category": "Derecho Administrativo",
@@ -1300,34 +1180,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2743,
-    "question": "¿Cuál es la regla general del análisis coste-beneficio adicional descrito en los apuntes de la MAIN?",
-    "answer": "Es facultativo salvo que una norma específica lo exija",
-    "options": [
-      "Siempre es obligatorio aunque no exista previsión normativa",
-      "Está prohibido para los proyectos de reglamento",
-      "Es facultativo salvo que una norma específica lo exija",
-      "Reemplaza al análisis jurídico y competencial"
-    ],
-    "reference": "RD 931/2017, art. 2; apuntes profesor, p. 9",
-    "category": "Derecho Administrativo",
-    "topic": "Tema 2 · La ley",
-    "subtopic": "Procedimiento de elaboración de normas",
-    "difficulty": 2,
-    "format": "memoria",
-    "explanation": "Los apuntes distinguen el análisis coste-beneficio adicional de los impactos exigidos por ley.",
-    "source": "Apuntes profesor: procedimiento elaboración normativa (20 pp.) · contrastado Ley 50/1997, RD 931/2017, RD 1081/2017",
-    "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
-  },
-  {
-    "id": 2744,
+    "id": 2737,
     "question": "¿Qué soporte exige el artículo 26.10 para conservar el expediente de elaboración normativa?",
     "answer": "Formato electrónico",
     "options": [
-      "Exclusivamente libros de actas en papel",
       "Formato electrónico",
-      "Solo publicación de la MAIN en el BOE",
-      "Custodia de un original físico en el Congreso"
+      "Únicamente formato electrónico para la MAIN, no para informes",
+      "Formato papel con digitalización opcional tras la aprobación",
+      "Conservación electrónica solo si el proyecto acaba como ley formal"
     ],
     "reference": "Ley 50/1997, art. 26.10",
     "category": "Derecho Administrativo",
@@ -1340,14 +1200,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2745,
+    "id": 2738,
     "question": "Un ministerio prepara un proyecto de reglamento y concede diez días naturales para la consulta previa. ¿Qué defecto presenta?",
     "answer": "No respeta el mínimo de quince días naturales para consulta previa",
     "options": [
-      "No respeta el mínimo de quince días naturales para consulta previa",
-      "Debe conceder diez días hábiles, no naturales",
-      "Debe conceder quince días hábiles por tratarse de consulta previa",
-      "La consulta previa no admite un plazo mínimo legal"
+      "El mínimo es quince días hábiles, también para la consulta previa",
+      "Puede reducirse a diez días si se justifica en la MAIN como regla ordinaria",
+      "El mínimo es siete días naturales, igual que en la tramitación urgente",
+      "No respeta el mínimo de quince días naturales para consulta previa"
     ],
     "reference": "Ley 50/1997, art. 26.2",
     "category": "Derecho Administrativo",
@@ -1360,14 +1220,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2746,
+    "id": 2739,
     "question": "Un anteproyecto se ha sometido a quince días naturales de consulta previa. Después, con el texto redactado, se conceden quince días naturales de audiencia. ¿Qué valoración es correcta?",
     "answer": "La consulta puede ser correcta, pero la audiencia ordinaria requiere quince días hábiles",
     "options": [
-      "Ambos plazos son correctos porque siempre se computan en días naturales",
-      "La audiencia es correcta, pero la consulta exige quince días hábiles",
-      "Ambos trámites exigen necesariamente treinta días hábiles",
-      "La consulta puede ser correcta, pero la audiencia ordinaria requiere quince días hábiles"
+      "Ambos trámites duran al menos quince días naturales",
+      "La consulta previa exige quince días hábiles y la audiencia quince naturales",
+      "La consulta puede ser correcta, pero la audiencia ordinaria requiere quince días hábiles",
+      "La audiencia puede durar quince naturales solo cuando haya poca repercusión"
     ],
     "reference": "Ley 50/1997, art. 26.2 y 26.6",
     "category": "Derecho Administrativo",
@@ -1380,14 +1240,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2747,
+    "id": 2740,
     "question": "Un proyecto sin impacto económico significativo afecta a derechos legítimos de los ciudadanos. Se omite tanto la consulta previa como la audiencia basándose únicamente en el escaso impacto. ¿Qué falla?",
     "answer": "La causa puede justificar la consulta, pero no permite por sí sola omitir la audiencia",
     "options": [
-      "El escaso impacto únicamente puede justificar la audiencia, nunca la consulta",
-      "Los dos trámites quedan siempre exentos ante cualquier escaso impacto",
+      "El escaso impacto permite omitir ambos si lo indica la MAIN",
       "La causa puede justificar la consulta, pero no permite por sí sola omitir la audiencia",
-      "La audiencia solo es necesaria cuando se trata de leyes orgánicas"
+      "La afectación de derechos impide siempre omitir la consulta previa",
+      "La consulta exige audiencia posterior solo cuando afecta a empresas"
     ],
     "reference": "Ley 50/1997, art. 26.2.c y 26.6",
     "category": "Derecho Administrativo",
@@ -1400,34 +1260,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2748,
-    "question": "Una iniciativa regula exclusivamente aspectos parciales de una materia y la MAIN justifica la omisión de la consulta previa. ¿Es posible?",
-    "answer": "Sí, esa circunstancia permite motivadamente prescindir de la consulta previa",
-    "options": [
-      "No, solo las normas presupuestarias pueden omitir la consulta",
-      "Sí, esa circunstancia permite motivadamente prescindir de la consulta previa",
-      "Sí, pero únicamente si además la aprueba el Senado por mayoría absoluta",
-      "No, la parcialidad de una materia obliga a duplicar la consulta"
-    ],
-    "reference": "Ley 50/1997, art. 26.2.e",
-    "category": "Derecho Administrativo",
-    "topic": "Tema 2 · La ley",
-    "subtopic": "Procedimiento de elaboración de normas",
-    "difficulty": 3,
-    "format": "inap",
-    "explanation": "La regulación parcial es una causa específica de omisión si se motiva en la MAIN.",
-    "source": "Apuntes profesor: procedimiento elaboración normativa (20 pp.) · contrastado Ley 50/1997, RD 931/2017, RD 1081/2017",
-    "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
-  },
-  {
-    "id": 2749,
+    "id": 2741,
     "question": "El centro directivo elabora una MAIN sin analizar la alternativa de no regular porque considera que su propuesta es necesaria. ¿Es suficiente?",
     "answer": "No, debe justificar expresamente la necesidad frente a la alternativa de no aprobar regulación",
     "options": [
       "No, debe justificar expresamente la necesidad frente a la alternativa de no aprobar regulación",
-      "Sí, la necesidad declarada excluye evaluar otras alternativas",
-      "Sí, siempre que el Consejo de Estado emita dictamen favorable",
-      "No, debe sustituirse la MAIN por el informe de la SGT"
+      "La MAIN solo debe analizar alternativas regulatorias posibles",
+      "La alternativa de no regular se examina solo después del Consejo",
+      "La ausencia de alternativas dispensa de motivar la necesidad"
     ],
     "reference": "Ley 50/1997, art. 26.3.a",
     "category": "Derecho Administrativo",
@@ -1440,13 +1280,13 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2750,
+    "id": 2742,
     "question": "El anteproyecto no está en el Plan Anual Normativo y su ministerio pretende elevarlo sin explicación. ¿Qué exige el RD 931/2017?",
     "answer": "Justificar en la MAIN por qué no figura en el Plan Anual Normativo",
     "options": [
-      "Retirarlo obligatoriamente hasta el año siguiente",
-      "Someterlo por ello a referéndum consultivo",
-      "Pedir que la Oficina de Calidad Normativa modifique el Plan por resolución",
+      "Debe incorporarse al Plan antes de tramitar cualquier informe",
+      "Puede omitirse la justificación si el centro directivo considera útil la iniciativa",
+      "La falta de previsión excluye la MAIN de manera automática",
       "Justificar en la MAIN por qué no figura en el Plan Anual Normativo"
     ],
     "reference": "RD 931/2017, art. 2.1.a.4",
@@ -1460,14 +1300,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2751,
+    "id": 2743,
     "question": "La MAIN calcula el gasto estatal pero omite los costes que las cargas de cumplimiento impondrán a los ciudadanos y pymes. ¿Qué juicio procede?",
     "answer": "Es insuficiente: deben identificarse cargas y cuantificarse costes para Administración y obligados",
     "options": [
-      "Es suficiente porque solo interesa el gasto del ministerio",
-      "Es suficiente siempre que el coste estatal sea inferior a un millón",
+      "Las cargas de los destinatarios se calculan solo en la evaluación ex post",
+      "Es suficiente cuantificar las cargas de la Administración únicamente",
       "Es insuficiente: deben identificarse cargas y cuantificarse costes para Administración y obligados",
-      "La omisión solo importa si el proyecto llega al Senado"
+      "El test Pyme sustituye en todo caso a la cuantificación de cargas"
     ],
     "reference": "Ley 50/1997, art. 26.3.e",
     "category": "Derecho Administrativo",
@@ -1480,14 +1320,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2752,
+    "id": 2744,
     "question": "Una propuesta normativa tiene claros efectos sobre mitigación y adaptación climáticas, pero la MAIN no los valora. ¿Qué apartado falta?",
     "answer": "El impacto por razón de cambio climático del artículo 26.3.h",
     "options": [
-      "Únicamente el test Pyme del artículo 26.3.d",
+      "El impacto climático solo se incorpora si lo exige la SGT",
       "El impacto por razón de cambio climático del artículo 26.3.h",
-      "Solo el resumen de consulta del artículo 26.3.g",
-      "El dictamen sobre distribución competencial del artículo 26.5"
+      "La valoración climática puede diferirse íntegramente a la evaluación ex post",
+      "Basta analizar el coste económico de la mitigación sin adaptación"
     ],
     "reference": "Ley 50/1997, art. 26.3.h",
     "category": "Derecho Administrativo",
@@ -1500,14 +1340,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2753,
+    "id": 2745,
     "question": "Un anteproyecto de ley se presenta directamente para aprobación final al Consejo de Ministros sin primera fase. Se invoca urgencia, pero falta un informe obligatorio. ¿Es válida esa dispensa?",
     "answer": "No; la excepción exige haber cumplido los trámites preceptivos",
     "options": [
       "No; la excepción exige haber cumplido los trámites preceptivos",
-      "Sí; la urgencia permite prescindir de cualquier trámite obligatorio",
-      "Sí; basta la aprobación interna de la SGT para sustituir todo informe",
-      "No; el Consejo de Ministros nunca puede omitir la primera fase"
+      "La urgencia habilita omitir cualquier informe legalmente preceptivo",
+      "La primera fase se omite siempre si el Consejo lo solicita sin motivación",
+      "Solo cabe omitir la primera fase cuando la propuesta sea reglamentaria"
     ],
     "reference": "Ley 50/1997, art. 26.4",
     "category": "Derecho Administrativo",
@@ -1520,34 +1360,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2754,
-    "question": "Un ministerio eleva por primera vez un anteproyecto de ley al Consejo de Ministros tras pasar por la Comisión General. ¿Cuál es la finalidad principal de esa primera elevación?",
-    "answer": "Determinar trámites ulteriores, consultas, informes y dictámenes convenientes",
-    "options": [
-      "Que el Congreso proceda a la convalidación inmediata",
-      "Que el Senado apruebe las enmiendas al proyecto",
-      "Producir la entrada en vigor automática del anteproyecto",
-      "Determinar trámites ulteriores, consultas, informes y dictámenes convenientes"
-    ],
-    "reference": "Ley 50/1997, art. 26.4",
-    "category": "Derecho Administrativo",
-    "topic": "Tema 2 · La ley",
-    "subtopic": "Procedimiento de elaboración de normas",
-    "difficulty": 3,
-    "format": "inap",
-    "explanation": "La primera elevación sirve para decidir actuaciones de tramitación adicionales.",
-    "source": "Apuntes profesor: procedimiento elaboración normativa (20 pp.) · contrastado Ley 50/1997, RD 931/2017, RD 1081/2017",
-    "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
-  },
-  {
-    "id": 2755,
+    "id": 2746,
     "question": "Una Secretaría General Técnica no ha informado un proyecto de real decreto reglamentario porque el ministerio cree que solo informa leyes. ¿Qué corresponde?",
     "answer": "Recabar informe de la SGT: también es obligatorio en proyectos reglamentarios",
     "options": [
-      "No exigir informe de la SGT, pues solo se requiere en leyes orgánicas",
-      "Sustituirlo siempre por un informe de la Junta Consultiva de Contratación",
-      "Recabar informe de la SGT: también es obligatorio en proyectos reglamentarios",
-      "Solicitar informe a las Cortes Generales en lugar de a la SGT"
+      "La SGT informa los anteproyectos de ley, pero no los reglamentos",
+      "La SGT solo informa proyectos reglamentarios si la Oficina no emite informe",
+      "La SGT puede ser sustituida por informe de la Oficina por su mismo objeto",
+      "Recabar informe de la SGT: también es obligatorio en proyectos reglamentarios"
     ],
     "reference": "Ley 50/1997, art. 26.5",
     "category": "Derecho Administrativo",
@@ -1560,14 +1380,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2756,
+    "id": 2747,
     "question": "Se solicita un informe preceptivo a otra Administración y se fija sin norma especial un plazo de diez días. ¿Cuál es el plazo legal general?",
     "answer": "Un mes",
     "options": [
-      "Diez días",
+      "El plazo ordinario de diez días se mantiene para todas las Administraciones",
+      "El plazo es de quince días si el órgano está en otra Administración",
       "Un mes",
-      "Quince días naturales",
-      "Siete días hábiles"
+      "El plazo es de un mes solo si el informe procede de un órgano independiente"
     ],
     "reference": "Ley 50/1997, art. 26.5",
     "category": "Derecho Administrativo",
@@ -1580,14 +1400,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2757,
+    "id": 2748,
     "question": "Un informe preceptivo de un organismo especialmente independiente se solicita con urgencia motivada. Sin plazo específico, ¿qué reducción corresponde?",
     "answer": "A un plazo no superior a la mitad del mes ordinario aplicable",
     "options": [
+      "Se aplica la mitad del plazo común de diez días",
       "A un plazo no superior a la mitad del mes ordinario aplicable",
-      "A diez días por ser la regla general común",
-      "A siete días naturales con independencia del organismo",
-      "A cinco días porque todo organismo autónomo equivale a la Oficina de Calidad Normativa"
+      "No cabe reducción cuando el órgano dispone de especial independencia",
+      "Se reduce a un tercio del mes si se motiva la urgencia"
     ],
     "reference": "Ley 50/1997, art. 26.5",
     "category": "Derecho Administrativo",
@@ -1600,14 +1420,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2758,
+    "id": 2749,
     "question": "Una iniciativa cambia las reglas de provisión de puestos en la AGE. Obtenidos los demás informes, falta la aprobación previa del ministerio competente. ¿Cuál es la regla?",
     "answer": "Se requiere aprobación previa por afectar al régimen de personal, con las salvedades temporales legales",
     "options": [
-      "No se exige aprobación porque toda provisión es materia exclusivamente reglamentaria",
-      "Basta siempre el informe de la Oficina de Calidad Normativa",
-      "Se requiere únicamente autorización de la Junta de Portavoces del Congreso",
-      "Se requiere aprobación previa por afectar al régimen de personal, con las salvedades temporales legales"
+      "Se requiere aprobación previa por afectar al régimen de personal, con las salvedades temporales legales",
+      "Basta con el informe favorable de la SGT por versar sobre gestión de personal",
+      "La aprobación previa se exige únicamente a los anteproyectos de ley formal",
+      "El informe de Política Territorial sustituye la aprobación en materia de personal"
     ],
     "reference": "Ley 50/1997, art. 26.5",
     "category": "Derecho Administrativo",
@@ -1620,14 +1440,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2759,
+    "id": 2750,
     "question": "El ministerio recibe la solicitud completa de aprobación previa con los textos definitivos y transcurren quince días sin objeción. ¿Qué sucede?",
     "answer": "La aprobación se entiende concedida",
     "options": [
-      "La solicitud queda rechazada por silencio",
-      "Debe abrirse automáticamente un plazo nuevo de quince días",
-      "La aprobación se entiende concedida",
-      "El Consejo de Estado pasa a ser órgano aprobador"
+      "Se entiende denegada la aprobación por silencio transcurridos quince días",
+      "Se exige esperar otros quince días si el órgano no responde",
+      "Solo opera el silencio favorable después de dictamen del Consejo de Estado",
+      "La aprobación se entiende concedida"
     ],
     "reference": "Ley 50/1997, art. 26.5",
     "category": "Derecho Administrativo",
@@ -1640,14 +1460,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2760,
+    "id": 2751,
     "question": "Un proyecto afecta a la distribución de competencias entre Estado y comunidades autónomas. ¿Qué informe específico debe pedirse?",
     "answer": "El informe previo del ministerio competente en política territorial",
     "options": [
-      "El informe vinculante de todas las asambleas autonómicas",
+      "El informe territorial solo se exige cuando todas las comunidades resulten afectadas",
+      "El informe de Hacienda sustituye el territorial en proyectos reglamentarios",
       "El informe previo del ministerio competente en política territorial",
-      "Solo el informe favorable del Tribunal Constitucional",
-      "La aprobación previa de Hacienda sustituye necesariamente cualquier otro informe"
+      "El informe territorial se pide únicamente tras la aprobación final"
     ],
     "reference": "Ley 50/1997, art. 26.5",
     "category": "Derecho Administrativo",
@@ -1660,14 +1480,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2761,
+    "id": 2752,
     "question": "El órgano proponente publica el proyecto para audiencia solo después de que haya sido aprobado definitivamente por el Consejo de Ministros. ¿Cuál es el problema?",
     "answer": "La audiencia del artículo 26.6 corresponde a la preparación sobre un texto antes de la aprobación",
     "options": [
+      "La audiencia debe practicarse antes incluso de existir un texto articulado",
       "La audiencia del artículo 26.6 corresponde a la preparación sobre un texto antes de la aprobación",
-      "La audiencia siempre se celebra después de la publicación de la ley",
-      "La audiencia solo puede celebrarse cuando finaliza la tramitación parlamentaria",
-      "La consulta previa nunca permite escuchar a los ciudadanos antes de la aprobación"
+      "El texto debe publicarse solo después de su remisión al Congreso",
+      "La audiencia puede reemplazarse en todo caso por una consulta después de aprobar"
     ],
     "reference": "Ley 50/1997, art. 26.6",
     "category": "Derecho Administrativo",
@@ -1680,14 +1500,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2762,
+    "id": 2753,
     "question": "Un proyecto afecta a derechos legítimos y la audiencia se reduce motivadamente a siete días hábiles, dejando constancia en la MAIN. ¿Es posible?",
     "answer": "Sí, es el mínimo reducido previsto en el artículo 26.6",
     "options": [
-      "No, la audiencia nunca puede reducirse por debajo de quince días",
-      "Sí, pero solo si dura siete días naturales",
-      "No, la única posibilidad legal es omitir completamente la audiencia",
-      "Sí, es el mínimo reducido previsto en el artículo 26.6"
+      "Sí, es el mínimo reducido previsto en el artículo 26.6",
+      "Solo puede reducirse a siete días naturales",
+      "El mínimo reducido es de diez días hábiles",
+      "No puede reducirse por razones motivadas fuera de urgencia"
     ],
     "reference": "Ley 50/1997, art. 26.6",
     "category": "Derecho Administrativo",
@@ -1700,14 +1520,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2763,
+    "id": 2754,
     "question": "Una disposición regula exclusivamente cargos y autoridades del Gobierno. ¿Cómo opera la excepción de audiencia del artículo 26.6?",
     "answer": "El trámite de audiencia e información pública no le es de aplicación",
     "options": [
-      "Debe tramitar audiencia de treinta días hábiles",
-      "Solo puede omitirse si el Congreso lo ratifica",
-      "El trámite de audiencia e información pública no le es de aplicación",
-      "Debe practicarse siempre consulta y audiencia sin excepciones"
+      "La excepción solo corresponde a normas presupuestarias",
+      "La excepción exige siempre circunstancias extraordinarias imprevisibles",
+      "El trámite se mantiene porque toda norma organizativa requiere audiencia",
+      "El trámite de audiencia e información pública no le es de aplicación"
     ],
     "reference": "Ley 50/1997, art. 26.6",
     "category": "Derecho Administrativo",
@@ -1720,14 +1540,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2764,
+    "id": 2755,
     "question": "El Gobierno considera útil el criterio del Consejo de Estado aunque no exista dictamen preceptivo. ¿Puede solicitarlo?",
     "answer": "Sí, el artículo 26.7 permite recabarlo cuando se considere conveniente",
     "options": [
-      "No, solo cabe pedirlo si es obligatorio por ley",
+      "La petición de dictamen solo cabe cuando una norma lo haga preceptivo",
+      "El dictamen consultivo resulta vinculante si se solicita por conveniencia",
       "Sí, el artículo 26.7 permite recabarlo cuando se considere conveniente",
-      "Sí, pero su solicitud convierte automáticamente el dictamen en vinculante",
-      "No, solo pueden solicitarlo las Cortes Generales"
+      "Puede pedirse por conveniencia solo después de aprobar definitivamente la norma"
     ],
     "reference": "Ley 50/1997, art. 26.7",
     "category": "Derecho Administrativo",
@@ -1740,14 +1560,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2765,
+    "id": 2756,
     "question": "Tras completar los informes, un proyecto de ley llega al Consejo de Ministros sin pasar por la Comisión General de Secretarios de Estado y Subsecretarios. ¿Qué trámite se ha omitido?",
     "answer": "El sometimiento previo a dicha Comisión antes de la aprobación final",
     "options": [
+      "La Comisión General se exige solo en la primera elevación de anteproyectos",
       "El sometimiento previo a dicha Comisión antes de la aprobación final",
-      "El referéndum obligatorio de todos los proyectos de ley",
-      "El trámite de convalidación del Congreso",
-      "La sanción regia del anteproyecto ministerial"
+      "La Comisión General se sustituye por la SGT si ya existe una MAIN definitiva",
+      "El Consejo de Ministros puede prescindir siempre de la Comisión sin motivación"
     ],
     "reference": "Ley 50/1997, art. 26.8",
     "category": "Derecho Administrativo",
@@ -1760,14 +1580,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2766,
+    "id": 2757,
     "question": "Un ministerio solicita el informe de la Oficina de Calidad Normativa después de pedir el de su SGT. ¿Qué valoración procede?",
     "answer": "Se ha invertido el orden exigido: el informe de la Oficina debe solicitarse antes del de la SGT",
     "options": [
-      "Es el orden correcto por ser la SGT siempre posterior a la aprobación",
-      "El orden es irrelevante porque la Oficina solo actúa después del BOE",
-      "El informe de la Oficina es opcional y no está sujeto a trámites",
-      "Se ha invertido el orden exigido: el informe de la Oficina debe solicitarse antes del de la SGT"
+      "Se ha invertido el orden exigido: el informe de la Oficina debe solicitarse antes del de la SGT",
+      "La SGT siempre debe emitir informe antes de que la Oficina reciba el proyecto",
+      "El orden es indiferente por ser ambos informes facultativos",
+      "La Oficina solo interviene cuando el informe previo de la SGT sea desfavorable"
     ],
     "reference": "RD 1081/2017, art. 7.2",
     "category": "Derecho Administrativo",
@@ -1780,14 +1600,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2767,
+    "id": 2758,
     "question": "Un informe de la Oficina de Calidad Normativa contiene observaciones que el ministerio no comparte. ¿Qué debe hacer si no las acepta?",
     "answer": "Justificar específicamente el rechazo en la MAIN",
     "options": [
-      "Excluir el informe del expediente por no ser vinculante",
-      "Solicitar al Congreso que declare la nulidad del informe",
-      "Justificar específicamente el rechazo en la MAIN",
-      "Someter las observaciones a un referéndum vinculante"
+      "Las observaciones no vinculantes pueden rechazarse sin explicación",
+      "El ministerio debe aceptar necesariamente toda recomendación de la Oficina",
+      "Basta comunicar el rechazo a la Oficina sin reflejarlo en la MAIN",
+      "Justificar específicamente el rechazo en la MAIN"
     ],
     "reference": "RD 1081/2017, art. 7.7",
     "category": "Derecho Administrativo",
@@ -1800,14 +1620,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2768,
+    "id": 2759,
     "question": "La Oficina no ha emitido su informe en quince días en un proyecto reglamentario. ¿Qué permite el RD 1081/2017?",
     "answer": "Continuar el procedimiento e incorporar después el informe si llega",
     "options": [
-      "Entender emitido un informe favorable y vinculante",
+      "La falta de informe bloquea la aprobación hasta que llegue",
+      "El silencio de la Oficina convierte sus recomendaciones en vinculantes",
       "Continuar el procedimiento e incorporar después el informe si llega",
-      "Suspender indefinidamente la tramitación hasta su recepción",
-      "Transformar el proyecto de reglamento en anteproyecto de ley"
+      "El informe se entiende favorable con efecto vinculante por transcurso de plazo"
     ],
     "reference": "RD 1081/2017, art. 7.5",
     "category": "Derecho Administrativo",
@@ -1820,34 +1640,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2769,
-    "question": "En un proyecto de real decreto-ley la Oficina comunica que necesita quince días para su informe. ¿Qué plazo específico establece el RD 1081/2017?",
-    "answer": "Cinco días",
-    "options": [
-      "Cinco días",
-      "Quince días",
-      "Diez días",
-      "Un mes"
-    ],
-    "reference": "RD 1081/2017, art. 7.5",
-    "category": "Derecho Administrativo",
-    "topic": "Tema 2 · La ley",
-    "subtopic": "Procedimiento de elaboración de normas",
-    "difficulty": 3,
-    "format": "inap",
-    "explanation": "El plazo especial para proyectos de reales decretos-leyes es de cinco días.",
-    "source": "Apuntes profesor: procedimiento elaboración normativa (20 pp.) · contrastado Ley 50/1997, RD 931/2017, RD 1081/2017",
-    "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
-  },
-  {
-    "id": 2770,
+    "id": 2760,
     "question": "La Oficina detecta que un proyecto de transposición va más allá del contenido de la directiva sin justificación. ¿Qué control está ejerciendo?",
     "answer": "El de posible extralimitación en la transposición del Derecho de la UE",
     "options": [
-      "El control jurisdiccional de constitucionalidad de leyes ya aprobadas",
-      "La función de convalidar decretos-leyes del Congreso",
-      "El control financiero posterior de la Intervención General",
-      "El de posible extralimitación en la transposición del Derecho de la UE"
+      "La Oficina solo analiza conformidad literal con normas internas",
+      "El de posible extralimitación en la transposición del Derecho de la UE",
+      "La oficina determina por sí sola la validez constitucional de la ley",
+      "Su informe se limita al impacto presupuestario y no examina Derecho europeo"
     ],
     "reference": "Ley 50/1997, art. 26.9.g",
     "category": "Derecho Administrativo",
@@ -1860,14 +1660,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2771,
+    "id": 2761,
     "question": "El titular de un ministerio declara por resolución propia la urgencia del artículo 27 sin acuerdo del Consejo de Ministros. ¿Qué objeción existe?",
     "answer": "El artículo 27 exige acuerdo del Consejo de Ministros a propuesta ministerial",
     "options": [
-      "La urgencia debe declararla siempre la SGT",
-      "La urgencia solo puede ser acordada por el Congreso",
       "El artículo 27 exige acuerdo del Consejo de Ministros a propuesta ministerial",
-      "Ninguna; la propuesta ministerial equivale jurídicamente al acuerdo del Consejo"
+      "La propuesta del ministerio produce la declaración sin necesidad de acuerdo",
+      "La SGT puede acordarla si el ministro se lo delega verbalmente",
+      "La Oficina de Coordinación declara urgencia cuando advierte exceso de plazos"
     ],
     "reference": "Ley 50/1997, art. 27.1",
     "category": "Derecho Administrativo",
@@ -1880,14 +1680,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2772,
+    "id": 2762,
     "question": "España necesita aprobar un real decreto dentro del plazo exigido por una directiva de la UE. ¿Qué causa de urgencia es pertinente?",
     "answer": "La del artículo 27.1.a por cumplimiento de plazos de transposición",
     "options": [
-      "La del artículo 27.1.b solo por existir un ministerio proponente",
-      "La del artículo 27.1.a por cumplimiento de plazos de transposición",
-      "La urgencia no puede aplicarse a proyectos de real decreto",
-      "La simple conveniencia de evitar todos los dictámenes"
+      "El plazo europeo no permite urgencia salvo circunstancias además imprevisibles",
+      "La urgencia solo se prevé para anteproyectos de ley, no para reales decretos",
+      "La causa correcta sería exclusivamente la de circunstancias imprevisibles",
+      "La del artículo 27.1.a por cumplimiento de plazos de transposición"
     ],
     "reference": "Ley 50/1997, art. 27.1.a",
     "category": "Derecho Administrativo",
@@ -1900,14 +1700,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2773,
+    "id": 2763,
     "question": "Una iniciativa lleva meses retrasada por falta de planificación ordinaria, sin hecho extraordinario imprevisible ni plazo impuesto por la UE. ¿Basta para el artículo 27?",
     "answer": "No, el mero retraso no integra por sí solo las causas del artículo 27.1",
     "options": [
+      "La falta de tiempo del departamento basta para acordarla sin mayor motivación",
+      "La inclusión en el Plan Anual Normativo convierte automáticamente en urgente",
       "No, el mero retraso no integra por sí solo las causas del artículo 27.1",
-      "Sí, cualquier retraso de tres meses obliga a acordar urgencia",
-      "Sí, basta que lo afirme verbalmente el centro directivo",
-      "Sí, la urgencia se presume en toda norma de rango legal"
+      "Una consulta previa extensa permite presumir la urgencia del artículo 27"
     ],
     "reference": "Ley 50/1997, art. 27.1",
     "category": "Derecho Administrativo",
@@ -1920,14 +1720,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2774,
+    "id": 2764,
     "question": "El Consejo acuerda correctamente la urgencia y el departamento suprime la consulta previa, pero también la audiencia sobre el texto pese a afectar a derechos. ¿Es correcto?",
     "answer": "No, la urgencia elimina la consulta previa pero mantiene la audiencia cuando proceda, con plazo reducido",
     "options": [
-      "Sí, la urgencia elimina los dos trámites participativos sin excepciones",
-      "No, la urgencia conserva la consulta previa y elimina solo la audiencia",
-      "Sí, porque toda audiencia se desplaza a la fase parlamentaria",
-      "No, la urgencia elimina la consulta previa pero mantiene la audiencia cuando proceda, con plazo reducido"
+      "La audiencia desaparece junto con la consulta previa sin otra causa",
+      "No, la urgencia elimina la consulta previa pero mantiene la audiencia cuando proceda, con plazo reducido",
+      "La consulta previa se mantiene y solo se reduce la audiencia",
+      "La audiencia solo se mantiene para normas con rango de ley orgánica"
     ],
     "reference": "Ley 50/1997, art. 27.2.b",
     "category": "Derecho Administrativo",
@@ -1940,14 +1740,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2775,
+    "id": 2765,
     "question": "En un procedimiento urgente un informe preceptivo no llega dentro del plazo reducido. ¿Qué permite el artículo 27.2.c?",
     "answer": "Continuar e incorporar y considerar el informe cuando se reciba",
     "options": [
-      "Aprobar necesariamente una nueva consulta pública de treinta días",
-      "Declarar favorable el dictamen por silencio vinculante",
       "Continuar e incorporar y considerar el informe cuando se reciba",
-      "Transformar automáticamente la norma en decreto legislativo"
+      "La falta de informe impide proseguir hasta una declaración judicial",
+      "El informe tardío se tiene por favorable sin necesidad de incorporarlo",
+      "Se abre un nuevo plazo completo para el informe antes de aprobar"
     ],
     "reference": "Ley 50/1997, art. 27.2.c",
     "category": "Derecho Administrativo",
@@ -1960,14 +1760,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2776,
+    "id": 2766,
     "question": "Una propuesta urgente requiere un dictamen cuyo órgano consultivo necesita un acuerdo específico para emitirlo en plazo reducido. ¿Qué procede?",
     "answer": "Adoptar el acuerdo por el órgano competente y, si es el Consejo, recogerlo en el acuerdo de urgencia",
     "options": [
-      "Presumir emitido el dictamen favorable sin solicitarlo",
-      "Adoptar el acuerdo por el órgano competente y, si es el Consejo, recogerlo en el acuerdo de urgencia",
-      "Sustituir el dictamen por un informe de la SGT",
-      "Mantener por definición el plazo completo sin posibilidad de reducción"
+      "El Consejo de Ministros puede imponer el plazo reducido sin acuerdo formal adicional",
+      "La urgencia elimina cualquier exigencia de dictamen consultivo",
+      "El órgano competente debe emitirlo en plazo ordinario sin posibilidad de reducción",
+      "Adoptar el acuerdo por el órgano competente y, si es el Consejo, recogerlo en el acuerdo de urgencia"
     ],
     "reference": "Ley 50/1997, art. 27.2.a",
     "category": "Derecho Administrativo",
@@ -1980,14 +1780,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2777,
+    "id": 2767,
     "question": "Un ministerio afirma que la tramitación urgente del artículo 27 debe aplicarse íntegramente también a los reales decretos-leyes. ¿Qué precisión es correcta?",
     "answer": "El artículo 26.11 establece un régimen especial y excluye en general la aplicación de los artículos 26 y 27",
     "options": [
+      "El decreto-ley aplica exactamente el procedimiento urgente del artículo 27",
+      "Se omiten todos los trámites del artículo 26 sin excepción",
       "El artículo 26.11 establece un régimen especial y excluye en general la aplicación de los artículos 26 y 27",
-      "Sí, el artículo 27 es la única regulación de elaboración de decretos-leyes",
-      "Los reales decretos-leyes se tramitan siempre como proyectos de decreto legislativo",
-      "Solo cabe la urgencia del artículo 27 tras la convalidación parlamentaria"
+      "Solo se aplican los apartados 2 y 6 sobre participación ciudadana"
     ],
     "reference": "Ley 50/1997, art. 26.11",
     "category": "Derecho Administrativo",
@@ -2000,14 +1800,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2778,
+    "id": 2768,
     "question": "Un real decreto-ley se considera de impactos importantes y el ministerio concluye que no debe elaborar MAIN abreviada. ¿Es correcta la conclusión?",
     "answer": "No, para el decreto-ley la MAIN abreviada es preceptiva con independencia de la entidad de los impactos",
     "options": [
-      "Sí, la memoria abreviada se prohíbe si los impactos superan un umbral",
-      "Sí, solo se exige MAIN en las leyes ordinarias",
-      "No, debe renunciarse necesariamente al real decreto-ley y presentar una orden ministerial",
-      "No, para el decreto-ley la MAIN abreviada es preceptiva con independencia de la entidad de los impactos"
+      "La memoria abreviada solo procede si los impactos son poco relevantes",
+      "No, para el decreto-ley la MAIN abreviada es preceptiva con independencia de la entidad de los impactos",
+      "En los decretos-leyes se sustituye siempre la memoria por informe de la SGT",
+      "La memoria puede omitirse con solo justificar la urgencia en la exposición"
     ],
     "reference": "Ley 50/1997, art. 26.11; RD 931/2017, art. 3",
     "category": "Derecho Administrativo",
@@ -2020,14 +1820,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2779,
+    "id": 2769,
     "question": "Se prepara la MAIN abreviada de un real decreto-ley y se omite por completo la identificación del título competencial prevalente. ¿Es válido?",
     "answer": "No, el título competencial prevalente integra el contenido mínimo",
     "options": [
-      "Sí, basta en todo caso con indicar el órgano que firma el decreto-ley",
-      "Sí, basta con justificar la urgencia extraordinaria",
       "No, el título competencial prevalente integra el contenido mínimo",
-      "No, debe sustituirse necesariamente por un informe del Tribunal Constitucional"
+      "Es suficiente describir genéricamente las competencias del Gobierno",
+      "El título competencial solo debe identificarse en la MAIN ordinaria",
+      "La memoria abreviada puede sustituir el título por el Plan Anual Normativo"
     ],
     "reference": "RD 931/2017, art. 3.2",
     "category": "Derecho Administrativo",
@@ -2040,14 +1840,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2780,
+    "id": 2770,
     "question": "La MAIN abreviada de un decreto-ley solo menciona la oportunidad y las consultas; no incluye impacto presupuestario ni de género. ¿Qué falta?",
     "answer": "Dos impactos mínimos expresamente exigidos por el artículo 3 del RD 931/2017",
     "options": [
-      "Únicamente el informe anual del Tribunal de Cuentas",
-      "Dos impactos mínimos expresamente exigidos por el artículo 3 del RD 931/2017",
-      "Solo la aprobación formal de la Comisión General",
-      "Ningún apartado: esos impactos son voluntarios en todas las memorias abreviadas"
+      "Basta con el impacto económico sin identificar el presupuestario",
+      "El impacto de género es exigible solo en las MAIN ordinarias",
+      "Los dos impactos pueden omitirse cuando se alegue urgente necesidad",
+      "Dos impactos mínimos expresamente exigidos por el artículo 3 del RD 931/2017"
     ],
     "reference": "RD 931/2017, art. 3.2",
     "category": "Derecho Administrativo",
@@ -2060,14 +1860,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2781,
+    "id": 2771,
     "question": "Una MAIN abreviada explica contenidos e impactos pero no razona por qué se utilizó la modalidad abreviada. ¿Qué defecto presenta?",
     "answer": "Falta la justificación específica exigida al órgano proponente por el artículo 3.3",
     "options": [
+      "No se necesita justificar la abreviación si se trata de un real decreto-ley",
+      "La justificación solo se exige cuando el proyecto es reglamentario",
       "Falta la justificación específica exigida al órgano proponente por el artículo 3.3",
-      "Falta la autorización parlamentaria de la MAIN",
-      "Falta el dictamen vinculante de la Oficina de Calidad Normativa",
-      "No existe defecto porque la modalidad no necesita motivarse nunca"
+      "Solo hay que justificar la abreviación si el órgano consultivo lo solicita"
     ],
     "reference": "RD 931/2017, art. 3.3",
     "category": "Derecho Administrativo",
@@ -2080,14 +1880,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2782,
+    "id": 2772,
     "question": "La MAIN de una iniciativa prevista para evaluación posterior solo estima sus efectos iniciales. ¿Qué información adicional debe incluir?",
     "answer": "La sistemática, objetivos y plazos para evaluar después sus resultados cuando proceda",
     "options": [
-      "La identidad de los magistrados del Tribunal Constitucional que examinarán la norma",
-      "Las enmiendas parlamentarias que todavía no se han presentado",
-      "Una obligación de repetir íntegramente la consulta cada año",
-      "La sistemática, objetivos y plazos para evaluar después sus resultados cuando proceda"
+      "La evaluación ex post solo exige repetir el test Pyme a los seis meses",
+      "La sistemática, objetivos y plazos para evaluar después sus resultados cuando proceda",
+      "La memoria no debe prever evaluación si la norma figura en el Plan",
+      "Basta una referencia genérica a la revisión futura sin objetivos ni plazo"
     ],
     "reference": "RD 931/2017, art. 2.1.j",
     "category": "Derecho Administrativo",
@@ -2100,14 +1900,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2783,
+    "id": 2773,
     "question": "En la elaboración de un real decreto-ley se omite conservar electrónicamente los informes y la MAIN porque la norma era urgente. ¿Qué ocurre?",
     "answer": "Se incumple el deber de conservación, aplicable también por remisión del artículo 26.11",
     "options": [
-      "Es correcto: solo los reglamentos conservan expediente electrónico",
-      "Es correcto si después el Congreso convalida el decreto-ley",
       "Se incumple el deber de conservación, aplicable también por remisión del artículo 26.11",
-      "Basta conservar únicamente el texto publicado en el BOE"
+      "El expediente electrónico se conserva solo si se tramita proyecto de ley",
+      "La urgencia sustituye toda conservación por la publicación en el BOE",
+      "La MAIN abreviada queda fuera de la conservación del apartado 10"
     ],
     "reference": "Ley 50/1997, arts. 26.10 y 26.11",
     "category": "Derecho Administrativo",
@@ -2120,14 +1920,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2784,
+    "id": 2774,
     "question": "Un ministerio tramita proyecto de real decreto-ley y omite el control de calidad normativa alegando la excepción del artículo 26.11. ¿Qué respuesta es correcta?",
     "answer": "El control de calidad del artículo 26.9 está entre los trámites expresamente conservados",
     "options": [
-      "La excepción elimina todo control administrativo de calidad",
-      "El control de calidad del artículo 26.9 está entre los trámites expresamente conservados",
-      "Solo las Cortes pueden examinar la técnica normativa del decreto-ley",
-      "El control de calidad se sustituye por una consulta pública de quince días"
+      "El artículo 26.11 exceptúa por completo los apartados 8 y 9",
+      "El informe de la Oficina se exige únicamente para decretos legislativos",
+      "La Oficina solo informa cuando se haya convocado consulta pública previa",
+      "El control de calidad del artículo 26.9 está entre los trámites expresamente conservados"
     ],
     "reference": "Ley 50/1997, arts. 26.9 y 26.11",
     "category": "Derecho Administrativo",
@@ -2140,14 +1940,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2785,
+    "id": 2775,
     "question": "Un borrador de reglamento incorpora recomendaciones de la Oficina en la MAIN, pero el departamento olvida pedir el informe de la SGT. ¿Es suficiente?",
     "answer": "No, la intervención de la Oficina no sustituye el informe obligatorio de la SGT",
     "options": [
+      "El informe de la SGT es opcional si la Oficina ha informado favorablemente",
+      "Ambos informes son alternativos y se elige el primero que llegue",
       "No, la intervención de la Oficina no sustituye el informe obligatorio de la SGT",
-      "Sí, ambos informes son equivalentes y basta uno de los dos",
-      "Sí, la incorporación de recomendaciones exime de todos los informes",
-      "No, la SGT debe aprobar por sí sola el reglamento sin Consejo"
+      "La SGT solo informa anteproyectos de ley, no reglamentos"
     ],
     "reference": "Ley 50/1997, art. 26.5; RD 1081/2017, art. 7",
     "category": "Derecho Administrativo",
@@ -2160,14 +1960,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2786,
+    "id": 2776,
     "question": "Una propuesta afecta al personal de la AGE y al reparto competencial territorial. El departamento solicita solo la aprobación previa en materia de personal. ¿Es suficiente?",
     "answer": "No, debe examinarse además el informe previo de política territorial",
     "options": [
-      "Sí, la aprobación previa de personal absorbe siempre el control competencial",
-      "Sí, el examen territorial solo corresponde al Senado",
-      "No, debe solicitarse necesariamente autorización del Tribunal Constitucional",
-      "No, debe examinarse además el informe previo de política territorial"
+      "El informe territorial queda absorbido por la aprobación previa de personal",
+      "No, debe examinarse además el informe previo de política territorial",
+      "El informe de reparto competencial se exige solo si lo pide la Oficina",
+      "La aprobación de personal suple el informe territorial cuando hay urgencia"
     ],
     "reference": "Ley 50/1997, art. 26.5",
     "category": "Derecho Administrativo",
@@ -2180,14 +1980,14 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 2787,
+    "id": 2777,
     "question": "Una iniciativa cumple todos los trámites y el Consejo de Ministros aprueba un proyecto de ley. ¿Cuál es el paso siguiente del artículo 26.8?",
     "answer": "Remitirlo al Congreso o en su caso al Senado con exposición de motivos y documentación exigible",
     "options": [
-      "Convalidarlo por el Congreso en treinta días como si fuese decreto-ley",
-      "Publicarlo inmediatamente como ley sin tramitación parlamentaria",
       "Remitirlo al Congreso o en su caso al Senado con exposición de motivos y documentación exigible",
-      "Someterlo a aprobación definitiva de la SGT sin intervención de Cortes"
+      "La aprobación gubernamental equivale a promulgación y publicación inmediata como ley",
+      "La remisión exige exclusivamente MAIN, sin exposición de motivos",
+      "La remisión parlamentaria solo procede después de convalidación del Congreso"
     ],
     "reference": "Ley 50/1997, art. 26.8",
     "category": "Derecho Administrativo",
