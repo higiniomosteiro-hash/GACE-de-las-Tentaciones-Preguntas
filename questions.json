@@ -221,10 +221,10 @@
     "question": "¿Cuántos años dura el mandato de los magistrados del TC?",
     "answer": "9 años",
     "options": [
-      "8 años",
+      "6 años",
       "9 años",
-      "10 años",
-      "7 años"
+      "8 años",
+      "12 años"
     ],
     "reference": "CE 159.3",
     "category": "Organización del Estado",
@@ -346,10 +346,10 @@
     "question": "¿Cuántos años de ejercicio profesional se exigen para ser magistrado del TC?",
     "answer": "15 años",
     "options": [
-      "16 años",
+      "10 años",
       "15 años",
-      "13 años",
-      "14 años"
+      "12 años",
+      "20 años"
     ],
     "reference": "CE 159.2",
     "category": "Organización del Estado",
@@ -471,9 +471,9 @@
     "answer": "9 meses",
     "options": [
       "9 meses",
-      "8 meses",
-      "10 meses",
-      "7 meses"
+      "6 meses",
+      "12 meses",
+      "18 meses"
     ],
     "reference": "LOTC 33.2",
     "category": "Organización del Estado",
@@ -501,9 +501,9 @@
     "question": "¿Qué plazo hay para presentar amparo frente a disposiciones, actos o vías de hecho del Ejecutivo tras agotar la vía judicial?",
     "answer": "20 días",
     "options": [
-      "19 días",
-      "21 días",
-      "18 días",
+      "10 días",
+      "15 días",
+      "30 días",
       "20 días"
     ],
     "reference": "LOTC 43.2",
@@ -532,9 +532,9 @@
     "question": "¿Cuántos días hay para interponer amparo frente a resoluciones judiciales?",
     "answer": "30 días",
     "options": [
-      "31 días",
-      "29 días",
-      "32 días",
+      "15 días",
+      "20 días",
+      "45 días",
       "30 días"
     ],
     "reference": "LOTC 44.2",
@@ -640,10 +640,10 @@
     "question": "¿Qué porcentaje mínimo de cada sexo exige la LOTC en las nuevas propuestas de magistrados?",
     "answer": "40 %",
     "options": [
-      "42 %",
+      "30 %",
       "40 %",
-      "39 %",
-      "41 %"
+      "45 %",
+      "50 %"
     ],
     "reference": "LOTC 16.1, LO 2/2024",
     "category": "Organización del Estado",
@@ -1027,10 +1027,10 @@
     "question": "¿Cuántos días tiene inicialmente un organismo para informar al Defensor del Pueblo sobre una queja?",
     "answer": "15 días",
     "options": [
-      "13 días",
-      "14 días",
+      "10 días",
+      "20 días",
       "15 días",
-      "16 días"
+      "30 días"
     ],
     "reference": "LO 3/1981 art. 18.1",
     "category": "Organización del Estado",
@@ -1741,10 +1741,10 @@
     "question": "¿Qué plazo tiene el Senado para vetar un proyecto de ley no urgente?",
     "answer": "2 meses",
     "options": [
-      "20 días",
       "1 mes",
+      "3 meses",
       "2 meses",
-      "3 meses"
+      "6 meses"
     ],
     "reference": "CE 90.2",
     "category": "Constitución",
@@ -2807,9 +2807,9 @@
     "question": "¿Cuál fue la duración prevista del Tratado de la CECA?",
     "answer": "50 años",
     "options": [
-      "52 años",
-      "49 años",
-      "51 años",
+      "25 años",
+      "40 años",
+      "60 años",
       "50 años"
     ],
     "reference": "Tratado CECA",
@@ -3689,9 +3689,9 @@
     "question": "¿Qué porcentaje de Estados exige la doble mayoría cualificada del Consejo?",
     "answer": "55 %",
     "options": [
-      "54 %",
-      "56 %",
-      "57 %",
+      "50 %",
+      "60 %",
+      "65 %",
       "55 %"
     ],
     "reference": "Doble mayoría cualificada",
@@ -3707,10 +3707,10 @@
     "question": "¿Qué porcentaje de población exige la doble mayoría cualificada del Consejo?",
     "answer": "65 %",
     "options": [
-      "64 %",
+      "55 %",
       "65 %",
-      "66 %",
-      "67 %"
+      "60 %",
+      "70 %"
     ],
     "reference": "Doble mayoría cualificada",
     "category": "Unión Europea",
@@ -4356,9 +4356,9 @@
     "answer": "6 meses",
     "options": [
       "6 meses",
-      "7 meses",
-      "5 meses",
-      "8 meses"
+      "3 meses",
+      "9 meses",
+      "12 meses"
     ],
     "reference": "Art. 48.7 TUE",
     "category": "Unión Europea",
@@ -16914,9 +16914,9 @@
     "question": "¿Qué plazo tiene un magistrado propuesto para cesar en una actividad incompatible?",
     "answer": "10 días",
     "options": [
-      "11 días",
-      "9 días",
-      "8 días",
+      "5 días",
+      "15 días",
+      "20 días",
       "10 días"
     ],
     "reference": "LOTC 19.2",
@@ -17346,9 +17346,9 @@
     "question": "¿Qué plazo tienen los órganos emplazados para personarse y alegar en un recurso de inconstitucionalidad admitido?",
     "answer": "15 días",
     "options": [
-      "14 días",
-      "16 días",
-      "13 días",
+      "10 días",
+      "20 días",
+      "30 días",
       "15 días"
     ],
     "reference": "LOTC 34.2",
@@ -17363,9 +17363,9 @@
     "answer": "10 días",
     "options": [
       "10 días",
-      "11 días",
-      "9 días",
-      "8 días"
+      "5 días",
+      "15 días",
+      "20 días"
     ],
     "reference": "LOTC 34.2",
     "category": "Organización del Estado",
@@ -17378,9 +17378,9 @@
     "question": "¿Hasta qué plazo máximo puede extenderse motivadamente la sentencia en un recurso de inconstitucionalidad tras las alegaciones?",
     "answer": "30 días",
     "options": [
-      "31 días",
-      "29 días",
-      "32 días",
+      "15 días",
+      "20 días",
+      "45 días",
       "30 días"
     ],
     "reference": "LOTC 34.2",
@@ -17490,10 +17490,10 @@
     "question": "¿En qué plazo ordinario sentencia el TC una cuestión de inconstitucionalidad tras el trámite de alegaciones?",
     "answer": "15 días",
     "options": [
-      "14 días",
+      "10 días",
       "15 días",
-      "16 días",
-      "13 días"
+      "20 días",
+      "30 días"
     ],
     "reference": "LOTC 37.3",
     "category": "Organización del Estado",
@@ -17555,9 +17555,9 @@
     "answer": "15 días",
     "options": [
       "15 días",
-      "14 días",
-      "16 días",
-      "13 días"
+      "10 días",
+      "20 días",
+      "30 días"
     ],
     "reference": "LOTC 37.2",
     "category": "Organización del Estado",
@@ -17586,10 +17586,10 @@
     "question": "¿Cuál es el plazo común e improrrogable para alegaciones de los órganos emplazados en una cuestión de inconstitucionalidad?",
     "answer": "15 días",
     "options": [
-      "14 días",
-      "16 días",
+      "10 días",
+      "20 días",
       "15 días",
-      "13 días"
+      "30 días"
     ],
     "reference": "LOTC 37.3",
     "category": "Organización del Estado",
@@ -18115,9 +18115,9 @@
     "answer": "10 días",
     "options": [
       "10 días",
-      "11 días",
-      "9 días",
-      "8 días"
+      "5 días",
+      "15 días",
+      "20 días"
     ],
     "reference": "LOTC 51.1",
     "category": "Organización del Estado",
@@ -18130,10 +18130,10 @@
     "question": "¿Cuánto plazo tienen las partes del proceso anterior para comparecer en el amparo tras el emplazamiento?",
     "answer": "10 días",
     "options": [
-      "11 días",
-      "9 días",
+      "5 días",
+      "15 días",
       "10 días",
-      "8 días"
+      "20 días"
     ],
     "reference": "LOTC 51.2",
     "category": "Organización del Estado",
@@ -18147,9 +18147,9 @@
     "answer": "20 días",
     "options": [
       "20 días",
-      "21 días",
-      "18 días",
-      "19 días"
+      "10 días",
+      "15 días",
+      "30 días"
     ],
     "reference": "LOTC 52.1",
     "category": "Organización del Estado",
@@ -18162,9 +18162,9 @@
     "question": "¿En qué plazo debe pronunciarse sentencia en amparo desde el día señalado para vista o deliberación?",
     "answer": "10 días",
     "options": [
-      "8 días",
-      "11 días",
-      "9 días",
+      "5 días",
+      "15 días",
+      "20 días",
       "10 días"
     ],
     "reference": "LOTC 52.3",
@@ -19563,9 +19563,9 @@
     "question": "¿Cuál es la duración máxima legal típica de la concesión de obras?",
     "answer": "40 años",
     "options": [
-      "41 años",
-      "39 años",
-      "38 años",
+      "25 años",
+      "30 años",
+      "50 años",
       "40 años"
     ],
     "reference": "LCSP art. 29.6.a",
@@ -19582,10 +19582,10 @@
     "question": "Una concesión de obras que requiere recuperar la inversión está limitada, incluidas prórrogas, con carácter general, a un máximo de:",
     "answer": "40 años",
     "options": [
-      "41 años",
-      "39 años",
+      "25 años",
+      "30 años",
       "40 años",
-      "38 años"
+      "50 años"
     ],
     "reference": "LCSP art. 29.6.a",
     "category": "Contratos del Sector Público",
@@ -19601,10 +19601,10 @@
     "question": "¿Cuál es la duración máxima de una concesión de servicios no sanitaria sin obras?",
     "answer": "25 años",
     "options": [
-      "24 años",
-      "26 años",
+      "20 años",
+      "30 años",
       "25 años",
-      "23 años"
+      "40 años"
     ],
     "reference": "LCSP art. 29.6.b",
     "category": "Contratos del Sector Público",
@@ -19621,9 +19621,9 @@
     "answer": "25 años",
     "options": [
       "25 años",
-      "24 años",
-      "26 años",
-      "23 años"
+      "20 años",
+      "30 años",
+      "40 años"
     ],
     "reference": "LCSP art. 29.6.b",
     "category": "Contratos del Sector Público",
@@ -19639,10 +19639,10 @@
     "question": "¿Cuál es la duración máxima ordinaria de una concesión de servicios sanitarios sin obras?",
     "answer": "10 años",
     "options": [
-      "11 años",
+      "5 años",
       "10 años",
-      "9 años",
-      "8 años"
+      "15 años",
+      "25 años"
     ],
     "reference": "LCSP art. 29.6.c",
     "category": "Contratos del Sector Público",
@@ -19658,9 +19658,9 @@
     "question": "En una concesión exclusivamente de servicios sanitarios, sin las obras del supuesto del artículo 29.6.a, ¿cuál es el límite?",
     "answer": "10 años",
     "options": [
-      "8 años",
-      "11 años",
-      "9 años",
+      "5 años",
+      "15 años",
+      "25 años",
       "10 años"
     ],
     "reference": "LCSP art. 29.6.c",
@@ -19753,9 +19753,9 @@
     "question": "¿Cuál es el máximo de la prórroga excepcional de continuidad de los servicios o suministros?",
     "answer": "9 meses",
     "options": [
-      "8 meses",
-      "10 meses",
-      "7 meses",
+      "6 meses",
+      "12 meses",
+      "18 meses",
       "9 meses"
     ],
     "reference": "LCSP art. 29.4",
@@ -19773,9 +19773,9 @@
     "answer": "9 meses",
     "options": [
       "9 meses",
-      "8 meses",
-      "10 meses",
-      "7 meses"
+      "6 meses",
+      "12 meses",
+      "18 meses"
     ],
     "reference": "LCSP art. 29.4",
     "category": "Contratos del Sector Público",
@@ -20171,9 +20171,9 @@
     "question": "¿Qué proporción máxima del VE conjunto pueden suponer los lotes exceptuados de SARA?",
     "answer": "20 %",
     "options": [
-      "22 %",
-      "19 %",
-      "21 %",
+      "10 %",
+      "15 %",
+      "25 %",
       "20 %"
     ],
     "reference": "LCSP arts. 20-22",
@@ -20190,9 +20190,9 @@
     "question": "Cuando se exceptúan pequeños lotes de una licitación SARA, ¿qué porcentaje máximo acumulado pueden representar?",
     "answer": "20 %",
     "options": [
-      "19 %",
-      "21 %",
-      "22 %",
+      "10 %",
+      "15 %",
+      "25 %",
       "20 %"
     ],
     "reference": "LCSP arts. 20-22",
@@ -23439,10 +23439,10 @@
     "question": "¿Cuál es el máximo de garantía provisional excepcional en la LCSP?",
     "answer": "3 %",
     "options": [
+      "2 %",
       "4 %",
-      "5 %",
       "3 %",
-      "2 %"
+      "5 %"
     ],
     "reference": "LCSP 106",
     "category": "Contratos del Sector Público",
@@ -23458,9 +23458,9 @@
     "question": "Una AAPP exige garantía provisional por interés público excepcional y motivado. ¿Cuál es el tope sobre PBL sin IVA?",
     "answer": "3 %",
     "options": [
+      "2 %",
       "4 %",
       "5 %",
-      "2 %",
       "3 %"
     ],
     "reference": "LCSP 106",
@@ -23477,10 +23477,10 @@
     "question": "¿Cuál es el porcentaje general de garantía definitiva sobre precio final ofertado sin IVA?",
     "answer": "5 %",
     "options": [
-      "4 %",
+      "3 %",
       "5 %",
-      "6 %",
-      "7 %"
+      "4 %",
+      "10 %"
     ],
     "reference": "LCSP 107",
     "category": "Contratos del Sector Público",
@@ -23496,10 +23496,10 @@
     "question": "En un suministro ordinario adjudicado por AAPP, ¿cuál es la garantía definitiva normal?",
     "answer": "5 %",
     "options": [
-      "6 %",
-      "7 %",
+      "3 %",
+      "4 %",
       "5 %",
-      "4 %"
+      "10 %"
     ],
     "reference": "LCSP 107",
     "category": "Contratos del Sector Público",
@@ -23591,10 +23591,10 @@
     "question": "¿En cuántos días se repone o reajusta la garantía tras las circunstancias del artículo 109?",
     "answer": "15 días",
     "options": [
-      "13 días",
+      "10 días",
       "15 días",
-      "14 días",
-      "16 días"
+      "20 días",
+      "30 días"
     ],
     "reference": "LCSP 109",
     "category": "Contratos del Sector Público",
@@ -23610,10 +23610,10 @@
     "question": "Se ejecuta una parte de la garantía o se modifica el precio del contrato. ¿Qué plazo rige para reposición/reajuste?",
     "answer": "15 días",
     "options": [
-      "14 días",
+      "10 días",
       "15 días",
-      "16 días",
-      "13 días"
+      "20 días",
+      "30 días"
     ],
     "reference": "LCSP 109",
     "category": "Contratos del Sector Público",
@@ -24692,10 +24692,10 @@
     "question": "¿Qué disposición se identifica con la materia «Ley de reforma de la función pública»?",
     "answer": "Ley 30/1984",
     "options": [
-      "Real Decreto Legislativo 2/2015",
-      "Real Decreto-ley 6/2023",
+      "Ley 40/2015",
+      "Ley 39/2015",
       "Ley 30/1984",
-      "Ley 40/2015"
+      "Ley 47/2003"
     ],
     "reference": "BOE · Ley 30/1984",
     "category": "RRHH",
@@ -24749,10 +24749,10 @@
     "question": "¿Qué disposición se identifica con la materia «Ley de incompatibilidades»?",
     "answer": "Ley 53/1984",
     "options": [
-      "Real Decreto Legislativo 5/2015",
-      "Orden APU/1461/2002",
+      "Ley 39/2015",
+      "Ley 40/2015",
       "Ley 53/1984",
-      "Real Decreto 365/1995"
+      "Ley 47/2003"
     ],
     "reference": "BOE · Ley 53/1984",
     "category": "RRHH",
@@ -25262,9 +25262,9 @@
     "question": "¿Qué disposición se identifica con la materia «Ley de Prevención de Riesgos Laborales»?",
     "answer": "Ley 31/1995",
     "options": [
-      "Real Decreto 365/1995",
-      "Ley Orgánica 2/1986",
       "Ley 40/2015",
+      "Ley 39/2015",
+      "Ley 47/2003",
       "Ley 31/1995"
     ],
     "reference": "BOE · Ley 31/1995",
@@ -25492,8 +25492,8 @@
     "options": [
       "Ley 30/1984",
       "Ley 9/2017",
-      "Real Decreto-ley 6/2023",
-      "Real Decreto Legislativo 2/2015"
+      "Ley 39/2015",
+      "Ley 40/2015"
     ],
     "reference": "BOE · Ley 9/2017",
     "category": "RRHH",
@@ -41616,10 +41616,10 @@
     "question": "¿En qué plazo debe el Rey sancionar, promulgar y ordenar publicar las leyes?",
     "answer": "15 días",
     "options": [
-      "16 días",
-      "17 días",
+      "10 días",
+      "20 días",
       "15 días",
-      "14 días"
+      "30 días"
     ],
     "reference": "CE 91",
     "category": "Organización del Estado",
@@ -42251,7 +42251,7 @@
       "18 años",
       "16 años",
       "21 años",
-      "17 años"
+      "25 años"
     ],
     "reference": "CE 12",
     "category": "Organización del Estado",
@@ -45605,9 +45605,9 @@
     "answer": "20 días",
     "options": [
       "20 días",
-      "30 días",
-      "3 meses",
-      "15 días"
+      "10 días",
+      "15 días",
+      "30 días"
     ],
     "reference": "LOTC art. 43.2",
     "category": "Organización del Estado",
@@ -45622,10 +45622,10 @@
     "question": "¿Qué plazo rige el amparo contra resoluciones judiciales?",
     "answer": "30 días",
     "options": [
-      "3 meses",
+      "15 días",
       "30 días",
       "20 días",
-      "15 días"
+      "45 días"
     ],
     "reference": "LOTC art. 44.2",
     "category": "Organización del Estado",
@@ -45641,8 +45641,8 @@
     "answer": "3 meses",
     "options": [
       "3 meses",
-      "20 días",
-      "30 días",
+      "2 meses",
+      "4 meses",
       "6 meses"
     ],
     "reference": "LOTC art. 42",
