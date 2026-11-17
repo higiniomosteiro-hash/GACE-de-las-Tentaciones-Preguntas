@@ -1315,10 +1315,10 @@
     "question": "¿A quién corresponde designar los senadores de representación autonómica?",
     "answer": "A la Asamblea legislativa o al órgano colegiado superior de la comunidad",
     "options": [
-      "Al Gobierno central exclusivamente",
-      "Al Senado directamente",
+      "A la Asamblea legislativa de la comunidad autónoma en todos los casos.",
+      "Al Congreso de los Diputados, a propuesta de la Asamblea autonómica.",
       "A la Asamblea legislativa o al órgano colegiado superior de la comunidad",
-      "A las diputaciones provinciales siempre"
+      "A la Asamblea legislativa autonómica o a la Junta Electoral Central, según el Estatuto."
     ],
     "reference": "CE, art. 69.5",
     "category": "Constitución",
@@ -1519,10 +1519,10 @@
     "question": "¿Qué tres sujetos pueden pedir una sesión extraordinaria de una Cámara?",
     "answer": "El Gobierno, la Diputación Permanente o la mayoría absoluta de sus miembros",
     "options": [
-      "Solo el Rey",
-      "Solo la Presidencia del Gobierno y el Senado",
+      "El Gobierno, la Diputación Permanente o un tercio de los miembros de la Cámara.",
+      "El Gobierno, la Mesa de la Cámara o su mayoría absoluta.",
       "El Gobierno, la Diputación Permanente o la mayoría absoluta de sus miembros",
-      "El Defensor del Pueblo, el fiscal y el TC"
+      "El presidente de la Cámara, el Gobierno o una quinta parte de sus miembros."
     ],
     "reference": "CE, art. 73.2",
     "category": "Constitución",
@@ -1962,9 +1962,9 @@
     "answer": "El Rey, a propuesta del presidente del Gobierno y previa autorización del Congreso",
     "options": [
       "El Rey, a propuesta del presidente del Gobierno y previa autorización del Congreso",
-      "El presidente del Congreso directamente",
-      "El Tribunal Constitucional",
-      "El Consejo de Ministros sin intervención de otro órgano"
+      "El Rey, a propuesta del Consejo de Ministros y previa autorización del Senado.",
+      "El presidente del Gobierno, con autorización del Congreso y sin intervención del Rey.",
+      "El Rey, a propuesta del Congreso y previa autorización del presidente del Gobierno."
     ],
     "reference": "CE, art. 92.2",
     "category": "Constitución",
@@ -7409,10 +7409,10 @@
     "question": "¿Qué materia regula el artículo 26 de la Constitución Española?",
     "answer": "la prohibición de los tribunales de honor en la Administración civil y las organizaciones profesionales",
     "options": [
-      "el derecho a la educación y la libertad de enseñanza",
+      "la prohibición de los tribunales de honor en la Administración civil y militar",
       "la prohibición de los tribunales de honor en la Administración civil y las organizaciones profesionales",
-      "la legalidad penal y sancionadora",
-      "la libertad sindical y el derecho de huelga"
+      "la regulación de los tribunales de honor en la Administración civil y las organizaciones profesionales",
+      "la prohibición de los tribunales de honor únicamente en las organizaciones profesionales"
     ],
     "reference": "CE, artículo 26",
     "category": "Constitución",
@@ -11249,10 +11249,10 @@
     "question": "¿Qué materia regula el artículo 122 de la Constitución Española?",
     "answer": "la Ley Orgánica del Poder Judicial y el Consejo General del Poder Judicial",
     "options": [
-      "el Tribunal Supremo",
-      "el Ministerio Fiscal",
+      "la Ley Orgánica del Poder Judicial y la composición del Tribunal Constitucional",
+      "el estatuto del Ministerio Fiscal y el Consejo General del Poder Judicial",
       "la Ley Orgánica del Poder Judicial y el Consejo General del Poder Judicial",
-      "la indemnización por error judicial o funcionamiento anormal de la Justicia"
+      "la Ley Orgánica del Poder Judicial y las competencias del Tribunal Supremo"
     ],
     "reference": "CE, artículo 122",
     "category": "Constitución",
@@ -15898,10 +15898,10 @@
     "question": "¿Qué derechos comprende la protección constitucional mediante recurso de amparo?",
     "answer": "Los del artículo 14, la Sección primera del Capítulo II y la objeción de conciencia del artículo 30.",
     "options": [
-      "Solo los derechos del Título VIII.",
-      "Únicamente los derechos de sufragio.",
+      "Los del artículo 14, la Sección segunda del Capítulo II y la objeción de conciencia del artículo 30.",
+      "Los de la Sección primera del Capítulo II, sin incluir el artículo 14 ni la objeción de conciencia.",
       "Los del artículo 14, la Sección primera del Capítulo II y la objeción de conciencia del artículo 30.",
-      "Todos los principios rectores sin distinción."
+      "Todos los derechos del Título I, incluidos los principios rectores del Capítulo III."
     ],
     "explanation": "El artículo 53.2 precisa el ámbito del amparo constitucional.",
     "difficulty": 3,
@@ -16202,10 +16202,10 @@
     "question": "Transcurren dos meses desde la primera votación de investidura sin que ningún candidato obtenga la confianza del Congreso. ¿Qué procede?",
     "answer": "El Rey disuelve ambas Cámaras y convoca elecciones con refrendo del Presidente del Congreso.",
     "options": [
-      "El Senado designa al Presidente.",
+      "El Rey disuelve únicamente el Congreso y convoca elecciones al Senado cuando se reúna.",
       "El Rey disuelve ambas Cámaras y convoca elecciones con refrendo del Presidente del Congreso.",
-      "El candidato más votado queda investido.",
-      "Se repite la votación indefinidamente sin disolución."
+      "El Rey disuelve ambas Cámaras a propuesta del presidente del Gobierno en funciones.",
+      "El presidente del Congreso disuelve las Cortes y convoca elecciones con refrendo del Rey."
     ],
     "explanation": "El plazo de dos meses comienza en la primera votación de investidura.",
     "difficulty": 3,
@@ -16691,9 +16691,9 @@
     "answer": "Se prorroga hasta la renovación y toma de posesión de los nuevos magistrados",
     "options": [
       "Se prorroga hasta la renovación y toma de posesión de los nuevos magistrados",
-      "Debe renovarse cada seis meses",
-      "Se reduce a un año",
-      "Expira automáticamente sin prórroga"
+      "Solo se prorroga el mandato del presidente, pero cesa el del vicepresidente.",
+      "Ambos mandatos cesan al vencer el período de tres años, aunque no haya renovación.",
+      "Se prorroga hasta la siguiente elección del presidente de las Cortes Generales."
     ],
     "reference": "LOTC 16.3",
     "category": "Organización del Estado",
@@ -23401,9 +23401,9 @@
     "question": "¿Qué partidas no son revisables en las fórmulas de revisión de precios?",
     "answer": "Amortizaciones, costes financieros, gastos generales y beneficio industrial",
     "options": [
-      "Precios de obra en todo caso",
-      "Materias primas y energía en todos los casos",
-      "Costes técnicos directos en todos los casos",
+      "Amortizaciones, costes financieros, gastos generales y costes directos de personal.",
+      "Amortizaciones, costes de personal, gastos generales y beneficio industrial.",
+      "Amortizaciones, costes financieros, gastos generales y costes de materias primas.",
       "Amortizaciones, costes financieros, gastos generales y beneficio industrial"
     ],
     "reference": "LCSP 103",
@@ -23420,10 +23420,10 @@
     "question": "¿Qué conjunto de conceptos excluye el artículo 103 de la revisión contractual?",
     "answer": "Amortizaciones, costes financieros, gastos generales y beneficio industrial",
     "options": [
-      "Materias primas y energía en todos los casos",
+      "Amortizaciones, costes financieros, gastos generales y costes salariales.",
       "Amortizaciones, costes financieros, gastos generales y beneficio industrial",
-      "Costes técnicos directos en todos los casos",
-      "Precios de obra en todo caso"
+      "Amortizaciones, gastos de suministro, gastos generales y beneficio industrial.",
+      "Amortizaciones, costes financieros, costes de energía y beneficio industrial."
     ],
     "reference": "LCSP 103",
     "category": "Contratos del Sector Público",
@@ -24901,10 +24901,10 @@
     "question": "¿Cuál es la denominación oficial COMPLETA de la norma conocida como «RDL de medidas de justicia, función pública, régimen local y mecenazgo»?",
     "answer": "Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo.",
     "options": [
-      "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical.",
-      "Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.",
+      "Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, contratación del Estado, régimen local y mecenazgo.",
+      "Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, empleo privado, régimen local y mecenazgo.",
       "Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo.",
-      "Real Decreto 349/2001, de 4 de abril, por el que se regula la composición y funciones de la Comisión Superior de Personal."
+      "Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen autonómico y mecenazgo."
     ],
     "reference": "BOE · Real Decreto-ley 6/2023",
     "category": "RRHH",
@@ -25015,10 +25015,10 @@
     "question": "¿Cuál es la denominación oficial COMPLETA de la norma conocida como «Reglamento de ingreso y provisión de puestos AGE»?",
     "answer": "Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración general del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración general del Estado.",
     "options": [
-      "Orden APU/1461/2002, de 6 de junio, por la que se establecen las normas para la selección y nombramiento de personal funcionario interino.",
+      "Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración general del Estado y de Provisión de Puestos de Trabajo y Régimen Disciplinario de los Funcionarios Civiles de la Administración general del Estado.",
       "Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración general del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración general del Estado.",
-      "Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado.",
-      "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público."
+      "Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración general del Estado y de Situaciones Administrativas y Promoción Profesional de los Funcionarios Civiles de la Administración general del Estado.",
+      "Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración general del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración general del Estado."
     ],
     "reference": "BOE · Real Decreto 364/1995",
     "category": "RRHH",
@@ -30336,9 +30336,9 @@
     "answer": "Objeto y principios rectores de la estabilidad presupuestaria y sostenibilidad financiera",
     "options": [
       "Objeto y principios rectores de la estabilidad presupuestaria y sostenibilidad financiera",
-      "Principio de sostenibilidad financiera",
-      "Ámbito de aplicación y delimitación del sector público",
-      "Principio de estabilidad presupuestaria"
+      "Ámbito de aplicación y principios de estabilidad presupuestaria y sostenibilidad financiera.",
+      "Objeto y principios rectores de la planificación presupuestaria y sostenibilidad territorial.",
+      "Objetivos y medidas correctivas de la estabilidad presupuestaria y sostenibilidad financiera."
     ],
     "reference": "Ley Orgánica 2/2012; Tema 1, p. 10-16",
     "category": "Gestión Financiera",
@@ -38760,9 +38760,9 @@
     "answer": "Conjuntamente por los ministros de Inclusión, Seguridad Social y Migraciones y de Hacienda",
     "options": [
       "Conjuntamente por los ministros de Inclusión, Seguridad Social y Migraciones y de Hacienda",
-      "Exclusivamente por el ministro de Inclusión",
-      "Por la AIReF y el Consejo de Política Fiscal y Financiera",
-      "Exclusivamente por el ministro de Hacienda"
+      "Conjuntamente por el ministro de Inclusión y el ministro de Economía.",
+      "Por el ministro de Hacienda, previo informe del ministro de Inclusión.",
+      "Por el ministro de Inclusión, con ratificación posterior del Ministerio de Hacienda."
     ],
     "reference": "CE 134 y LGP 32-37 · Tema 2; págs. 17-25",
     "category": "Gestión Financiera",
@@ -46741,10 +46741,10 @@
     "question": "¿Puede el Defensor intervenir en la Administración Militar?",
     "answer": "Sí, para velar por los derechos del Título I sin interferir en el mando militar",
     "options": [
-      "No, carece de toda atribución",
-      "Sí, puede ejercer el mando de la Defensa Nacional",
+      "Sí, puede revisar actuaciones administrativas y también ejercer facultades de mando militar.",
+      "Sí, pero solo si lo solicita el titular del Ministerio de Defensa.",
       "Sí, para velar por los derechos del Título I sin interferir en el mando militar",
-      "Solo sobre contrataciones civiles"
+      "No, porque la supervisión militar corresponde exclusivamente al Congreso de los Diputados."
     ],
     "reference": "LO 3/1981, art. 14",
     "category": "Organización del Estado",
@@ -47965,10 +47965,10 @@
     "question": "¿Qué debe hacer el Defensor al recibir una queja de un ciudadano?",
     "answer": "Registrar y acusar recibo; después tramitarla o rechazarla motivadamente",
     "options": [
-      "Enviar la queja siempre a un juzgado",
-      "Iniciar de oficio un recurso de amparo",
+      "Registrar la queja y admitirla necesariamente, sin posibilidad de rechazo.",
+      "Registrar y acusar recibo; después resolver la petición con carácter vinculante.",
       "Registrar y acusar recibo; después tramitarla o rechazarla motivadamente",
-      "Resolverla con sentencia"
+      "Registrar y trasladar la queja al órgano judicial, sin valorar su admisibilidad."
     ],
     "reference": "LO 3/1981, art. 17.1",
     "category": "Organización del Estado",
