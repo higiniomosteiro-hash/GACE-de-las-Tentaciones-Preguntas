@@ -141,6 +141,32 @@
       }
     },
     {
+      "date": "2026-11-22",
+      "id": "derechos",
+      "title": "Derechos fundamentales, garantías y suspensión",
+      "subtitle": "Protección constitucional, capítulo II y III, tutela y suspensión de derechos",
+      "group": "Organización del Estado",
+      "law": "CE arts. 10-55; LOTC; LO 3/1981",
+      "path": "hoy-estudiamos/derechos-y-garantias.md",
+      "exam": {
+        "count": 25,
+        "excludeInactive": true
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "id": "constitucion",
+      "title": "La Constitución Española de 1978",
+      "subtitle": "Origen y fechas, estructura constitucional, principios y cuatro reformas",
+      "group": "Organización del Estado",
+      "law": "Constitución Española",
+      "path": "hoy-estudiamos/constitucion-espanola.md",
+      "exam": {
+        "count": 25,
+        "excludeInactive": true
+      }
+    },
+    {
       "date": "2026-11-27",
       "id": "ue-origen",
       "title": "Antecedentes de la integración europea",
