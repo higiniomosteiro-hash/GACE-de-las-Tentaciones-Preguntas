@@ -54,9 +54,9 @@ La comparación es útil: los partidos canalizan el pluralismo y la participaci�
 
 ## 9. Artículo 8: Fuerzas Armadas
 
-El artículo **8.1** establece que las **Fuerzas Armadas**, constituidas por el **Ejército de Tierra, la Armada y el Ejército del Aire y del Espacio** según su denominación actual, tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional. El artículo 8.2 reserva a ley orgánica la regulación de las bases de la organización militar conforme a los principios de la Constitución.
+El artículo **8.1** establece que las **Fuerzas Armadas**, constituidas por el **Ejército de Tierra, la Armada y el Ejército del Aire** en la literalidad de la Constitución, tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional. El artículo 8.2 reserva a ley orgánica la regulación de las bases de la organización militar conforme a los principios de la Constitución.
 
-El reconocimiento constitucional de las Fuerzas Armadas no equivale a otorgarles una potestad independiente para decidir el gobierno del país. Su actividad se desarrolla dentro del sistema de autoridades y competencias constitucionales y legales. La dirección política y los controles institucionales forman parte del Estado democrático de Derecho, al que también está sujeta la organización militar.
+La denominación organizativa actual Ejército del Aire y del Espacio no modifica la literalidad del artículo 8.1 CE. El reconocimiento constitucional de las Fuerzas Armadas no equivale a otorgarles una potestad independiente para decidir el gobierno del país. Su actividad se desarrolla dentro del sistema de autoridades y competencias constitucionales y legales. La dirección política y los controles institucionales forman parte del Estado democrático de Derecho, al que también está sujeta la organización militar.
 
 ## 10. Artículo 9: sujeción a la Constitución, promoción de igualdad y garantías
 
