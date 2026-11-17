@@ -48818,9 +48818,9 @@
     "answer": "No; el Gobierno propone dos de los doce magistrados.",
     "options": [
       "No; el Gobierno propone dos de los doce magistrados.",
-      "Sí; el Gobierno propone cinco.",
-      "No; propone seis.",
-      "Sí; designa a los doce por sí mismo."
+      "No; el Gobierno propone cuatro de los doce magistrados.",
+      "No; el Gobierno propone tres de los doce magistrados.",
+      "Sí; el Gobierno propone cinco y el Consejo General del Poder Judicial propone uno."
     ],
     "reference": "CE arts. 159-165; CEF Organización Estado, tema 3",
     "category": "Organización del Estado",
@@ -48837,9 +48837,9 @@
     "answer": "Tres quintos de sus miembros.",
     "options": [
       "Tres quintos de sus miembros.",
-      "Mayoría simple.",
-      "Mayoría absoluta de la Mesa.",
-      "Dos tercios del Consejo de Ministros."
+      "Mayoría absoluta de sus miembros.",
+      "Dos tercios de sus miembros.",
+      "Mayoría de tres quintos de los votos emitidos, no de sus miembros."
     ],
     "reference": "CE arts. 159-165; CEF Organización Estado, tema 3",
     "category": "Organización del Estado",
@@ -48856,9 +48856,9 @@
     "answer": "No; se exigen más de quince años de ejercicio profesional.",
     "options": [
       "No; se exigen más de quince años de ejercicio profesional.",
-      "Sí; son suficientes diez años.",
-      "Sí; se exige únicamente un año.",
-      "No; se exigen treinta años en todos los casos."
+      "Sí; se exigen al menos doce años de ejercicio profesional.",
+      "Sí; el requisito temporal es de diez años de ejercicio.",
+      "No; se exigen al menos veinte años de ejercicio profesional."
     ],
     "reference": "CE arts. 159-165; CEF Organización Estado, tema 3",
     "category": "Organización del Estado",
@@ -48875,9 +48875,9 @@
     "answer": "Mandato de nueve años y renovación por terceras partes cada tres años.",
     "options": [
       "Mandato de nueve años y renovación por terceras partes cada tres años.",
-      "Mandato de cinco años y renovación por mitades cada dos.",
-      "Mandato de seis años y renovación íntegra anual.",
-      "Mandato vitalicio sin renovación."
+      "Mandato de nueve años, con renovación por mitades cada cuatro años y medio.",
+      "Mandato de seis años, con renovación por tercios cada dos años.",
+      "Mandato de nueve años, con renovación conjunta de todos los magistrados."
     ],
     "reference": "CE arts. 159-165; CEF Organización Estado, tema 3",
     "category": "Organización del Estado",
@@ -48894,9 +48894,9 @@
     "answer": "El Rey, a propuesta del Pleno del propio Tribunal.",
     "options": [
       "El Rey, a propuesta del Pleno del propio Tribunal.",
-      "El Congreso, a propuesta del Gobierno.",
-      "El Senado, a propuesta del CGPJ.",
-      "El presidente del Gobierno, a propuesta del Rey."
+      "El Rey, a propuesta del Congreso de los Diputados.",
+      "El Consejo de Ministros, a propuesta del Pleno.",
+      "El Rey, a propuesta del Consejo General del Poder Judicial."
     ],
     "reference": "CE arts. 159-165; CEF Organización Estado, tema 3",
     "category": "Organización del Estado",
@@ -48913,9 +48913,9 @@
     "answer": "Tres años, con posibilidad de reelección.",
     "options": [
       "Tres años, con posibilidad de reelección.",
-      "Nueve años sin reelección.",
-      "Cinco años renovables indefinidamente.",
-      "Dos años no renovables."
+      "Cinco años, con posibilidad de reelección.",
+      "Tres años, sin posibilidad de reelección.",
+      "Nueve años, con posibilidad de reelección."
     ],
     "reference": "CE arts. 159-165; CEF Organización Estado, tema 3",
     "category": "Organización del Estado",
@@ -48932,9 +48932,9 @@
     "answer": "El Tribunal Constitucional.",
     "options": [
       "El Tribunal Constitucional.",
-      "La Sala Civil del Tribunal Supremo.",
-      "El Tribunal de Cuentas.",
-      "La Junta Electoral Central."
+      "La Sala de lo Contencioso-Administrativo del Tribunal Supremo.",
+      "El Pleno del Consejo General del Poder Judicial.",
+      "La Sala de lo Contencioso-Administrativo de la Audiencia Nacional."
     ],
     "reference": "CE arts. 159-165; CEF Organización Estado, tema 3",
     "category": "Organización del Estado",
@@ -48951,9 +48951,9 @@
     "answer": "El Defensor puede supervisar y recomendar, pero no anular por sí mismo el acto.",
     "options": [
       "El Defensor puede supervisar y recomendar, pero no anular por sí mismo el acto.",
-      "El Defensor sustituye a los tribunales contenciosos.",
-      "La institución ejerce potestad sancionadora sobre cualquier ministro.",
-      "El Defensor dicta sentencias firmes de anulación."
+      "El Defensor puede recomendar la anulación y ejecutarla si la Administración no responde.",
+      "El Defensor puede ordenar la suspensión de la sanción al admitir la queja.",
+      "El Defensor puede revisar la legalidad y sustituir la resolución administrativa por otra."
     ],
     "reference": "CE arts. 53-55 y 54; LO 3/1981",
     "category": "Organización del Estado",
@@ -48970,9 +48970,9 @@
     "answer": "La tutela preferente y sumaria y, en su caso, el amparo constitucional.",
     "options": [
       "La tutela preferente y sumaria y, en su caso, el amparo constitucional.",
-      "Exclusivamente un recurso de casación penal.",
-      "Solo una cuestión prejudicial ante el TJUE.",
-      "Únicamente una reclamación al Consejo de Estado."
+      "La tutela ordinaria, sin procedimiento preferente ni posibilidad de amparo.",
+      "La protección por amparo solamente, con exclusión de los tribunales ordinarios.",
+      "La tutela preferente y sumaria solo para la sección segunda del capítulo segundo."
     ],
     "reference": "CE arts. 53-55 y 54; LO 3/1981",
     "category": "Organización del Estado",
@@ -48989,9 +48989,9 @@
     "answer": "Su autonomía e independencia funcional.",
     "options": [
       "Su autonomía e independencia funcional.",
-      "La subordinación jerárquica del Defensor al Gobierno.",
-      "La obligatoriedad de recibir órdenes ministeriales.",
-      "La potestad reglamentaria del ministro sobre la institución."
+      "Su sometimiento funcional a las Cortes como órgano de control político.",
+      "La obligación de solicitar autorización gubernamental para investigar.",
+      "La dependencia jerárquica del ministro competente en Justicia."
     ],
     "reference": "CE arts. 53-55 y 54; LO 3/1981",
     "category": "Organización del Estado",
@@ -49008,9 +49008,9 @@
     "answer": "No; el artículo 166 remite solo a los apartados 1 y 2 del artículo 87 CE.",
     "options": [
       "No; el artículo 166 remite solo a los apartados 1 y 2 del artículo 87 CE.",
-      "Sí, siempre que reúna 500.000 firmas.",
-      "Sí, pero solo con un millón de firmas.",
-      "Sí, con acuerdo del Defensor del Pueblo."
+      "Sí; el artículo 166 incluye también la iniciativa popular del artículo 87.3.",
+      "Sí; la iniciativa popular es válida si se presenta ante el Senado.",
+      "Sí; basta que 500.000 electores soliciten la tramitación por el procedimiento agravado."
     ],
     "reference": "CE arts. 166-169; CEF Organización Estado, tema 1",
     "category": "Organización del Estado",
@@ -49027,9 +49027,9 @@
     "answer": "El procedimiento agravado del artículo 168.",
     "options": [
       "El procedimiento agravado del artículo 168.",
-      "El procedimiento ordinario del artículo 167 sin excepciones.",
-      "Una ley orgánica aprobada por mayoría simple.",
-      "Un decreto legislativo del Gobierno."
+      "El procedimiento ordinario del artículo 167, con referéndum facultativo.",
+      "El procedimiento agravado solo si se reforma íntegramente el título II.",
+      "El procedimiento ordinario con aprobación por dos tercios del Congreso."
     ],
     "reference": "CE arts. 166-169; CEF Organización Estado, tema 1",
     "category": "Organización del Estado",
@@ -49046,9 +49046,9 @@
     "answer": "Quince días.",
     "options": [
       "Quince días.",
-      "Un mes.",
-      "Tres meses.",
-      "Cuarenta y ocho horas."
+      "Diez días.",
+      "Veinte días.",
+      "Treinta días."
     ],
     "reference": "CE arts. 166-169; CEF Organización Estado, tema 1",
     "category": "Organización del Estado",
@@ -49065,9 +49065,9 @@
     "answer": "No; requiere mayoría absoluta del Congreso en esa votación final.",
     "options": [
       "No; requiere mayoría absoluta del Congreso en esa votación final.",
-      "Sí; la mayoría del Senado sustituye la del Congreso.",
-      "Sí; basta mayoría simple en ambas Cámaras.",
-      "No; requiere unanimidad del Congreso."
+      "Sí; basta con la mayoría absoluta del Senado y la simple del Congreso.",
+      "No; se requieren tres quintos del Congreso en la votación final.",
+      "Sí; es suficiente si el Congreso aprobó previamente cada artículo por mayoría absoluta."
     ],
     "reference": "Constitución Española, arts. 1, 9, 81 y 116",
     "category": "Constitución",
@@ -49084,9 +49084,9 @@
     "answer": "Reside en el pueblo español, del que emanan los poderes del Estado.",
     "options": [
       "Reside en el pueblo español, del que emanan los poderes del Estado.",
-      "Reside exclusivamente en el Gobierno.",
-      "Reside de forma compartida en el Tribunal Constitucional y el Rey.",
-      "Reside solo en el Senado."
+      "Reside en las Cortes Generales, que representan al pueblo español.",
+      "Reside conjuntamente en el Congreso y el Senado, de los que emanan los poderes del Estado.",
+      "Reside en el pueblo y en el Rey como titulares compartidos de la soberanía."
     ],
     "reference": "Constitución Española, arts. 1, 9, 81 y 116",
     "category": "Constitución",
@@ -49103,9 +49103,9 @@
     "answer": "La interdicción de la arbitrariedad de los poderes públicos.",
     "options": [
       "La interdicción de la arbitrariedad de los poderes públicos.",
-      "La irrevocabilidad de los reglamentos.",
-      "La retroactividad obligatoria de toda sanción.",
-      "La inmunidad de la Administración frente a los tribunales."
+      "La prohibición de arbitrariedad únicamente de las Administraciones públicas.",
+      "La retroactividad general de las normas favorables a la Administración.",
+      "La irretroactividad de todas las disposiciones sancionadoras, sean favorables o no."
     ],
     "reference": "Constitución Española, arts. 1, 9, 81 y 116",
     "category": "Constitución",
@@ -49122,9 +49122,9 @@
     "answer": "El estado de excepción.",
     "options": [
       "El estado de excepción.",
-      "El estado de alarma en su declaración inicial.",
-      "El estado de guerra económica.",
-      "El estado de catástrofe autonómica."
+      "El estado de alarma, porque toda declaración inicial precisa autorización previa.",
+      "El estado de sitio, que es declarado por el Gobierno tras autorización del Congreso.",
+      "Los estados de alarma y excepción, ambos con autorización previa del Congreso."
     ],
     "reference": "Constitución Española, arts. 1, 9, 81 y 116",
     "category": "Constitución",
@@ -49141,9 +49141,9 @@
     "answer": "Maastricht creó la UE, pero la personalidad jurídica expresa llegó con Lisboa.",
     "options": [
       "Maastricht creó la UE, pero la personalidad jurídica expresa llegó con Lisboa.",
-      "La personalidad jurídica europea nació exclusivamente en 1951.",
-      "La UE carece todavía de personalidad jurídica.",
-      "La personalidad jurídica se confirió mediante el Tratado de Niza de 2001."
+      "Maastricht otorgó personalidad jurídica expresa a la UE desde 1993.",
+      "La personalidad jurídica expresa se incorporó con el Tratado de Ámsterdam.",
+      "La personalidad jurídica expresa nació con Niza, antes de Lisboa."
     ],
     "reference": "TUE arts. 47-50; Resumen Tema 1 Unión Europea GACE A2",
     "category": "Unión Europea",
@@ -49160,9 +49160,9 @@
     "answer": "El Consejo de Europa no es una institución de la UE.",
     "options": [
       "El Consejo de Europa no es una institución de la UE.",
-      "El Consejo de Europa es el órgano ejecutivo de la Comisión.",
-      "Son dos denominaciones del Consejo de la UE.",
-      "El Consejo Europeo está integrado exclusivamente por jueces."
+      "El Consejo de Europa es una institución consultiva del Consejo de la UE.",
+      "El Consejo de Europa y el Consejo Europeo son órganos de la misma organización.",
+      "El Consejo de Europa es un órgano intergubernamental de la UE distinto del Consejo Europeo."
     ],
     "reference": "TUE arts. 47-50; Resumen Tema 1 Unión Europea GACE A2",
     "category": "Unión Europea",
@@ -49180,8 +49180,8 @@
     "options": [
       "1 de diciembre de 2009.",
       "13 de diciembre de 2007.",
-      "1 de noviembre de 1993.",
-      "1 de febrero de 2003."
+      "1 de enero de 2009.",
+      "1 de enero de 2010."
     ],
     "reference": "TUE arts. 47-50; Resumen Tema 1 Unión Europea GACE A2",
     "category": "Unión Europea",
@@ -49198,9 +49198,9 @@
     "answer": "El artículo 50.",
     "options": [
       "El artículo 50.",
-      "El artículo 7.",
       "El artículo 48.",
-      "El artículo 49."
+      "El artículo 49.",
+      "El artículo 7."
     ],
     "reference": "TUE arts. 47-50; Resumen Tema 1 Unión Europea GACE A2",
     "category": "Unión Europea",
@@ -49217,9 +49217,9 @@
     "answer": "Respetar los valores del artículo 2 TUE y comprometerse a promoverlos.",
     "options": [
       "Respetar los valores del artículo 2 TUE y comprometerse a promoverlos.",
-      "Ser necesariamente miembro de la OTAN.",
-      "Adoptar el euro antes de iniciar la solicitud.",
-      "Tener una población mínima de veinte millones."
+      "Respetar los valores del artículo 2 TUE sin necesidad de comprometerse a promoverlos.",
+      "Ser un Estado europeo y cumplir exclusivamente los criterios económicos de adhesión.",
+      "Ser miembro del Consejo de Europa, con independencia del respeto a los valores del artículo 2 TUE."
     ],
     "reference": "TUE arts. 47-50; Resumen Tema 1 Unión Europea GACE A2",
     "category": "Unión Europea",
@@ -49236,9 +49236,9 @@
     "answer": "Nunca llegó a entrar en vigor.",
     "options": [
       "Nunca llegó a entrar en vigor.",
-      "Entró en vigor junto con Maastricht.",
-      "Sustituyó íntegramente al TFUE en 2006.",
-      "Creó la Unión Aduanera en 1958."
+      "Entró en vigor parcialmente en 2005 y fue sustituido por Lisboa.",
+      "Fue ratificado por todos los Estados, pero su entrada en vigor quedó suspendida.",
+      "Entró en vigor como tratado modificativo tras las ratificaciones de 2007."
     ],
     "reference": "TUE arts. 47-50; Resumen Tema 1 Unión Europea GACE A2",
     "category": "Unión Europea",
@@ -49464,9 +49464,9 @@
     "answer": "Ser poder adjudicador no implica necesariamente ser Administración pública.",
     "options": [
       "Ser poder adjudicador no implica necesariamente ser Administración pública.",
-      "Todo ente del sector público es necesariamente una Administración pública.",
-      "Ninguna fundación pública está sometida a la LCSP.",
-      "Todo poder adjudicador es una sociedad mercantil pública."
+      "Todo poder adjudicador forma parte de las Administraciones públicas según el artículo 3.",
+      "Las fundaciones públicas siempre son Administración pública cuando adjudican contratos.",
+      "La condición de poder adjudicador y la de Administración pública son equivalentes en la LCSP."
     ],
     "reference": "LCSP arts. 2, 3, 13-18; resumen LCSP temas 1 y 2",
     "category": "Contratos del Sector Público",
@@ -49483,9 +49483,9 @@
     "answer": "La transferencia del riesgo operacional.",
     "options": [
       "La transferencia del riesgo operacional.",
-      "La duración obligatoria de exactamente un año.",
-      "El pago de una subvención como único requisito.",
-      "La inexistencia de potestades de control del concedente."
+      "La asunción por el contratista del riesgo de construcción, sin riesgo de explotación.",
+      "El pago de un canon por la concesión, aunque no haya incertidumbre operacional.",
+      "La gestión de un servicio durante un período prolongado, aunque los ingresos estén garantizados."
     ],
     "reference": "LCSP arts. 2, 3, 13-18; resumen LCSP temas 1 y 2",
     "category": "Contratos del Sector Público",
@@ -49502,9 +49502,9 @@
     "answer": "Suministro.",
     "options": [
       "Suministro.",
-      "Concesión de obras.",
-      "Concesión de servicios.",
-      "Contrato de obras."
+      "Contrato de servicios.",
+      "Contrato de obras.",
+      "Contrato mixto de servicios y suministro en todos los casos."
     ],
     "reference": "LCSP arts. 2, 3, 13-18; resumen LCSP temas 1 y 2",
     "category": "Contratos del Sector Público",
@@ -49521,9 +49521,9 @@
     "answer": "Su vinculación al objeto del contrato.",
     "options": [
       "Su vinculación al objeto del contrato.",
-      "Que dependan únicamente del domicilio social del licitador.",
-      "Que sustituyan siempre toda valoración económica.",
-      "Que se aprueben por referéndum."
+      "Su inclusión en los pliegos, aunque no guarden relación con la prestación.",
+      "Su vinculación exclusiva a la capacidad general de la empresa, sin atender al objeto.",
+      "Su utilización en todo contrato con carácter obligatorio, sin consideración a su naturaleza."
     ],
     "reference": "LCSP arts. 2, 3, 13-18; resumen LCSP temas 1 y 2",
     "category": "Contratos del Sector Público",
@@ -49540,9 +49540,9 @@
     "answer": "El régimen patrimonial correspondiente, en principio excluido del contrato de obras.",
     "options": [
       "El régimen patrimonial correspondiente, en principio excluido del contrato de obras.",
-      "Siempre el régimen del contrato de servicios.",
-      "El régimen exclusivo del contrato de suministro.",
-      "El régimen de concesión de obras por el mero destino futuro."
+      "Contrato de obras por estar destinado el inmueble a una construcción futura.",
+      "Contrato de suministro por tratarse de la adquisición de un bien.",
+      "Contrato administrativo especial por el destino público del solar."
     ],
     "reference": "LCSP arts. 2, 3, 13-18; resumen LCSP temas 1 y 2",
     "category": "Contratos del Sector Público",
@@ -49559,9 +49559,9 @@
     "answer": "La prohibición de fraccionar el objeto para disminuir su cuantía y eludir requisitos.",
     "options": [
       "La prohibición de fraccionar el objeto para disminuir su cuantía y eludir requisitos.",
-      "La obligación de fraccionar siempre todos los contratos.",
-      "La prohibición absoluta de dividir contratos en lotes.",
-      "La regla de adjudicar siempre por sorteo."
+      "La obligación legal de adjudicar siempre las prestaciones de manera conjunta.",
+      "La facultad de dividir cualquier contrato en lotes para situarlo bajo umbrales menores.",
+      "La prohibición de celebrar contratos con prestaciones sucesivas en distintos ejercicios."
     ],
     "reference": "LCSP arts. 61, 74, 99, 100-102; resumen LCSP temas 1 y 2",
     "category": "Contratos del Sector Público",
@@ -49578,9 +49578,9 @@
     "answer": "El presupuesto base de licitación.",
     "options": [
       "El presupuesto base de licitación.",
-      "El valor estimado, que siempre incorpora IVA.",
-      "La puntuación técnica de adjudicación.",
-      "El importe de la garantía provisional exclusivamente."
+      "El valor estimado del contrato, calculado con IVA.",
+      "El precio de adjudicación, con independencia de la licitación.",
+      "El valor estimado del contrato, calculado sin prórrogas ni modificaciones previstas."
     ],
     "reference": "LCSP arts. 61, 74, 99, 100-102; resumen LCSP temas 1 y 2",
     "category": "Contratos del Sector Público",
@@ -49597,9 +49597,9 @@
     "answer": "El valor estimado se calcula sin IVA e incorpora los conceptos legalmente previstos; el presupuesto base incluye IVA.",
     "options": [
       "El valor estimado se calcula sin IVA e incorpora los conceptos legalmente previstos; el presupuesto base incluye IVA.",
-      "El valor estimado siempre coincide con el precio de adjudicación.",
-      "El presupuesto base excluye necesariamente cualquier impuesto.",
-      "El valor estimado solo se usa en contratos menores."
+      "El valor estimado y el presupuesto base incluyen IVA, pero solo el primero considera prórrogas.",
+      "El presupuesto base se calcula sin IVA y el valor estimado lo incluye.",
+      "El valor estimado equivale al precio final y el presupuesto base al gasto máximo sin IVA."
     ],
     "reference": "LCSP arts. 61, 74, 99, 100-102; resumen LCSP temas 1 y 2",
     "category": "Contratos del Sector Público",
@@ -49616,9 +49616,9 @@
     "answer": "La proporcionalidad de los requisitos de solvencia con el objeto.",
     "options": [
       "La proporcionalidad de los requisitos de solvencia con el objeto.",
-      "La libre fijación de barreras de acceso sin motivación.",
-      "La irrelevancia de la relación con el contrato.",
-      "La prohibición de acreditar solvencia por cualquier medio."
+      "La suficiencia de solvencia según la valoración discrecional del órgano, sin relación con el objeto.",
+      "La exigencia de solvencia idéntica a cualquier licitador, aunque resulte excesiva para el contrato.",
+      "La vinculación de los requisitos a la naturaleza general de la empresa, sin atender a la prestación."
     ],
     "reference": "LCSP arts. 61, 74, 99, 100-102; resumen LCSP temas 1 y 2",
     "category": "Contratos del Sector Público",
@@ -49635,9 +49635,9 @@
     "answer": "Un real decreto aprobado en Consejo de Ministros.",
     "options": [
       "Un real decreto aprobado en Consejo de Ministros.",
-      "Una simple nota de prensa.",
-      "Una resolución judicial en todos los casos.",
-      "Un acuerdo verbal entre licitadores."
+      "Una orden ministerial de desconcentración, sin necesidad de real decreto.",
+      "Un acuerdo del órgano superior de contratación publicado en el perfil del contratante.",
+      "Una resolución del ministerio competente, ratificada por la Junta Consultiva."
     ],
     "reference": "LCSP arts. 61, 74, 99, 100-102; resumen LCSP temas 1 y 2",
     "category": "Contratos del Sector Público",
@@ -49654,9 +49654,9 @@
     "answer": "El artículo 8 enumera cuatro clases; el personal directivo se regula separadamente en el artículo 13.",
     "options": [
       "El artículo 8 enumera cuatro clases; el personal directivo se regula separadamente en el artículo 13.",
-      "El artículo 8 contiene siete clases.",
-      "El personal directivo es siempre personal eventual.",
-      "El personal laboral carece de la condición de empleado público."
+      "El artículo 8 incluye una quinta clase de personal directivo profesional.",
+      "El personal directivo es una subcategoría específica de personal eventual del artículo 12.",
+      "El personal directivo se configura en el TREBEP como funcionario interino de carácter especial."
     ],
     "reference": "TREBEP arts. 8-13; apuntes profesor, tema 1",
     "category": "RRHH",
@@ -49673,9 +49673,9 @@
     "answer": "Son libres, dentro del régimen legal aplicable.",
     "options": [
       "Son libres, dentro del régimen legal aplicable.",
-      "Por oposición libre obligatoria para cada puesto.",
-      "Únicamente por concurso de méritos con plaza definitiva.",
-      "Por elección popular directa."
+      "Mediante libre nombramiento y cese sometido a evaluación periódica del desempeño.",
+      "Mediante concurso público de méritos con cese solo por sanción disciplinaria.",
+      "Mediante libre nombramiento, pero con cese sujeto al mandato fijo del cargo."
     ],
     "reference": "TREBEP arts. 8-13; apuntes profesor, tema 1",
     "category": "RRHH",
@@ -49692,9 +49692,9 @@
     "answer": "No; el TREBEP excluye ese efecto.",
     "options": [
       "No; el TREBEP excluye ese efecto.",
-      "Sí; siempre equivale a una oposición aprobada.",
-      "Sí; otorga preferencia automática para funcionario de carrera.",
-      "Solo si se superan diez años de servicio."
+      "Sí; constituye mérito para el acceso, aunque no para la promoción interna.",
+      "Sí; constituye mérito para la promoción interna, pero no para el ingreso libre.",
+      "Sí; computa como mérito de acceso si el nombramiento eventual duró más de tres años."
     ],
     "reference": "TREBEP arts. 8-13; apuntes profesor, tema 1",
     "category": "RRHH",
@@ -49711,9 +49711,9 @@
     "answer": "Un máximo de tres años, sin perjuicio de las excepciones legales.",
     "options": [
       "Un máximo de tres años, sin perjuicio de las excepciones legales.",
-      "Una duración ordinaria de veinte años.",
-      "Un máximo invariable de seis meses para cualquier vacante.",
-      "Una duración vitalicia si supera el período de prueba."
+      "Un máximo general de dos años para las vacantes sin cubrir.",
+      "Un máximo general de cuatro años en los nombramientos de vacante.",
+      "Un máximo general de tres años, prorrogable siempre por un año adicional."
     ],
     "reference": "TREBEP arts. 8-13; apuntes profesor, tema 1",
     "category": "RRHH",
@@ -49730,9 +49730,9 @@
     "answer": "Tres años, ampliables hasta doce meses por las leyes de función pública de desarrollo.",
     "options": [
       "Tres años, ampliables hasta doce meses por las leyes de función pública de desarrollo.",
-      "Un máximo de treinta días sin excepción.",
-      "Diez años prorrogables de forma indefinida.",
-      "Nueve años con renovación por tercios."
+      "Dos años, ampliables hasta doce meses por la legislación de desarrollo.",
+      "Tres años, ampliables hasta seis meses mediante acuerdo del órgano de personal.",
+      "Tres años sin posibilidad de ampliación por ley de función pública."
     ],
     "reference": "TREBEP arts. 8-13; apuntes profesor, tema 1",
     "category": "RRHH",
@@ -49749,9 +49749,9 @@
     "answer": "Igualdad, mérito, capacidad, publicidad y celeridad.",
     "options": [
       "Igualdad, mérito, capacidad, publicidad y celeridad.",
-      "Exclusivamente libre designación sin convocatoria.",
-      "Solo antigüedad y residencia municipal.",
-      "Confianza política como criterio único."
+      "Igualdad, mérito, capacidad y publicidad, excluyendo la exigencia de celeridad.",
+      "Mérito, capacidad, transparencia y libre designación discrecional.",
+      "Igualdad, capacidad y celeridad, sin necesidad de publicidad."
     ],
     "reference": "TREBEP arts. 8-13; apuntes profesor, tema 1",
     "category": "RRHH",
@@ -49768,9 +49768,9 @@
     "answer": "Funciones directivas profesionales definidas como tales en las normas específicas de cada Administración.",
     "options": [
       "Funciones directivas profesionales definidas como tales en las normas específicas de cada Administración.",
-      "Cualquier labor eventual de confianza política.",
-      "La representación sindical obligatoria de todo empleado.",
-      "Solo trabajos manuales temporales."
+      "Funciones de asesoramiento especial definidas por la autoridad de nombramiento.",
+      "Funciones de confianza política y apoyo al gabinete de la autoridad.",
+      "Funciones de ejecución técnica ordinaria sin responsabilidad de dirección ni evaluación."
     ],
     "reference": "TREBEP arts. 8-13; apuntes profesor, tema 1",
     "category": "RRHH",
