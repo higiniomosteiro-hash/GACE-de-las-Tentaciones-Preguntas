@@ -48020,9 +48020,9 @@
     "answer": "Incumple la regla de gasto, salvo ajustes legalmente previstos.",
     "options": [
       "Incumple la regla de gasto, salvo ajustes legalmente previstos.",
-      "La cumple porque cualquier gasto no financiero puede crecer libremente.",
-      "La cumple por tratarse de un límite exclusivamente estatal.",
-      "No cabe determinarlo porque solo se compara con los ingresos tributarios."
+      "Cumple la regla si el gasto presupuestado no supera el techo de gasto aprobado.",
+      "Cumple la regla si mantiene el objetivo de estabilidad presupuestaria.",
+      "Incumple únicamente si la tasa de referencia fuera inferior al 2 %."
     ],
     "reference": "LO 2/2012, art. 12; apuntes Gestión Financiera, tema 2, pág. 3",
     "category": "Gestión Financiera",
@@ -48039,9 +48039,9 @@
     "answer": "Con la tasa de referencia de crecimiento del PIB de medio plazo.",
     "options": [
       "Con la tasa de referencia de crecimiento del PIB de medio plazo.",
-      "Con la inflación interanual exclusivamente.",
-      "Con el tipo de interés de la deuda a diez años.",
-      "Con la evolución anual de la recaudación del IVA."
+      "Con la tasa anual de crecimiento del PIB nominal.",
+      "Con la tasa de referencia del crecimiento del PIB real del último ejercicio.",
+      "Con la tasa media de crecimiento de los ingresos no financieros."
     ],
     "reference": "LO 2/2012, art. 12; apuntes Gestión Financiera, tema 2, pág. 3",
     "category": "Gestión Financiera",
@@ -48058,9 +48058,9 @@
     "answer": "Se excluyen de los empleos no financieros computables.",
     "options": [
       "Se excluyen de los empleos no financieros computables.",
-      "Siempre se incluyen porque constituyen gasto obligatorio.",
-      "Solo se excluyen si la deuda la emite una comunidad autónoma.",
-      "Se incluyen únicamente si están financiados por la Unión Europea."
+      "Se incluyen siempre que se encuentren en los empleos no financieros.",
+      "Se excluyen solo cuando hayan sido financiados mediante deuda estatal.",
+      "Se incluyen cuando corresponden a obligaciones devengadas en el ejercicio."
     ],
     "reference": "LO 2/2012, art. 12; apuntes Gestión Financiera, tema 2, pág. 3",
     "category": "Gestión Financiera",
@@ -48077,9 +48077,9 @@
     "answer": "Se excluye esa parte financiada con ingresos finalistas.",
     "options": [
       "Se excluye esa parte financiada con ingresos finalistas.",
-      "Se incluye íntegra por ser una inversión municipal.",
-      "Se excluye únicamente cuando el fondo es europeo.",
-      "Se suma dos veces, como gasto y como subvención."
+      "Se incluye íntegramente, aunque una parte se financie con subvención finalista.",
+      "Se excluye la totalidad del proyecto, también la parte financiada con recursos propios.",
+      "Se excluye únicamente la parte financiada con fondos finalistas de la Unión Europea."
     ],
     "reference": "LO 2/2012, art. 12; apuntes Gestión Financiera, tema 2, pág. 3",
     "category": "Gestión Financiera",
@@ -48096,9 +48096,9 @@
     "answer": "El gasto no discrecional en prestaciones por desempleo.",
     "options": [
       "El gasto no discrecional en prestaciones por desempleo.",
-      "Cualquier prestación social, sin excepción.",
-      "Solo las prestaciones voluntarias decididas por una entidad local.",
-      "Las prestaciones por desempleo abonadas por empresas privadas."
+      "Todo el gasto en prestaciones por desempleo, discrecional o no.",
+      "El gasto discrecional en programas extraordinarios de empleo.",
+      "El gasto no discrecional en cualquier prestación social, no solo desempleo."
     ],
     "reference": "LO 2/2012, art. 12; apuntes Gestión Financiera, tema 2, pág. 3",
     "category": "Gestión Financiera",
@@ -48115,9 +48115,9 @@
     "answer": "A reducir el nivel de deuda pública.",
     "options": [
       "A reducir el nivel de deuda pública.",
-      "A incrementar de forma automática los gastos de personal.",
-      "A crear nuevos programas discrecionales de gasto.",
-      "A incrementar el Fondo de Contingencia con carácter obligatorio."
+      "A financiar gasto no financiero adicional hasta alcanzar el techo aprobado.",
+      "A constituir una reserva presupuestaria para el ejercicio siguiente.",
+      "A incrementar la dotación inicial del Fondo de Contingencia."
     ],
     "reference": "LO 2/2012, art. 12; apuntes Gestión Financiera, tema 2, pág. 3",
     "category": "Gestión Financiera",
@@ -48134,9 +48134,9 @@
     "answer": "Administración central, comunidades autónomas y corporaciones locales.",
     "options": [
       "Administración central, comunidades autónomas y corporaciones locales.",
-      "Solo Administración central y Seguridad Social.",
-      "Solo ayuntamientos y diputaciones provinciales.",
-      "Exclusivamente instituciones europeas y Estado."
+      "Administración central, comunidades autónomas y Seguridad Social.",
+      "Administración central y comunidades autónomas, excluidas las entidades locales.",
+      "Comunidades autónomas, corporaciones locales y organismos reguladores, excluida la Administración central."
     ],
     "reference": "LO 2/2012, art. 12; apuntes Gestión Financiera, tema 2, pág. 3",
     "category": "Gestión Financiera",
@@ -48153,9 +48153,9 @@
     "answer": "Un gasto corriente no financiero financiado con recursos propios.",
     "options": [
       "Un gasto corriente no financiero financiado con recursos propios.",
-      "Los intereses de la deuda pública.",
-      "Una prestación por desempleo no discrecional.",
-      "Gasto financiado con una subvención finalista de otra Administración."
+      "Los intereses devengados por deuda de la Administración.",
+      "El gasto no discrecional en prestaciones por desempleo.",
+      "La parte financiada íntegramente con fondos finalistas procedentes de otra Administración."
     ],
     "reference": "LO 2/2012, art. 12; apuntes Gestión Financiera, tema 2, pág. 3",
     "category": "Gestión Financiera",
@@ -48172,9 +48172,9 @@
     "answer": "Porque parte de empleos no financieros y después practica exclusiones legales.",
     "options": [
       "Porque parte de empleos no financieros y después practica exclusiones legales.",
-      "Porque coincide únicamente con el capítulo 1 de personal.",
-      "Porque solo incluye inversiones de capital.",
-      "Porque incluye exclusivamente operaciones financieras."
+      "Porque incluye exclusivamente los empleos financieros del presupuesto.",
+      "Porque equivale a todos los empleos no financieros, sin ajustes ni exclusiones.",
+      "Porque se calcula únicamente con los capítulos de gasto corriente."
     ],
     "reference": "LO 2/2012, art. 12; apuntes Gestión Financiera, tema 2, pág. 3",
     "category": "Gestión Financiera",
@@ -48191,9 +48191,9 @@
     "answer": "En una cuantía máxima de gasto, no en un porcentaje fijo.",
     "options": [
       "En una cuantía máxima de gasto, no en un porcentaje fijo.",
-      "Siempre en el 2 % del presupuesto.",
-      "En una mayoría de tres quintos.",
-      "En el tipo de interés medio de la deuda."
+      "En un porcentaje de variación del gasto computable de cada ejercicio.",
+      "En un porcentaje de los ingresos no financieros previstos.",
+      "En una tasa máxima de crecimiento del PIB de medio plazo."
     ],
     "reference": "LO 2/2012, arts. 15 y 30; apuntes Gestión Financiera, tema 2, págs. 2 y 4",
     "category": "Gestión Financiera",
@@ -48210,9 +48210,9 @@
     "answer": "Con el objetivo de estabilidad presupuestaria y la regla de gasto.",
     "options": [
       "Con el objetivo de estabilidad presupuestaria y la regla de gasto.",
-      "Solo con la evolución de la inflación.",
-      "Con el presupuesto de gastos del año anterior sin ningún ajuste.",
-      "Únicamente con el volumen de subvenciones europeas."
+      "Con el objetivo de deuda pública y el índice de precios al consumo.",
+      "Con la regla de gasto y el saldo de tesorería del ejercicio anterior.",
+      "Con el nivel de endeudamiento y la variación interanual de ingresos tributarios."
     ],
     "reference": "LO 2/2012, arts. 15 y 30; apuntes Gestión Financiera, tema 2, págs. 2 y 4",
     "category": "Gestión Financiera",
@@ -48229,9 +48229,9 @@
     "answer": "Estado, comunidades autónomas y corporaciones locales.",
     "options": [
       "Estado, comunidades autónomas y corporaciones locales.",
-      "Solo el Estado.",
-      "Solo el Estado y las comunidades autónomas, nunca las entidades locales.",
-      "Exclusivamente los organismos autónomos estatales."
+      "Solo el Estado y las comunidades autónomas.",
+      "Estado y corporaciones locales, excluidas las comunidades autónomas.",
+      "Únicamente las Administraciones cuyo presupuesto presente déficit."
     ],
     "reference": "LO 2/2012, arts. 15 y 30; apuntes Gestión Financiera, tema 2, págs. 2 y 4",
     "category": "Gestión Financiera",
@@ -48248,9 +48248,9 @@
     "answer": "Marcar el límite máximo de asignación de recursos.",
     "options": [
       "Marcar el límite máximo de asignación de recursos.",
-      "Determinar el número máximo de empleados interinos.",
-      "Fijar el importe mínimo de ingresos tributarios.",
-      "Autorizar individualmente todas las modificaciones de crédito."
+      "Limitar el incremento interanual del gasto computable mediante un porcentaje.",
+      "Fijar las obligaciones de pago efectivamente reconocidas al cierre del ejercicio.",
+      "Determinar el saldo máximo de deuda pública susceptible de emisión."
     ],
     "reference": "LO 2/2012, arts. 15 y 30; apuntes Gestión Financiera, tema 2, págs. 2 y 4",
     "category": "Gestión Financiera",
@@ -48267,9 +48267,9 @@
     "answer": "Son instrumentos distintos: la regla limita una tasa de variación y el techo fija una cuantía máxima.",
     "options": [
       "Son instrumentos distintos: la regla limita una tasa de variación y el techo fija una cuantía máxima.",
-      "Son idénticos y ambos equivalen siempre al 2 %.",
-      "La regla de gasto fija importes en euros y el techo una tasa de crecimiento.",
-      "El techo de gasto se aplica exclusivamente a gastos financieros."
+      "La regla determina el límite en euros y el techo determina la tasa máxima de variación.",
+      "Ambos límites se expresan en porcentajes sobre el PIB nominal.",
+      "El techo fija una tasa interanual y la regla permite determinar el gasto inicial."
     ],
     "reference": "LO 2/2012, arts. 15 y 30; apuntes Gestión Financiera, tema 2, págs. 2 y 4",
     "category": "Gestión Financiera",
@@ -48286,9 +48286,9 @@
     "answer": "Para el ejercicio siguiente.",
     "options": [
       "Para el ejercicio siguiente.",
-      "Para los diez ejercicios siguientes.",
-      "Solo después de aprobarse el presupuesto definitivo.",
-      "Una vez transcurridos los tres ejercicios de referencia."
+      "Para los tres ejercicios siguientes, junto con los objetivos de estabilidad.",
+      "Una vez concluida la tramitación parlamentaria del presupuesto.",
+      "Para el ejercicio en curso, después de liquidarse el presupuesto anterior."
     ],
     "reference": "LO 2/2012, arts. 15 y 30; apuntes Gestión Financiera, tema 2, págs. 2 y 4",
     "category": "Gestión Financiera",
@@ -48305,9 +48305,9 @@
     "answer": "El Fondo de Contingencia de ejecución presupuestaria, cuando concurran los requisitos legales.",
     "options": [
       "El Fondo de Contingencia de ejecución presupuestaria, cuando concurran los requisitos legales.",
-      "Una ampliación automática del techo de gasto de cualquier Administración.",
-      "La emisión obligatoria de deuda sin tramitación.",
-      "Una transferencia discrecional sin expediente presupuestario."
+      "Una transferencia de crédito ordinaria, aunque no haya crédito disponible.",
+      "Una ampliación automática del techo de gasto no financiero.",
+      "Una generación de crédito sin financiación afectada ni requisitos legales."
     ],
     "reference": "LO 2/2012, art. 31; Ley 47/2003, art. 50; apuntes Gestión Financiera, tema 2, pág. 4",
     "category": "Gestión Financiera",
@@ -48324,9 +48324,9 @@
     "answer": "El 2 % de la base de gastos no financieros legalmente definida.",
     "options": [
       "El 2 % de la base de gastos no financieros legalmente definida.",
-      "El 5 % de todos los ingresos.",
-      "El 3 % de la deuda pública.",
-      "El 10 % de los gastos de personal."
+      "El 2 % del total de ingresos no financieros previstos.",
+      "El 2 % del gasto total del Estado, incluidas operaciones financieras.",
+      "El 3 % de los gastos no financieros, excluyendo la financiación territorial."
     ],
     "reference": "LO 2/2012, art. 31; Ley 47/2003, art. 50; apuntes Gestión Financiera, tema 2, pág. 4",
     "category": "Gestión Financiera",
@@ -48343,9 +48343,9 @@
     "answer": "Las partidas para financiar CCAA y EELL por sus sistemas de financiación consignadas separadamente.",
     "options": [
       "Las partidas para financiar CCAA y EELL por sus sistemas de financiación consignadas separadamente.",
-      "Todos los créditos de los ministerios.",
-      "Cualquier gasto de inversión pública.",
-      "Únicamente las retribuciones básicas de funcionarios."
+      "Todos los gastos de transferencias corrientes, cualquiera que sea su destino.",
+      "Todas las inversiones reales del Estado, por su naturaleza no financiera.",
+      "Únicamente los gastos de personal de las Administraciones territoriales."
     ],
     "reference": "LO 2/2012, art. 31; Ley 47/2003, art. 50; apuntes Gestión Financiera, tema 2, pág. 4",
     "category": "Gestión Financiera",
@@ -48362,9 +48362,9 @@
     "answer": "El Consejo de Ministros, a propuesta del ministro de Hacienda.",
     "options": [
       "El Consejo de Ministros, a propuesta del ministro de Hacienda.",
-      "El Congreso, a propuesta del Tribunal de Cuentas.",
-      "La IGAE, de oficio y sin acuerdo.",
-      "El Senado, a propuesta de los delegados del Gobierno."
+      "El ministro de Hacienda, a propuesta de la IGAE.",
+      "El Congreso de los Diputados, a propuesta del Consejo de Ministros.",
+      "La Comisión Delegada del Gobierno para Asuntos Económicos, a propuesta de Hacienda."
     ],
     "reference": "LO 2/2012, art. 31; Ley 47/2003, art. 50; apuntes Gestión Financiera, tema 2, pág. 4",
     "category": "Gestión Financiera",
@@ -48383,7 +48383,7 @@
       "Trimestralmente.",
       "Mensualmente.",
       "Semestralmente.",
-      "Solo una vez al final de la legislatura."
+      "Anualmente."
     ],
     "reference": "LO 2/2012, art. 31; Ley 47/2003, art. 50; apuntes Gestión Financiera, tema 2, pág. 4",
     "category": "Gestión Financiera",
@@ -48400,9 +48400,9 @@
     "answer": "No; se prohíbe financiar gastos derivados de decisiones discrecionales.",
     "options": [
       "No; se prohíbe financiar gastos derivados de decisiones discrecionales.",
-      "Sí, siempre que lo decida cualquier director general.",
-      "Sí, sin límite, cuando haya superávit presupuestario.",
-      "Solo si la decisión discrecional afecta a una entidad local."
+      "Sí, siempre que el gasto sea nuevo y no constara en el presupuesto inicial.",
+      "Sí, si el Consejo de Ministros motiva la oportunidad de la decisión.",
+      "Sí, cuando se trate de un programa voluntario de inversión pública."
     ],
     "reference": "LO 2/2012, art. 31; Ley 47/2003, art. 50; apuntes Gestión Financiera, tema 2, pág. 4",
     "category": "Gestión Financiera",
@@ -48419,9 +48419,9 @@
     "answer": "Ampliaciones, créditos extraordinarios o suplementos e incorporaciones.",
     "options": [
       "Ampliaciones, créditos extraordinarios o suplementos e incorporaciones.",
-      "Solo transferencias y generaciones de crédito.",
-      "Únicamente generaciones e inversiones financieramente sostenibles.",
-      "Solo anticipos de tesorería y emisiones de deuda."
+      "Transferencias, generaciones e incorporaciones de crédito.",
+      "Ampliaciones, transferencias y generaciones de crédito.",
+      "Créditos extraordinarios, transferencias y generaciones de crédito."
     ],
     "reference": "LO 2/2012, art. 31; Ley 47/2003, art. 50; apuntes Gestión Financiera, tema 2, pág. 4",
     "category": "Gestión Financiera",
@@ -48438,9 +48438,9 @@
     "answer": "La aplicación del Fondo debe aprobarse antes de autorizar la modificación correspondiente.",
     "options": [
       "La aplicación del Fondo debe aprobarse antes de autorizar la modificación correspondiente.",
-      "El Fondo solo puede aplicarse al cierre del ejercicio.",
-      "Siempre debe pronunciarse previamente el Senado.",
-      "No existe un orden procedimental establecido."
+      "La aplicación del Fondo puede aprobarse después si se ratifica en el mismo ejercicio.",
+      "El Fondo solo puede aplicarse cuando la modificación de crédito ya se haya ejecutado.",
+      "La autorización de la modificación y la aplicación del Fondo son simultáneas sin prioridad legal."
     ],
     "reference": "LO 2/2012, art. 31; Ley 47/2003, art. 50; apuntes Gestión Financiera, tema 2, pág. 4",
     "category": "Gestión Financiera",
@@ -48457,9 +48457,9 @@
     "answer": "Cada Administración, dentro de sus competencias.",
     "options": [
       "Cada Administración, dentro de sus competencias.",
-      "El Banco de España para todas las Administraciones.",
-      "La Comisión Europea para todos los ayuntamientos.",
-      "El Tribunal Supremo para las comunidades autónomas."
+      "Solo la Administración General del Estado, que fija además las condiciones autonómicas.",
+      "El Gobierno estatal, que establece una dotación idéntica para todas las Administraciones.",
+      "Exclusivamente las comunidades autónomas, con exclusión de las entidades locales."
     ],
     "reference": "LO 2/2012, art. 31; Ley 47/2003, art. 50; apuntes Gestión Financiera, tema 2, pág. 4",
     "category": "Gestión Financiera",
@@ -48476,9 +48476,9 @@
     "answer": "Ese 2 % se refiere al presupuesto del Estado; la normativa aplicable determina la dotación local.",
     "options": [
       "Ese 2 % se refiere al presupuesto del Estado; la normativa aplicable determina la dotación local.",
-      "El artículo 50 impone literalmente ese 2 % a todos los municipios.",
-      "Las entidades locales no pueden tener Fondo de Contingencia.",
-      "La cuantía del Fondo local debe ser siempre cero."
+      "El porcentaje estatal se aplica directamente a todos los presupuestos locales.",
+      "El 2 % constituye el mínimo estatal y el máximo obligatorio de las entidades locales.",
+      "El Fondo local se calcula siempre sobre los ingresos no financieros municipales."
     ],
     "reference": "LO 2/2012, art. 31; Ley 47/2003, art. 50; apuntes Gestión Financiera, tema 2, pág. 4",
     "category": "Gestión Financiera",
@@ -48496,8 +48496,8 @@
     "options": [
       "1,6 millones de euros.",
       "2 millones de euros.",
-      "20 millones de euros.",
-      "0,4 millones de euros."
+      "1,8 millones de euros.",
+      "1,2 millones de euros."
     ],
     "reference": "LO 2/2012, art. 31; Ley 47/2003, art. 50; apuntes Gestión Financiera, tema 2, pág. 4",
     "category": "Gestión Financiera",
@@ -48514,9 +48514,9 @@
     "answer": "La sección 35.",
     "options": [
       "La sección 35.",
-      "La sección 38.",
-      "La sección 01.",
-      "La sección 20."
+      "La sección 32.",
+      "La sección 34.",
+      "La sección 36."
     ],
     "reference": "LO 2/2012, art. 31; Ley 47/2003, art. 50; apuntes Gestión Financiera, tema 2, pág. 4",
     "category": "Gestión Financiera",
@@ -48533,9 +48533,9 @@
     "answer": "No; deben concurrir también los demás requisitos legales, incluido su carácter inaplazable y no discrecional.",
     "options": [
       "No; deben concurrir también los demás requisitos legales, incluido su carácter inaplazable y no discrecional.",
-      "Sí, porque cualquier necesidad imprevista permite utilizarlo.",
-      "Sí, si la solicita un organismo autónomo.",
-      "Sí, si el gasto responde a una decisión discrecional."
+      "Sí; basta con que la necesidad no estuviera prevista en el presupuesto.",
+      "Sí, siempre que el gasto sea no discrecional aunque pueda aplazarse.",
+      "Sí, si su importe es inferior al saldo disponible del Fondo."
     ],
     "reference": "LO 2/2012, art. 31; Ley 47/2003, art. 50; apuntes Gestión Financiera, tema 2, pág. 4",
     "category": "Gestión Financiera",
@@ -48552,9 +48552,9 @@
     "answer": "El primero dota determinadas necesidades sobrevenidas; el segundo limita el gasto no financiero previsto.",
     "options": [
       "El primero dota determinadas necesidades sobrevenidas; el segundo limita el gasto no financiero previsto.",
-      "Ambos son una autorización de endeudamiento.",
-      "El Fondo es una tasa de variación del PIB y el techo una sanción.",
-      "El techo financia directamente créditos extraordinarios."
+      "El primero limita la variación interanual y el segundo financia gastos no previstos.",
+      "Ambos fijan el máximo de gasto computable permitido por la regla de gasto.",
+      "El Fondo se calcula como porcentaje de crecimiento y el techo solo cubre imprevistos."
     ],
     "reference": "LO 2/2012, art. 31; Ley 47/2003, art. 50; apuntes Gestión Financiera, tema 2, pág. 4",
     "category": "Gestión Financiera",
@@ -48571,9 +48571,9 @@
     "answer": "El Congreso puede ratificar el acuerdo en una nueva votación por mayoría simple.",
     "options": [
       "El Congreso puede ratificar el acuerdo en una nueva votación por mayoría simple.",
-      "El Gobierno debe convocar elecciones generales.",
-      "Los objetivos se entienden automáticamente aprobados por el Senado.",
-      "Solo pueden aprobarse si el Congreso reúne tres quintos."
+      "El acuerdo se considera aprobado si el Congreso lo había respaldado por mayoría absoluta.",
+      "El Congreso debe volver a votarlo por mayoría de tres quintos.",
+      "Los objetivos se devuelven al Gobierno sin posibilidad de ratificación congresual."
     ],
     "reference": "LO 2/2012, arts. 15 y 16; apuntes Gestión Financiera, tema 2, págs. 2-3",
     "category": "Gestión Financiera",
@@ -48590,9 +48590,9 @@
     "answer": "Para tres ejercicios.",
     "options": [
       "Para tres ejercicios.",
-      "Para uno solo.",
-      "Para cinco ejercicios.",
-      "Para dos legislaturas completas."
+      "Para el ejercicio siguiente exclusivamente.",
+      "Para cuatro ejercicios.",
+      "Para cinco ejercicios."
     ],
     "reference": "LO 2/2012, arts. 15 y 16; apuntes Gestión Financiera, tema 2, págs. 2-3",
     "category": "Gestión Financiera",
@@ -48609,9 +48609,9 @@
     "answer": "El informe de la AIReF.",
     "options": [
       "El informe de la AIReF.",
-      "Un informe vinculante del Tribunal Supremo.",
-      "El informe de la Junta Electoral Central.",
-      "El dictamen previo del Consejo de Estado en todos los casos."
+      "El informe de la Comisión Nacional de Administración Local.",
+      "El informe preceptivo del Consejo de Política Fiscal y Financiera como único informe previo.",
+      "El informe del Tribunal de Cuentas sobre las liquidaciones autonómicas."
     ],
     "reference": "LO 2/2012, arts. 15 y 16; apuntes Gestión Financiera, tema 2, págs. 2-3",
     "category": "Gestión Financiera",
@@ -48628,9 +48628,9 @@
     "answer": "El Gobierno, previo informe del CPFF.",
     "options": [
       "El Gobierno, previo informe del CPFF.",
-      "El Senado de forma individualizada.",
-      "El Parlamento Europeo.",
-      "La Comisión Nacional de los Mercados y la Competencia."
+      "El Consejo de Política Fiscal y Financiera mediante acuerdo vinculante.",
+      "El Congreso de los Diputados al aprobar los PGE.",
+      "El Ministerio de Hacienda mediante orden sin acuerdo gubernamental."
     ],
     "reference": "LO 2/2012, arts. 15 y 16; apuntes Gestión Financiera, tema 2, págs. 2-3",
     "category": "Gestión Financiera",
@@ -48647,9 +48647,9 @@
     "answer": "En el primer semestre.",
     "options": [
       "En el primer semestre.",
-      "En el último trimestre.",
-      "En el mes de diciembre exclusivamente.",
-      "En los primeros quince días de enero necesariamente."
+      "En el segundo semestre, antes de aprobar el anteproyecto.",
+      "En el último trimestre del año precedente al ejercicio.",
+      "En el primer trimestre del ejercicio siguiente."
     ],
     "reference": "LO 2/2012, arts. 15 y 16; apuntes Gestión Financiera, tema 2, págs. 2-3",
     "category": "Gestión Financiera",
@@ -48666,9 +48666,9 @@
     "answer": "Los créditos de gasto son limitativos y las previsiones de ingresos estimativas.",
     "options": [
       "Los créditos de gasto son limitativos y las previsiones de ingresos estimativas.",
-      "Los gastos son estimativos y los ingresos limitativos.",
-      "Ambos tienen siempre carácter meramente estimativo.",
-      "Ambos son una autorización ilimitada de gasto."
+      "Los créditos de gasto y las previsiones de ingresos son ambos limitativos.",
+      "Los créditos de gasto y las previsiones de ingresos son ambos estimativos.",
+      "Las previsiones de gasto son estimativas y los créditos de ingresos, vinculantes."
     ],
     "reference": "Ley 47/2003 y apuntes Gestión Financiera, tema 1, págs. 1-6",
     "category": "Gestión Financiera",
@@ -48686,8 +48686,8 @@
     "options": [
       "Anual.",
       "Bienal.",
-      "Cuatrienal.",
-      "Cada seis meses."
+      "Trienal.",
+      "Cuatrienal."
     ],
     "reference": "Ley 47/2003 y apuntes Gestión Financiera, tema 1, págs. 1-6",
     "category": "Gestión Financiera",
@@ -48704,9 +48704,9 @@
     "answer": "El presupuesto bruto.",
     "options": [
       "El presupuesto bruto.",
-      "La descentralización territorial.",
-      "La jerarquía reglamentaria.",
-      "La subsidiariedad."
+      "El principio de presupuesto neto.",
+      "El principio de unidad presupuestaria.",
+      "El principio de especialidad cuantitativa."
     ],
     "reference": "Ley 47/2003 y apuntes Gestión Financiera, tema 1, págs. 1-6",
     "category": "Gestión Financiera",
@@ -48723,9 +48723,9 @@
     "answer": "Universalidad.",
     "options": [
       "Universalidad.",
-      "Competencia.",
-      "Anualidad.",
-      "Estabilidad monetaria."
+      "Unidad presupuestaria.",
+      "Especialidad cualitativa.",
+      "Anualidad presupuestaria."
     ],
     "reference": "Ley 47/2003 y apuntes Gestión Financiera, tema 1, págs. 1-6",
     "category": "Gestión Financiera",
@@ -48742,9 +48742,9 @@
     "answer": "La especialidad cualitativa.",
     "options": [
       "La especialidad cualitativa.",
+      "La especialidad cuantitativa.",
       "La especialidad temporal.",
-      "El principio de publicidad exclusivamente.",
-      "La regla de gasto automáticamente."
+      "La especialidad orgánica."
     ],
     "reference": "Ley 47/2003 y apuntes Gestión Financiera, tema 1, págs. 1-6",
     "category": "Gestión Financiera",
@@ -48761,9 +48761,9 @@
     "answer": "Presupuesto en base cero.",
     "options": [
       "Presupuesto en base cero.",
-      "Presupuesto incremental automático.",
-      "Presupuesto extraordinario posterior.",
-      "Presupuesto de prórroga."
+      "Presupuesto por incrementos.",
+      "Presupuesto por programas.",
+      "Presupuesto de base histórica."
     ],
     "reference": "Ley 47/2003 y apuntes Gestión Financiera, tema 1, págs. 1-6",
     "category": "Gestión Financiera",
@@ -48782,7 +48782,7 @@
       "Control.",
       "Planificación.",
       "Programación.",
-      "Identificación de fines."
+      "Presupuestación."
     ],
     "reference": "Ley 47/2003 y apuntes Gestión Financiera, tema 1, págs. 1-6",
     "category": "Gestión Financiera",
@@ -48799,9 +48799,9 @@
     "answer": "Igualdad de las cifras totales de gastos e ingresos previstas.",
     "options": [
       "Igualdad de las cifras totales de gastos e ingresos previstas.",
-      "Prohibición absoluta de recurrir a endeudamiento.",
-      "Superávit obligatorio cada año.",
-      "Identidad entre gasto computable y deuda pública."
+      "Equilibrio entre ingresos corrientes y gastos corrientes, sin endeudamiento.",
+      "Igualdad entre ingresos no financieros y gastos no financieros.",
+      "Ausencia de déficit estructural según la normativa de estabilidad."
     ],
     "reference": "Ley 47/2003 y apuntes Gestión Financiera, tema 1, págs. 1-6",
     "category": "Gestión Financiera",
