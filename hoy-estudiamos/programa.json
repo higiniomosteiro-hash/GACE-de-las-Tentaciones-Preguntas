@@ -86,7 +86,8 @@
           "Funcionarios y clasificación",
           "Interinos · Supuestos",
           "Personal eventual",
-          "Personal laboral"
+          "Personal laboral",
+          "Clases y régimen del personal"
         ],
         "excludeInactive": true
       }
@@ -103,7 +104,8 @@
         "count": 25,
         "includeSubtopics": [
           "Personal directivo profesional",
-          "Dirección · Nombramiento y cese"
+          "Dirección · Nombramiento y cese",
+          "Clases y régimen del personal"
         ],
         "excludeInactive": true
       }
@@ -119,7 +121,8 @@
       "exam": {
         "count": 25,
         "includeSubtopics": [
-          "Tema 1 · Fuentes del Derecho"
+          "Tema 1 · Fuentes del Derecho",
+          "Fuentes y jerarquía"
         ],
         "excludeInactive": true
       }
@@ -135,7 +138,8 @@
       "exam": {
         "count": 25,
         "includeSubtopics": [
-          "Tema 2 · La ley"
+          "Tema 2 · La ley",
+          "Leyes y normas con fuerza de ley"
         ],
         "excludeInactive": true
       }
@@ -150,7 +154,10 @@
       "path": "hoy-estudiamos/derechos-y-garantias.md",
       "exam": {
         "count": 25,
-        "excludeInactive": true
+        "excludeInactive": true,
+        "includeSubtopics": [
+          "Garantías y Defensor del Pueblo"
+        ]
       }
     },
     {
@@ -163,7 +170,10 @@
       "path": "hoy-estudiamos/constitucion-espanola.md",
       "exam": {
         "count": 25,
-        "excludeInactive": true
+        "excludeInactive": true,
+        "includeSubtopics": [
+          "Repaso transversal de la CE"
+        ]
       }
     },
     {
@@ -176,7 +186,10 @@
       "path": "hoy-estudiamos/titulo-preliminar.md",
       "exam": {
         "count": 25,
-        "excludeInactive": true
+        "excludeInactive": true,
+        "includeSubtopics": [
+          "Repaso transversal de la CE"
+        ]
       }
     },
     {
@@ -189,7 +202,10 @@
       "path": "hoy-estudiamos/estados-excepcionales.md",
       "exam": {
         "count": 25,
-        "excludeInactive": true
+        "excludeInactive": true,
+        "includeSubtopics": [
+          "Repaso transversal de la CE"
+        ]
       }
     },
     {
@@ -202,7 +218,10 @@
       "path": "hoy-estudiamos/reforma-constitucional.md",
       "exam": {
         "count": 25,
-        "excludeInactive": true
+        "excludeInactive": true,
+        "includeSubtopics": [
+          "Reforma constitucional"
+        ]
       }
     },
     {
@@ -245,7 +264,10 @@
           201,
           202
         ],
-        "excludeInactive": true
+        "excludeInactive": true,
+        "includeSubtopics": [
+          "Tratados y procedimientos UE"
+        ]
       }
     },
     {
@@ -288,7 +310,10 @@
           199,
           200
         ],
-        "excludeInactive": true
+        "excludeInactive": true,
+        "includeSubtopics": [
+          "Tratados y procedimientos UE"
+        ]
       }
     },
     {
@@ -299,7 +324,7 @@
       "group": "Unión Europea",
       "path": "hoy-estudiamos/ue-adhesiones.md",
       "exam": {
-        "count": 30,
+        "count": 25,
         "includeIds": [
           261,
           262,
@@ -334,7 +359,10 @@
           326,
           327
         ],
-        "excludeInactive": true
+        "excludeInactive": true,
+        "includeSubtopics": [
+          "Tratados y procedimientos UE"
+        ]
       }
     },
     {
@@ -345,7 +373,7 @@
       "group": "Unión Europea",
       "path": "hoy-estudiamos/ue-candidatos.md",
       "exam": {
-        "count": 20,
+        "count": 25,
         "includeIds": [
           328,
           329,
@@ -372,7 +400,10 @@
           265,
           266
         ],
-        "excludeInactive": true
+        "excludeInactive": true,
+        "includeSubtopics": [
+          "Tratados y procedimientos UE"
+        ]
       }
     },
     {
@@ -412,7 +443,10 @@
           258,
           259
         ],
-        "excludeInactive": true
+        "excludeInactive": true,
+        "includeSubtopics": [
+          "Tratados y procedimientos UE"
+        ]
       }
     },
     {
@@ -425,7 +459,10 @@
       "path": "hoy-estudiamos/presupuesto-principios.md",
       "exam": {
         "count": 25,
-        "excludeInactive": true
+        "excludeInactive": true,
+        "includeSubtopics": [
+          "Concepto y principios presupuestarios"
+        ]
       }
     },
     {
@@ -438,7 +475,10 @@
       "path": "hoy-estudiamos/ciclo-presupuestario.md",
       "exam": {
         "count": 25,
-        "excludeInactive": true
+        "excludeInactive": true,
+        "includeSubtopics": [
+          "Objetivos de estabilidad"
+        ]
       }
     },
     {
@@ -450,8 +490,13 @@
       "law": "LO 2/2012 arts. 12, 30-31; LGP art. 50",
       "path": "hoy-estudiamos/regla-techo-contingencia.md",
       "exam": {
-        "count": 25,
-        "excludeInactive": true
+        "count": 30,
+        "excludeInactive": true,
+        "includeSubtopics": [
+          "Regla de gasto",
+          "Techo de gasto",
+          "Fondo de Contingencia"
+        ]
       }
     },
     {
@@ -464,7 +509,10 @@
       "path": "hoy-estudiamos/lcsp-titulo-preliminar.md",
       "exam": {
         "count": 25,
-        "excludeInactive": true
+        "excludeInactive": true,
+        "includeSubtopics": [
+          "Ámbito y tipos contractuales"
+        ]
       }
     },
     {
@@ -477,7 +525,10 @@
       "path": "hoy-estudiamos/lcsp-partes-organos.md",
       "exam": {
         "count": 25,
-        "excludeInactive": true
+        "excludeInactive": true,
+        "includeSubtopics": [
+          "Preparación y órganos de contratación"
+        ]
       }
     },
     {
@@ -490,7 +541,10 @@
       "path": "hoy-estudiamos/funcionarios-interinos.md",
       "exam": {
         "count": 25,
-        "excludeInactive": true
+        "excludeInactive": true,
+        "includeSubtopics": [
+          "Clases y régimen del personal"
+        ]
       }
     }
   ],
