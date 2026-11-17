@@ -17,10 +17,10 @@ CUR = json.loads((ROOT / "data/curacion-defensor-conceptos.json").read_text(enco
 EXTRA = json.loads((ROOT / "data/ampliacion-defensor-unica-2026.json").read_text(encoding="utf-8"))
 RETIRED = set(CUR["inactiveIds"])
 
-DURATION = re.compile(r"^(\\d+)\\s+(d[ií]as?|mes(?:es)?|a[ñn]os?|horas?|semanas?)$", re.I)
-DIGITS = re.compile(r"^\\d+$")
-PERCENT = re.compile(r"^\\d+(?:[.,]\\d+)?\\s?%$")
-LAW = re.compile(r"^Ley(?: Orgánica)? \\d+/\\d{4}$", re.I)
+DURATION = re.compile(r"^(\d+)\s+(d[ií]as?|mes(?:es)?|a[ñn]os?|horas?|semanas?)$", re.I)
+DIGITS = re.compile(r"^\d+$")
+PERCENT = re.compile(r"^\d+(?:[.,]\d+)?\s?%$")
+LAW = re.compile(r"^Ley(?: Orgánica)? \d+/\d{4}$", re.I)
 
 
 def kind_of_unit(token: str) -> str:
