@@ -30,6 +30,16 @@ def main():
     program = load("hoy-estudiamos/programa.json")
     retired = set(cur["inactiveIds"])
     errors = []
+    # Android V6.2.3 guarda el progreso por índice: el banco principal
+    # debe mantener ID=posición (1, 2, ...), aunque los temas se reorganicen.
+    for pos, q in enumerate(questions, start=1):
+        if q.get("id") != pos:
+            errors.append(f"INCOMPATIBLE CON ANDROID: posición {pos} tiene ID {q.get('id')}")
+    if len(questions) > 15000:
+        errors.append("Banco supera el máximo Android de 15.000 preguntas")
+    if (ROOT / "questions.json").stat().st_size > 8 * 1024 * 1024:
+        errors.append("Banco supera el máximo Android de 8 MiB")
+
     ids = set()
     active = []
     for q in questions + extra:
