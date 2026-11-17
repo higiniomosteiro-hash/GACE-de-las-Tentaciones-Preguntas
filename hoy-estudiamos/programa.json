@@ -167,6 +167,45 @@
       }
     },
     {
+      "date": "2026-11-24",
+      "id": "preliminar",
+      "title": "Título preliminar de la Constitución",
+      "subtitle": "Los nueve artículos: Estado, soberanía, autonomía, lenguas y principios constitucionales",
+      "group": "Organización del Estado",
+      "law": "CE arts. 1-9",
+      "path": "hoy-estudiamos/titulo-preliminar.md",
+      "exam": {
+        "count": 25,
+        "excludeInactive": true
+      }
+    },
+    {
+      "date": "2026-11-25",
+      "id": "estados",
+      "title": "Estados de alarma, excepción y sitio",
+      "subtitle": "Causas, autoridades, plazos, medidas, suspensión de derechos y controles",
+      "group": "Organización del Estado",
+      "law": "CE arts. 55 y 116; LO 4/1981",
+      "path": "hoy-estudiamos/estados-excepcionales.md",
+      "exam": {
+        "count": 25,
+        "excludeInactive": true
+      }
+    },
+    {
+      "date": "2026-11-26",
+      "id": "reforma",
+      "title": "Reforma de la Constitución",
+      "subtitle": "Procedimiento ordinario y agravado, mayorías, referéndum y reformas 1992-2026",
+      "group": "Organización del Estado",
+      "law": "CE arts. 166-169",
+      "path": "hoy-estudiamos/reforma-constitucional.md",
+      "exam": {
+        "count": 25,
+        "excludeInactive": true
+      }
+    },
+    {
       "date": "2026-11-27",
       "id": "ue-origen",
       "title": "Antecedentes de la integración europea",
@@ -375,9 +414,87 @@
         ],
         "excludeInactive": true
       }
+    },
+    {
+      "date": "2026-12-02",
+      "id": "presupuesto",
+      "title": "El presupuesto público y los principios presupuestarios",
+      "subtitle": "Equilibrio, créditos, especialidad, presupuestos por programas y en base cero",
+      "group": "Gestión Financiera",
+      "law": "LGP y LO 2/2012",
+      "path": "hoy-estudiamos/presupuesto-principios.md",
+      "exam": {
+        "count": 25,
+        "excludeInactive": true
+      }
+    },
+    {
+      "date": "2026-12-03",
+      "id": "ciclo",
+      "title": "Ciclo presupuestario y elaboración de los PGE",
+      "subtitle": "Objetivos de estabilidad, Hacienda, Cortes, estructura, ejecución y control",
+      "group": "Gestión Financiera",
+      "law": "CE arts. 134-135; LGP y LO 2/2012",
+      "path": "hoy-estudiamos/ciclo-presupuestario.md",
+      "exam": {
+        "count": 25,
+        "excludeInactive": true
+      }
+    },
+    {
+      "date": "2026-12-04",
+      "id": "gasto",
+      "title": "Regla de gasto, techo y Fondo de Contingencia",
+      "subtitle": "Gasto computable, exclusiones, cuantías, diferencias y aplicación del Fondo",
+      "group": "Gestión Financiera",
+      "law": "LO 2/2012 arts. 12, 30-31; LGP art. 50",
+      "path": "hoy-estudiamos/regla-techo-contingencia.md",
+      "exam": {
+        "count": 25,
+        "excludeInactive": true
+      }
+    },
+    {
+      "date": "2026-12-05",
+      "id": "lcsp1",
+      "title": "Contratos del Sector Público: título preliminar",
+      "subtitle": "Principios, ámbito, tipos de contratos, SARA, riesgo operacional y duración",
+      "group": "Contratos del Sector Público",
+      "law": "LCSP arts. 1-29",
+      "path": "hoy-estudiamos/lcsp-titulo-preliminar.md",
+      "exam": {
+        "count": 25,
+        "excludeInactive": true
+      }
+    },
+    {
+      "date": "2026-12-06",
+      "id": "lcsp2",
+      "title": "Contratación pública: partes y organización",
+      "subtitle": "Órganos, capacidad, solvencia, precios, garantías y pliegos",
+      "group": "Contratos del Sector Público",
+      "law": "LCSP libros I y IV",
+      "path": "hoy-estudiamos/lcsp-partes-organos.md",
+      "exam": {
+        "count": 25,
+        "excludeInactive": true
+      }
+    },
+    {
+      "date": "2026-12-07",
+      "id": "interinos",
+      "title": "Funcionarios interinos: régimen completo",
+      "subtitle": "Vacantes, sustituciones, programas, acumulación de tareas, cese y compensación",
+      "group": "Empleo público",
+      "law": "TREBEP art. 10 y DA 17",
+      "path": "hoy-estudiamos/funcionarios-interinos.md",
+      "exam": {
+        "count": 25,
+        "excludeInactive": true
+      }
     }
   ],
-  "instructions": "El contenido publicado en hoy-estudiamos/*.md es un desarrollo jurídico extenso. Se sirve desde GitHub sin redeploy en los clientes que soportan programa.json; las lecciones que no tengan versión publicada conservan temporalmente su respaldo y requieren revisión.",
+  "instructions": "Los dossiers publicados son desarrollos jurídicos originales de al menos 1100 palabras, no listas de preguntas ni instrucciones de estudio. Se cargan del repositorio de GitHub por clientes compatibles al abrir la aplicación. Las fechas definen la programación sin sustituir el examen asociado.",
   "sources": {
     "bank": "questions.json",
     "curation": "data/curacion-defensor-conceptos.json",
