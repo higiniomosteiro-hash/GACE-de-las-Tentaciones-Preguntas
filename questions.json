@@ -1877,10 +1877,10 @@
     "question": "¿Qué plazo mínimo debe transcurrir, en principio, entre disoluciones a propuesta del presidente del Gobierno?",
     "answer": "1 año",
     "options": [
-      "6 meses",
-      "1 año",
       "2 años",
-      "3 años"
+      "1 año",
+      "3 años",
+      "4 años"
     ],
     "reference": "CE 115.3",
     "category": "Constitución",
@@ -25205,9 +25205,9 @@
     "question": "¿Qué disposición se identifica con la materia «Ley de Libertad Sindical»?",
     "answer": "Ley Orgánica 11/1985",
     "options": [
-      "Ley 30/1984",
-      "Real Decreto-ley 6/2023",
-      "Real Decreto Legislativo 2/2015",
+      "Ley Orgánica 1/2002",
+      "Ley Orgánica 3/2007",
+      "Ley Orgánica 2/1986",
       "Ley Orgánica 11/1985"
     ],
     "reference": "BOE · Ley Orgánica 11/1985",
