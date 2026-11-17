@@ -72,6 +72,43 @@
       }
     },
     {
+      "date": "2026-11-18",
+      "id": "personal",
+      "title": "Clases de personal al servicio de las Administraciones",
+      "subtitle": "Funcionarios de carrera e interinos, personal laboral y eventual, clasificación y límites",
+      "group": "Empleo público",
+      "law": "TREBEP arts. 8-12, 75-76",
+      "path": "hoy-estudiamos/clases-de-personal.md",
+      "exam": {
+        "count": 25,
+        "includeSubtopics": [
+          "Clases de personal",
+          "Funcionarios y clasificación",
+          "Interinos · Supuestos",
+          "Personal eventual",
+          "Personal laboral"
+        ],
+        "excludeInactive": true
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "id": "directivo",
+      "title": "Personal directivo público profesional",
+      "subtitle": "Art. 13 TREBEP y regulación estatal en el RDL 6/2023: perfiles, provisión y evaluación",
+      "group": "Empleo público",
+      "law": "TREBEP art. 13; RDL 6/2023 arts. 123-127",
+      "path": "hoy-estudiamos/personal-directivo-profesional.md",
+      "exam": {
+        "count": 25,
+        "includeSubtopics": [
+          "Personal directivo profesional",
+          "Dirección · Nombramiento y cese"
+        ],
+        "excludeInactive": true
+      }
+    },
+    {
       "date": "2026-11-27",
       "id": "ue-origen",
       "title": "Antecedentes de la integración europea",
