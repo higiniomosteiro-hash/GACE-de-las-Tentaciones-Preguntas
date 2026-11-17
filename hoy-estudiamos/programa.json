@@ -109,6 +109,38 @@
       }
     },
     {
+      "date": "2026-11-20",
+      "id": "fuentes",
+      "title": "Fuentes del Derecho Administrativo y jerarquía",
+      "subtitle": "Ley, costumbre, principios generales, jurisprudencia, tratados, jerarquía y competencia",
+      "group": "Derecho Administrativo",
+      "law": "Código Civil art. 1; CE art. 9.3",
+      "path": "hoy-estudiamos/fuentes-derecho-administrativo.md",
+      "exam": {
+        "count": 25,
+        "includeSubtopics": [
+          "Tema 1 · Fuentes del Derecho"
+        ],
+        "excludeInactive": true
+      }
+    },
+    {
+      "date": "2026-11-21",
+      "id": "ley",
+      "title": "La ley y las disposiciones con fuerza de ley",
+      "subtitle": "Leyes orgánicas y ordinarias, reserva, decreto-ley y decreto legislativo",
+      "group": "Derecho Administrativo",
+      "law": "CE arts. 81-86, 150 y 166-169",
+      "path": "hoy-estudiamos/la-ley-y-fuerza-de-ley.md",
+      "exam": {
+        "count": 25,
+        "includeSubtopics": [
+          "Tema 2 · La ley"
+        ],
+        "excludeInactive": true
+      }
+    },
+    {
       "date": "2026-11-27",
       "id": "ue-origen",
       "title": "Antecedentes de la integración europea",
