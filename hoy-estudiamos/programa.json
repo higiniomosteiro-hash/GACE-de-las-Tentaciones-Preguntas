@@ -56,6 +56,22 @@
       }
     },
     {
+      "date": "2026-11-17",
+      "id": "tribunal",
+      "title": "El Tribunal Constitucional",
+      "subtitle": "Naturaleza, designación de magistrados, órganos, competencias, recursos y conflictos",
+      "group": "Organización del Estado",
+      "law": "CE arts. 159-165; LO 2/1979",
+      "path": "hoy-estudiamos/tribunal-constitucional.md",
+      "exam": {
+        "count": 25,
+        "includeSubtopics": [
+          "Tribunal Constitucional"
+        ],
+        "excludeInactive": true
+      }
+    },
+    {
       "date": "2026-11-27",
       "id": "ue-origen",
       "title": "Antecedentes de la integración europea",
@@ -266,7 +282,7 @@
       }
     }
   ],
-  "instructions": "Programa remoto: los dossiers publicados se guardan en hoy-estudiamos/*.md y se vinculan con published (date,id,path,exam). La web v6.1.1 los carga desde GitHub al abrirse, sin redeploy; la APK Android v6.0.1 requiere auditoría de la carga remota de lecciones. El orden de 22 temas es la programación; los restantes temas tienen respaldo incluido en web hasta publicación revisada.",
+  "instructions": "El contenido publicado en hoy-estudiamos/*.md es un desarrollo jurídico extenso. Se sirve desde GitHub sin redeploy en los clientes que soportan programa.json; las lecciones que no tengan versión publicada conservan temporalmente su respaldo y requieren revisión.",
   "sources": {
     "bank": "questions.json",
     "curation": "data/curacion-defensor-conceptos.json",
