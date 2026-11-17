@@ -1,0 +1,25 @@
+name: Validar calidad del banco GACE
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'questions.json'
+      - 'data/**'
+      - 'hoy-estudiamos/**'
+      - 'scripts/validar_banco.py'
+      - '.github/workflows/validar-banco.yml'
+  pull_request:
+    paths:
+      - 'questions.json'
+      - 'data/**'
+      - 'hoy-estudiamos/**'
+      - 'scripts/validar_banco.py'
+permissions:
+  contents: read
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Comprobar banco y dossiers
+        run: python3 scripts/validar_banco.py
