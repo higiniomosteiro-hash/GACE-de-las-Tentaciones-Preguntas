@@ -13150,9 +13150,9 @@
     "answer": "El artículo 1 del Código Civil",
     "options": [
       "El artículo 1 del Código Civil",
-      "El artículo 3 de la Ley 40/2015",
-      "El artículo 47 de la Ley 39/2015",
-      "El artículo 9 de la Constitución"
+      "El artículo 1 de la Ley 39/2015",
+      "El artículo 9.3 de la Constitución",
+      "El artículo 3 del Código Civil"
     ],
     "reference": "CC 1.1",
     "category": "Derecho Administrativo",
@@ -13168,10 +13168,10 @@
     "question": "¿Cuáles son las tres fuentes enumeradas en el artículo 1.1 del Código Civil?",
     "answer": "Ley, costumbre y principios generales del Derecho",
     "options": [
-      "Constitución, tratados y jurisprudencia",
+      "Ley, costumbre y jurisprudencia",
       "Ley, costumbre y principios generales del Derecho",
-      "Reglamentos, costumbre y convenios colectivos",
-      "Ley, jurisprudencia y doctrina"
+      "Ley, reglamentos y principios generales del Derecho",
+      "Ley, jurisprudencia y principios generales del Derecho"
     ],
     "reference": "CC 1.1",
     "category": "Derecho Administrativo",
@@ -13187,10 +13187,10 @@
     "question": "¿Cuándo se aplica la costumbre según el artículo 1.3 del Código Civil?",
     "answer": "En defecto de ley aplicable",
     "options": [
-      "Siempre antes de la ley",
-      "Aunque contradiga una ley",
+      "En defecto de reglamento aplicable, aunque exista ley",
+      "Cuando exista costumbre probada, aunque la ley diga otra cosa",
       "En defecto de ley aplicable",
-      "Solo cuando lo autorice el Tribunal Supremo"
+      "Únicamente cuando una ley remita expresamente a ella"
     ],
     "reference": "CC 1.3",
     "category": "Derecho Administrativo",
@@ -13207,9 +13207,9 @@
     "answer": "Que sea probada y no contraria a la moral ni al orden público",
     "options": [
       "Que sea probada y no contraria a la moral ni al orden público",
-      "Que tenga al menos veinte años",
-      "Que conste en una sentencia del Tribunal Constitucional",
-      "Que sea aprobada por el Consejo de Ministros"
+      "Que sea probada y no contraria al orden público, aunque sí a la moral",
+      "Que sea notoria y no contraria a la moral, sin necesidad de prueba",
+      "Que conste por escrito y no contradiga disposiciones reglamentarias"
     ],
     "reference": "CC 1.3",
     "category": "Derecho Administrativo",
@@ -13225,10 +13225,10 @@
     "question": "¿Qué tratamiento reciben los usos jurídicos no meramente interpretativos de una declaración de voluntad?",
     "answer": "La consideración de costumbre",
     "options": [
-      "La consideración de jurisprudencia",
-      "El rango de reglamento",
+      "La consideración de uso meramente interpretativo",
+      "La consideración de principio general del Derecho",
       "La consideración de costumbre",
-      "La consideración de ley ordinaria"
+      "La consideración de fuente jurisprudencial"
     ],
     "reference": "CC 1.3",
     "category": "Derecho Administrativo",
@@ -13245,9 +13245,9 @@
     "answer": "En defecto de ley o costumbre",
     "options": [
       "En defecto de ley o costumbre",
-      "Exclusivamente por el Tribunal Supremo",
-      "Antes de la ley y de la costumbre",
-      "Solo cuando existe costumbre probada"
+      "En defecto de ley, aunque exista costumbre aplicable",
+      "En defecto de costumbre, incluso si existe ley aplicable",
+      "Únicamente cuando la ley los incorpore expresamente"
     ],
     "reference": "CC 1.4",
     "category": "Derecho Administrativo",
@@ -13263,10 +13263,10 @@
     "question": "¿Qué carácter conservan los principios generales del Derecho incluso cuando existe ley aplicable?",
     "answer": "Informador del ordenamiento jurídico",
     "options": [
-      "De interpretación auténtica del legislador",
+      "Un carácter supletorio sin función interpretativa",
       "Informador del ordenamiento jurídico",
-      "De reglamento ejecutivo",
-      "Jerárquicamente superior a la Constitución"
+      "Un carácter informador solo en ausencia de ley",
+      "Un valor preferente frente a cualquier ley posterior"
     ],
     "reference": "CC 1.4",
     "category": "Derecho Administrativo",
@@ -13282,10 +13282,10 @@
     "question": "¿Qué exige el artículo 1.5 CC para la aplicación directa en España de las normas de un tratado internacional?",
     "answer": "Su publicación íntegra en el BOE y su integración en el ordenamiento",
     "options": [
-      "Una orden ministerial de ejecución en todos los casos",
+      "La ratificación del tratado, sin que sea necesaria su publicación oficial",
       "Su publicación íntegra en el BOE y su integración en el ordenamiento",
-      "Una sentencia previa del Tribunal Supremo",
-      "La ratificación por el Senado solamente"
+      "La publicación íntegra en el Diario Oficial de la Unión Europea, sin publicación en el BOE",
+      "La publicación de un extracto en el BOE y su posterior desarrollo reglamentario"
     ],
     "reference": "CC 1.5",
     "category": "Derecho Administrativo",
@@ -13302,9 +13302,9 @@
     "answer": "El Tribunal Supremo",
     "options": [
       "El Tribunal Supremo",
-      "El Consejo de Estado",
       "El Tribunal Constitucional",
-      "El Congreso de los Diputados"
+      "La Audiencia Nacional",
+      "Los Tribunales Superiores de Justicia"
     ],
     "reference": "CC 1.6",
     "category": "Derecho Administrativo",
@@ -13320,10 +13320,10 @@
     "question": "¿La jurisprudencia es fuente enumerada en el artículo 1.1 del Código Civil?",
     "answer": "No; complementa el ordenamiento según el artículo 1.6",
     "options": [
-      "Sí; es la primera de las fuentes",
+      "Sí; constituye la cuarta fuente enumerada en el artículo 1.1",
       "No; complementa el ordenamiento según el artículo 1.6",
-      "Sí; está por encima de la costumbre",
-      "No; carece de cualquier función jurídica"
+      "No; únicamente constituye doctrina sin función complementaria",
+      "Sí; el artículo 1.1 la incluye junto a la ley y la costumbre"
     ],
     "reference": "CC 1.1 y 1.6",
     "category": "Derecho Administrativo",
@@ -13339,9 +13339,9 @@
     "question": "¿Qué deber impone el artículo 1.7 del Código Civil a jueces y tribunales?",
     "answer": "Resolver los asuntos de que conozcan conforme al sistema de fuentes",
     "options": [
-      "Suspender toda causa si falta una ley expresa",
-      "Solicitar autorización al Gobierno antes de sentenciar",
-      "Consultar siempre al Consejo de Estado",
+      "Resolver exclusivamente cuando exista ley escrita aplicable",
+      "Resolver de acuerdo con la jurisprudencia aunque contradiga una ley vigente",
+      "Suspender el procedimiento cuando falten ley y costumbre aplicables",
       "Resolver los asuntos de que conozcan conforme al sistema de fuentes"
     ],
     "reference": "CC 1.7",
@@ -13358,10 +13358,10 @@
     "question": "¿Qué artículo constitucional garantiza la jerarquía normativa?",
     "answer": "9.3",
     "options": [
-      "14",
-      "1.1",
+      "9.1",
+      "9.2",
       "9.3",
-      "106.1"
+      "10.1"
     ],
     "reference": "CE 9.3",
     "category": "Derecho Administrativo",
@@ -13377,10 +13377,10 @@
     "question": "¿Qué consecuencia establece el artículo 1.2 del Código Civil para disposiciones que contradigan otra de rango superior?",
     "answer": "Carecen de validez",
     "options": [
-      "Solo pierden eficacia si lo exige el Senado",
+      "Son anulables en cualquier caso, pero no inválidas de pleno derecho",
       "Carecen de validez",
-      "Son válidas hasta que una ley las revoque",
-      "Se convierten en costumbre"
+      "Prevalecen si fueron aprobadas después de la norma superior",
+      "Solo pierden validez cuando se sustituye expresamente la norma inferior"
     ],
     "reference": "CC 1.2",
     "category": "Derecho Administrativo",
@@ -13396,9 +13396,9 @@
     "question": "¿Qué bloque de normación describe el temario como normas formalmente aprobadas y publicadas?",
     "answer": "Normación formal",
     "options": [
-      "Moral social",
       "Normación difusa",
-      "Fuentes de decisión judicial",
+      "Normación consuetudinaria",
+      "Normación jurisprudencial",
       "Normación formal"
     ],
     "reference": "Tema 1, 1.1",
@@ -13415,10 +13415,10 @@
     "question": "¿En qué bloque sitúa el temario la costumbre y los principios generales?",
     "answer": "Normación difusa",
     "options": [
-      "Normación constitucional",
+      "Normación formal",
       "Normación difusa",
-      "Normación codificada",
-      "Normación ejecutiva"
+      "Normación reglamentaria",
+      "Normación jurisprudencial"
     ],
     "reference": "Tema 1, 1.1",
     "category": "Derecho Administrativo",
@@ -13434,9 +13434,9 @@
     "question": "¿Qué principio expresa la dimensión vertical del ordenamiento?",
     "answer": "Jerarquía normativa",
     "options": [
-      "Especialidad procedimental",
-      "Posterioridad",
-      "Competencia",
+      "Principio de competencia",
+      "Principio de especialidad procedimental",
+      "Principio de sucesión temporal",
       "Jerarquía normativa"
     ],
     "reference": "Tema 1, 1.3.1",
@@ -13453,10 +13453,10 @@
     "question": "¿Qué principio expresa la dimensión horizontal del ordenamiento?",
     "answer": "Competencia",
     "options": [
-      "Jerarquía",
+      "Jerarquía normativa",
       "Especialidad procedimental",
       "Competencia",
-      "Posterioridad"
+      "Sucesión cronológica"
     ],
     "reference": "Tema 1, 1.3.1",
     "category": "Derecho Administrativo",
@@ -13472,9 +13472,9 @@
     "question": "En una clasificación conceptual del ordenamiento jurídico, ¿qué principio se asocia a la dimensión de profundidad?",
     "answer": "Especialidad procedimental",
     "options": [
-      "Sucesión cronológica",
-      "Primacía de lo no escrito",
-      "Seguridad jurídica",
+      "Principio de jerarquía normativa",
+      "Principio de competencia",
+      "Principio de posterioridad",
       "Especialidad procedimental"
     ],
     "reference": "Conceptos de fuentes del Derecho",
@@ -13491,10 +13491,10 @@
     "question": "¿Qué principio refleja la dimensión temporal del ordenamiento?",
     "answer": "Sucesión cronológica o posterioridad",
     "options": [
-      "Competencia territorial",
-      "Potestad reglamentaria",
+      "Jerarquía normativa",
+      "Competencia",
       "Sucesión cronológica o posterioridad",
-      "Reserva material de ley"
+      "Especialidad procedimental"
     ],
     "reference": "Tema 1, 1.3.1",
     "category": "Derecho Administrativo",
@@ -13510,10 +13510,10 @@
     "question": "¿Qué norma ocupa el vértice del sistema normativo español?",
     "answer": "La Constitución",
     "options": [
-      "La costumbre",
       "La ley orgánica",
+      "El Estatuto de Autonomía",
       "La Constitución",
-      "El real decreto"
+      "La ley ordinaria estatal"
     ],
     "reference": "CE y Tema 1, 1.3.2",
     "category": "Derecho Administrativo",
@@ -13529,9 +13529,9 @@
     "question": "¿Cuál es la relación jerárquica general entre ley orgánica y ley ordinaria?",
     "answer": "No existe superioridad jerárquica general; difieren por materia y procedimiento",
     "options": [
-      "La ordinaria deroga libremente toda orgánica",
-      "La ley orgánica siempre es superior jerárquicamente",
-      "Ambas son reglamentos",
+      "La ley orgánica es jerárquicamente superior en toda materia",
+      "La ley ordinaria tiene siempre preferencia si es posterior",
+      "La ley orgánica prevalece por razón de su mayoría de aprobación",
       "No existe superioridad jerárquica general; difieren por materia y procedimiento"
     ],
     "reference": "Tema 1, 1.3.2; CE 81",
@@ -13548,9 +13548,9 @@
     "question": "En el ámbito de un mismo subsistema, ¿qué tiene mayor jerarquía: real decreto u orden ministerial?",
     "answer": "Real decreto",
     "options": [
-      "Depende solo de la fecha de publicación",
       "Orden ministerial",
-      "Tienen rango de ley idéntico",
+      "Ambas tienen idéntico rango si desarrollan la misma ley",
+      "La disposición posterior, sea orden ministerial o real decreto",
       "Real decreto"
     ],
     "reference": "Tema 1, 1.3.2",
@@ -13567,9 +13567,9 @@
     "question": "¿Qué artículo de la Ley 39/2015 regula la nulidad de disposiciones administrativas contrarias a normas superiores?",
     "answer": "47.2",
     "options": [
-      "82.5",
-      "106.4",
-      "21.1",
+      "47.1",
+      "106.2",
+      "128.3",
       "47.2"
     ],
     "reference": "LPACAP 47.2",
@@ -13587,9 +13587,9 @@
     "answer": "Competencia",
     "options": [
       "Competencia",
-      "Jerarquía de ministerios",
-      "Cronología de publicaciones",
-      "Costumbre"
+      "Jerarquía normativa",
+      "Especialidad normativa",
+      "Posterioridad temporal"
     ],
     "reference": "Tema 1, 1.3.3",
     "category": "Derecho Administrativo",
@@ -13606,9 +13606,9 @@
     "answer": "Potestad legislativa en sus ámbitos competenciales",
     "options": [
       "Potestad legislativa en sus ámbitos competenciales",
-      "Potestad normativa autonómica limitada en todo caso a normas reglamentarias",
-      "Potestad legislativa autonómica solo mediante delegación de las Cortes Generales",
-      "Potestad para aprobar leyes estatales en materias de competencia compartida"
+      "Potestad legislativa únicamente por delegación expresa de las Cortes",
+      "Potestad para aprobar leyes estatales aplicables a todo el territorio",
+      "Potestad legislativa limitada a desarrollar reglamentos estatales"
     ],
     "reference": "CE 152-153; Tema 1",
     "category": "Derecho Administrativo",
@@ -13624,10 +13624,10 @@
     "question": "Un órgano administrativo autonómico aprueba un reglamento que contradice una ley autonómica vigente de la misma materia. ¿Cuál es la consecuencia jurídica?",
     "answer": "La disposición reglamentaria incurre en nulidad por vulnerar la jerarquía normativa",
     "options": [
-      "La ley queda derogada por tratarse de una norma posterior",
+      "La disposición reglamentaria es válida si fue aprobada después que la ley",
       "La disposición reglamentaria incurre en nulidad por vulnerar la jerarquía normativa",
-      "El reglamento prevalece por su carácter ejecutivo",
-      "Ambas normas conservan validez por ser autonómicas"
+      "El reglamento desplaza a la ley autonómica cuando la desarrolla expresamente",
+      "La contradicción se resuelve por competencia sin afectar a la validez reglamentaria"
     ],
     "reference": "CE 9.3; LPACAP 47.2",
     "category": "Derecho Administrativo",
@@ -13644,9 +13644,9 @@
     "answer": "El reparto de competencias, sin presumir superioridad general de la ley estatal",
     "options": [
       "El reparto de competencias, sin presumir superioridad general de la ley estatal",
-      "La imposibilidad de control constitucional de leyes autonómicas",
-      "La superioridad jerárquica de cualquier ley estatal",
-      "La preferencia automática por la norma cronológicamente anterior"
+      "La jerarquía entre ley estatal y autonómica, con prevalencia automática de la primera",
+      "La preferencia de la ley más reciente, aunque invada competencias ajenas",
+      "El rango formal de la norma, con independencia del reparto competencial"
     ],
     "reference": "CE 137, 148-149; Tema 1",
     "category": "Derecho Administrativo",
@@ -13663,9 +13663,9 @@
     "answer": "Resolver aplicando los principios generales del Derecho",
     "options": [
       "Resolver aplicando los principios generales del Derecho",
-      "Abstenerse de resolver hasta que se apruebe una ley",
-      "Decidir solo conforme a su criterio personal",
-      "Solicitar una disposición reglamentaria al ministerio"
+      "Resolver mediante una interpretación extensiva de una ley no aplicable",
+      "Inaplicar los principios generales por no tener rango de ley",
+      "Resolver atendiendo exclusivamente a la jurisprudencia, sin recurrir a principios"
     ],
     "reference": "CC 1.4 y 1.7",
     "category": "Derecho Administrativo",
@@ -13682,9 +13682,9 @@
     "answer": "No cabe su aplicación directa como norma interna en tanto falte esa publicación íntegra",
     "options": [
       "No cabe su aplicación directa como norma interna en tanto falte esa publicación íntegra",
-      "La costumbre sustituye el requisito de publicidad de tratados",
-      "Todo tratado prevalece automáticamente incluso sin integración en el ordenamiento",
-      "Basta la publicación de un resumen en una web institucional"
+      "Basta con su ratificación, aunque el texto no haya sido publicado",
+      "La publicación de un extracto oficial sustituye la publicación íntegra",
+      "La publicación en el diario oficial del Estado firmante basta para aplicarlo en España"
     ],
     "reference": "CC 1.5",
     "category": "Derecho Administrativo",
@@ -13701,9 +13701,9 @@
     "answer": "Jerarquía normativa y falta de validez de la disposición inferior",
     "options": [
       "Jerarquía normativa y falta de validez de la disposición inferior",
-      "Deslegalización y preferencia del uso social",
-      "Posterioridad y validez necesaria de la inferior",
-      "Competencia y derogación automática de la superior"
+      "Posterioridad y preferencia de la norma inferior más reciente",
+      "Competencia y validez automática de cualquier disposición reglamentaria",
+      "Especialidad normativa y derogación de la disposición superior por la inferior"
     ],
     "reference": "CE 9.3; CC 1.2",
     "category": "Derecho Administrativo",
@@ -13719,10 +13719,10 @@
     "question": "Si una Cámara parlamentaria quiere modificar su propio reglamento, ¿qué elemento explica que una ley ordinaria no lo sustituya sin más?",
     "answer": "La atribución constitucional específica de autonomía reglamentaria a cada Cámara",
     "options": [
-      "La primacía de todas las órdenes ministeriales sobre sus reglamentos",
+      "La reserva de autonomía reglamentaria parlamentaria existe solo para el Senado",
       "La atribución constitucional específica de autonomía reglamentaria a cada Cámara",
-      "La inexistencia de potestad normativa de las Cámaras",
-      "La aplicación de la costumbre a falta de ley"
+      "La modificación requiere una ley orgánica en lugar del reglamento de cada Cámara",
+      "La ley ordinaria desplaza al reglamento parlamentario por su rango legislativo"
     ],
     "reference": "CE 72.1",
     "category": "Derecho Administrativo",
@@ -13738,9 +13738,9 @@
     "question": "La jurisprudencia reiterada del Tribunal Supremo interpreta la ley, la costumbre y los principios generales. ¿Qué efecto contempla el artículo 1.6 CC?",
     "answer": "Complementa el ordenamiento jurídico",
     "options": [
-      "Reemplaza la Constitución como norma suprema",
-      "Deroga por sí sola todas las leyes anteriores",
-      "Se convierte en ley orgánica",
+      "Integra una fuente autónoma añadida a las tres del artículo 1.1",
+      "Sustituye la ley cuando mantiene una doctrina reiterada contraria",
+      "Constituye una fuente subsidiaria aplicable antes de los principios generales",
       "Complementa el ordenamiento jurídico"
     ],
     "reference": "CC 1.6",
@@ -13757,10 +13757,10 @@
     "question": "Un ministerio intenta modificar mediante orden ministerial un real decreto del Gobierno. ¿Cuál es la regla general?",
     "answer": "No puede hacerlo por su inferior rango reglamentario",
     "options": [
-      "Sí, si la orden desarrolla una habilitación contenida en la Ley 40/2015",
+      "Sí, cuando la orden sea posterior al real decreto y regule la misma materia",
       "No puede hacerlo por su inferior rango reglamentario",
-      "Sí, si el ministerio firmante impulsó previamente ese real decreto",
-      "Sí, si la orden regula una materia no reservada a ley"
+      "Sí, cuando la orden desarrolle un precepto legal relativo al mismo sector",
+      "Sí, si ambas disposiciones tienen naturaleza reglamentaria y finalidad ejecutiva"
     ],
     "reference": "Tema 1, 1.3.2",
     "category": "Derecho Administrativo",
@@ -49255,9 +49255,9 @@
     "answer": "La costumbre solo rige en defecto de ley aplicable.",
     "options": [
       "La costumbre solo rige en defecto de ley aplicable.",
-      "La costumbre deroga automáticamente la ley.",
-      "La costumbre prevalece si es más reciente.",
-      "La costumbre tiene siempre rango constitucional."
+      "La costumbre rige si es posterior a la ley aplicable.",
+      "La costumbre prevalece cuando completa una materia regulada legalmente.",
+      "La costumbre desplaza la ley si ha sido aplicada reiteradamente por los tribunales."
     ],
     "reference": "Código Civil art. 1; CEF Derecho Administrativo, tema 1",
     "category": "Derecho Administrativo",
@@ -49274,9 +49274,9 @@
     "answer": "No; debe no ser contraria a la moral ni al orden público y resultar probada.",
     "options": [
       "No; debe no ser contraria a la moral ni al orden público y resultar probada.",
-      "Sí; basta que exista uso local.",
-      "Sí; si la aplica un órgano administrativo.",
-      "Solo si tiene más de diez años."
+      "Sí, si está probada, aunque contradiga el orden público.",
+      "Sí, si no contradice la moral, con independencia del orden público.",
+      "Sí, si se trata de un uso jurídico no meramente interpretativo."
     ],
     "reference": "Código Civil art. 1; CEF Derecho Administrativo, tema 1",
     "category": "Derecho Administrativo",
@@ -49293,9 +49293,9 @@
     "answer": "Los principios generales del Derecho.",
     "options": [
       "Los principios generales del Derecho.",
-      "Una recomendación no vinculante del Gobierno.",
-      "La opinión de un particular publicada en prensa.",
-      "Un proyecto de ley todavía no aprobado."
+      "La jurisprudencia reiterada del Tribunal Supremo, como fuente subsidiaria autónoma.",
+      "La costumbre, aunque no se haya acreditado su existencia.",
+      "La aplicación analógica de una ley excluyendo los principios generales del Derecho."
     ],
     "reference": "Código Civil art. 1; CEF Derecho Administrativo, tema 1",
     "category": "Derecho Administrativo",
@@ -49312,9 +49312,9 @@
     "answer": "Tras su publicación íntegra en el BOE.",
     "options": [
       "Tras su publicación íntegra en el BOE.",
-      "Desde cualquier noticia sobre su negociación.",
-      "Solo cuando un juez extranjero los cite.",
-      "Cuando cualquier particular los transcriba."
+      "Desde su ratificación, aunque no se haya publicado su texto íntegro.",
+      "Tras publicar únicamente el instrumento de ratificación, sin el texto.",
+      "Desde su publicación en el diario oficial del Estado con el que se suscribió."
     ],
     "reference": "Código Civil art. 1; CEF Derecho Administrativo, tema 1",
     "category": "Derecho Administrativo",
@@ -49331,9 +49331,9 @@
     "answer": "Complementa el ordenamiento jurídico mediante jurisprudencia.",
     "options": [
       "Complementa el ordenamiento jurídico mediante jurisprudencia.",
-      "Deroga la Constitución cuando existe contradicción.",
-      "Sustituye automáticamente toda ley.",
-      "Crea reglamentos ministeriales."
+      "Constituye una fuente adicional a las enumeradas en el artículo 1.1.",
+      "Sustituye la ley siempre que sea doctrina reiterada.",
+      "Tiene eficacia normativa superior a la costumbre y a los principios generales."
     ],
     "reference": "Código Civil art. 1; CEF Derecho Administrativo, tema 1",
     "category": "Derecho Administrativo",
