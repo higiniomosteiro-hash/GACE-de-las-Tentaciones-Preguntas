@@ -1,18 +1,30 @@
 {
   "schema": 1,
-  "revision": "2026-11-17-auditoria-global-exactos-1",
+  "revision": "2026-11-18-organizacion-ampliacion-curada",
   "source": "Banco de preguntas GACE (pregunta+respuesta normalizadas); revisión jurídica original Defensor del Pueblo preservada",
   "scope": "Todos los temas y modalidades; preservar IDs históricos y marcadores de dominio; la selección excluye coincidencias exactas, no meras preguntas sobre el mismo artículo.",
   "inactiveIds": [
+    13,
+    23,
+    46,
+    48,
     50,
     52,
+    53,
     54,
+    55,
     56,
     58,
     60,
     62,
     64,
     66,
+    848,
+    903,
+    992,
+    993,
+    994,
+    998,
     2225,
     2226,
     2227,
@@ -167,7 +179,30 @@
     2434,
     2435,
     2436,
-    2437
+    2437,
+    2438,
+    2439,
+    2441,
+    2442,
+    2443,
+    2444,
+    2445,
+    2446,
+    2447,
+    2449,
+    2450,
+    2451,
+    2452,
+    2453,
+    2454,
+    2455,
+    2457,
+    2458,
+    2469,
+    2482,
+    2483,
+    2484,
+    2505
   ],
   "groups": [
     {
@@ -404,5 +439,5 @@
       "count": 150
     }
   ],
-  "notes": "Curación de 150 duplicados textuales del banco global; conservar preguntas distintas por perspectiva incluso si versan sobre un mismo artículo. La auditoría semántica exige revisión editorial sucesiva. No borrar registros históricos."
+  "notes": "Curación de 150 duplicados textuales del banco global; conservar preguntas distintas por perspectiva incluso si versan sobre un mismo artículo. La auditoría semántica exige revisión editorial sucesiva. No borrar registros históricos. Actualización Organización del Estado de 18-11-2026: altas seleccionadas con filtros de diversidad y revisión de distractores; baja lógica por IDs de variantes repetidas."
 }
