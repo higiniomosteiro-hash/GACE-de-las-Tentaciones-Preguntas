@@ -51780,5 +51780,803 @@
     "explanation": "La aprobación gubernamental del proyecto de ley va seguida de su remisión parlamentaria.",
     "source": "Apuntes profesor: procedimiento elaboración normativa (20 pp.) · contrastado Ley 50/1997, RD 931/2017, RD 1081/2017",
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
+  },
+  {
+    "id": 900101,
+    "question": "Según la enumeración expresa del TREBEP, ¿cuál de estas figuras NO constituye una quinta clase de empleado público?",
+    "answer": "Personal directivo profesional",
+    "options": [
+      "Personal directivo profesional",
+      "Personal eventual",
+      "Personal laboral indefinido",
+      "Funcionario interino"
+    ],
+    "reference": "TREBEP art. 8.2",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Clases de personal",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El art. 8.2 enumera cuatro clases; el personal directivo profesional se regula separadamente en el art. 13."
+  },
+  {
+    "id": 900102,
+    "question": "Una persona es nombrada temporalmente para asesorar especialmente a una autoridad. ¿Qué clase de personal será, si concurren los requisitos legales?",
+    "answer": "Personal eventual",
+    "options": [
+      "Personal eventual",
+      "Funcionario interino por programa",
+      "Personal laboral temporal",
+      "Funcionario de carrera"
+    ],
+    "reference": "TREBEP arts. 8-12",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Clases de personal",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "La función de confianza o asesoramiento especial y el nombramiento no permanente caracterizan al personal eventual."
+  },
+  {
+    "id": 900103,
+    "question": "¿Qué parejas de personal se vinculan, como regla definitoria, por nombramiento y no por contrato de trabajo?",
+    "answer": "Funcionarios de carrera, interinos y personal eventual",
+    "options": [
+      "Funcionarios de carrera, interinos y personal eventual",
+      "Funcionarios de carrera y personal laboral fijo",
+      "Personal laboral fijo, temporal y eventual",
+      "Solo funcionarios de carrera y personal laboral indefinido"
+    ],
+    "reference": "TREBEP arts. 9-12",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Clases de personal",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El personal laboral se caracteriza por contrato escrito; las demás figuras señaladas se vinculan por nombramiento."
+  },
+  {
+    "id": 900104,
+    "question": "¿Cuál es el elemento que incluye el TREBEP en la definición general de empleado público?",
+    "answer": "Desempeñar funciones retribuidas al servicio de los intereses generales",
+    "options": [
+      "Desempeñar funciones retribuidas al servicio de los intereses generales",
+      "Tener necesariamente un vínculo estatutario permanente",
+      "Desempeñar exclusivamente potestades públicas",
+      "Haber superado siempre una oposición de acceso libre"
+    ],
+    "reference": "TREBEP art. 8.1",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Clases de personal",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El art. 8.1 define empleado público por funciones retribuidas en las Administraciones al servicio de intereses generales."
+  },
+  {
+    "id": 900105,
+    "question": "Según el artículo 9.1, ¿qué relación jurídica define al funcionario de carrera?",
+    "answer": "Relación estatutaria regulada por Derecho Administrativo",
+    "options": [
+      "Relación estatutaria regulada por Derecho Administrativo",
+      "Contrato laboral de duración indefinida",
+      "Relación de confianza de carácter no permanente",
+      "Contrato mercantil de prestación de servicios"
+    ],
+    "reference": "TREBEP art. 9.1",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Funcionarios y clasificación",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El nombramiento legal da origen a una relación estatutaria de carácter permanente, no a un contrato laboral."
+  },
+  {
+    "id": 900106,
+    "question": "¿Qué funciones reserva el artículo 9.2 TREBEP a funcionarios públicos en los términos de las leyes de desarrollo?",
+    "answer": "Las que impliquen participación directa o indirecta en potestades públicas o salvaguardia de intereses generales",
+    "options": [
+      "Las que impliquen participación directa o indirecta en potestades públicas o salvaguardia de intereses generales",
+      "Únicamente las que impliquen firma de resoluciones sancionadoras",
+      "Todas las tareas de mantenimiento y limpieza de edificios públicos",
+      "Exclusivamente las funciones de representación política"
+    ],
+    "reference": "TREBEP art. 9.2",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Funcionarios y clasificación",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "La reserva cubre también participación indirecta en potestades públicas o salvaguardia de intereses generales."
+  },
+  {
+    "id": 900107,
+    "question": "¿Mediante qué tipo de norma se crean, modifican y suprimen los cuerpos y escalas de funcionarios?",
+    "answer": "Ley de las Cortes Generales o de las asambleas legislativas autonómicas",
+    "options": [
+      "Ley de las Cortes Generales o de las asambleas legislativas autonómicas",
+      "Orden ministerial en todo caso",
+      "Resolución del órgano de personal",
+      "Acuerdo de la mesa de negociación sin norma posterior"
+    ],
+    "reference": "TREBEP art. 75.2",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Funcionarios y clasificación",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El art. 75.2 exige ley estatal o autonómica para creación, modificación y supresión."
+  },
+  {
+    "id": 900108,
+    "question": "Según el TREBEP, ¿qué determina la subdivisión del grupo A en A1 y A2?",
+    "answer": "Nivel de responsabilidad de las funciones y características de las pruebas de acceso",
+    "options": [
+      "Nivel de responsabilidad de las funciones y características de las pruebas de acceso",
+      "Edad mínima de ingreso y antigüedad",
+      "Solo la duración de la jornada laboral",
+      "Únicamente la Administración territorial de destino"
+    ],
+    "reference": "TREBEP art. 76",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Funcionarios y clasificación",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "Ambos subgrupos pertenecen al grupo A; se diferencian por responsabilidad funcional y pruebas de acceso."
+  },
+  {
+    "id": 900109,
+    "question": "Para el acceso al grupo A, ¿qué sucede cuando una ley exige un título universitario distinto del Grado?",
+    "answer": "Se exigirá el título universitario previsto en esa ley",
+    "options": [
+      "Se exigirá el título universitario previsto en esa ley",
+      "Se exigirá siempre el título de Bachiller",
+      "Bastará el título de Técnico Superior",
+      "La titulación dejará de ser un requisito"
+    ],
+    "reference": "TREBEP art. 76",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Funcionarios y clasificación",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El art. 76 contempla la exigencia general del Grado y la excepción de otro título universitario exigido por ley."
+  },
+  {
+    "id": 900110,
+    "question": "Un cuerpo exige el título de Técnico Superior. ¿En qué grupo de clasificación se encuadra ordinariamente?",
+    "answer": "Grupo B",
+    "options": [
+      "Grupo B",
+      "Subgrupo A2",
+      "Subgrupo C1",
+      "Subgrupo C2"
+    ],
+    "reference": "TREBEP art. 76",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Funcionarios y clasificación",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El requisito académico específico del grupo B es el título de Técnico Superior."
+  },
+  {
+    "id": 900111,
+    "question": "¿Qué pareja de titulaciones corresponde correctamente a C1 y C2?",
+    "answer": "C1: Bachiller o Técnico; C2: Graduado en ESO",
+    "options": [
+      "C1: Bachiller o Técnico; C2: Graduado en ESO",
+      "C1: Técnico Superior; C2: Bachiller",
+      "C1: Grado universitario; C2: Técnico Superior",
+      "C1: Graduado en ESO; C2: Bachiller"
+    ],
+    "reference": "TREBEP art. 76",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Funcionarios y clasificación",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El artículo 76 distingue expresamente ambas titulaciones."
+  },
+  {
+    "id": 900112,
+    "question": "¿Qué exigencias han de justificar expresamente el nombramiento de un funcionario interino?",
+    "answer": "Necesidad y urgencia",
+    "options": [
+      "Necesidad y urgencia",
+      "Confianza y libre designación",
+      "Exclusivamente ahorro presupuestario",
+      "Antigüedad y movilidad voluntaria"
+    ],
+    "reference": "TREBEP art. 10.1",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Interinos · Supuestos",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "La necesidad y la urgencia son requisitos expresos del nombramiento temporal del art. 10.1."
+  },
+  {
+    "id": 900113,
+    "question": "¿Qué duración máxima general prevé el artículo 10.1.a para un nombramiento interino por vacante?",
+    "answer": "Tres años",
+    "options": [
+      "Tres años",
+      "Dos años",
+      "Cuatro años",
+      "Nueve meses"
+    ],
+    "reference": "TREBEP art. 10.1.a",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Interinos · Supuestos",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "La vacante no cubierta por funcionario de carrera permite nombramiento por un máximo de tres años, con las reglas del art. 10.4."
+  },
+  {
+    "id": 900114,
+    "question": "En la sustitución transitoria de un funcionario titular, ¿cuánto puede durar la interinidad?",
+    "answer": "El tiempo estrictamente necesario",
+    "options": [
+      "El tiempo estrictamente necesario",
+      "Un máximo fijo de nueve meses dentro de dieciocho",
+      "Siempre tres años prorrogables doce meses",
+      "Hasta la aprobación del siguiente presupuesto"
+    ],
+    "reference": "TREBEP art. 10.1.b",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Interinos · Supuestos",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "La sustitución transitoria dura el tiempo estrictamente necesario, no uno de los plazos de otros supuestos."
+  },
+  {
+    "id": 900115,
+    "question": "¿Qué norma puede permitir ampliar hasta doce meses más un programa temporal de interinos?",
+    "answer": "Las leyes de Función Pública dictadas en desarrollo del TREBEP",
+    "options": [
+      "Las leyes de Función Pública dictadas en desarrollo del TREBEP",
+      "Cualquier instrucción del jefe de servicio",
+      "Un contrato individual del interino",
+      "Una decisión de la mesa electoral"
+    ],
+    "reference": "TREBEP art. 10.1.c",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Interinos · Supuestos",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "Los programas temporales tienen límite general de tres años, ampliable hasta doce meses mediante leyes de desarrollo."
+  },
+  {
+    "id": 900116,
+    "question": "¿Cuál es la combinación legal correcta para exceso o acumulación de tareas?",
+    "answer": "Nueve meses en un período de dieciocho meses",
+    "options": [
+      "Nueve meses en un período de dieciocho meses",
+      "Doce meses en un período de veinticuatro meses",
+      "Tres años con doce meses adicionales",
+      "Seis meses sin período de referencia"
+    ],
+    "reference": "TREBEP art. 10.1.d",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Interinos · Supuestos",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "La duración máxima específica es nueve meses dentro de dieciocho."
+  },
+  {
+    "id": 900117,
+    "question": "¿Cuál de las siguientes NO es una causa de nombramiento interino recogida en el artículo 10.1?",
+    "answer": "Necesidad de cubrir indefinidamente un puesto directivo de confianza",
+    "options": [
+      "Necesidad de cubrir indefinidamente un puesto directivo de confianza",
+      "Existencia de plaza vacante no cubierta por funcionario de carrera",
+      "Sustitución transitoria de un titular",
+      "Exceso o acumulación de tareas"
+    ],
+    "reference": "TREBEP art. 10.1",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Interinos · Supuestos",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "La confianza o el asesoramiento especial corresponden al personal eventual, no a una quinta causa de interinidad."
+  },
+  {
+    "id": 900118,
+    "question": "¿Qué combinación incluye TODOS los principios expresamente aplicables a la selección de interinos?",
+    "answer": "Igualdad, mérito, capacidad, publicidad y celeridad",
+    "options": [
+      "Igualdad, mérito, capacidad, publicidad y celeridad",
+      "Igualdad, mérito, capacidad y estabilidad",
+      "Publicidad, discrecionalidad, celeridad y antigüedad",
+      "Libre nombramiento, confianza, capacidad y publicidad"
+    ],
+    "reference": "TREBEP art. 10.2",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Interinos · Selección",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El art. 10.2 contiene los cinco principios y exige procedimientos públicos."
+  },
+  {
+    "id": 900119,
+    "question": "¿Cuál es la finalidad expresamente establecida para la selección de funcionarios interinos?",
+    "answer": "La cobertura inmediata del puesto",
+    "options": [
+      "La cobertura inmediata del puesto",
+      "El reconocimiento automático de la condición de funcionario de carrera",
+      "La provisión de puestos exclusivamente por libre designación",
+      "La adquisición automática de un puesto fijo al finalizar tres años"
+    ],
+    "reference": "TREBEP art. 10.2",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Interinos · Selección",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "La selección busca la cobertura inmediata sin eliminar las garantías de publicidad, igualdad, mérito y capacidad."
+  },
+  {
+    "id": 900120,
+    "question": "¿Qué efecto produce superar un procedimiento de selección para personal interino?",
+    "answer": "No da lugar por sí mismo a adquirir la condición de funcionario de carrera",
+    "options": [
+      "No da lugar por sí mismo a adquirir la condición de funcionario de carrera",
+      "Supone siempre adquirir la condición de funcionario de carrera",
+      "Garantiza la permanencia definitiva en la plaza",
+      "Exonera de los demás procesos selectivos de carrera"
+    ],
+    "reference": "TREBEP art. 10.2",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Interinos · Selección",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El nombramiento interino no reconoce en ningún caso por sí solo la condición de funcionario de carrera."
+  },
+  {
+    "id": 900121,
+    "question": "¿Cómo debe formalizar la Administración la finalización de la interinidad por las causas del artículo 10.3?",
+    "answer": "De oficio",
+    "options": [
+      "De oficio",
+      "Solo a solicitud del interino",
+      "Mediante acuerdo de las Cortes Generales",
+      "Exclusivamente por sentencia judicial firme"
+    ],
+    "reference": "TREBEP art. 10.3",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Interinos · Finalización y compensación",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El art. 10.3 prevé que la Administración formalizará de oficio el fin de la relación por sus causas."
+  },
+  {
+    "id": 900122,
+    "question": "¿Qué ocurre, según el artículo 10.3, si un funcionario de carrera cubre reglamentariamente el puesto del interino?",
+    "answer": "Finaliza de oficio la interinidad, sin compensación por esa causa",
+    "options": [
+      "Finaliza de oficio la interinidad, sin compensación por esa causa",
+      "El interino adquiere automáticamente otra plaza de carrera",
+      "El funcionario de carrera debe esperar tres años más",
+      "La relación interina se convierte en laboral fija"
+    ],
+    "reference": "TREBEP art. 10.3",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Interinos · Finalización y compensación",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "Es una de las causas expresas de finalización de oficio de la interinidad."
+  },
+  {
+    "id": 900123,
+    "question": "¿Cuál de estas circunstancias constituye causa expresa de cese de oficio de un interino?",
+    "answer": "La supresión o amortización del puesto por razones organizativas",
+    "options": [
+      "La supresión o amortización del puesto por razones organizativas",
+      "El mero cambio de ministro, en todos los supuestos",
+      "La finalización de una legislatura, siempre",
+      "La convocatoria de unas elecciones generales, en todo caso"
+    ],
+    "reference": "TREBEP art. 10.3",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Interinos · Finalización y compensación",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El art. 10.3 contempla motivos organizativos que llevan a suprimir o amortizar el puesto."
+  },
+  {
+    "id": 900124,
+    "question": "Si un interino por vacante alcanza tres años y el proceso selectivo se ha declarado desierto, ¿qué permite la norma?",
+    "answer": "Efectuar otro nombramiento de personal funcionario interino",
+    "options": [
+      "Efectuar otro nombramiento de personal funcionario interino",
+      "Convertir al interino automáticamente en funcionario de carrera",
+      "Mantener indefinidamente la misma interinidad sin nueva causa",
+      "Cubrir el puesto exclusivamente con personal eventual"
+    ],
+    "reference": "TREBEP art. 10.4",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Interinos · Finalización y compensación",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El art. 10.4 establece esa excepción específica a la ocupación posterior de la vacante."
+  },
+  {
+    "id": 900125,
+    "question": "¿Qué condición permite excepcionalmente a un interino por vacante permanecer tras tres años hasta resolver la convocatoria?",
+    "answer": "Que la convocatoria se publicara dentro de los tres años desde el nombramiento y se resuelva según el artículo 70",
+    "options": [
+      "Que la convocatoria se publicara dentro de los tres años desde el nombramiento y se resuelva según el artículo 70",
+      "Que la Administración omita publicar toda convocatoria",
+      "Que el interino haya realizado dos cursos de formación",
+      "Que se acuerde libremente una prórroga por tiempo ilimitado"
+    ],
+    "reference": "TREBEP art. 10.4",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Interinos · Finalización y compensación",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "La excepción exige convocatoria publicada dentro de plazo y resolución conforme a los plazos del art. 70."
+  },
+  {
+    "id": 900126,
+    "question": "¿Qué régimen se aplica al interino, en cuanto sea adecuado a su condición temporal y nombramiento urgente?",
+    "answer": "El régimen general del funcionario de carrera, excepto derechos inherentes a esa condición",
+    "options": [
+      "El régimen general del funcionario de carrera, excepto derechos inherentes a esa condición",
+      "Exclusivamente el régimen del personal eventual",
+      "El régimen laboral de los contratos indefinidos en todo caso",
+      "Ninguna disposición del TREBEP"
+    ],
+    "reference": "TREBEP art. 10.5",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Interinos · Finalización y compensación",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El artículo 10.5 remite al régimen de carrera solo en la medida compatible, excluyendo derechos exclusivos de carrera."
+  },
+  {
+    "id": 900127,
+    "question": "¿Qué formalidad exige el TREBEP para el contrato del personal laboral de las Administraciones?",
+    "answer": "Que se formalice por escrito",
+    "options": [
+      "Que se formalice por escrito",
+      "Que se formalice exclusivamente de palabra",
+      "Que se sustituya siempre por un nombramiento estatutario",
+      "Que se apruebe mediante ley específica para cada trabajador"
+    ],
+    "reference": "TREBEP art. 11.1",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Personal laboral",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El artículo 11.1 exige un contrato de trabajo formalizado por escrito."
+  },
+  {
+    "id": 900128,
+    "question": "¿Cuál es la clasificación que recoge expresamente el artículo 11.1 para personal laboral según la duración?",
+    "answer": "Fijo, por tiempo indefinido o temporal",
+    "options": [
+      "Fijo, por tiempo indefinido o temporal",
+      "De carrera, interino o eventual",
+      "A1, A2 o B",
+      "Ordinario, directivo o político"
+    ],
+    "reference": "TREBEP art. 11.1",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Personal laboral",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El TREBEP distingue estas tres situaciones laborales, distintas de las clases del art. 8.2."
+  },
+  {
+    "id": 900129,
+    "question": "¿Qué deben respetar las leyes de función pública al determinar puestos para personal laboral?",
+    "answer": "La reserva funcional a funcionarios del artículo 9.2",
+    "options": [
+      "La reserva funcional a funcionarios del artículo 9.2",
+      "Solo la voluntad del órgano de contratación",
+      "Únicamente la duración del convenio colectivo",
+      "Una preferencia absoluta por el vínculo laboral"
+    ],
+    "reference": "TREBEP art. 11.2",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Personal laboral",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El artículo 11.2 remite expresamente a la reserva de funciones del art. 9.2."
+  },
+  {
+    "id": 900130,
+    "question": "¿Qué principio añade expresamente el TREBEP a la selección del personal laboral temporal?",
+    "answer": "Celeridad",
+    "options": [
+      "Celeridad",
+      "Confianza política",
+      "Discrecionalidad",
+      "Libre nombramiento"
+    ],
+    "reference": "TREBEP art. 11.3",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Personal laboral",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "Para personal laboral temporal se añaden celeridad y necesidad y urgencia justificadas."
+  },
+  {
+    "id": 900131,
+    "question": "Según el artículo 11.3, ¿qué principios rigen en todo caso la selección del personal laboral?",
+    "answer": "Igualdad, mérito y capacidad",
+    "options": [
+      "Igualdad, mérito y capacidad",
+      "Exclusivamente antigüedad y libre designación",
+      "Confianza, oportunidad y asesoramiento especial",
+      "Únicamente publicidad y libre remoción"
+    ],
+    "reference": "TREBEP art. 11.3",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Personal laboral",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El artículo 11.3 exige publicidad del procedimiento y principios de igualdad, mérito y capacidad."
+  },
+  {
+    "id": 900132,
+    "question": "¿Cuáles son las únicas funciones para las que puede nombrarse personal eventual?",
+    "answer": "Las expresamente calificadas como de confianza o asesoramiento especial",
+    "options": [
+      "Las expresamente calificadas como de confianza o asesoramiento especial",
+      "La dirección ordinaria de expedientes sancionadores por sí sola",
+      "La sustitución temporal de funcionarios en plazas vacantes",
+      "La realización de cualquier trabajo sin procedimiento de selección"
+    ],
+    "reference": "TREBEP art. 12.1",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Personal eventual",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El artículo 12.1 restringe las funciones eventuales a confianza o asesoramiento especial."
+  },
+  {
+    "id": 900133,
+    "question": "¿Quién establece el número máximo de personal eventual en cada Administración?",
+    "answer": "Los respectivos órganos de gobierno",
+    "options": [
+      "Los respectivos órganos de gobierno",
+      "La mesa general de negociación en exclusiva",
+      "El Tribunal de Cuentas",
+      "El Defensor del Pueblo"
+    ],
+    "reference": "TREBEP art. 12.2",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Personal eventual",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El número máximo lo establecen los respectivos órganos de gobierno y debe hacerse público."
+  },
+  {
+    "id": 900134,
+    "question": "¿Qué datos relativos al personal eventual deben ser públicos?",
+    "answer": "Su número y sus condiciones retributivas",
+    "options": [
+      "Su número y sus condiciones retributivas",
+      "Solo el número de años de servicio de cada trabajador",
+      "Las pruebas escritas superadas por cada nombrado",
+      "Exclusivamente las fechas de vacaciones"
+    ],
+    "reference": "TREBEP art. 12.2",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Personal eventual",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El artículo 12.2 impone publicidad del número y condiciones retributivas."
+  },
+  {
+    "id": 900135,
+    "question": "¿Qué sucede necesariamente cuando cesa la autoridad a la que el eventual presta confianza o asesoramiento?",
+    "answer": "Cesa también el personal eventual",
+    "options": [
+      "Cesa también el personal eventual",
+      "El eventual se convierte en funcionario de carrera",
+      "Su nombramiento se prorroga necesariamente un año",
+      "Permanece en su puesto hasta que cese la siguiente autoridad"
+    ],
+    "reference": "TREBEP art. 12.3",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Personal eventual",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El art. 12.3 establece el cese en todo caso cuando cesa la autoridad destinataria."
+  },
+  {
+    "id": 900136,
+    "question": "¿Qué valor tiene haber sido personal eventual en el acceso a la función pública o promoción interna?",
+    "answer": "No constituye mérito",
+    "options": [
+      "No constituye mérito",
+      "Aporta automáticamente cinco puntos",
+      "Exime de las pruebas de acceso",
+      "Da derecho a una plaza reservada de funcionario"
+    ],
+    "reference": "TREBEP art. 12.4",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Personal eventual",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "La condición de eventual no puede constituir mérito para acceso ni promoción interna."
+  },
+  {
+    "id": 900137,
+    "question": "¿Qué régimen general se aplica supletoriamente al personal eventual cuando resulte adecuado a su condición?",
+    "answer": "El de los funcionarios de carrera",
+    "options": [
+      "El de los funcionarios de carrera",
+      "El de personal laboral fijo exclusivamente",
+      "El de los funcionarios interinos en sustitución, sin excepciones",
+      "El régimen mercantil de administradores de sociedades"
+    ],
+    "reference": "TREBEP art. 12.5",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Personal eventual",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El artículo 12.5 aplica, en lo adecuado, el régimen general de funcionarios de carrera."
+  },
+  {
+    "id": 900138,
+    "question": "¿Cuál es la afirmación correcta sobre personal directivo profesional y las clases del art. 8.2?",
+    "answer": "Se regula en el art. 13 sin añadirse como quinta clase en el art. 8.2",
+    "options": [
+      "Se regula en el art. 13 sin añadirse como quinta clase en el art. 8.2",
+      "Es una quinta clase mencionada expresamente en el art. 8.2",
+      "Es necesariamente personal eventual en todos los casos",
+      "Es sinónimo jurídico de funcionario interino"
+    ],
+    "reference": "TREBEP arts. 8 y 13",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Clases de personal",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "La dirección profesional es una figura regulada en artículo propio, separada de las cuatro clases enumeradas."
+  },
+  {
+    "id": 900139,
+    "question": "Un ayuntamiento necesita personal por acumulación de tareas durante diez meses en dieciocho. ¿Qué valoración resulta correcta conforme al TREBEP?",
+    "answer": "El supuesto de acumulación no admite diez meses: su máximo es nueve en dieciocho",
+    "options": [
+      "El supuesto de acumulación no admite diez meses: su máximo es nueve en dieciocho",
+      "Es válido porque todo nombramiento interino dura hasta tres años",
+      "Puede ampliarse automáticamente doce meses por ser un programa",
+      "Se transforma en una sustitución transitoria sin más"
+    ],
+    "reference": "TREBEP arts. 10.1.c-d",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Interinos · Supuestos",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El límite de nueve meses en dieciocho se aplica a exceso o acumulación de tareas, no el de programas temporales."
+  },
+  {
+    "id": 900140,
+    "question": "¿Qué duración total máxima podría alcanzar un programa temporal de interinos cuando la ley de función pública habilite la ampliación íntegra?",
+    "answer": "Cuatro años",
+    "options": [
+      "Cuatro años",
+      "Tres años",
+      "Dieciocho meses",
+      "Cinco años"
+    ],
+    "reference": "TREBEP art. 10.1.c",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Interinos · Supuestos",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El máximo general es tres años y puede ampliarse hasta doce meses adicionales por la legislación de desarrollo."
+  },
+  {
+    "id": 900141,
+    "question": "Un empleado público presta servicios mediante contrato de trabajo escrito de carácter temporal. ¿Qué clase del art. 8.2 le corresponde?",
+    "answer": "Personal laboral",
+    "options": [
+      "Personal laboral",
+      "Funcionario interino",
+      "Personal eventual",
+      "Funcionario de carrera"
+    ],
+    "reference": "TREBEP arts. 8.2 y 11",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Clases de personal",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "La temporalidad del contrato no convierte a personal laboral en funcionario interino."
+  },
+  {
+    "id": 900142,
+    "question": "¿Qué compensación reconoce el artículo 10.3 por el cese ordinario debido a que desaparece la causa del nombramiento?",
+    "answer": "Ninguna compensación por esa causa",
+    "options": [
+      "Ninguna compensación por esa causa",
+      "Veinte días por año en todos los casos",
+      "Una anualidad de salario en todos los casos",
+      "Indemnización automática equivalente a tres mensualidades"
+    ],
+    "reference": "TREBEP art. 10.3",
+    "category": "RRHH",
+    "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
+    "subtopic": "Interinos · Finalización y compensación",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
+    "explanation": "El precepto establece expresamente cese sin derecho a compensación por las causas que enumera."
   }
 ]
