@@ -51782,7 +51782,7 @@
     "origin": "Ampliación Tema 2 · La Ley · noviembre de 2026"
   },
   {
-    "id": 900101,
+    "id": 2778,
     "question": "Según la enumeración expresa del TREBEP, ¿cuál de estas figuras NO constituye una quinta clase de empleado público?",
     "answer": "Personal directivo profesional",
     "options": [
@@ -51801,7 +51801,7 @@
     "explanation": "El art. 8.2 enumera cuatro clases; el personal directivo profesional se regula separadamente en el art. 13."
   },
   {
-    "id": 900102,
+    "id": 2779,
     "question": "Una persona es nombrada temporalmente para asesorar especialmente a una autoridad. ¿Qué clase de personal será, si concurren los requisitos legales?",
     "answer": "Personal eventual",
     "options": [
@@ -51820,7 +51820,7 @@
     "explanation": "La función de confianza o asesoramiento especial y el nombramiento no permanente caracterizan al personal eventual."
   },
   {
-    "id": 900103,
+    "id": 2780,
     "question": "¿Qué parejas de personal se vinculan, como regla definitoria, por nombramiento y no por contrato de trabajo?",
     "answer": "Funcionarios de carrera, interinos y personal eventual",
     "options": [
@@ -51839,7 +51839,7 @@
     "explanation": "El personal laboral se caracteriza por contrato escrito; las demás figuras señaladas se vinculan por nombramiento."
   },
   {
-    "id": 900104,
+    "id": 2781,
     "question": "¿Cuál es el elemento que incluye el TREBEP en la definición general de empleado público?",
     "answer": "Desempeñar funciones retribuidas al servicio de los intereses generales",
     "options": [
@@ -51858,7 +51858,7 @@
     "explanation": "El art. 8.1 define empleado público por funciones retribuidas en las Administraciones al servicio de intereses generales."
   },
   {
-    "id": 900105,
+    "id": 2782,
     "question": "Según el artículo 9.1, ¿qué relación jurídica define al funcionario de carrera?",
     "answer": "Relación estatutaria regulada por Derecho Administrativo",
     "options": [
@@ -51877,7 +51877,7 @@
     "explanation": "El nombramiento legal da origen a una relación estatutaria de carácter permanente, no a un contrato laboral."
   },
   {
-    "id": 900106,
+    "id": 2783,
     "question": "¿Qué funciones reserva el artículo 9.2 TREBEP a funcionarios públicos en los términos de las leyes de desarrollo?",
     "answer": "Las que impliquen participación directa o indirecta en potestades públicas o salvaguardia de intereses generales",
     "options": [
@@ -51896,7 +51896,7 @@
     "explanation": "La reserva cubre también participación indirecta en potestades públicas o salvaguardia de intereses generales."
   },
   {
-    "id": 900107,
+    "id": 2784,
     "question": "¿Mediante qué tipo de norma se crean, modifican y suprimen los cuerpos y escalas de funcionarios?",
     "answer": "Ley de las Cortes Generales o de las asambleas legislativas autonómicas",
     "options": [
@@ -51915,7 +51915,7 @@
     "explanation": "El art. 75.2 exige ley estatal o autonómica para creación, modificación y supresión."
   },
   {
-    "id": 900108,
+    "id": 2785,
     "question": "Según el TREBEP, ¿qué determina la subdivisión del grupo A en A1 y A2?",
     "answer": "Nivel de responsabilidad de las funciones y características de las pruebas de acceso",
     "options": [
@@ -51934,7 +51934,7 @@
     "explanation": "Ambos subgrupos pertenecen al grupo A; se diferencian por responsabilidad funcional y pruebas de acceso."
   },
   {
-    "id": 900109,
+    "id": 2786,
     "question": "Para el acceso al grupo A, ¿qué sucede cuando una ley exige un título universitario distinto del Grado?",
     "answer": "Se exigirá el título universitario previsto en esa ley",
     "options": [
@@ -51953,7 +51953,7 @@
     "explanation": "El art. 76 contempla la exigencia general del Grado y la excepción de otro título universitario exigido por ley."
   },
   {
-    "id": 900110,
+    "id": 2787,
     "question": "Un cuerpo exige el título de Técnico Superior. ¿En qué grupo de clasificación se encuadra ordinariamente?",
     "answer": "Grupo B",
     "options": [
@@ -51972,7 +51972,7 @@
     "explanation": "El requisito académico específico del grupo B es el título de Técnico Superior."
   },
   {
-    "id": 900111,
+    "id": 2788,
     "question": "¿Qué pareja de titulaciones corresponde correctamente a C1 y C2?",
     "answer": "C1: Bachiller o Técnico; C2: Graduado en ESO",
     "options": [
@@ -51991,7 +51991,7 @@
     "explanation": "El artículo 76 distingue expresamente ambas titulaciones."
   },
   {
-    "id": 900112,
+    "id": 2789,
     "question": "¿Qué exigencias han de justificar expresamente el nombramiento de un funcionario interino?",
     "answer": "Necesidad y urgencia",
     "options": [
@@ -52010,7 +52010,7 @@
     "explanation": "La necesidad y la urgencia son requisitos expresos del nombramiento temporal del art. 10.1."
   },
   {
-    "id": 900113,
+    "id": 2790,
     "question": "¿Qué duración máxima general prevé el artículo 10.1.a para un nombramiento interino por vacante?",
     "answer": "Tres años",
     "options": [
@@ -52029,7 +52029,7 @@
     "explanation": "La vacante no cubierta por funcionario de carrera permite nombramiento por un máximo de tres años, con las reglas del art. 10.4."
   },
   {
-    "id": 900114,
+    "id": 2791,
     "question": "En la sustitución transitoria de un funcionario titular, ¿cuánto puede durar la interinidad?",
     "answer": "El tiempo estrictamente necesario",
     "options": [
@@ -52048,7 +52048,7 @@
     "explanation": "La sustitución transitoria dura el tiempo estrictamente necesario, no uno de los plazos de otros supuestos."
   },
   {
-    "id": 900115,
+    "id": 2792,
     "question": "¿Qué norma puede permitir ampliar hasta doce meses más un programa temporal de interinos?",
     "answer": "Las leyes de Función Pública dictadas en desarrollo del TREBEP",
     "options": [
@@ -52067,7 +52067,7 @@
     "explanation": "Los programas temporales tienen límite general de tres años, ampliable hasta doce meses mediante leyes de desarrollo."
   },
   {
-    "id": 900116,
+    "id": 2793,
     "question": "¿Cuál es la combinación legal correcta para exceso o acumulación de tareas?",
     "answer": "Nueve meses en un período de dieciocho meses",
     "options": [
@@ -52086,7 +52086,7 @@
     "explanation": "La duración máxima específica es nueve meses dentro de dieciocho."
   },
   {
-    "id": 900117,
+    "id": 2794,
     "question": "¿Cuál de las siguientes NO es una causa de nombramiento interino recogida en el artículo 10.1?",
     "answer": "Necesidad de cubrir indefinidamente un puesto directivo de confianza",
     "options": [
@@ -52105,7 +52105,7 @@
     "explanation": "La confianza o el asesoramiento especial corresponden al personal eventual, no a una quinta causa de interinidad."
   },
   {
-    "id": 900118,
+    "id": 2795,
     "question": "¿Qué combinación incluye TODOS los principios expresamente aplicables a la selección de interinos?",
     "answer": "Igualdad, mérito, capacidad, publicidad y celeridad",
     "options": [
@@ -52124,7 +52124,7 @@
     "explanation": "El art. 10.2 contiene los cinco principios y exige procedimientos públicos."
   },
   {
-    "id": 900119,
+    "id": 2796,
     "question": "¿Cuál es la finalidad expresamente establecida para la selección de funcionarios interinos?",
     "answer": "La cobertura inmediata del puesto",
     "options": [
@@ -52143,7 +52143,7 @@
     "explanation": "La selección busca la cobertura inmediata sin eliminar las garantías de publicidad, igualdad, mérito y capacidad."
   },
   {
-    "id": 900120,
+    "id": 2797,
     "question": "¿Qué efecto produce superar un procedimiento de selección para personal interino?",
     "answer": "No da lugar por sí mismo a adquirir la condición de funcionario de carrera",
     "options": [
@@ -52162,7 +52162,7 @@
     "explanation": "El nombramiento interino no reconoce en ningún caso por sí solo la condición de funcionario de carrera."
   },
   {
-    "id": 900121,
+    "id": 2798,
     "question": "¿Cómo debe formalizar la Administración la finalización de la interinidad por las causas del artículo 10.3?",
     "answer": "De oficio",
     "options": [
@@ -52181,7 +52181,7 @@
     "explanation": "El art. 10.3 prevé que la Administración formalizará de oficio el fin de la relación por sus causas."
   },
   {
-    "id": 900122,
+    "id": 2799,
     "question": "¿Qué ocurre, según el artículo 10.3, si un funcionario de carrera cubre reglamentariamente el puesto del interino?",
     "answer": "Finaliza de oficio la interinidad, sin compensación por esa causa",
     "options": [
@@ -52200,7 +52200,7 @@
     "explanation": "Es una de las causas expresas de finalización de oficio de la interinidad."
   },
   {
-    "id": 900123,
+    "id": 2800,
     "question": "¿Cuál de estas circunstancias constituye causa expresa de cese de oficio de un interino?",
     "answer": "La supresión o amortización del puesto por razones organizativas",
     "options": [
@@ -52219,7 +52219,7 @@
     "explanation": "El art. 10.3 contempla motivos organizativos que llevan a suprimir o amortizar el puesto."
   },
   {
-    "id": 900124,
+    "id": 2801,
     "question": "Si un interino por vacante alcanza tres años y el proceso selectivo se ha declarado desierto, ¿qué permite la norma?",
     "answer": "Efectuar otro nombramiento de personal funcionario interino",
     "options": [
@@ -52238,7 +52238,7 @@
     "explanation": "El art. 10.4 establece esa excepción específica a la ocupación posterior de la vacante."
   },
   {
-    "id": 900125,
+    "id": 2802,
     "question": "¿Qué condición permite excepcionalmente a un interino por vacante permanecer tras tres años hasta resolver la convocatoria?",
     "answer": "Que la convocatoria se publicara dentro de los tres años desde el nombramiento y se resuelva según el artículo 70",
     "options": [
@@ -52257,7 +52257,7 @@
     "explanation": "La excepción exige convocatoria publicada dentro de plazo y resolución conforme a los plazos del art. 70."
   },
   {
-    "id": 900126,
+    "id": 2803,
     "question": "¿Qué régimen se aplica al interino, en cuanto sea adecuado a su condición temporal y nombramiento urgente?",
     "answer": "El régimen general del funcionario de carrera, excepto derechos inherentes a esa condición",
     "options": [
@@ -52276,7 +52276,7 @@
     "explanation": "El artículo 10.5 remite al régimen de carrera solo en la medida compatible, excluyendo derechos exclusivos de carrera."
   },
   {
-    "id": 900127,
+    "id": 2804,
     "question": "¿Qué formalidad exige el TREBEP para el contrato del personal laboral de las Administraciones?",
     "answer": "Que se formalice por escrito",
     "options": [
@@ -52295,7 +52295,7 @@
     "explanation": "El artículo 11.1 exige un contrato de trabajo formalizado por escrito."
   },
   {
-    "id": 900128,
+    "id": 2805,
     "question": "¿Cuál es la clasificación que recoge expresamente el artículo 11.1 para personal laboral según la duración?",
     "answer": "Fijo, por tiempo indefinido o temporal",
     "options": [
@@ -52314,7 +52314,7 @@
     "explanation": "El TREBEP distingue estas tres situaciones laborales, distintas de las clases del art. 8.2."
   },
   {
-    "id": 900129,
+    "id": 2806,
     "question": "¿Qué deben respetar las leyes de función pública al determinar puestos para personal laboral?",
     "answer": "La reserva funcional a funcionarios del artículo 9.2",
     "options": [
@@ -52333,7 +52333,7 @@
     "explanation": "El artículo 11.2 remite expresamente a la reserva de funciones del art. 9.2."
   },
   {
-    "id": 900130,
+    "id": 2807,
     "question": "¿Qué principio añade expresamente el TREBEP a la selección del personal laboral temporal?",
     "answer": "Celeridad",
     "options": [
@@ -52352,7 +52352,7 @@
     "explanation": "Para personal laboral temporal se añaden celeridad y necesidad y urgencia justificadas."
   },
   {
-    "id": 900131,
+    "id": 2808,
     "question": "Según el artículo 11.3, ¿qué principios rigen en todo caso la selección del personal laboral?",
     "answer": "Igualdad, mérito y capacidad",
     "options": [
@@ -52371,7 +52371,7 @@
     "explanation": "El artículo 11.3 exige publicidad del procedimiento y principios de igualdad, mérito y capacidad."
   },
   {
-    "id": 900132,
+    "id": 2809,
     "question": "¿Cuáles son las únicas funciones para las que puede nombrarse personal eventual?",
     "answer": "Las expresamente calificadas como de confianza o asesoramiento especial",
     "options": [
@@ -52390,7 +52390,7 @@
     "explanation": "El artículo 12.1 restringe las funciones eventuales a confianza o asesoramiento especial."
   },
   {
-    "id": 900133,
+    "id": 2810,
     "question": "¿Quién establece el número máximo de personal eventual en cada Administración?",
     "answer": "Los respectivos órganos de gobierno",
     "options": [
@@ -52409,7 +52409,7 @@
     "explanation": "El número máximo lo establecen los respectivos órganos de gobierno y debe hacerse público."
   },
   {
-    "id": 900134,
+    "id": 2811,
     "question": "¿Qué datos relativos al personal eventual deben ser públicos?",
     "answer": "Su número y sus condiciones retributivas",
     "options": [
@@ -52428,7 +52428,7 @@
     "explanation": "El artículo 12.2 impone publicidad del número y condiciones retributivas."
   },
   {
-    "id": 900135,
+    "id": 2812,
     "question": "¿Qué sucede necesariamente cuando cesa la autoridad a la que el eventual presta confianza o asesoramiento?",
     "answer": "Cesa también el personal eventual",
     "options": [
@@ -52447,7 +52447,7 @@
     "explanation": "El art. 12.3 establece el cese en todo caso cuando cesa la autoridad destinataria."
   },
   {
-    "id": 900136,
+    "id": 2813,
     "question": "¿Qué valor tiene haber sido personal eventual en el acceso a la función pública o promoción interna?",
     "answer": "No constituye mérito",
     "options": [
@@ -52466,7 +52466,7 @@
     "explanation": "La condición de eventual no puede constituir mérito para acceso ni promoción interna."
   },
   {
-    "id": 900137,
+    "id": 2814,
     "question": "¿Qué régimen general se aplica supletoriamente al personal eventual cuando resulte adecuado a su condición?",
     "answer": "El de los funcionarios de carrera",
     "options": [
@@ -52485,7 +52485,7 @@
     "explanation": "El artículo 12.5 aplica, en lo adecuado, el régimen general de funcionarios de carrera."
   },
   {
-    "id": 900138,
+    "id": 2815,
     "question": "¿Cuál es la afirmación correcta sobre personal directivo profesional y las clases del art. 8.2?",
     "answer": "Se regula en el art. 13 sin añadirse como quinta clase en el art. 8.2",
     "options": [
@@ -52504,7 +52504,7 @@
     "explanation": "La dirección profesional es una figura regulada en artículo propio, separada de las cuatro clases enumeradas."
   },
   {
-    "id": 900139,
+    "id": 2816,
     "question": "Un ayuntamiento necesita personal por acumulación de tareas durante diez meses en dieciocho. ¿Qué valoración resulta correcta conforme al TREBEP?",
     "answer": "El supuesto de acumulación no admite diez meses: su máximo es nueve en dieciocho",
     "options": [
@@ -52523,7 +52523,7 @@
     "explanation": "El límite de nueve meses en dieciocho se aplica a exceso o acumulación de tareas, no el de programas temporales."
   },
   {
-    "id": 900140,
+    "id": 2817,
     "question": "¿Qué duración total máxima podría alcanzar un programa temporal de interinos cuando la ley de función pública habilite la ampliación íntegra?",
     "answer": "Cuatro años",
     "options": [
@@ -52542,7 +52542,7 @@
     "explanation": "El máximo general es tres años y puede ampliarse hasta doce meses adicionales por la legislación de desarrollo."
   },
   {
-    "id": 900141,
+    "id": 2818,
     "question": "Un empleado público presta servicios mediante contrato de trabajo escrito de carácter temporal. ¿Qué clase del art. 8.2 le corresponde?",
     "answer": "Personal laboral",
     "options": [
@@ -52561,7 +52561,7 @@
     "explanation": "La temporalidad del contrato no convierte a personal laboral en funcionario interino."
   },
   {
-    "id": 900142,
+    "id": 2819,
     "question": "¿Qué compensación reconoce el artículo 10.3 por el cese ordinario debido a que desaparece la causa del nombramiento?",
     "answer": "Ninguna compensación por esa causa",
     "options": [
