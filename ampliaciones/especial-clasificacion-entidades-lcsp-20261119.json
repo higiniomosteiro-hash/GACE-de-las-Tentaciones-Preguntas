@@ -1,0 +1,2142 @@
+[
+  {
+    "id": 3501,
+    "question": "En el ámbito subjetivo de la LCSP, ¿cómo se clasifica el siguiente sujeto? La Administración General del Estado.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Fuera del sector público del artículo 3.1",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Administración pública (también poder adjudicador)"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La AGE es Administración pública expresamente enumerada.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3502,
+    "question": "Para decidir qué régimen de contratación corresponde, clasifica esta entidad: Un ministerio de la Administración General del Estado.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Un ministerio forma parte de la AGE y esta tiene condición de Administración pública.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3503,
+    "question": "¿Qué categoría de la LCSP le corresponde a la siguiente entidad? Una delegación del Gobierno, como órgano territorial de la AGE.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Se integra en la AGE; no es una persona jurídica diferente.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3504,
+    "question": "Un opositor debe determinar su naturaleza según el art. 3. ¿Qué es? La Administración de la Comunidad de Madrid.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Las administraciones autonómicas están expresamente incluidas.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3505,
+    "question": "Señala la opción correcta acerca de la entidad descrita: La Administración de la Comunidad Autónoma de Galicia.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Fuera del sector público del artículo 3.1",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Administración pública (también poder adjudicador)"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Las administraciones de las comunidades autónomas son AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3506,
+    "question": "A los efectos de la LCSP, identifica la categoría de: La Administración de la Ciudad Autónoma de Ceuta.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Ceuta está mencionada expresamente en el artículo 3.1.a y 3.2.a.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3507,
+    "question": "En el ámbito subjetivo de la LCSP, ¿cómo se clasifica el siguiente sujeto? La Administración de la Ciudad Autónoma de Melilla.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Melilla está mencionada expresamente en el artículo 3.1.a y 3.2.a.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3508,
+    "question": "Para decidir qué régimen de contratación corresponde, clasifica esta entidad: El Ayuntamiento de Navalcarnero.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "El municipio es entidad de la Administración local.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3509,
+    "question": "¿Qué categoría de la LCSP le corresponde a la siguiente entidad? La Diputación Provincial de Pontevedra.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Fuera del sector público del artículo 3.1",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Administración pública (también poder adjudicador)"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Las diputaciones provinciales forman parte de la Administración local.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3510,
+    "question": "Un opositor debe determinar su naturaleza según el art. 3. ¿Qué es? Un cabildo insular de Canarias.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Es una entidad que integra la Administración local.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3511,
+    "question": "Señala la opción correcta acerca de la entidad descrita: Un consejo insular de las Islas Baleares.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Es una entidad local insular.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3512,
+    "question": "A los efectos de la LCSP, identifica la categoría de: Una mancomunidad de municipios válidamente constituida como entidad local.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Las entidades locales, incluidas las mancomunidades con personalidad jurídica, son AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3513,
+    "question": "En el ámbito subjetivo de la LCSP, ¿cómo se clasifica el siguiente sujeto? Una comarca constituida por ley autonómica como entidad local.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Fuera del sector público del artículo 3.1",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Administración pública (también poder adjudicador)"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Las comarcas que son entidades locales integran la Administración local.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3514,
+    "question": "Para decidir qué régimen de contratación corresponde, clasifica esta entidad: Un área metropolitana constituida jurídicamente como entidad local.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Las áreas metropolitanas legalmente constituidas son entidades locales.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3515,
+    "question": "¿Qué categoría de la LCSP le corresponde a la siguiente entidad? Una entidad local menor que conserva personalidad jurídica como entidad local.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Su condición de entidad local la incluye entre las AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3516,
+    "question": "Un opositor debe determinar su naturaleza según el art. 3. ¿Qué es? Un organismo autónomo de la Administración General del Estado.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Los organismos autónomos figuran expresamente en el artículo 3.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3517,
+    "question": "Señala la opción correcta acerca de la entidad descrita: Un organismo autónomo creado por una comunidad autónoma.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Fuera del sector público del artículo 3.1",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Administración pública (también poder adjudicador)"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La inclusión de los organismos autónomos no se limita al ámbito estatal.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3518,
+    "question": "A los efectos de la LCSP, identifica la categoría de: Un organismo autónomo dependiente de un ayuntamiento.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Los organismos autónomos pertenecen a la categoría AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3519,
+    "question": "En el ámbito subjetivo de la LCSP, ¿cómo se clasifica el siguiente sujeto? Una universidad pública transferida a una comunidad autónoma.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Toda universidad pública es AAPP a efectos de la LCSP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3520,
+    "question": "Para decidir qué régimen de contratación corresponde, clasifica esta entidad: Una universidad pública no transferida a una comunidad autónoma.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "El artículo 3 no distingue universidades públicas transferidas y no transferidas.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3521,
+    "question": "¿Qué categoría de la LCSP le corresponde a la siguiente entidad? Una universidad pública gestionada en el ámbito competencial estatal.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Fuera del sector público del artículo 3.1",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Administración pública (también poder adjudicador)"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La titularidad o adscripción territorial no altera su condición de universidad pública.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3522,
+    "question": "Un opositor debe determinar su naturaleza según el art. 3. ¿Qué es? La Agencia Española de Protección de Datos, como autoridad administrativa independiente.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Las autoridades administrativas independientes son AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3523,
+    "question": "Señala la opción correcta acerca de la entidad descrita: La Autoridad Independiente de Responsabilidad Fiscal (AIReF).",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La AIReF tiene la naturaleza de autoridad administrativa independiente.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3524,
+    "question": "A los efectos de la LCSP, identifica la categoría de: La Comisión Nacional de los Mercados y la Competencia, en cuanto autoridad administrativa independiente.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Las autoridades administrativas independientes integran las AAPP para esta ley.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3525,
+    "question": "En el ámbito subjetivo de la LCSP, ¿cómo se clasifica el siguiente sujeto? Una autoridad administrativa independiente autonómica creada válidamente como tal.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Fuera del sector público del artículo 3.1",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Administración pública (también poder adjudicador)"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Las autoridades administrativas independientes están incluidas sin restricción al ámbito estatal.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3526,
+    "question": "Para decidir qué régimen de contratación corresponde, clasifica esta entidad: El Instituto Nacional de la Seguridad Social, entidad gestora.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Las entidades gestoras de la Seguridad Social son AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3527,
+    "question": "¿Qué categoría de la LCSP le corresponde a la siguiente entidad? El Instituto Social de la Marina, entidad gestora de la Seguridad Social.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Es entidad gestora de la Seguridad Social.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3528,
+    "question": "Un opositor debe determinar su naturaleza según el art. 3. ¿Qué es? La Tesorería General de la Seguridad Social, servicio común.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Los servicios comunes de la Seguridad Social son AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3529,
+    "question": "Señala la opción correcta acerca de la entidad descrita: Un servicio común de la Seguridad Social legalmente constituido.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Fuera del sector público del artículo 3.1",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Administración pública (también poder adjudicador)"
+    ],
+    "reference": "LCSP Art. 3.2.a",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La ley incluye todos los servicios comunes de la Seguridad Social.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3530,
+    "question": "A los efectos de la LCSP, identifica la categoría de: Una diputación foral de un territorio histórico del País Vasco, en su actividad contractual.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a y 3.1.l",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Las diputaciones forales figuran expresamente en el artículo 3.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3531,
+    "question": "En el ámbito subjetivo de la LCSP, ¿cómo se clasifica el siguiente sujeto? Las Juntas Generales de un territorio histórico vasco, respecto de su contratación.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.a y 3.1.l",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Las Juntas Generales se incluyen expresamente a estos efectos.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3532,
+    "question": "Para decidir qué régimen de contratación corresponde, clasifica esta entidad: Un consorcio de derecho público vinculado a una AAPP, creado para necesidades generales no mercantiles, controlado por un PA y no financiado mayoritariamente con ingresos de mercado.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.b",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Cumple los criterios del 3.3.d y el requisito de no ser productor de mercado.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3533,
+    "question": "¿Qué categoría de la LCSP le corresponde a la siguiente entidad? Un consorcio administrativo dependiente de una diputación, con fines generales no comerciales, dirección designada por la diputación y financiación no mayoritariamente de mercado.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Fuera del sector público del artículo 3.1",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Administración pública (también poder adjudicador)"
+    ],
+    "reference": "LCSP Art. 3.2.b",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Al ser consorcio PA no financiado mayoritariamente con ingresos de mercado y dependiente de AAPP, es AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3534,
+    "question": "Un opositor debe determinar su naturaleza según el art. 3. ¿Qué es? Una entidad de derecho público vinculada a una comunidad autónoma, no EPE, que satisface fines generales no mercantiles, es PA y no se financia mayoritariamente con ingresos de mercado.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.b",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Cumple los presupuestos específicos para considerarse AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3535,
+    "question": "Señala la opción correcta acerca de la entidad descrita: Un consorcio dependiente de un ayuntamiento y otra AAPP, sin financiación mayoritaria de mercado, creado para fines generales no mercantiles y controlado por ambas AAPP.",
+    "answer": "Administración pública (también poder adjudicador)",
+    "options": [
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.2.b",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "El carácter PA y la financiación no mercantil determinan su condición de AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3536,
+    "question": "A los efectos de la LCSP, identifica la categoría de: Una fundación pública constituida con aportación inicial mayoritaria del Estado.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.e.1.º y 3.3.b",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Es fundación pública, que la LCSP declara poder adjudicador, sin incluirla como AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3537,
+    "question": "En el ámbito subjetivo de la LCSP, ¿cómo se clasifica el siguiente sujeto? Una fundación cuya aportación inicial procede en un 60 % de una comunidad autónoma.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública"
+    ],
+    "reference": "LCSP Arts. 3.1.e.1.º y 3.3.b",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La aportación mayoritaria la convierte en fundación pública.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3538,
+    "question": "Para decidir qué régimen de contratación corresponde, clasifica esta entidad: Una fundación cuyo patrimonio está integrado en un 51 % por bienes cedidos con carácter permanente por entidades públicas.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.e.2.º y 3.3.b",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Más del 50 % de patrimonio aportado por sector público cumple definición de fundación pública.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3539,
+    "question": "¿Qué categoría de la LCSP le corresponde a la siguiente entidad? Una fundación con mayoría de derechos de voto en el patronato en manos de representantes del sector público.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.e.3.º y 3.3.b",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La mayoría de votos públicos en patronato basta para ser fundación pública.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3540,
+    "question": "Un opositor debe determinar su naturaleza según el art. 3. ¿Qué es? Una fundación creada privadamente que recibe después una aportación mayoritaria de una Administración.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.e.1.º y 3.3.b",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La aportación mayoritaria posterior también determina condición de fundación pública.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3541,
+    "question": "Señala la opción correcta acerca de la entidad descrita: Una fundación pública financiada principalmente con donaciones privadas, pero con patronato de mayoría de votos de representantes públicos.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública"
+    ],
+    "reference": "LCSP Arts. 3.1.e.3.º y 3.3.b",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La mayoría de votos públicos basta aunque la financiación corriente sea privada.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3542,
+    "question": "A los efectos de la LCSP, identifica la categoría de: Una fundación con el 70 % de su patrimonio aportado permanentemente por una universidad pública.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.e.2.º y 3.3.b",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Las universidades públicas forman parte del SP y su aportación patrimonial es mayoritaria.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3543,
+    "question": "En el ámbito subjetivo de la LCSP, ¿cómo se clasifica el siguiente sujeto? Una fundación pública municipal de carácter cultural.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.e y 3.3.b",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Las fundaciones públicas son poderes adjudicadores, pero no AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3544,
+    "question": "Para decidir qué régimen de contratación corresponde, clasifica esta entidad: Una fundación pública autonómica de investigación.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.e y 3.3.b",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "El carácter público de la fundación determina su condición de PA.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3545,
+    "question": "¿Qué categoría de la LCSP le corresponde a la siguiente entidad? Una fundación pública promovida por varios organismos autónomos.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública"
+    ],
+    "reference": "LCSP Arts. 3.1.e y 3.3.b",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Las aportaciones mayoritarias de entidades SP califican la fundación como pública.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3546,
+    "question": "Un opositor debe determinar su naturaleza según el art. 3. ¿Qué es? Una mutua colaboradora con la Seguridad Social.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.f y 3.3.c",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Las mutuas colaboradoras son PA pero no AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3547,
+    "question": "Señala la opción correcta acerca de la entidad descrita: Una mutua colaboradora con la Seguridad Social que presta asistencia sanitaria.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.f y 3.3.c",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Su actividad sanitaria no la convierte en AAPP; es PA.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3548,
+    "question": "A los efectos de la LCSP, identifica la categoría de: Una mutua colaboradora con la Seguridad Social que compra equipamiento.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.f y 3.3.c",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "El artículo 3.3.c identifica expresamente a las mutuas como poderes adjudicadores.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3549,
+    "question": "En el ámbito subjetivo de la LCSP, ¿cómo se clasifica el siguiente sujeto? Una asociación constituida exclusivamente por fundaciones públicas.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública"
+    ],
+    "reference": "LCSP Art. 3.3.e",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La asociación de poderes adjudicadores es también PA y no está enumerada como AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3550,
+    "question": "Para decidir qué régimen de contratación corresponde, clasifica esta entidad: Una asociación formada exclusivamente por mutuas colaboradoras de la Seguridad Social.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.3.e",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La asociación de PA del art. 3.3 mantiene condición PA.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3551,
+    "question": "¿Qué categoría de la LCSP le corresponde a la siguiente entidad? Una asociación formada por una fundación pública y una mutua colaboradora, ambas PA.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.3.e",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Es asociación constituida por entidades del art. 3.3.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3552,
+    "question": "Un opositor debe determinar su naturaleza según el art. 3. ¿Qué es? Una asociación creada por dos universidades públicas, con personalidad jurídica propia distinta de ellas.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.3.e",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Como asociación de AAPP, es PA, pero la nueva asociación no se convierte automáticamente en AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3553,
+    "question": "Señala la opción correcta acerca de la entidad descrita: Un consorcio con personalidad propia creado para necesidades generales no industriales, dependiente de una AAPP, controlado por ella y calificado como productor de mercado.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública"
+    ],
+    "reference": "LCSP Arts. 3.2.b y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Sigue siendo PA por objeto y control, pero no AAPP por financiación mayoritaria de mercado.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3554,
+    "question": "A los efectos de la LCSP, identifica la categoría de: Un consorcio público que cumple art. 3.3.d y está vinculado a una AAPP, pero se financia mayoritariamente con ingresos de mercado.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.2.b y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La financiación mayoritaria de mercado excluye su consideración de AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3555,
+    "question": "En el ámbito subjetivo de la LCSP, ¿cómo se clasifica el siguiente sujeto? Una entidad de derecho público con personalidad propia que satisface necesidades generales no industriales, está controlada por una AAPP y es productora de mercado.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.2.b y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Es PA, pero no AAPP al financiarse mayoritariamente con ingresos de mercado.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3556,
+    "question": "Para decidir qué régimen de contratación corresponde, clasifica esta entidad: Una entidad con personalidad jurídica distinta de AAPP, creada para interés general no mercantil y financiada mayoritariamente por una Administración.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Reúne interés general no mercantil y dependencia financiera de PA.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3557,
+    "question": "¿Qué categoría de la LCSP le corresponde a la siguiente entidad? Una entidad de derecho privado creada para necesidades generales no mercantiles y con más de la mitad del consejo designado por un organismo autónomo.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública"
+    ],
+    "reference": "LCSP Art. 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "El nombramiento mayoritario por PA cumple el vínculo del art. 3.3.d.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3558,
+    "question": "Un opositor debe determinar su naturaleza según el art. 3. ¿Qué es? Una sociedad mercantil de capital mayoritariamente público creada para prestar una actividad general no industrial, controlada por una Administración.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.h y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La forma societaria no impide ser PA si reúne requisitos del art. 3.3.d.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3559,
+    "question": "Señala la opción correcta acerca de la entidad descrita: Una sociedad de capital 80 % público creada específicamente para fines generales no mercantiles y gestionada bajo control de una Administración.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.h y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "No es AAPP, pero sí PA por los criterios de interés general y control.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3560,
+    "question": "A los efectos de la LCSP, identifica la categoría de: Una entidad de personalidad jurídica propia creada para necesidades generales no mercantiles cuya actividad financia mayoritariamente una fundación pública.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La fundación pública es PA y su financiación mayoritaria puede determinar PA de la entidad.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3561,
+    "question": "En el ámbito subjetivo de la LCSP, ¿cómo se clasifica el siguiente sujeto? Una entidad no administrativa de interés general no industrial, con dirección designada mayoritariamente por una mutua colaboradora PA.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública"
+    ],
+    "reference": "LCSP Art. 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La designación mayoritaria por PA y el fin general no mercantil constituyen PA.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3562,
+    "question": "Para decidir qué régimen de contratación corresponde, clasifica esta entidad: Una asociación con personalidad propia integrada exclusivamente por varias AAPP y una fundación pública.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.3.e",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Es asociación de poderes adjudicadores y no se equipara por eso a AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3563,
+    "question": "¿Qué categoría de la LCSP le corresponde a la siguiente entidad? Una entidad de derecho público no AAPP destinada a fines generales no mercantiles, controlada por una autoridad administrativa independiente y financiada con ingresos de mercado.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.2.b y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Reúne el criterio de PA pero no la condición de financiación no mercantil para ser AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3564,
+    "question": "Un opositor debe determinar su naturaleza según el art. 3. ¿Qué es? Una fundación en la que una diputación y un ayuntamiento tienen conjuntamente la mayoría de los votos del patronato.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.e.3.º y 3.3.b",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Se suman derechos de voto de representantes del sector público.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3565,
+    "question": "Señala la opción correcta acerca de la entidad descrita: Una fundación cuyo patrimonio permanente está compuesto en un 60 % por derechos aportados por varias EPE del sector público.",
+    "answer": "Poder adjudicador que no es Administración pública",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública"
+    ],
+    "reference": "LCSP Arts. 3.1.e.2.º y 3.3.b",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La aportación patrimonial mayoritaria por entidades del sector público determina fundación pública.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3566,
+    "question": "A los efectos de la LCSP, identifica la categoría de: Una entidad pública empresarial que realiza actividad industrial de mercado, obtiene ingresos mayoritariamente de clientes y no cumple el art. 3.3.d.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.g y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Es SP por ser EPE, pero no reúne requisitos materiales para PA.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3567,
+    "question": "En el ámbito subjetivo de la LCSP, ¿cómo se clasifica el siguiente sujeto? Una EPE pública dedicada a comercializar productos industriales en competencia, sin fines generales no mercantiles.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.g y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La EPE integra SP, pero no es automáticamente PA.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3568,
+    "question": "Para decidir qué régimen de contratación corresponde, clasifica esta entidad: Una empresa pública empresarial de derecho público que presta exclusivamente actividades comerciales y no cumple requisitos de PA.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.g y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La pertenencia al SP no implica la condición de PA.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3569,
+    "question": "¿Qué categoría de la LCSP le corresponde a la siguiente entidad? Una sociedad mercantil con el 100 % de su capital de una comunidad autónoma que vende productos en el mercado y no cumple el art. 3.3.d.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador"
+    ],
+    "reference": "LCSP Arts. 3.1.h y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Es SP por capital público mayoritario, pero no PA por sus características.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3570,
+    "question": "Un opositor debe determinar su naturaleza según el art. 3. ¿Qué es? Una sociedad mercantil con el 51 % del capital de un organismo autónomo, dedicada a actividad industrial y sin requisitos de PA.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.h y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La participación supera el 50 % para ser SP, pero no basta para PA.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3571,
+    "question": "Señala la opción correcta acerca de la entidad descrita: Una sociedad mercantil con el 75 % del capital de un ayuntamiento y actividad puramente comercial, sin requisitos de PA.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.h y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Es SP sin condición automática de PA.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3572,
+    "question": "A los efectos de la LCSP, identifica la categoría de: Una sociedad mercantil participada en un 90 % por una universidad pública, que compite en el mercado con fines industriales.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.h y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Es SP por participación pública, pero no PA si no cumple el 3.3.d.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3573,
+    "question": "En el ámbito subjetivo de la LCSP, ¿cómo se clasifica el siguiente sujeto? Una sociedad con el 70 % del capital aportado por una fundación pública, dedicada a actividades mercantiles ordinarias.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador"
+    ],
+    "reference": "LCSP Arts. 3.1.h y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "El capital público convierte a la sociedad en SP; la finalidad industrial o mercantil impide PA por art. 3.3.d.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3574,
+    "question": "Para decidir qué régimen de contratación corresponde, clasifica esta entidad: Una sociedad con capital mayoritario de una mutua colaboradora de la Seguridad Social no se incluye automáticamente en SP por la letra h; pero aquí consta que está controlada y participada mayoritariamente también por una AAPP y opera comercialmente.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.h y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La participación pública de la AAPP asegura SP y el objeto mercantil excluye PA.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3575,
+    "question": "¿Qué categoría de la LCSP le corresponde a la siguiente entidad? Un fondo sin personalidad jurídica integrado en el sector público estatal.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.i y 3.3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "El fondo figura en el SP, pero no tiene personalidad para encajar en 3.3.d.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3576,
+    "question": "Un opositor debe determinar su naturaleza según el art. 3. ¿Qué es? Un fondo sin personalidad jurídica del sector público autonómico.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.i y 3.3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Forma parte del SP pero no es PA ni AAPP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3577,
+    "question": "Señala la opción correcta acerca de la entidad descrita: Un fondo de financiación pública sin personalidad jurídica constituido formalmente como fondo del SP.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador"
+    ],
+    "reference": "LCSP Arts. 3.1.i y 3.3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Los fondos sin personalidad son SP y no son PA en el esquema del art. 3.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3578,
+    "question": "A los efectos de la LCSP, identifica la categoría de: Un consorcio de personalidad jurídica propia con actividad industrial y financiación de mercado, sin cumplir interés general no mercantil del art. 3.3.d.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.d y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Es consorcio del SP, pero no PA.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3579,
+    "question": "En el ámbito subjetivo de la LCSP, ¿cómo se clasifica el siguiente sujeto? Un consorcio de derecho público dedicado exclusivamente a explotación comercial y que no reúne los criterios para PA.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.d y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "El artículo 3.1.d lo integra en SP; su actividad impide considerarlo PA por art. 3.3.d.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3580,
+    "question": "Para decidir qué régimen de contratación corresponde, clasifica esta entidad: Una entidad de derecho público vinculada a la AGE que produce bienes industriales en el mercado y no reúne criterios para PA.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.g y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Su vínculo público basta para SP, no para PA.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3581,
+    "question": "¿Qué categoría de la LCSP le corresponde a la siguiente entidad? Una entidad pública con personalidad jurídica vinculada a una comunidad autónoma, dedicada a actividad comercial y sin requisitos de PA.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador"
+    ],
+    "reference": "LCSP Arts. 3.1.g y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Es SP por vinculación; no PA por su finalidad mercantil.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3582,
+    "question": "Un opositor debe determinar su naturaleza según el art. 3. ¿Qué es? Una asociación constituida exclusivamente por dos sociedades públicas comerciales que no son poderes adjudicadores.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.k y 3.3.e",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Asociación del sector público no integrada por PA: no adquiere condición PA.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3583,
+    "question": "Señala la opción correcta acerca de la entidad descrita: Una asociación con personalidad jurídica creada por tres EPE del sector público que no cumplen art. 3.3.d, dedicada a la promoción mercantil.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.k y 3.3.e",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Es asociación del SP y no asociación de PA.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3584,
+    "question": "A los efectos de la LCSP, identifica la categoría de: Una sociedad mercantil propiedad en un 60 % de dos diputaciones y que únicamente vende mercancías de consumo en competencia.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.h y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Es SP pero su actividad mercantil sin requisitos adicionales no implica PA.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3585,
+    "question": "En el ámbito subjetivo de la LCSP, ¿cómo se clasifica el siguiente sujeto? Una sociedad mercantil controlada por un organismo autónomo y con 55 % de capital público que desarrolla actividad industrial ordinaria.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador"
+    ],
+    "reference": "LCSP Arts. 3.1.h y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La participación le da condición SP, pero no PA por sí sola.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3586,
+    "question": "Para decidir qué régimen de contratación corresponde, clasifica esta entidad: Una empresa de derecho público dependiente de una diputación que se financia mediante ventas mercantiles y no satisface requisitos del art. 3.3.d.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.g y 3.3.d",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "SP no equivale a PA; son categorías distintas.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3587,
+    "question": "¿Qué categoría de la LCSP le corresponde a la siguiente entidad? Una asociación de entidades del SP en la que todos sus miembros son sociedades mercantiles públicas comerciales no PA.",
+    "answer": "Sector público que no es poder adjudicador",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.k y 3.3.e",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Asociación del SP que no está constituida por PA.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3588,
+    "question": "Un opositor debe determinar su naturaleza según el art. 3. ¿Qué es? Una sociedad mercantil 100 % privada, sin participación, financiación, control ni designaciones del sector público.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Fuera del sector público del artículo 3.1",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Administración pública (también poder adjudicador)"
+    ],
+    "reference": "LCSP Art. 3.1",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "No concurre ninguna categoría de integración en SP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3589,
+    "question": "Señala la opción correcta acerca de la entidad descrita: Una asociación constituida exclusivamente por particulares, sin vínculos ni financiación pública mayoritaria.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.1",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Una asociación estrictamente privada no forma parte del SP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3590,
+    "question": "A los efectos de la LCSP, identifica la categoría de: Una fundación de constitución y patrimonio totalmente privados, con patronato privado y sin dependencia del SP.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador"
+    ],
+    "reference": "LCSP Art. 3.1.e y j",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "No es fundación pública ni entidad integrada en el SP por otras causas.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3591,
+    "question": "En el ámbito subjetivo de la LCSP, ¿cómo se clasifica el siguiente sujeto? Una persona física que licita como empresario individual ante una Administración.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública"
+    ],
+    "reference": "LCSP Art. 3.1",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "El contratista privado no integra el SP por el hecho de licitar.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3592,
+    "question": "Para decidir qué régimen de contratación corresponde, clasifica esta entidad: Una empresa privada adjudicataria de un contrato municipal de limpieza, sin otro vínculo con el SP.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Fuera del sector público del artículo 3.1",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Administración pública (también poder adjudicador)"
+    ],
+    "reference": "LCSP Art. 3.1",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Ser contratista de una AAPP no la convierte en SP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3593,
+    "question": "¿Qué categoría de la LCSP le corresponde a la siguiente entidad? Una empresa privada subcontratista de una obra pública, sin vínculos adicionales con el SP.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.1",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La subcontratación no implica formar parte del SP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3594,
+    "question": "Un opositor debe determinar su naturaleza según el art. 3. ¿Qué es? Una universidad privada sin participación ni control públicos ni otros supuestos del art. 3.1.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador"
+    ],
+    "reference": "LCSP Art. 3.1",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "No es universidad pública ni cumple otras condiciones de integración en SP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3595,
+    "question": "Señala la opción correcta acerca de la entidad descrita: Una sociedad mercantil con un 49 % de capital de una comunidad autónoma, sin control público ni otros supuestos del art. 3.1.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública"
+    ],
+    "reference": "LCSP Art. 3.1.h",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "El 49 % sin control ni requisitos adicionales no basta para integrar SP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3596,
+    "question": "A los efectos de la LCSP, identifica la categoría de: Una sociedad con un 50 % exacto de capital de la AGE, sin control público ni otros títulos de integración.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Fuera del sector público del artículo 3.1",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Administración pública (también poder adjudicador)"
+    ],
+    "reference": "LCSP Art. 3.1.h",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La regla de participación del art. 3.1.h exige más del 50 %, salvo control por otras vías.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3597,
+    "question": "En el ámbito subjetivo de la LCSP, ¿cómo se clasifica el siguiente sujeto? Una fundación privada cuyo patronato no tiene representantes del SP, sin aportación pública mayoritaria ni otras relaciones de dependencia.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.1.e y j",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "No reúne los requisitos de fundación pública ni los otros supuestos de SP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3598,
+    "question": "Para decidir qué régimen de contratación corresponde, clasifica esta entidad: Una entidad privada que presta servicios a una universidad pública como contratista, sin participación ni control públicos.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador"
+    ],
+    "reference": "LCSP Art. 3.1",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La contratación con una universidad pública no integra al contratista en SP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3599,
+    "question": "¿Qué categoría de la LCSP le corresponde a la siguiente entidad? Un hospital privado que recibe pagos por prestar servicios contratados, sin participación ni dependencia pública.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública"
+    ],
+    "reference": "LCSP Art. 3.1",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Recibir el precio de un contrato no implica pertenecer al SP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3600,
+    "question": "Un opositor debe determinar su naturaleza según el art. 3. ¿Qué es? Una mutua aseguradora privada que no es mutua colaboradora con la Seguridad Social y carece de vínculos públicos.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Fuera del sector público del artículo 3.1",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Administración pública (también poder adjudicador)"
+    ],
+    "reference": "LCSP Arts. 3.1.f y 3.1",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La categoría expresa incluye solo mutuas colaboradoras con la Seguridad Social.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3601,
+    "question": "Señala la opción correcta acerca de la entidad descrita: Una sociedad comercial privada con 10 % de capital municipal, sin control ni otros títulos de SP.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Art. 3.1.h",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "La participación minoritaria sin control no convierte a la sociedad en SP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3602,
+    "question": "A los efectos de la LCSP, identifica la categoría de: Una asociación deportiva íntegramente privada, que vende servicios en el mercado y no reúne ningún criterio del art. 3.1.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador"
+    ],
+    "reference": "LCSP Art. 3.1",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "El hecho de tener finalidad social no basta para formar parte del SP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3603,
+    "question": "En el ámbito subjetivo de la LCSP, ¿cómo se clasifica el siguiente sujeto? Una empresa privada creada con socios privados, sin financiación ni control público, que participa en concursos estatales.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública"
+    ],
+    "reference": "LCSP Art. 3.1",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Ser licitador no significa ser entidad contratante del SP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3604,
+    "question": "Para decidir qué régimen de contratación corresponde, clasifica esta entidad: Una sociedad privada con capital 40 % público y 60 % privado, control privado y sin otros vínculos de art. 3.1.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Fuera del sector público del artículo 3.1",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Administración pública (también poder adjudicador)"
+    ],
+    "reference": "LCSP Art. 3.1.h",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "No supera la mayoría de capital ni está sujeta al control público descrito.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3605,
+    "question": "¿Qué categoría de la LCSP le corresponde a la siguiente entidad? Una fundación privada que recibe una subvención pública minoritaria, sin otros criterios que la integren en el SP.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Sector público que no es poder adjudicador",
+      "Fuera del sector público del artículo 3.1"
+    ],
+    "reference": "LCSP Arts. 3.1.e y j",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "Una subvención aislada minoritaria no supone por sí sola condición de fundación pública.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3606,
+    "question": "Un opositor debe determinar su naturaleza según el art. 3. ¿Qué es? Un proveedor individual autónomo que factura a un organismo autónomo por suministro, sin vínculo orgánico.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Poder adjudicador que no es Administración pública",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador"
+    ],
+    "reference": "LCSP Art. 3.1",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "memoria",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "El proveedor externo no forma parte del SP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  },
+  {
+    "id": 3607,
+    "question": "Señala la opción correcta acerca de la entidad descrita: Una sociedad anónima privada con accionistas únicamente particulares y sin control o financiación pública relevante.",
+    "answer": "Fuera del sector público del artículo 3.1",
+    "options": [
+      "Administración pública (también poder adjudicador)",
+      "Fuera del sector público del artículo 3.1",
+      "Sector público que no es poder adjudicador",
+      "Poder adjudicador que no es Administración pública"
+    ],
+    "reference": "LCSP Art. 3.1",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Especial · ¿Quién es quién en el sector público?",
+    "subtopic": "Clasificación de entidades · art. 3 LCSP",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Ley 9/2017 consolidada, arts. 3.1 a 3.5 (BOE 2026) · entrenamiento original de clasificación",
+    "explanation": "No cumple los requisitos del ámbito subjetivo del SP.",
+    "origin": "Entrenamientos especiales de contratos · noviembre 2026"
+  }
+]
