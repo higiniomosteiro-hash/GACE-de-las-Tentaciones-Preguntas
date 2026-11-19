@@ -1,44 +1,6 @@
 [
   {
     "id": 3351,
-    "question": "¿Qué es un órgano de contratación según el art. 61?",
-    "answer": "Órgano unipersonal o colegiado legalmente facultado",
-    "options": [
-      "Solo órgano colegiado",
-      "Órgano unipersonal o colegiado legalmente facultado",
-      "Únicamente una mesa de contratación",
-      "Solo una persona física privada"
-    ],
-    "reference": "LCSP art. 61",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 61.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3352,
-    "question": "Una entidad identifica quién puede celebrar contratos en su nombre: ¿qué característica define al órgano?",
-    "answer": "Órgano unipersonal o colegiado legalmente facultado",
-    "options": [
-      "Órgano unipersonal o colegiado legalmente facultado",
-      "Solo órgano colegiado",
-      "Únicamente una mesa de contratación",
-      "Solo una persona física privada"
-    ],
-    "reference": "LCSP art. 61",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 61.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3353,
     "question": "¿La delegación transmite titularidad de la competencia?",
     "answer": "No, solo afecta al ejercicio",
     "options": [
@@ -57,7 +19,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3354,
+    "id": 3352,
     "question": "Un ministro delega el ejercicio de contratar: ¿qué sucede con la titularidad?",
     "answer": "No, solo afecta al ejercicio",
     "options": [
@@ -76,7 +38,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3355,
+    "id": 3353,
     "question": "¿Qué diferencia la desconcentración de la delegación?",
     "answer": "Redistribución de titularidad",
     "options": [
@@ -95,7 +57,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3356,
+    "id": 3354,
     "question": "Una disposición redistribuye una competencia entre órganos dependientes: ¿qué fenómeno es?",
     "answer": "Redistribución de titularidad",
     "options": [
@@ -114,45 +76,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3357,
-    "question": "¿Quién supervisa de modo ordinario la ejecución del contrato?",
-    "answer": "Responsable del contrato",
-    "options": [
-      "Tribunal de Cuentas",
-      "Presidente de la mesa siempre",
-      "Licitador perdedor",
-      "Responsable del contrato"
-    ],
-    "reference": "LCSP art. 62",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 62.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3358,
-    "question": "El órgano adjudica y después designa a quien sigue el cumplimiento: ¿qué figura es?",
-    "answer": "Responsable del contrato",
-    "options": [
-      "Tribunal de Cuentas",
-      "Presidente de la mesa siempre",
-      "Responsable del contrato",
-      "Licitador perdedor"
-    ],
-    "reference": "LCSP art. 62",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 62.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3359,
+    "id": 3355,
     "question": "¿Puede ser externo el responsable del contrato?",
     "answer": "Sí, puede ser persona física o jurídica externa",
     "options": [
@@ -171,7 +95,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3360,
+    "id": 3356,
     "question": "Un poder adjudicador designa a una empresa especializada para supervisar la ejecución: ¿está permitido en los términos legales?",
     "answer": "Sí, puede ser persona física o jurídica externa",
     "options": [
@@ -190,7 +114,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3361,
+    "id": 3357,
     "question": "¿Quién asume las facultades propias del responsable en obras?",
     "answer": "Director facultativo",
     "options": [
@@ -209,7 +133,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3362,
+    "id": 3358,
     "question": "Se ejecuta una obra pública y hay director facultativo: ¿quién desempeña las facultades del art. 62?",
     "answer": "Director facultativo",
     "options": [
@@ -228,45 +152,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3363,
-    "question": "¿Qué es el perfil de contratante?",
-    "answer": "Espacio de información contractual en Internet",
-    "options": [
-      "Registro de empleados públicos",
-      "Espacio de información contractual en Internet",
-      "Libro de actas privado",
-      "Oficina judicial de empleo"
-    ],
-    "reference": "LCSP art. 63",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 63.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3364,
-    "question": "Un licitador busca anuncios y pliegos oficiales del órgano: ¿qué espacio de publicación consulta?",
-    "answer": "Espacio de información contractual en Internet",
-    "options": [
-      "Espacio de información contractual en Internet",
-      "Registro de empleados públicos",
-      "Libro de actas privado",
-      "Oficina judicial de empleo"
-    ],
-    "reference": "LCSP art. 63",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 63.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3365,
+    "id": 3359,
     "question": "¿Quién pone a disposición la PLACSP estatal?",
     "answer": "Dirección General del Patrimonio del Estado",
     "options": [
@@ -285,7 +171,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3366,
+    "id": 3360,
     "question": "La AGE consulta la plataforma central de contratación: ¿qué centro directivo la ofrece?",
     "answer": "Dirección General del Patrimonio del Estado",
     "options": [
@@ -304,7 +190,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3367,
+    "id": 3361,
     "question": "¿Dónde se alojan los perfiles del sector público estatal?",
     "answer": "En la Plataforma de Contratación del Sector Público",
     "options": [
@@ -323,7 +209,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3368,
+    "id": 3362,
     "question": "Un órgano estatal pretende prescindir de la Plataforma estatal para alojar su perfil: ¿qué regla rige?",
     "answer": "En la Plataforma de Contratación del Sector Público",
     "options": [
@@ -342,45 +228,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3369,
-    "question": "¿Quién puede contratar en un ministerio según el art. 323?",
-    "answer": "Ministros y secretarios de Estado",
-    "options": [
-      "Solo el Congreso",
-      "Únicamente el Tribunal de Cuentas",
-      "Solo el Comité de Cooperación",
-      "Ministros y secretarios de Estado"
-    ],
-    "reference": "LCSP art. 323",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 323.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3370,
-    "question": "Un departamento ministerial atribuye competencias contractuales: ¿a qué autoridades corresponden en su ámbito?",
-    "answer": "Ministros y secretarios de Estado",
-    "options": [
-      "Solo el Congreso",
-      "Únicamente el Tribunal de Cuentas",
-      "Ministros y secretarios de Estado",
-      "Solo el Comité de Cooperación"
-    ],
-    "reference": "LCSP art. 323",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 323.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3371,
+    "id": 3363,
     "question": "¿Quién suele ser órgano de contratación en organismos autónomos estatales?",
     "answer": "Presidente o director",
     "options": [
@@ -399,7 +247,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3372,
+    "id": 3364,
     "question": "Un organismo autónomo estatal tramita un servicio ordinario: ¿quién es órgano competente en general?",
     "answer": "Presidente o director",
     "options": [
@@ -418,7 +266,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3373,
+    "id": 3365,
     "question": "¿Quién contrata por las entidades gestoras de la Seguridad Social?",
     "answer": "Director general",
     "options": [
@@ -437,7 +285,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3374,
+    "id": 3366,
     "question": "Una entidad gestora de SS licita un servicio: ¿qué titular ejerce la competencia de contratar?",
     "answer": "Director general",
     "options": [
@@ -456,45 +304,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3375,
-    "question": "¿Cuándo debe intervenir el Consejo de Ministros por cuantía en contratación estatal?",
-    "answer": "Autorización previa del Consejo de Ministros",
-    "options": [
-      "Autorización del Tribunal Constitucional",
-      "Autorización previa del Consejo de Ministros",
-      "Solo acuerdo de la mesa",
-      "Ninguna por razón de cuantía"
-    ],
-    "reference": "LCSP art. 324.1",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 324.1.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3376,
-    "question": "Un PA estatal quiere celebrar contrato con VE de 12 millones exactos: ¿qué autorización debe recabar?",
-    "answer": "Autorización previa del Consejo de Ministros",
-    "options": [
-      "Autorización previa del Consejo de Ministros",
-      "Autorización del Tribunal Constitucional",
-      "Solo acuerdo de la mesa",
-      "Ninguna por razón de cuantía"
-    ],
-    "reference": "LCSP art. 324.1",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 324.1.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3377,
+    "id": 3367,
     "question": "¿Qué base económica se usa para autorización de contratos estatales de 12 millones?",
     "answer": "Valor estimado",
     "options": [
@@ -513,7 +323,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3378,
+    "id": 3368,
     "question": "Un contrato tiene PBL y VE distintos: ¿cuál se compara con el umbral del Consejo de Ministros?",
     "answer": "Valor estimado",
     "options": [
@@ -532,7 +342,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3379,
+    "id": 3369,
     "question": "¿Cuándo necesita autorización del Consejo de Ministros un leasing por anualidades?",
     "answer": "Más de cuatro anualidades",
     "options": [
@@ -551,7 +361,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3380,
+    "id": 3370,
     "question": "Se pacta leasing estatal pagadero en cinco anualidades: ¿qué criterio activa autorización aunque VE sea inferior a 12 millones?",
     "answer": "Más de cuatro anualidades",
     "options": [
@@ -570,45 +380,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3381,
-    "question": "¿Se repite autorización del CM para los contratos basados en un AM ya autorizado?",
-    "answer": "No",
-    "options": [
-      "Sí, en todos los basados",
-      "Sí, únicamente si se adjudica a pyme",
-      "Siempre requiere autorización del Congreso",
-      "No"
-    ],
-    "reference": "LCSP art. 324",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 324.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3382,
-    "question": "Se autorizó un acuerdo marco de 15 millones: ¿necesitan nueva autorización sus basados solo por esa razón?",
-    "answer": "No",
-    "options": [
-      "Sí, en todos los basados",
-      "Sí, únicamente si se adjudica a pyme",
-      "No",
-      "Siempre requiere autorización del Congreso"
-    ],
-    "reference": "LCSP art. 324",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 324.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3383,
+    "id": 3371,
     "question": "¿Qué límite transitorio rige para autorización del órgano superior de adscripción cuando no se ha fijado cuantía?",
     "answer": "900.000 euros de VE",
     "options": [
@@ -627,7 +399,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3384,
+    "id": 3372,
     "question": "Una entidad estatal PA depende de secretaría de Estado sin cuantía propia fijada: ¿qué umbral transitorio se aplica?",
     "answer": "900.000 euros de VE",
     "options": [
@@ -646,7 +418,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3385,
+    "id": 3373,
     "question": "¿Qué órgano autoriza una modificación no prevista que supera 10 % si autorizó el contrato inicial?",
     "answer": "Consejo de Ministros",
     "options": [
@@ -665,7 +437,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3386,
+    "id": 3374,
     "question": "El Consejo de Ministros autorizó un contrato; ahora se plantea modificación no prevista mayor del 10 %: ¿quién debe autorizarla?",
     "answer": "Consejo de Ministros",
     "options": [
@@ -684,45 +456,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3387,
-    "question": "¿Qué importe sirve de base al 10 % para modificación no prevista autorizada por CM?",
-    "answer": "Precio inicial sin IVA",
-    "options": [
-      "Valor estimado con IVA",
-      "Precio inicial sin IVA",
-      "Patrimonio neto de la empresa",
-      "Presupuesto total de la AGE"
-    ],
-    "reference": "LCSP art. 324.2",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 324.2.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3388,
-    "question": "Un contrato estatal autorizado por CM va a modificarse: ¿sobre qué cuantía se mide el 10 %?",
-    "answer": "Precio inicial sin IVA",
-    "options": [
-      "Precio inicial sin IVA",
-      "Valor estimado con IVA",
-      "Patrimonio neto de la empresa",
-      "Presupuesto total de la AGE"
-    ],
-    "reference": "LCSP art. 324.2",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 324.2.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3389,
+    "id": 3375,
     "question": "¿Cuándo requiere informe vinculante de Hacienda una concesión estatal?",
     "answer": "Informe de Hacienda por aportación estatal",
     "options": [
@@ -741,7 +475,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3390,
+    "id": 3376,
     "question": "Una concesión estatal de VE ocho millones incluye aportación estatal: ¿qué informe puede ser preceptivo?",
     "answer": "Informe de Hacienda por aportación estatal",
     "options": [
@@ -760,7 +494,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3391,
+    "id": 3377,
     "question": "¿En qué momento procede autorización del Consejo de Ministros respecto a aprobación del expediente?",
     "answer": "Primero autorización, luego aprobación del expediente",
     "options": [
@@ -779,7 +513,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3392,
+    "id": 3378,
     "question": "Un órgano prepara contratación sujeta a autorización CM: ¿cuál es el orden correcto?",
     "answer": "Primero autorización, luego aprobación del expediente",
     "options": [
@@ -798,45 +532,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3393,
-    "question": "¿Cuándo es potestativa la mesa en abierto simplificado abreviado?",
-    "answer": "Potestativa",
-    "options": [
-      "Obligatoria sin excepción",
-      "Prohibida en todo procedimiento",
-      "Sustituida por el Tribunal de Cuentas",
-      "Potestativa"
-    ],
-    "reference": "LCSP arts. 159.6 y 326",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP arts. 159.6 y 326.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3394,
-    "question": "Se tramita un abierto del art. 159.6 sin junta de contratación: ¿cómo es la intervención de mesa?",
-    "answer": "Potestativa",
-    "options": [
-      "Obligatoria sin excepción",
-      "Prohibida en todo procedimiento",
-      "Potestativa",
-      "Sustituida por el Tribunal de Cuentas"
-    ],
-    "reference": "LCSP arts. 159.6 y 326",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP arts. 159.6 y 326.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3395,
+    "id": 3379,
     "question": "¿Qué ocurre con la mesa cuando contrata una junta de contratación?",
     "answer": "No actúa una mesa de contratación ordinaria",
     "options": [
@@ -855,7 +551,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3396,
+    "id": 3380,
     "question": "La competencia para contratar corresponde a una junta: ¿qué regla de asistencia se aplica?",
     "answer": "No actúa una mesa de contratación ordinaria",
     "options": [
@@ -874,7 +570,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3397,
+    "id": 3381,
     "question": "¿Cómo es la mesa en negociado sin publicidad por imperiosa urgencia art. 168.b.1.º?",
     "answer": "Obligatoria",
     "options": [
@@ -893,7 +589,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3398,
+    "id": 3382,
     "question": "Se usa negociado sin publicidad por la urgencia tasada del art. 168.b.1: ¿qué regla se aplica a la mesa?",
     "answer": "Obligatoria",
     "options": [
@@ -912,45 +608,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3399,
-    "question": "¿Qué cuota mínima de expertos incorpora la mesa especial del art. 327?",
-    "answer": "Al menos un tercio",
-    "options": [
-      "Al menos una décima parte",
-      "Al menos un tercio",
-      "Exactamente la mitad",
-      "Todos los componentes"
-    ],
-    "reference": "LCSP art. 327",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 327.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3400,
-    "question": "Se constituye mesa especial para diálogo competitivo: ¿qué parte de componentes han de ser expertos?",
-    "answer": "Al menos un tercio",
-    "options": [
-      "Al menos un tercio",
-      "Al menos una décima parte",
-      "Exactamente la mitad",
-      "Todos los componentes"
-    ],
-    "reference": "LCSP art. 327",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 327.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3401,
+    "id": 3383,
     "question": "¿Los expertos de mesa especial votan?",
     "answer": "Voz y voto",
     "options": [
@@ -969,7 +627,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3402,
+    "id": 3384,
     "question": "En una asociación para la innovación hay expertos designados en mesa especial: ¿qué derechos de participación tienen?",
     "answer": "Voz y voto",
     "options": [
@@ -988,7 +646,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3403,
+    "id": 3385,
     "question": "¿A qué órgano se encomienda la consulta en contratación pública estatal?",
     "answer": "Junta Consultiva de Contratación Pública del Estado",
     "options": [
@@ -1007,7 +665,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3404,
+    "id": 3386,
     "question": "Se plantea duda interpretativa general sobre contratación estatal: ¿qué órgano consultivo procede?",
     "answer": "Junta Consultiva de Contratación Pública del Estado",
     "options": [
@@ -1026,45 +684,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3405,
-    "question": "¿Quién prepara la propuesta de la Estrategia Nacional de Contratación Pública?",
-    "answer": "Comité de Cooperación en materia de contratación pública",
-    "options": [
-      "Tribunal de Cuentas",
-      "Junta de Contratación Centralizada",
-      "Director facultativo",
-      "Comité de Cooperación en materia de contratación pública"
-    ],
-    "reference": "LCSP arts. 329 y 334",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP arts. 329 y 334.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3406,
-    "question": "Se elabora un nuevo texto de Estrategia Nacional de Contratación: ¿qué órgano prepara la propuesta?",
-    "answer": "Comité de Cooperación en materia de contratación pública",
-    "options": [
-      "Tribunal de Cuentas",
-      "Junta de Contratación Centralizada",
-      "Comité de Cooperación en materia de contratación pública",
-      "Director facultativo"
-    ],
-    "reference": "LCSP arts. 329 y 334",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP arts. 329 y 334.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3407,
+    "id": 3387,
     "question": "¿Quién aprueba la Estrategia Nacional de Contratación Pública?",
     "answer": "OIReScon",
     "options": [
@@ -1083,7 +703,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3408,
+    "id": 3388,
     "question": "Una vez elaborada la propuesta de Estrategia Nacional, ¿qué organismo es competente para aprobarla?",
     "answer": "OIReScon",
     "options": [
@@ -1102,7 +722,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3409,
+    "id": 3389,
     "question": "¿Qué naturaleza tiene la Estrategia Nacional de Contratación Pública?",
     "answer": "Instrumento jurídico vinculante",
     "options": [
@@ -1121,7 +741,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3410,
+    "id": 3390,
     "question": "Una entidad pregunta si la Estrategia Nacional es un simple documento voluntario: ¿qué naturaleza le atribuye la ley?",
     "answer": "Instrumento jurídico vinculante",
     "options": [
@@ -1140,45 +760,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3411,
-    "question": "¿Cuánto dura el mandato de miembros de OIReScon?",
-    "answer": "Seis años",
-    "options": [
-      "Tres años",
-      "Seis años",
-      "Cuatro años",
-      "Diez años"
-    ],
-    "reference": "LCSP art. 332",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 332.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3412,
-    "question": "Se renueva la presidencia de la Oficina Independiente de Regulación y Supervisión: ¿qué mandato general existe?",
-    "answer": "Seis años",
-    "options": [
-      "Seis años",
-      "Tres años",
-      "Cuatro años",
-      "Diez años"
-    ],
-    "reference": "LCSP art. 332",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 332.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3413,
+    "id": 3391,
     "question": "¿Qué competencia caracteriza a OIReScon?",
     "answer": "Supervisión de aplicación de la contratación",
     "options": [
@@ -1197,7 +779,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3414,
+    "id": 3392,
     "question": "Se detectan irregularidades sistémicas de licitación: ¿qué organismo las supervisa sin actuar como tribunal anulador?",
     "answer": "Supervisión de aplicación de la contratación",
     "options": [
@@ -1216,7 +798,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3415,
+    "id": 3393,
     "question": "¿Qué tarea desempeña la Oficina Nacional de Evaluación?",
     "answer": "Evaluación financiera de concesiones",
     "options": [
@@ -1235,7 +817,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3416,
+    "id": 3394,
     "question": "Se requiere análisis de sostenibilidad financiera de una concesión: ¿qué unidad especializada interviene?",
     "answer": "Evaluación financiera de concesiones",
     "options": [
@@ -1254,45 +836,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3417,
-    "question": "¿Qué recoge el ROLECSP?",
-    "answer": "Datos de licitadores y empresas clasificadas",
-    "options": [
-      "Datos sobre todos los contratos adjudicados exclusivamente",
-      "Datos del censo electoral",
-      "Solo facturas de caja fija",
-      "Datos de licitadores y empresas clasificadas"
-    ],
-    "reference": "LCSP arts. 337-345",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP arts. 337-345.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3418,
-    "question": "Un órgano debe verificar clasificación e información registral de un licitador: ¿qué registro consulta?",
-    "answer": "Datos de licitadores y empresas clasificadas",
-    "options": [
-      "Datos sobre todos los contratos adjudicados exclusivamente",
-      "Datos del censo electoral",
-      "Datos de licitadores y empresas clasificadas",
-      "Solo facturas de caja fija"
-    ],
-    "reference": "LCSP arts. 337-345",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP arts. 337-345.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3419,
+    "id": 3395,
     "question": "¿Qué recoge el Registro de Contratos del Sector Público?",
     "answer": "Datos de contratos del sector público",
     "options": [
@@ -1311,7 +855,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3420,
+    "id": 3396,
     "question": "El Estado quiere disponer de datos básicos de contratos adjudicados: ¿qué registro sirve a este fin?",
     "answer": "Datos de contratos del sector público",
     "options": [
@@ -1330,7 +874,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3421,
+    "id": 3397,
     "question": "¿Cuándo se exceptúa comunicar al Registro un contrato inferior a 5.000 euros?",
     "answer": "Menos de 5.000 euros IVA incluido y caja fija o equivalente",
     "options": [
@@ -1349,7 +893,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3422,
+    "id": 3398,
     "question": "Se paga una compra de 3.500 euros mediante anticipo de caja fija: ¿qué excepción puede operar?",
     "answer": "Menos de 5.000 euros IVA incluido y caja fija o equivalente",
     "options": [
@@ -1368,45 +912,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3423,
-    "question": "¿Cuánto plazo existe para remitir determinados contratos al Tribunal de Cuentas?",
-    "answer": "Tres meses",
-    "options": [
-      "Un mes",
-      "Tres meses",
-      "Seis meses",
-      "Quince días"
-    ],
-    "reference": "LCSP art. 335",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 335.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3424,
-    "question": "Un contrato supera el umbral de remisión del art. 335: ¿desde formalización qué plazo hay?",
-    "answer": "Tres meses",
-    "options": [
-      "Tres meses",
-      "Un mes",
-      "Seis meses",
-      "Quince días"
-    ],
-    "reference": "LCSP art. 335",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 335.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3425,
+    "id": 3399,
     "question": "¿Qué precio exige copia y extracto al Tribunal de Cuentas en obras y concesiones?",
     "answer": "Precio de adjudicación superior a 600.000 euros",
     "options": [
@@ -1425,7 +931,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3426,
+    "id": 3400,
     "question": "Una obra se adjudica por 600.001 euros: ¿qué límite de remisión rebasa?",
     "answer": "Precio de adjudicación superior a 600.000 euros",
     "options": [
@@ -1444,7 +950,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3427,
+    "id": 3401,
     "question": "¿Cuál es el umbral de remisión de suministros al Tribunal de Cuentas?",
     "answer": "Precio de adjudicación superior a 450.000 euros",
     "options": [
@@ -1463,7 +969,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3428,
+    "id": 3402,
     "question": "Un suministro adjudicado por 450.001 euros debe remitirse: ¿qué límite supera?",
     "answer": "Precio de adjudicación superior a 450.000 euros",
     "options": [
@@ -1482,45 +988,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3429,
-    "question": "¿Cuál es el umbral de remisión de servicios al Tribunal de Cuentas?",
-    "answer": "Precio de adjudicación superior a 150.000 euros",
-    "options": [
-      "VE igual o mayor de 150.000 euros",
-      "PBL superior a 450.000 euros",
-      "Garantía igual o superior a 15.000 euros",
-      "Precio de adjudicación superior a 150.000 euros"
-    ],
-    "reference": "LCSP art. 335",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 335.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3430,
-    "question": "Un servicio adjudicado en 150.000 euros exactos: ¿qué umbral del art. 335 no supera?",
-    "answer": "Precio de adjudicación superior a 150.000 euros",
-    "options": [
-      "VE igual o mayor de 150.000 euros",
-      "PBL superior a 450.000 euros",
-      "Precio de adjudicación superior a 150.000 euros",
-      "Garantía igual o superior a 15.000 euros"
-    ],
-    "reference": "LCSP art. 335",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 335.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3431,
+    "id": 3403,
     "question": "¿Qué magnitud rige el umbral de remisión de acuerdos marco al Tribunal de Cuentas?",
     "answer": "Valor estimado superior a 600.000 euros",
     "options": [
@@ -1539,7 +1007,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3432,
+    "id": 3404,
     "question": "Un acuerdo marco tiene VE 600.001 euros: ¿qué magnitud se emplea para la remisión?",
     "answer": "Valor estimado superior a 600.000 euros",
     "options": [
@@ -1558,7 +1026,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3433,
+    "id": 3405,
     "question": "¿Cuál es la regla estatutaria para personas jurídicas licitadoras?",
     "answer": "La prestación debe estar comprendida en sus fines, objeto o actividad",
     "options": [
@@ -1577,7 +1045,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3434,
+    "id": 3406,
     "question": "Una sociedad se presenta a servicio ajeno a sus fines sociales: ¿qué requisito de capacidad se plantea?",
     "answer": "La prestación debe estar comprendida en sus fines, objeto o actividad",
     "options": [
@@ -1596,45 +1064,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3435,
-    "question": "¿Qué requisitos generales debe reunir un contratista?",
-    "answer": "Capacidad, solvencia o clasificación, ausencia de prohibiciones y habilitación",
-    "options": [
-      "Solo disponer de cuenta bancaria",
-      "Capacidad, solvencia o clasificación, ausencia de prohibiciones y habilitación",
-      "Solo inscripción mercantil",
-      "Solo oferta económica más baja"
-    ],
-    "reference": "LCSP art. 65",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 65.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3436,
-    "question": "Una empresa tiene solvencia pero una prohibición firme de contratar: ¿qué elementos de aptitud exige art. 65?",
-    "answer": "Capacidad, solvencia o clasificación, ausencia de prohibiciones y habilitación",
-    "options": [
-      "Capacidad, solvencia o clasificación, ausencia de prohibiciones y habilitación",
-      "Solo disponer de cuenta bancaria",
-      "Solo inscripción mercantil",
-      "Solo oferta económica más baja"
-    ],
-    "reference": "LCSP art. 65",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 65.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3437,
+    "id": 3407,
     "question": "¿Cómo acredita capacidad una empresa de un Estado UE/EEE?",
     "answer": "Registro de origen o certificación o declaración admitida",
     "options": [
@@ -1653,7 +1083,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3438,
+    "id": 3408,
     "question": "Una empresa francesa quiere acreditar personalidad en un procedimiento español: ¿qué documento rige en general?",
     "answer": "Registro de origen o certificación o declaración admitida",
     "options": [
@@ -1672,7 +1102,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3439,
+    "id": 3409,
     "question": "¿Qué regla adicional afecta a empresas de terceros Estados?",
     "answer": "Informe de reciprocidad en los términos del art. 68",
     "options": [
@@ -1691,7 +1121,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3440,
+    "id": 3410,
     "question": "Una empresa extracomunitaria concurre sin convenio aplicable: ¿qué requisito internacional puede exigírsele?",
     "answer": "Informe de reciprocidad en los términos del art. 68",
     "options": [
@@ -1710,45 +1140,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3441,
-    "question": "¿Qué mide la solvencia económica y financiera?",
-    "answer": "Capacidad de afrontar obligaciones y riesgos económicos",
-    "options": [
-      "Solo historial de obras ejecutadas",
-      "Solo plantilla titulada",
-      "Únicamente precio ofertado",
-      "Capacidad de afrontar obligaciones y riesgos económicos"
-    ],
-    "reference": "LCSP art. 87",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 87.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3442,
-    "question": "Una empresa presenta volumen de negocios y seguro profesional: ¿qué aptitud se valora?",
-    "answer": "Capacidad de afrontar obligaciones y riesgos económicos",
-    "options": [
-      "Solo historial de obras ejecutadas",
-      "Solo plantilla titulada",
-      "Capacidad de afrontar obligaciones y riesgos económicos",
-      "Únicamente precio ofertado"
-    ],
-    "reference": "LCSP art. 87",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 87.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3443,
+    "id": 3411,
     "question": "¿Qué artículo recoge medios de solvencia técnica de obras?",
     "answer": "Artículo 88",
     "options": [
@@ -1767,7 +1159,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3444,
+    "id": 3412,
     "question": "Se presenta relación de obras ejecutadas en los últimos años: ¿qué precepto regula esta solvencia técnica?",
     "answer": "Artículo 88",
     "options": [
@@ -1786,7 +1178,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3445,
+    "id": 3413,
     "question": "¿Qué período ordinario de experiencia se exige para obras como medio técnico?",
     "answer": "Cinco años",
     "options": [
@@ -1805,7 +1197,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3446,
+    "id": 3414,
     "question": "Se verifica relación de obras realizadas: ¿a cuántos últimos años se refiere la regla general?",
     "answer": "Cinco años",
     "options": [
@@ -1824,45 +1216,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3447,
-    "question": "¿Qué período ordinario de experiencia rige para servicios similares?",
-    "answer": "Tres años",
-    "options": [
-      "Cinco años",
-      "Tres años",
-      "Diez años siempre",
-      "Un año"
-    ],
-    "reference": "LCSP art. 90",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 90.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3448,
-    "question": "Una empresa acredita principales servicios del período legal: ¿qué últimos años se toman como regla?",
-    "answer": "Tres años",
-    "options": [
-      "Tres años",
-      "Cinco años",
-      "Diez años siempre",
-      "Un año"
-    ],
-    "reference": "LCSP art. 90",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 90.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3449,
+    "id": 3415,
     "question": "¿En qué obras resulta obligatoria la clasificación por cuantía, con excepciones legales?",
     "answer": "VE igual o superior a 500.000 euros",
     "options": [
@@ -1881,7 +1235,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3450,
+    "id": 3416,
     "question": "Una obra tiene VE 500.000 euros exactos: ¿qué requisito general de clasificación activa?",
     "answer": "VE igual o superior a 500.000 euros",
     "options": [
@@ -1900,7 +1254,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3451,
+    "id": 3417,
     "question": "¿Se exige obligatoriamente clasificación en contratos de servicios?",
     "answer": "No, puede servir alternativamente para acreditar solvencia",
     "options": [
@@ -1919,7 +1273,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3452,
+    "id": 3418,
     "question": "Una licitación ordinaria de servicios exige siempre clasificación empresarial: ¿qué regla legal se aplica?",
     "answer": "No, puede servir alternativamente para acreditar solvencia",
     "options": [
@@ -1938,45 +1292,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3453,
-    "question": "¿Cuánto dura la clasificación de empresas mientras persisten las condiciones?",
-    "answer": "Indefinida condicionada al mantenimiento de requisitos",
-    "options": [
-      "Un año",
-      "Tres años",
-      "Cinco años",
-      "Indefinida condicionada al mantenimiento de requisitos"
-    ],
-    "reference": "LCSP art. 82",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 82.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3454,
-    "question": "Una empresa clasificada pregunta por caducidad automática trienal: ¿qué vigencia general tiene?",
-    "answer": "Indefinida condicionada al mantenimiento de requisitos",
-    "options": [
-      "Un año",
-      "Tres años",
-      "Indefinida condicionada al mantenimiento de requisitos",
-      "Cinco años"
-    ],
-    "reference": "LCSP art. 82",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 82.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3455,
+    "id": 3419,
     "question": "¿Cada cuánto se justifica solvencia económica para mantener clasificación?",
     "answer": "Anualmente",
     "options": [
@@ -1995,7 +1311,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3456,
+    "id": 3420,
     "question": "La empresa clasificada debe acreditar mantenimiento económico-financiero: ¿qué periodicidad rige?",
     "answer": "Anualmente",
     "options": [
@@ -2014,7 +1330,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3457,
+    "id": 3421,
     "question": "¿Cada cuánto se acredita solvencia técnica para mantener clasificación?",
     "answer": "Cada tres años",
     "options": [
@@ -2033,7 +1349,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3458,
+    "id": 3422,
     "question": "Una clasificada mantiene su categoría técnica: ¿qué periodicidad documental se establece?",
     "answer": "Cada tres años",
     "options": [
@@ -2052,45 +1368,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3459,
-    "question": "¿Quién adopta acuerdos de clasificación empresarial estatal?",
-    "answer": "Comisiones Clasificadoras de la JCCPE",
-    "options": [
-      "Mesa de contratación de cualquier municipio",
-      "Comisiones Clasificadoras de la JCCPE",
-      "Tribunal de Cuentas",
-      "Dirección General de Tráfico"
-    ],
-    "reference": "LCSP art. 80",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 80.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3460,
-    "question": "Una empresa solicita clasificación estatal: ¿qué órgano puede adoptarla?",
-    "answer": "Comisiones Clasificadoras de la JCCPE",
-    "options": [
-      "Comisiones Clasificadoras de la JCCPE",
-      "Mesa de contratación de cualquier municipio",
-      "Tribunal de Cuentas",
-      "Dirección General de Tráfico"
-    ],
-    "reference": "LCSP art. 80",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 80.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3461,
+    "id": 3423,
     "question": "¿Cuál es el efecto de participar en preparación de una licitación?",
     "answer": "Evitar ventajas indebidas sin exclusión automática",
     "options": [
@@ -2109,7 +1387,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3462,
+    "id": 3424,
     "question": "Una ingeniería participó en estudios previos: ¿qué medida procede conforme art. 70?",
     "answer": "Evitar ventajas indebidas sin exclusión automática",
     "options": [
@@ -2128,7 +1406,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3463,
+    "id": 3425,
     "question": "¿Qué artículo recoge las prohibiciones de contratar?",
     "answer": "Artículo 71",
     "options": [
@@ -2147,7 +1425,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3464,
+    "id": 3426,
     "question": "Una empresa tiene una condena comprendida entre causas legales de prohibición: ¿qué artículo hay que consultar?",
     "answer": "Artículo 71",
     "options": [
@@ -2166,45 +1444,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3465,
-    "question": "¿Qué figura es una UTE a efectos de contratación?",
-    "answer": "Unión temporal de empresarios sin personalidad jurídica propia",
-    "options": [
-      "Sociedad anónima obligatoria",
-      "Organismo autónomo temporal",
-      "Poder adjudicador adicional",
-      "Unión temporal de empresarios sin personalidad jurídica propia"
-    ],
-    "reference": "LCSP art. 69",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 1,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 69.",
-    "format": "memoria",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3466,
-    "question": "Dos empresas presentan oferta conjunta sin constituir una nueva sociedad: ¿qué figura regula el art. 69?",
-    "answer": "Unión temporal de empresarios sin personalidad jurídica propia",
-    "options": [
-      "Sociedad anónima obligatoria",
-      "Organismo autónomo temporal",
-      "Unión temporal de empresarios sin personalidad jurídica propia",
-      "Poder adjudicador adicional"
-    ],
-    "reference": "LCSP art. 69",
-    "category": "Contratos del Sector Público",
-    "topic": "Tema 2 · Libros I y IV",
-    "difficulty": 2,
-    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 69.",
-    "format": "inap",
-    "subtopic": "Libros I y IV"
-  },
-  {
-    "id": 3467,
+    "id": 3427,
     "question": "¿Cómo responden las empresas integrantes de una UTE?",
     "answer": "Solidariamente",
     "options": [
@@ -2223,7 +1463,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3468,
+    "id": 3428,
     "question": "Dos constructoras concurren como UTE: ¿qué régimen de responsabilidad asumen frente a la Administración?",
     "answer": "Solidariamente",
     "options": [
@@ -2242,7 +1482,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3469,
+    "id": 3429,
     "question": "¿Cuándo es necesaria escritura pública de constitución de UTE?",
     "answer": "Después de resultar adjudicataria",
     "options": [
@@ -2261,7 +1501,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3470,
+    "id": 3430,
     "question": "Dos empresas ofertan como UTE con compromiso: ¿cuándo se exige formalización en escritura pública?",
     "answer": "Después de resultar adjudicataria",
     "options": [
@@ -2280,7 +1520,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3471,
+    "id": 3431,
     "question": "¿Qué representante debe designar una UTE?",
     "answer": "Representante o apoderado único",
     "options": [
@@ -2299,7 +1539,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3472,
+    "id": 3432,
     "question": "Una UTE con tres miembros necesita relacionarse con el órgano: ¿cómo actúa en representación?",
     "answer": "Representante o apoderado único",
     "options": [
@@ -2318,7 +1558,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3473,
+    "id": 3433,
     "question": "¿Qué ejecución mínima general se contempla para cambios autorizados de composición UTE tras formalización?",
     "answer": "Al menos 20 por ciento del importe",
     "options": [
@@ -2337,7 +1577,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3474,
+    "id": 3434,
     "question": "Una UTE ya formalizada propone alterar integrantes: ¿qué ejecución mínima del contrato se exige como regla?",
     "answer": "Al menos 20 por ciento del importe",
     "options": [
@@ -2356,7 +1596,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3475,
+    "id": 3435,
     "question": "¿En concesiones, a qué corresponde el quinto exigido para cambio de miembros de UTE?",
     "answer": "Un quinto del plazo de duración",
     "options": [
@@ -2375,7 +1615,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3476,
+    "id": 3436,
     "question": "Una UTE concesionaria pide cambiar miembros tras formalización: ¿qué parámetro del quinto importa?",
     "answer": "Un quinto del plazo de duración",
     "options": [
@@ -2394,7 +1634,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3477,
+    "id": 3437,
     "question": "¿Qué prohíbe el art. 99 sobre el objeto del contrato?",
     "answer": "Fraccionamiento para eludir normas de contratación",
     "options": [
@@ -2413,7 +1653,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3478,
+    "id": 3438,
     "question": "Una entidad divide artificiosamente una adquisición para evitar publicidad: ¿qué vulneración existe?",
     "answer": "Fraccionamiento para eludir normas de contratación",
     "options": [
@@ -2432,7 +1672,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3479,
+    "id": 3439,
     "question": "¿Cuál es la regla general sobre dividir un contrato en lotes?",
     "answer": "Prever división en lotes cuando naturaleza lo permita",
     "options": [
@@ -2451,7 +1691,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3480,
+    "id": 3440,
     "question": "Una adquisición permite dividir objetos funcionales y no se justifica evitar lotes: ¿qué exige la LCSP en general?",
     "answer": "Prever división en lotes cuando naturaleza lo permita",
     "options": [
@@ -2470,7 +1710,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3481,
+    "id": 3441,
     "question": "¿Qué es el valor estimado del contrato?",
     "answer": "Importe estimado total sin IVA y con opciones pertinentes",
     "options": [
@@ -2489,7 +1729,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3482,
+    "id": 3442,
     "question": "Un servicio tiene tres años más prórrogas y se calcula la sujeción SARA: ¿qué importe se utiliza?",
     "answer": "Importe estimado total sin IVA y con opciones pertinentes",
     "options": [
@@ -2508,7 +1748,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3483,
+    "id": 3443,
     "question": "¿Qué es el presupuesto base de licitación?",
     "answer": "Límite máximo de gasto con IVA salvo regla contraria",
     "options": [
@@ -2527,7 +1767,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3484,
+    "id": 3444,
     "question": "Una entidad determina gasto máximo inicial que puede comprometer: ¿qué magnitud es?",
     "answer": "Límite máximo de gasto con IVA salvo regla contraria",
     "options": [
@@ -2546,7 +1786,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3485,
+    "id": 3445,
     "question": "¿Qué es el precio del contrato?",
     "answer": "Precio cierto del contrato",
     "options": [
@@ -2565,7 +1805,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3486,
+    "id": 3446,
     "question": "Se adjudica servicio por contraprestación cierta a pagar por trabajo ejecutado: ¿qué concepto es?",
     "answer": "Precio cierto del contrato",
     "options": [
@@ -2584,7 +1824,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3487,
+    "id": 3447,
     "question": "¿Cuándo pueden establecerse precios unitarios?",
     "answer": "Precio unitario",
     "options": [
@@ -2603,7 +1843,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3488,
+    "id": 3448,
     "question": "Una licitación paga dos euros por carpeta efectivamente entregada: ¿qué modalidad de precio se usa?",
     "answer": "Precio unitario",
     "options": [
@@ -2622,7 +1862,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3489,
+    "id": 3449,
     "question": "¿Cuándo se usa precio a tanto alzado?",
     "answer": "Precio a tanto alzado",
     "options": [
@@ -2641,7 +1881,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3490,
+    "id": 3450,
     "question": "Se paga una suma global por limpieza completa de un recinto: ¿qué modalidad refleja el precio?",
     "answer": "Precio a tanto alzado",
     "options": [
@@ -2660,7 +1900,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3491,
+    "id": 3451,
     "question": "¿Está permitido en general el pago aplazado del precio?",
     "answer": "Prohibido con excepciones legales como leasing",
     "options": [
@@ -2679,7 +1919,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3492,
+    "id": 3452,
     "question": "Un órgano quiere aplazar indefinidamente el precio de suministro ordinario: ¿qué regla legal rige?",
     "answer": "Prohibido con excepciones legales como leasing",
     "options": [
@@ -2698,7 +1938,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3493,
+    "id": 3453,
     "question": "¿Qué forma de revisión de precios es regla general en la LCSP?",
     "answer": "Periódica y predeterminada según requisitos",
     "options": [
@@ -2717,7 +1957,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3494,
+    "id": 3454,
     "question": "Se incluye en pliego una fórmula prevista para revisión periódica: ¿qué modalidad es admisible?",
     "answer": "Periódica y predeterminada según requisitos",
     "options": [
@@ -2736,7 +1976,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3495,
+    "id": 3455,
     "question": "¿Qué plazo mínimo temporal general rige para revisar precios?",
     "answer": "Un año desde formalización",
     "options": [
@@ -2755,7 +1995,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3496,
+    "id": 3456,
     "question": "Una obra lleva ocho meses desde formalización y tiene 25 % ejecutado: ¿qué requisito ordinario falta?",
     "answer": "Un año desde formalización",
     "options": [
@@ -2774,7 +2014,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3497,
+    "id": 3457,
     "question": "¿Qué ejecución mínima general se exige para revisar precios?",
     "answer": "Al menos 20 por ciento ejecutado",
     "options": [
@@ -2793,7 +2033,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3498,
+    "id": 3458,
     "question": "Un contrato de obras solo tiene 15 % ejecutado después de dos años: ¿qué porcentaje ordinario falta?",
     "answer": "Al menos 20 por ciento ejecutado",
     "options": [
@@ -2812,7 +2052,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3499,
+    "id": 3459,
     "question": "¿En concesión de servicios se exige siempre 20 % ejecutado para revisión?",
     "answer": "No se exige ese porcentaje",
     "options": [
@@ -2831,7 +2071,7 @@
     "subtopic": "Libros I y IV"
   },
   {
-    "id": 3500,
+    "id": 3460,
     "question": "Una concesión de servicios cumple la exigencia temporal: ¿qué ocurre con el requisito del 20 % ejecutado?",
     "answer": "No se exige ese porcentaje",
     "options": [
@@ -2848,5 +2088,765 @@
     "explanation": "Base normativa: LCSP art. 103.5.",
     "format": "inap",
     "subtopic": "Libros I y IV"
+  },
+  {
+    "question": "¿Qué regla general rige para exigir garantía provisional?",
+    "answer": "Es excepcional y requiere justificación",
+    "options": [
+      "Siempre obligatoria",
+      "Obligatoria para contratos SARA",
+      "Es excepcional y requiere justificación",
+      "Siempre igual a cinco por ciento"
+    ],
+    "reference": "LCSP art. 106",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 106.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3461
+  },
+  {
+    "question": "El órgano quiere exigir provisional de modo automático sin motivar interés público: ¿es conforme a ley?",
+    "answer": "Es excepcional y requiere justificación",
+    "options": [
+      "Siempre obligatoria",
+      "Obligatoria para contratos SARA",
+      "Siempre igual a cinco por ciento",
+      "Es excepcional y requiere justificación"
+    ],
+    "reference": "LCSP art. 106",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 106.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3462
+  },
+  {
+    "question": "¿Qué máximo general tiene la garantía provisional?",
+    "answer": "Tres por ciento de PBL sin IVA",
+    "options": [
+      "Tres por ciento de PBL sin IVA",
+      "Cinco por ciento del precio con IVA",
+      "Diez por ciento de VE",
+      "Veinte por ciento del PBL"
+    ],
+    "reference": "LCSP art. 106.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 106.2.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3463
+  },
+  {
+    "question": "En un contrato con PBL sin IVA de 100.000 euros, ¿qué máximo de provisional cabe?",
+    "answer": "Tres por ciento de PBL sin IVA",
+    "options": [
+      "Cinco por ciento del precio con IVA",
+      "Tres por ciento de PBL sin IVA",
+      "Diez por ciento de VE",
+      "Veinte por ciento del PBL"
+    ],
+    "reference": "LCSP art. 106.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 106.2.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3464
+  },
+  {
+    "question": "¿Qué garantía se exige en el abierto simplificado?",
+    "answer": "No procede la garantía provisional",
+    "options": [
+      "Se exige siempre tres por ciento",
+      "Se exige siempre cinco por ciento",
+      "No procede la garantía provisional",
+      "La exige el Tribunal de Cuentas"
+    ],
+    "reference": "LCSP art. 106",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 106.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3465
+  },
+  {
+    "question": "Una licitación por abierto simplificado quiere exigir garantía provisional: ¿qué regla rige?",
+    "answer": "No procede la garantía provisional",
+    "options": [
+      "Se exige siempre tres por ciento",
+      "Se exige siempre cinco por ciento",
+      "La exige el Tribunal de Cuentas",
+      "No procede la garantía provisional"
+    ],
+    "reference": "LCSP art. 106",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 106.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3466
+  },
+  {
+    "question": "¿Quién debe constituir garantía definitiva ordinaria?",
+    "answer": "Quien presentó la mejor oferta",
+    "options": [
+      "Quien presentó la mejor oferta",
+      "Todos los licitadores inicialmente",
+      "Solo los excluidos",
+      "Solo la mesa de contratación"
+    ],
+    "reference": "LCSP art. 107",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 107.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3467
+  },
+  {
+    "question": "Una licitación identifica la oferta mejor clasificada: ¿qué licitador debe constituir definitiva?",
+    "answer": "Quien presentó la mejor oferta",
+    "options": [
+      "Todos los licitadores inicialmente",
+      "Quien presentó la mejor oferta",
+      "Solo los excluidos",
+      "Solo la mesa de contratación"
+    ],
+    "reference": "LCSP art. 107",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 107.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3468
+  },
+  {
+    "question": "¿Cuál es el tipo ordinario de garantía definitiva?",
+    "answer": "Cinco por ciento del precio final ofertado sin IVA",
+    "options": [
+      "Tres por ciento del precio con IVA",
+      "Diez por ciento de VE",
+      "Cinco por ciento del precio final ofertado sin IVA",
+      "Veinte por ciento de PBL"
+    ],
+    "reference": "LCSP art. 107.1",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 107.1.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3469
+  },
+  {
+    "question": "En un suministro administrativo adjudicado por 80.000 euros sin IVA, ¿qué porcentaje general aplica?",
+    "answer": "Cinco por ciento del precio final ofertado sin IVA",
+    "options": [
+      "Tres por ciento del precio con IVA",
+      "Diez por ciento de VE",
+      "Veinte por ciento de PBL",
+      "Cinco por ciento del precio final ofertado sin IVA"
+    ],
+    "reference": "LCSP art. 107.1",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 107.1.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3470
+  },
+  {
+    "question": "¿Qué base especial rige la definitiva de precios unitarios?",
+    "answer": "PBL sin IVA",
+    "options": [
+      "PBL sin IVA",
+      "VE con IVA",
+      "Solo una unidad",
+      "Precio de primera factura con IVA"
+    ],
+    "reference": "LCSP art. 107.3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 107.3.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3471
+  },
+  {
+    "question": "Un suministro usa precios por unidad y no a tanto alzado: ¿qué base fija la ley para garantía definitiva?",
+    "answer": "PBL sin IVA",
+    "options": [
+      "VE con IVA",
+      "PBL sin IVA",
+      "Solo una unidad",
+      "Precio de primera factura con IVA"
+    ],
+    "reference": "LCSP art. 107.3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 107.3.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3472
+  },
+  {
+    "question": "¿Las concesiones siguen siempre el porcentaje general del cinco por ciento?",
+    "answer": "Cuantía del PCAP según naturaleza, importancia y duración",
+    "options": [
+      "Siempre cinco por ciento sin matices",
+      "Siempre tres por ciento de PBL",
+      "Cuantía del PCAP según naturaleza, importancia y duración",
+      "Importe libre fijado por licitador"
+    ],
+    "reference": "LCSP art. 107.4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 107.4.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3473
+  },
+  {
+    "question": "Se exige definitiva en una concesión de obras: ¿cómo se determina su importe según ley?",
+    "answer": "Cuantía del PCAP según naturaleza, importancia y duración",
+    "options": [
+      "Siempre cinco por ciento sin matices",
+      "Siempre tres por ciento de PBL",
+      "Importe libre fijado por licitador",
+      "Cuantía del PCAP según naturaleza, importancia y duración"
+    ],
+    "reference": "LCSP art. 107.4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 107.4.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3474
+  },
+  {
+    "question": "¿En qué procedimiento no se exige garantía definitiva por regla especial?",
+    "answer": "No se requiere",
+    "options": [
+      "No se requiere",
+      "Se exige obligatoriamente cinco por ciento",
+      "Se exige diez por ciento",
+      "La aporta cada licitador al presentar oferta"
+    ],
+    "reference": "LCSP art. 159.6",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 159.6.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3475
+  },
+  {
+    "question": "Se tramita abierto simplificado abreviado del 159.6: ¿qué ocurre con la definitiva?",
+    "answer": "No se requiere",
+    "options": [
+      "Se exige obligatoriamente cinco por ciento",
+      "No se requiere",
+      "Se exige diez por ciento",
+      "La aporta cada licitador al presentar oferta"
+    ],
+    "reference": "LCSP art. 159.6",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 159.6.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3476
+  },
+  {
+    "question": "¿Cuánto puede alcanzar la garantía complementaria especial?",
+    "answer": "Cinco por ciento del precio ofertado",
+    "options": [
+      "Quince por ciento adicional",
+      "Veinte por ciento adicional",
+      "Cinco por ciento del precio ofertado",
+      "Tres por ciento del VE"
+    ],
+    "reference": "LCSP art. 107.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 107.2.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3477
+  },
+  {
+    "question": "Un contrato requiere garantía complementaria motivada: ¿qué tope adicional se permite?",
+    "answer": "Cinco por ciento del precio ofertado",
+    "options": [
+      "Quince por ciento adicional",
+      "Veinte por ciento adicional",
+      "Tres por ciento del VE",
+      "Cinco por ciento del precio ofertado"
+    ],
+    "reference": "LCSP art. 107.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 107.2.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3478
+  },
+  {
+    "question": "¿Qué suma ordinaria de definitiva más complementaria puede alcanzarse?",
+    "answer": "Diez por ciento",
+    "options": [
+      "Diez por ciento",
+      "Cinco por ciento",
+      "Tres por ciento",
+      "Quince por ciento"
+    ],
+    "reference": "LCSP art. 107.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 107.2.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3479
+  },
+  {
+    "question": "Un contrato exige cinco por ciento de definitiva y cinco adicional: ¿cuánto puede sumar?",
+    "answer": "Diez por ciento",
+    "options": [
+      "Cinco por ciento",
+      "Diez por ciento",
+      "Tres por ciento",
+      "Quince por ciento"
+    ],
+    "reference": "LCSP art. 107.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 107.2.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3480
+  },
+  {
+    "question": "¿Qué plazo ordinario existe tras requerimiento para constituir definitiva?",
+    "answer": "Diez días hábiles",
+    "options": [
+      "Siete días naturales",
+      "Un mes",
+      "Diez días hábiles",
+      "Quince días naturales"
+    ],
+    "reference": "LCSP art. 150.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 150.2.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3481
+  },
+  {
+    "question": "El licitador mejor clasificado recibe requerimiento del art. 150.2: ¿qué plazo general tiene?",
+    "answer": "Diez días hábiles",
+    "options": [
+      "Siete días naturales",
+      "Un mes",
+      "Quince días naturales",
+      "Diez días hábiles"
+    ],
+    "reference": "LCSP art. 150.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 150.2.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3482
+  },
+  {
+    "question": "¿Qué plazo especial existe para presentar definitiva en simplificado ordinario?",
+    "answer": "Siete días hábiles",
+    "options": [
+      "Siete días hábiles",
+      "Diez días naturales",
+      "Quince días hábiles",
+      "Un mes"
+    ],
+    "reference": "LCSP art. 159.4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 159.4.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3483
+  },
+  {
+    "question": "En procedimiento simplificado del art. 159.4 se requiere al mejor licitador: ¿qué plazo hábil rige?",
+    "answer": "Siete días hábiles",
+    "options": [
+      "Diez días naturales",
+      "Siete días hábiles",
+      "Quince días hábiles",
+      "Un mes"
+    ],
+    "reference": "LCSP art. 159.4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 159.4.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3484
+  },
+  {
+    "question": "¿Qué sucede cuando se ejecuta parte de la garantía por penalidad?",
+    "answer": "Reponer o ampliar garantía en quince días",
+    "options": [
+      "Reajustarla solo al terminar el contrato",
+      "Solicitar necesariamente nueva licitación",
+      "Reponer o ampliar garantía en quince días",
+      "No hacer nada"
+    ],
+    "reference": "LCSP art. 109.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 109.2.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3485
+  },
+  {
+    "question": "Se detraen 1.000 euros de una garantía de 5.000: ¿qué debe hacer el contratista?",
+    "answer": "Reponer o ampliar garantía en quince días",
+    "options": [
+      "Reajustarla solo al terminar el contrato",
+      "Solicitar necesariamente nueva licitación",
+      "No hacer nada",
+      "Reponer o ampliar garantía en quince días"
+    ],
+    "reference": "LCSP art. 109.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 109.2.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3486
+  },
+  {
+    "question": "¿Qué corresponde hacer al cambiar el precio por modificación contractual?",
+    "answer": "Reajustarla en quince días desde notificación",
+    "options": [
+      "Reajustarla en quince días desde notificación",
+      "Devolverla de oficio inmediatamente",
+      "Mantener importe antiguo en todo caso",
+      "Sustituir por garantía provisional"
+    ],
+    "reference": "LCSP art. 109.3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 109.3.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3487
+  },
+  {
+    "question": "El precio del contrato aumenta tras modificación autorizada: ¿qué deber surge respecto a la garantía?",
+    "answer": "Reajustarla en quince días desde notificación",
+    "options": [
+      "Devolverla de oficio inmediatamente",
+      "Reajustarla en quince días desde notificación",
+      "Mantener importe antiguo en todo caso",
+      "Sustituir por garantía provisional"
+    ],
+    "reference": "LCSP art. 109.3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 109.3.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3488
+  },
+  {
+    "question": "¿Qué plazo rige el acuerdo de devolución tras vencer el período de garantía?",
+    "answer": "Dos meses",
+    "options": [
+      "Quince días",
+      "Un año",
+      "Dos meses",
+      "Seis meses"
+    ],
+    "reference": "LCSP art. 111.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 111.2.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3489
+  },
+  {
+    "question": "Vence el período de garantía sin responsabilidades: ¿qué plazo tiene la Administración para acordar y notificar devolución?",
+    "answer": "Dos meses",
+    "options": [
+      "Quince días",
+      "Un año",
+      "Seis meses",
+      "Dos meses"
+    ],
+    "reference": "LCSP art. 111.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 111.2.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3490
+  },
+  {
+    "question": "¿Qué plazo reducido existe para ciertas PYMES y contratos en devolución excepcional?",
+    "answer": "Seis meses",
+    "options": [
+      "Seis meses",
+      "Un año",
+      "Dos años",
+      "Quince días"
+    ],
+    "reference": "LCSP art. 111.5",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 111.5.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3491
+  },
+  {
+    "question": "Sin recepción o liquidación por causa ajena al contratista, una pyme elegible puede obtener reducción de plazo: ¿a cuánto?",
+    "answer": "Seis meses",
+    "options": [
+      "Un año",
+      "Seis meses",
+      "Dos años",
+      "Quince días"
+    ],
+    "reference": "LCSP art. 111.5",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 111.5.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3492
+  },
+  {
+    "question": "¿Qué pliego describe las condiciones jurídico-administrativas de contrato concreto?",
+    "answer": "PCAP",
+    "options": [
+      "PPT particular",
+      "PPT general",
+      "PCAP",
+      "Plan contable"
+    ],
+    "reference": "LCSP art. 122",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 122.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3493
+  },
+  {
+    "question": "Se especifican criterios de selección, solvencia y obligaciones: ¿qué pliego particular contiene estas materias?",
+    "answer": "PCAP",
+    "options": [
+      "PPT particular",
+      "PPT general",
+      "Plan contable",
+      "PCAP"
+    ],
+    "reference": "LCSP art. 122",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 122.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3494
+  },
+  {
+    "question": "¿Qué pliego describe las características técnicas del objeto concreto?",
+    "answer": "PPT particular",
+    "options": [
+      "PPT particular",
+      "PCAP",
+      "Cláusulas administrativas generales",
+      "Registro de contratos"
+    ],
+    "reference": "LCSP art. 124",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 124.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3495
+  },
+  {
+    "question": "La compra de un vehículo exige potencia y equipamientos específicos: ¿qué pliego recoge esos datos?",
+    "answer": "PPT particular",
+    "options": [
+      "PCAP",
+      "PPT particular",
+      "Cláusulas administrativas generales",
+      "Registro de contratos"
+    ],
+    "reference": "LCSP art. 124",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 124.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3496
+  },
+  {
+    "question": "¿Qué órgano aprueba las cláusulas administrativas generales estatales?",
+    "answer": "Consejo de Ministros",
+    "options": [
+      "Mesa de contratación",
+      "Tribunal de Cuentas",
+      "Consejo de Ministros",
+      "Contratista seleccionado"
+    ],
+    "reference": "LCSP art. 121",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 121.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3497
+  },
+  {
+    "question": "Se elaboran pliegos administrativos generales con dictamen del Consejo de Estado: ¿qué órgano los aprueba?",
+    "answer": "Consejo de Ministros",
+    "options": [
+      "Mesa de contratación",
+      "Tribunal de Cuentas",
+      "Contratista seleccionado",
+      "Consejo de Ministros"
+    ],
+    "reference": "LCSP art. 121",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 121.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3498
+  },
+  {
+    "question": "¿Quién aprueba las prescripciones técnicas generales estatales?",
+    "answer": "Consejo de Ministros",
+    "options": [
+      "Consejo de Ministros",
+      "Junta de personal",
+      "Contratista seleccionado",
+      "Director facultativo"
+    ],
+    "reference": "LCSP art. 123",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 123.",
+    "format": "memoria",
+    "subtopic": "Libros I y IV",
+    "id": 3499
+  },
+  {
+    "question": "Para una categoría de compras se crean PPT generales con informe JCCPE: ¿qué órgano los aprueba?",
+    "answer": "Consejo de Ministros",
+    "options": [
+      "Junta de personal",
+      "Consejo de Ministros",
+      "Contratista seleccionado",
+      "Director facultativo"
+    ],
+    "reference": "LCSP art. 123",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 2 · Libros I y IV",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 123.",
+    "format": "inap",
+    "subtopic": "Libros I y IV",
+    "id": 3500
   }
 ]
