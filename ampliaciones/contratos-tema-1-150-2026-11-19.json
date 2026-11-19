@@ -1,0 +1,2852 @@
+[
+  {
+    "id": 3201,
+    "question": "¿Qué regula el art. 1 LCSP?",
+    "answer": "Principios y objeto de la contratación",
+    "options": [
+      "Clasificación de empresas",
+      "Revisión de precios",
+      "Principios y objeto de la contratación",
+      "Garantía definitiva"
+    ],
+    "reference": "LCSP art. 1",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 1.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3202,
+    "question": "Una licitación limita artificialmente la concurrencia: ¿qué materia regula el art. 1?",
+    "answer": "Principios y objeto de la contratación",
+    "options": [
+      "Clasificación de empresas",
+      "Principios y objeto de la contratación",
+      "Revisión de precios",
+      "Garantía definitiva"
+    ],
+    "reference": "LCSP art. 1",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 1.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3203,
+    "question": "¿Qué normas de 2014 transpone directamente la LCSP?",
+    "answer": "Directivas 2014/23 y 2014/24",
+    "options": [
+      "Directivas 2014/23 y 2014/24",
+      "Directivas 2014/24 y 2014/25",
+      "Directivas 2004/17 y 2004/18",
+      "Directivas 2014/23 y 2014/25"
+    ],
+    "reference": "Preámbulo LCSP",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: Preámbulo LCSP.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3204,
+    "question": "Una pregunta menciona 2014/25/UE entre las transpuestas directamente: ¿qué pareja es correcta?",
+    "answer": "Directivas 2014/23 y 2014/24",
+    "options": [
+      "Directivas 2014/24 y 2014/25",
+      "Directivas 2004/17 y 2004/18",
+      "Directivas 2014/23 y 2014/25",
+      "Directivas 2014/23 y 2014/24"
+    ],
+    "reference": "Preámbulo LCSP",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: Preámbulo LCSP.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3205,
+    "question": "¿Qué libro de la LCSP trata la organización administrativa?",
+    "answer": "Libro IV",
+    "options": [
+      "Libro I",
+      "Libro II",
+      "Libro IV",
+      "Libro III"
+    ],
+    "reference": "Estructura LCSP",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: Estructura LCSP.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3206,
+    "question": "¿Dónde se estudian las juntas, órganos consultivos y registros de contratación?",
+    "answer": "Libro IV",
+    "options": [
+      "Libro I",
+      "Libro IV",
+      "Libro II",
+      "Libro III"
+    ],
+    "reference": "Estructura LCSP",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: Estructura LCSP.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3207,
+    "question": "¿Qué finalidad de adjudicación destaca el preámbulo de la LCSP?",
+    "answer": "Mejor relación calidad-precio",
+    "options": [
+      "Mejor relación calidad-precio",
+      "Solo menor precio",
+      "Máxima duración del contrato",
+      "Arraigo territorial"
+    ],
+    "reference": "Preámbulo LCSP",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: Preámbulo LCSP.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3208,
+    "question": "Un órgano afirma que siempre debe adjudicar la opción más barata: ¿qué finalidad legal debe considerar?",
+    "answer": "Mejor relación calidad-precio",
+    "options": [
+      "Solo menor precio",
+      "Máxima duración del contrato",
+      "Arraigo territorial",
+      "Mejor relación calidad-precio"
+    ],
+    "reference": "Preámbulo LCSP",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: Preámbulo LCSP.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3209,
+    "question": "¿En qué condición se admiten criterios ambientales y sociales?",
+    "answer": "Vinculación al objeto del contrato",
+    "options": [
+      "Domicilio local",
+      "Exclusividad de pymes",
+      "Vinculación al objeto del contrato",
+      "Valor estimado inferior a 15.000 euros"
+    ],
+    "reference": "LCSP art. 1.3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 1.3.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3210,
+    "question": "Se puntúa la maquinaria menos contaminante para prestar el servicio: ¿qué condición ha de concurrir?",
+    "answer": "Vinculación al objeto del contrato",
+    "options": [
+      "Domicilio local",
+      "Vinculación al objeto del contrato",
+      "Exclusividad de pymes",
+      "Valor estimado inferior a 15.000 euros"
+    ],
+    "reference": "LCSP art. 1.3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 1.3.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3211,
+    "question": "¿Cuándo hay onerosidad según el art. 2?",
+    "answer": "Beneficio económico directo o indirecto",
+    "options": [
+      "Beneficio económico directo o indirecto",
+      "Solo pagos en efectivo",
+      "Solo beneficio del poder adjudicador",
+      "Siempre exige contrato SARA"
+    ],
+    "reference": "LCSP art. 2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 2.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3212,
+    "question": "Una empresa obtiene utilidad económica indirecta por una contratación: ¿qué criterio de onerosidad aplica?",
+    "answer": "Beneficio económico directo o indirecto",
+    "options": [
+      "Solo pagos en efectivo",
+      "Solo beneficio del poder adjudicador",
+      "Siempre exige contrato SARA",
+      "Beneficio económico directo o indirecto"
+    ],
+    "reference": "LCSP art. 2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 2.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3213,
+    "question": "¿Qué significa CPV?",
+    "answer": "Vocabulario común de contratos públicos",
+    "options": [
+      "Código provincial de ventas",
+      "Catálogo de precios vigilados",
+      "Vocabulario común de contratos públicos",
+      "Contrato público variable"
+    ],
+    "reference": "LCSP art. 2.4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 2.4.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3214,
+    "question": "Se identifica el objeto en un anuncio mediante CPV: ¿qué es?",
+    "answer": "Vocabulario común de contratos públicos",
+    "options": [
+      "Código provincial de ventas",
+      "Vocabulario común de contratos públicos",
+      "Catálogo de precios vigilados",
+      "Contrato público variable"
+    ],
+    "reference": "LCSP art. 2.4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 2.4.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3215,
+    "question": "¿Qué relación existe entre AAPP, PA y sector público?",
+    "answer": "AAPP, poder adjudicador y sector público",
+    "options": [
+      "AAPP, poder adjudicador y sector público",
+      "Solo sector público",
+      "Solo poder adjudicador",
+      "Ninguna de las anteriores"
+    ],
+    "reference": "LCSP art. 3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 3.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3216,
+    "question": "Un organismo autónomo es AAPP: ¿a qué categorías pertenece también necesariamente?",
+    "answer": "AAPP, poder adjudicador y sector público",
+    "options": [
+      "Solo sector público",
+      "Solo poder adjudicador",
+      "Ninguna de las anteriores",
+      "AAPP, poder adjudicador y sector público"
+    ],
+    "reference": "LCSP art. 3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 3.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3217,
+    "question": "¿Cómo califica la LCSP a un organismo autónomo?",
+    "answer": "Administración pública",
+    "options": [
+      "Poder adjudicador no AAPP",
+      "Sociedad mercantil",
+      "Administración pública",
+      "Empresa privada"
+    ],
+    "reference": "LCSP art. 3.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 3.2.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3218,
+    "question": "Un organismo autónomo celebra una licitación: ¿qué naturaleza subjetiva tiene?",
+    "answer": "Administración pública",
+    "options": [
+      "Poder adjudicador no AAPP",
+      "Administración pública",
+      "Sociedad mercantil",
+      "Empresa privada"
+    ],
+    "reference": "LCSP art. 3.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 3.2.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3219,
+    "question": "¿Cómo clasifica la LCSP a las entidades gestoras de la Seguridad Social?",
+    "answer": "Administración pública",
+    "options": [
+      "Administración pública",
+      "Mutua privada",
+      "Sociedad mercantil no PA",
+      "Órgano consultivo"
+    ],
+    "reference": "LCSP art. 3.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 3.2.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3220,
+    "question": "Una entidad gestora de la Seguridad Social adjudica un servicio: ¿qué condición tiene?",
+    "answer": "Administración pública",
+    "options": [
+      "Mutua privada",
+      "Sociedad mercantil no PA",
+      "Órgano consultivo",
+      "Administración pública"
+    ],
+    "reference": "LCSP art. 3.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 3.2.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3221,
+    "question": "¿Qué consideración tienen las mutuas colaboradoras con la Seguridad Social?",
+    "answer": "Poder adjudicador",
+    "options": [
+      "Administración pública territorial",
+      "Tribunal administrativo",
+      "Poder adjudicador",
+      "Empresa siempre no PA"
+    ],
+    "reference": "LCSP art. 3.3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 3.3.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3222,
+    "question": "Una mutua colaboradora adjudica un servicio: ¿cómo se clasifica subjetivamente?",
+    "answer": "Poder adjudicador",
+    "options": [
+      "Administración pública territorial",
+      "Poder adjudicador",
+      "Tribunal administrativo",
+      "Empresa siempre no PA"
+    ],
+    "reference": "LCSP art. 3.3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 3.3.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3223,
+    "question": "¿Qué condición tienen las fundaciones públicas en la LCSP?",
+    "answer": "Poder adjudicador",
+    "options": [
+      "Poder adjudicador",
+      "Administración territorial",
+      "Órgano judicial",
+      "Persona física contratista"
+    ],
+    "reference": "LCSP art. 3.3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 3.3.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3224,
+    "question": "Una fundación pública no es AAPP: ¿qué carácter tiene conforme al art. 3.3?",
+    "answer": "Poder adjudicador",
+    "options": [
+      "Administración territorial",
+      "Órgano judicial",
+      "Persona física contratista",
+      "Poder adjudicador"
+    ],
+    "reference": "LCSP art. 3.3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 3.3.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3225,
+    "question": "¿Toda sociedad mercantil pública es AAPP?",
+    "answer": "No",
+    "options": [
+      "Sí, en todo caso",
+      "Sí, cuando es SARA",
+      "No",
+      "Sí, si hay subvención"
+    ],
+    "reference": "LCSP art. 3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 3.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3226,
+    "question": "Una empresa tiene capital público mayoritario: ¿basta para considerarla Administración pública?",
+    "answer": "No",
+    "options": [
+      "Sí, en todo caso",
+      "No",
+      "Sí, cuando es SARA",
+      "Sí, si hay subvención"
+    ],
+    "reference": "LCSP art. 3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 3.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3227,
+    "question": "¿Todo ente del sector público es poder adjudicador?",
+    "answer": "No, no todos son PA",
+    "options": [
+      "No, no todos son PA",
+      "Sí, todos son PA",
+      "Solo existen AAPP",
+      "Solo existen fundaciones"
+    ],
+    "reference": "LCSP art. 3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 3.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3228,
+    "question": "Una sociedad pública no reúne requisitos de PA: ¿sigue pudiendo integrar sector público?",
+    "answer": "No, no todos son PA",
+    "options": [
+      "Sí, todos son PA",
+      "Solo existen AAPP",
+      "Solo existen fundaciones",
+      "No, no todos son PA"
+    ],
+    "reference": "LCSP art. 3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 3.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3229,
+    "question": "¿Qué consideración tienen las universidades públicas?",
+    "answer": "Administración pública",
+    "options": [
+      "Sociedad mercantil",
+      "Mutua colaboradora",
+      "Administración pública",
+      "No poder adjudicador siempre"
+    ],
+    "reference": "LCSP art. 3.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 3.2.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3230,
+    "question": "Una universidad pública compra material: ¿cómo la clasifica el art. 3.2?",
+    "answer": "Administración pública",
+    "options": [
+      "Sociedad mercantil",
+      "Administración pública",
+      "Mutua colaboradora",
+      "No poder adjudicador siempre"
+    ],
+    "reference": "LCSP art. 3.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 3.2.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3231,
+    "question": "¿Qué artículo excluye negocios inmobiliarios patrimoniales?",
+    "answer": "Artículo 9",
+    "options": [
+      "Artículo 9",
+      "Artículo 11",
+      "Artículo 16",
+      "Artículo 27"
+    ],
+    "reference": "LCSP art. 9",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 9.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3232,
+    "question": "Un ayuntamiento adquiere un edificio ya construido: ¿qué artículo regula la exclusión patrimonial?",
+    "answer": "Artículo 9",
+    "options": [
+      "Artículo 11",
+      "Artículo 16",
+      "Artículo 27",
+      "Artículo 9"
+    ],
+    "reference": "LCSP art. 9",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 9.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3233,
+    "question": "¿Qué regla rige los negocios excluidos de la LCSP?",
+    "answer": "Su normativa especial",
+    "options": [
+      "Siempre a todo el articulado LCSP",
+      "A ninguna norma",
+      "Su normativa especial",
+      "Solo a normas de concesión"
+    ],
+    "reference": "LCSP art. 4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 4.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3234,
+    "question": "Un convenio cumple las condiciones para quedar excluido: ¿a qué legislación se somete principalmente?",
+    "answer": "Su normativa especial",
+    "options": [
+      "Siempre a todo el articulado LCSP",
+      "Su normativa especial",
+      "A ninguna norma",
+      "Solo a normas de concesión"
+    ],
+    "reference": "LCSP art. 4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 4.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3235,
+    "question": "¿Qué artículo excluye relaciones laborales y funcionariales?",
+    "answer": "Artículo 11",
+    "options": [
+      "Artículo 11",
+      "Artículo 2",
+      "Artículo 18",
+      "Artículo 23"
+    ],
+    "reference": "LCSP art. 11",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 11.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3236,
+    "question": "La relación de servicio de un funcionario no es contrato LCSP: ¿qué artículo lo regula?",
+    "answer": "Artículo 11",
+    "options": [
+      "Artículo 2",
+      "Artículo 18",
+      "Artículo 23",
+      "Artículo 11"
+    ],
+    "reference": "LCSP art. 11",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 11.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3237,
+    "question": "¿Qué clase contractual corresponde al suministro de electricidad?",
+    "answer": "Suministro",
+    "options": [
+      "Servicios",
+      "Obras",
+      "Suministro",
+      "Concesión de obras"
+    ],
+    "reference": "LCSP art. 16",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 16.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3238,
+    "question": "Un hospital público adquiere electricidad: ¿cómo se califica su contratación?",
+    "answer": "Suministro",
+    "options": [
+      "Servicios",
+      "Suministro",
+      "Obras",
+      "Concesión de obras"
+    ],
+    "reference": "LCSP art. 16",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 16.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3239,
+    "question": "¿Qué contrato es el desarrollo de software a medida?",
+    "answer": "Servicios",
+    "options": [
+      "Servicios",
+      "Suministro",
+      "Obras",
+      "Concesión de servicios"
+    ],
+    "reference": "LCSP art. 16.3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 16.3.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3240,
+    "question": "La AGE encarga programar una aplicación exclusiva: ¿qué contrato corresponde?",
+    "answer": "Servicios",
+    "options": [
+      "Suministro",
+      "Obras",
+      "Concesión de servicios",
+      "Servicios"
+    ],
+    "reference": "LCSP art. 16.3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 16.3.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3241,
+    "question": "¿Qué tipo corresponde al software estándar de catálogo?",
+    "answer": "Suministro",
+    "options": [
+      "Servicios a medida",
+      "Concesión de obras",
+      "Suministro",
+      "Obras"
+    ],
+    "reference": "LCSP art. 16",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 16.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3242,
+    "question": "Un órgano adquiere licencias de un programa estándar: ¿qué modalidad es?",
+    "answer": "Suministro",
+    "options": [
+      "Servicios a medida",
+      "Suministro",
+      "Concesión de obras",
+      "Obras"
+    ],
+    "reference": "LCSP art. 16",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 16.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3243,
+    "question": "¿Qué artículo define el contrato de obras?",
+    "answer": "Artículo 13",
+    "options": [
+      "Artículo 13",
+      "Artículo 14",
+      "Artículo 15",
+      "Artículo 17"
+    ],
+    "reference": "LCSP art. 13",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 13.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3244,
+    "question": "Un expediente de construcción busca la definición del tipo contractual: ¿qué precepto corresponde?",
+    "answer": "Artículo 13",
+    "options": [
+      "Artículo 14",
+      "Artículo 15",
+      "Artículo 17",
+      "Artículo 13"
+    ],
+    "reference": "LCSP art. 13",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 13.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3245,
+    "question": "¿Qué elemento caracteriza la concesión de obras?",
+    "answer": "Explotación y riesgo operacional",
+    "options": [
+      "Pago único sin explotación",
+      "Solo entrega de bienes muebles",
+      "Explotación y riesgo operacional",
+      "Únicamente limpieza"
+    ],
+    "reference": "LCSP art. 14",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 14.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3246,
+    "question": "Una empresa construye y explota un aparcamiento a riesgo de la demanda: ¿qué diferencia a esta figura?",
+    "answer": "Explotación y riesgo operacional",
+    "options": [
+      "Pago único sin explotación",
+      "Explotación y riesgo operacional",
+      "Solo entrega de bienes muebles",
+      "Únicamente limpieza"
+    ],
+    "reference": "LCSP art. 14",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 14.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3247,
+    "question": "¿Qué distingue la concesión de servicios?",
+    "answer": "Explotación y riesgo operacional",
+    "options": [
+      "Explotación y riesgo operacional",
+      "Entrega de bienes muebles",
+      "Construcción obligatoria de inmueble",
+      "Precio fijo garantizado sin riesgo"
+    ],
+    "reference": "LCSP art. 15",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 15.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3248,
+    "question": "Una empresa explota una piscina y asume la variación de usuarios: ¿qué rasgo exige esta figura?",
+    "answer": "Explotación y riesgo operacional",
+    "options": [
+      "Entrega de bienes muebles",
+      "Construcción obligatoria de inmueble",
+      "Precio fijo garantizado sin riesgo",
+      "Explotación y riesgo operacional"
+    ],
+    "reference": "LCSP art. 15",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 15.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3249,
+    "question": "¿Cuándo se transfiere riesgo operacional real?",
+    "answer": "Riesgo operacional en condiciones normales",
+    "options": [
+      "Beneficio garantizado",
+      "Solo riesgo de impago de IVA",
+      "Riesgo operacional en condiciones normales",
+      "Ausencia de contrato"
+    ],
+    "reference": "LCSP art. 14.4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 14.4.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3250,
+    "question": "No se asegura a un concesionario la recuperación de inversiones y costes: ¿qué circunstancia concurre?",
+    "answer": "Riesgo operacional en condiciones normales",
+    "options": [
+      "Beneficio garantizado",
+      "Riesgo operacional en condiciones normales",
+      "Solo riesgo de impago de IVA",
+      "Ausencia de contrato"
+    ],
+    "reference": "LCSP art. 14.4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 14.4.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3251,
+    "question": "¿Qué modalidades de riesgo operacional reconoce la ley?",
+    "answer": "Demanda o suministro o ambos",
+    "options": [
+      "Demanda o suministro o ambos",
+      "Solo penal",
+      "Solo político",
+      "Solo laboral interno"
+    ],
+    "reference": "LCSP art. 14.4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 14.4.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3252,
+    "question": "La explotación depende de usuarios y de disponibilidad de la oferta: ¿qué riesgos pueden existir?",
+    "answer": "Demanda o suministro o ambos",
+    "options": [
+      "Solo penal",
+      "Solo político",
+      "Solo laboral interno",
+      "Demanda o suministro o ambos"
+    ],
+    "reference": "LCSP art. 14.4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 14.4.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3253,
+    "question": "¿Cobrar tarifas basta para ser concesionario?",
+    "answer": "No, requiere riesgo operacional",
+    "options": [
+      "Sí, siempre",
+      "Sí, si lo autoriza el alcalde",
+      "No, requiere riesgo operacional",
+      "Solo con duración de 40 años"
+    ],
+    "reference": "LCSP arts. 14-15",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP arts. 14-15.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3254,
+    "question": "Una empresa cobra entradas pero se le garantiza recuperar todos los costes: ¿basta para acreditar concesión?",
+    "answer": "No, requiere riesgo operacional",
+    "options": [
+      "Sí, siempre",
+      "No, requiere riesgo operacional",
+      "Sí, si lo autoriza el alcalde",
+      "Solo con duración de 40 años"
+    ],
+    "reference": "LCSP arts. 14-15",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP arts. 14-15.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3255,
+    "question": "¿Qué es obra de primer establecimiento?",
+    "answer": "Creación de un inmueble inexistente",
+    "options": [
+      "Creación de un inmueble inexistente",
+      "Mantenimiento por uso",
+      "Derribo de un edificio",
+      "Reparación fortuita"
+    ],
+    "reference": "LCSP art. 232",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 232.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3256,
+    "question": "Un solar se transforma en un nuevo edificio público: ¿qué clase de obra se realiza?",
+    "answer": "Creación de un inmueble inexistente",
+    "options": [
+      "Mantenimiento por uso",
+      "Derribo de un edificio",
+      "Reparación fortuita",
+      "Creación de un inmueble inexistente"
+    ],
+    "reference": "LCSP art. 232",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 232.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3257,
+    "question": "¿Qué es obra de reforma?",
+    "answer": "Ampliación o modernización de inmueble",
+    "options": [
+      "Derribo del inmueble",
+      "Solo mantenimiento normal",
+      "Ampliación o modernización de inmueble",
+      "Primera construcción desde cero"
+    ],
+    "reference": "LCSP art. 232",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 232.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3258,
+    "question": "Se amplía y moderniza un inmueble existente: ¿qué categoría de obras corresponde?",
+    "answer": "Ampliación o modernización de inmueble",
+    "options": [
+      "Derribo del inmueble",
+      "Ampliación o modernización de inmueble",
+      "Solo mantenimiento normal",
+      "Primera construcción desde cero"
+    ],
+    "reference": "LCSP art. 232",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 232.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3259,
+    "question": "¿Cuándo una reparación es gran reparación?",
+    "answer": "Afecta fundamentalmente a estructura resistente",
+    "options": [
+      "Afecta fundamentalmente a estructura resistente",
+      "Siempre es obra nueva",
+      "Se limita a limpieza habitual",
+      "Implica demolición total"
+    ],
+    "reference": "LCSP art. 232",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 232.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3260,
+    "question": "Tras un accidente se repara fundamentalmente la estructura resistente: ¿qué clase de obra es?",
+    "answer": "Afecta fundamentalmente a estructura resistente",
+    "options": [
+      "Siempre es obra nueva",
+      "Se limita a limpieza habitual",
+      "Implica demolición total",
+      "Afecta fundamentalmente a estructura resistente"
+    ],
+    "reference": "LCSP art. 232",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 232.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3261,
+    "question": "¿Qué obras remedian el desgaste normal?",
+    "answer": "Conservación y mantenimiento",
+    "options": [
+      "Gran reparación por accidente",
+      "Primer establecimiento",
+      "Conservación y mantenimiento",
+      "Demolición"
+    ],
+    "reference": "LCSP art. 232",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 232.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3262,
+    "question": "Un colegio requiere arreglos por el uso cotidiano: ¿qué obras son?",
+    "answer": "Conservación y mantenimiento",
+    "options": [
+      "Gran reparación por accidente",
+      "Conservación y mantenimiento",
+      "Primer establecimiento",
+      "Demolición"
+    ],
+    "reference": "LCSP art. 232",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 232.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3263,
+    "question": "¿Qué diferencia hay entre restauración y rehabilitación?",
+    "answer": "La rehabilitación admite nueva funcionalidad compatible",
+    "options": [
+      "La rehabilitación admite nueva funcionalidad compatible",
+      "La restauración exige derribo",
+      "La rehabilitación destruye valores históricos",
+      "Ambas siempre son obra nueva"
+    ],
+    "reference": "LCSP art. 232",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 232.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3264,
+    "question": "Un inmueble histórico adopta nueva funcionalidad respetando sus valores: ¿qué intervención encaja?",
+    "answer": "La rehabilitación admite nueva funcionalidad compatible",
+    "options": [
+      "La restauración exige derribo",
+      "La rehabilitación destruye valores históricos",
+      "Ambas siempre son obra nueva",
+      "La rehabilitación admite nueva funcionalidad compatible"
+    ],
+    "reference": "LCSP art. 232",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 232.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3265,
+    "question": "¿Qué requisito general rige el objeto del contrato de obras?",
+    "answer": "Obra completa",
+    "options": [
+      "Cualquier fragmento siempre",
+      "Solo contratación verbal",
+      "Obra completa",
+      "Solo compra de materiales"
+    ],
+    "reference": "LCSP art. 13.3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 13.3.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3266,
+    "question": "Se pretende licitar solo un fragmento sin utilidad independiente: ¿cuál es la regla ordinaria?",
+    "answer": "Obra completa",
+    "options": [
+      "Cualquier fragmento siempre",
+      "Obra completa",
+      "Solo contratación verbal",
+      "Solo compra de materiales"
+    ],
+    "reference": "LCSP art. 13.3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 13.3.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3267,
+    "question": "¿Qué artículo define el contrato mixto?",
+    "answer": "Artículo 18",
+    "options": [
+      "Artículo 18",
+      "Artículo 15",
+      "Artículo 25",
+      "Artículo 107"
+    ],
+    "reference": "LCSP art. 18",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 18.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3268,
+    "question": "Una licitación reúne suministro y servicios vinculados: ¿qué precepto regula la calificación mixta?",
+    "answer": "Artículo 18",
+    "options": [
+      "Artículo 15",
+      "Artículo 25",
+      "Artículo 107",
+      "Artículo 18"
+    ],
+    "reference": "LCSP art. 18",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 18.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3269,
+    "question": "¿Qué condición permite un contrato mixto?",
+    "answer": "Vinculación directa y unidad funcional",
+    "options": [
+      "Ausencia de relación funcional",
+      "Igual importe de IVA",
+      "Vinculación directa y unidad funcional",
+      "Diferentes adjudicadores"
+    ],
+    "reference": "LCSP art. 34.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 34.2.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3270,
+    "question": "Se agrupan prestaciones de clases distintas: ¿qué relación se les exige?",
+    "answer": "Vinculación directa y unidad funcional",
+    "options": [
+      "Ausencia de relación funcional",
+      "Vinculación directa y unidad funcional",
+      "Igual importe de IVA",
+      "Diferentes adjudicadores"
+    ],
+    "reference": "LCSP art. 34.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 34.2.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3271,
+    "question": "¿Cómo se decide entre servicios y suministros en un mixto?",
+    "answer": "Mayor valor estimado",
+    "options": [
+      "Mayor valor estimado",
+      "Menor valor estimado",
+      "IVA mayor",
+      "Servicios siempre"
+    ],
+    "reference": "LCSP art. 18",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 18.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3272,
+    "question": "Un contrato integra suministro por 90.000 euros y servicios por 40.000: ¿qué criterio manda?",
+    "answer": "Mayor valor estimado",
+    "options": [
+      "Menor valor estimado",
+      "IVA mayor",
+      "Servicios siempre",
+      "Mayor valor estimado"
+    ],
+    "reference": "LCSP art. 18",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 18.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3273,
+    "question": "¿Qué regla general rige un mixto de obras y servicios sin concesión?",
+    "answer": "Prestación principal",
+    "options": [
+      "Prestación más barata",
+      "Servicios en todo caso",
+      "Prestación principal",
+      "Fecha del pliego"
+    ],
+    "reference": "LCSP art. 18",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 18.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3274,
+    "question": "Una obra y servicios conexos forman contrato mixto: ¿qué criterio aplica ordinariamente el art. 18?",
+    "answer": "Prestación principal",
+    "options": [
+      "Prestación más barata",
+      "Prestación principal",
+      "Servicios en todo caso",
+      "Fecha del pliego"
+    ],
+    "reference": "LCSP art. 18",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 18.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3275,
+    "question": "¿Dónde se concreta el régimen de efectos de un contrato mixto?",
+    "answer": "PCAP",
+    "options": [
+      "PCAP",
+      "DNI del adjudicatario",
+      "Anuncio de redes sociales",
+      "Acta de la mesa únicamente"
+    ],
+    "reference": "LCSP art. 122.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 122.2.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3276,
+    "question": "La Administración define la ejecución y extinción de un mixto: ¿en qué documento se precisa?",
+    "answer": "PCAP",
+    "options": [
+      "DNI del adjudicatario",
+      "Anuncio de redes sociales",
+      "Acta de la mesa únicamente",
+      "PCAP"
+    ],
+    "reference": "LCSP art. 122.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 122.2.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3277,
+    "question": "¿Cuánto dura como máximo un contrato menor?",
+    "answer": "Un año",
+    "options": [
+      "Dos años",
+      "Cinco años",
+      "Un año",
+      "Nueve meses"
+    ],
+    "reference": "LCSP art. 29.8",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.8.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3278,
+    "question": "Se propone un contrato menor por 24 meses: ¿cuál es el techo?",
+    "answer": "Un año",
+    "options": [
+      "Dos años",
+      "Un año",
+      "Cinco años",
+      "Nueve meses"
+    ],
+    "reference": "LCSP art. 29.8",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.8.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3279,
+    "question": "¿Puede prorrogarse un contrato menor?",
+    "answer": "No",
+    "options": [
+      "No",
+      "Sí, un año",
+      "Sí, hasta cinco años",
+      "Solo suministros"
+    ],
+    "reference": "LCSP art. 29.8",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.8.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3280,
+    "question": "Se pretende prorrogar un contrato menor vencido: ¿qué establece la LCSP?",
+    "answer": "No",
+    "options": [
+      "Sí, un año",
+      "Sí, hasta cinco años",
+      "Solo suministros",
+      "No"
+    ],
+    "reference": "LCSP art. 29.8",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.8.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3281,
+    "question": "¿Qué duración ordinaria máxima tienen los servicios sucesivos?",
+    "answer": "Cinco años",
+    "options": [
+      "Diez años",
+      "Veinticinco años",
+      "Cinco años",
+      "Un año"
+    ],
+    "reference": "LCSP art. 29.4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.4.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3282,
+    "question": "Se pacta limpieza tres años más dos prórrogas anuales: ¿qué máximo ordinario se respeta?",
+    "answer": "Cinco años",
+    "options": [
+      "Diez años",
+      "Cinco años",
+      "Veinticinco años",
+      "Un año"
+    ],
+    "reference": "LCSP art. 29.4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.4.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3283,
+    "question": "¿Cuánto dura como máximo una concesión de obras?",
+    "answer": "Cuarenta años",
+    "options": [
+      "Cuarenta años",
+      "Diez años",
+      "Veinticinco años",
+      "Sesenta años"
+    ],
+    "reference": "LCSP art. 29.6",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.6.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3284,
+    "question": "Una concesión de obras durará 35 años más cinco de prórroga: ¿qué techo alcanza?",
+    "answer": "Cuarenta años",
+    "options": [
+      "Diez años",
+      "Veinticinco años",
+      "Sesenta años",
+      "Cuarenta años"
+    ],
+    "reference": "LCSP art. 29.6",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.6.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3285,
+    "question": "¿Cuánto dura como máximo una concesión de servicios sin obras ordinaria?",
+    "answer": "Veinticinco años",
+    "options": [
+      "Cuarenta años",
+      "Diez años",
+      "Veinticinco años",
+      "Cinco años"
+    ],
+    "reference": "LCSP art. 29.6",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.6.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3286,
+    "question": "Se licita explotación de servicio sin obras ni especialidad sanitaria: ¿cuál es el límite máximo?",
+    "answer": "Veinticinco años",
+    "options": [
+      "Cuarenta años",
+      "Veinticinco años",
+      "Diez años",
+      "Cinco años"
+    ],
+    "reference": "LCSP art. 29.6",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.6.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3287,
+    "question": "¿Cuánto dura como máximo una concesión de servicios sanitarios sin obras?",
+    "answer": "Diez años",
+    "options": [
+      "Diez años",
+      "Veinticinco años",
+      "Cuarenta años",
+      "Cinco años"
+    ],
+    "reference": "LCSP art. 29.6",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.6.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3288,
+    "question": "La concesión es de servicios sanitarios sin obras: ¿qué techo establece el art. 29?",
+    "answer": "Diez años",
+    "options": [
+      "Veinticinco años",
+      "Cuarenta años",
+      "Cinco años",
+      "Diez años"
+    ],
+    "reference": "LCSP art. 29.6",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.6.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3289,
+    "question": "¿Qué duración máxima puede alcanzar una concesión de servicios con obras?",
+    "answer": "Cuarenta años",
+    "options": [
+      "Veinticinco años",
+      "Diez años",
+      "Cuarenta años",
+      "Cinco años"
+    ],
+    "reference": "LCSP art. 29.6",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.6.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3290,
+    "question": "Una concesión de servicios incluye obras y explotación: ¿qué duración máxima contempla la LCSP?",
+    "answer": "Cuarenta años",
+    "options": [
+      "Veinticinco años",
+      "Cuarenta años",
+      "Diez años",
+      "Cinco años"
+    ],
+    "reference": "LCSP art. 29.6",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.6.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3291,
+    "question": "¿Existe un máximo general de cinco años para las obras?",
+    "answer": "No, la duración se justifica según la obra",
+    "options": [
+      "No, la duración se justifica según la obra",
+      "Sí, siempre máximo cinco años",
+      "Solo un año",
+      "Siempre cuarenta años"
+    ],
+    "reference": "LCSP art. 29",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3292,
+    "question": "Un contrato de obras prevé seis años justificados: ¿qué regla de plazo se aplica?",
+    "answer": "No, la duración se justifica según la obra",
+    "options": [
+      "Sí, siempre máximo cinco años",
+      "Solo un año",
+      "Siempre cuarenta años",
+      "No, la duración se justifica según la obra"
+    ],
+    "reference": "LCSP art. 29",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3293,
+    "question": "¿Cómo se acuerda una prórroga contractual ordinaria?",
+    "answer": "Acuerdo expreso, nunca tácito",
+    "options": [
+      "Silencio automáticamente válido",
+      "Acuerdo verbal suficiente",
+      "Acuerdo expreso, nunca tácito",
+      "Resolución judicial siempre"
+    ],
+    "reference": "LCSP art. 29.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.2.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3294,
+    "question": "Nadie manifiesta nada al vencer un servicio: ¿cabe considerar prórroga tácita?",
+    "answer": "Acuerdo expreso, nunca tácito",
+    "options": [
+      "Silencio automáticamente válido",
+      "Acuerdo expreso, nunca tácito",
+      "Acuerdo verbal suficiente",
+      "Resolución judicial siempre"
+    ],
+    "reference": "LCSP art. 29.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.2.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3295,
+    "question": "¿Cuál es el preaviso general para una prórroga?",
+    "answer": "Dos meses",
+    "options": [
+      "Dos meses",
+      "Quince días",
+      "Una semana",
+      "Seis meses"
+    ],
+    "reference": "LCSP art. 29.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.2.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3296,
+    "question": "En un servicio anual se prevé una prórroga ordinaria obligatoria: ¿qué preaviso mínimo aplica salvo excepciones?",
+    "answer": "Dos meses",
+    "options": [
+      "Quince días",
+      "Una semana",
+      "Seis meses",
+      "Dos meses"
+    ],
+    "reference": "LCSP art. 29.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.2.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3297,
+    "question": "¿Qué demora de pago puede excepcionar obligatoriedad de una prórroga?",
+    "answer": "Demora superior a seis meses",
+    "options": [
+      "Retraso de una semana",
+      "Retraso de quince días",
+      "Demora superior a seis meses",
+      "Retraso de un mes"
+    ],
+    "reference": "LCSP art. 29.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.2.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3298,
+    "question": "Una Administración lleva más de seis meses sin pagar: ¿qué circunstancia puede oponerse a la prórroga?",
+    "answer": "Demora superior a seis meses",
+    "options": [
+      "Retraso de una semana",
+      "Demora superior a seis meses",
+      "Retraso de quince días",
+      "Retraso de un mes"
+    ],
+    "reference": "LCSP art. 29.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.2.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3299,
+    "question": "¿Cuánto puede durar una continuidad excepcional del art. 29.4?",
+    "answer": "Nueve meses",
+    "options": [
+      "Nueve meses",
+      "Doce meses",
+      "Dos años",
+      "Quince meses"
+    ],
+    "reference": "LCSP art. 29.4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.4.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3300,
+    "question": "Una incidencia imprevisible retrasa la nueva licitación: ¿qué máximo de prórroga excepcional procede?",
+    "answer": "Nueve meses",
+    "options": [
+      "Doce meses",
+      "Dos años",
+      "Quince meses",
+      "Nueve meses"
+    ],
+    "reference": "LCSP art. 29.4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.4.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3301,
+    "question": "¿Qué antelación general de anuncio requiere la continuidad excepcional?",
+    "answer": "Tres meses",
+    "options": [
+      "Quince días",
+      "Un año",
+      "Tres meses",
+      "Ninguna"
+    ],
+    "reference": "LCSP art. 29.4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.4.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3302,
+    "question": "Para prorrogar excepcionalmente un servicio sucesivo se ha publicado nueva licitación: ¿qué antelación general es precisa?",
+    "answer": "Tres meses",
+    "options": [
+      "Quince días",
+      "Tres meses",
+      "Un año",
+      "Ninguna"
+    ],
+    "reference": "LCSP art. 29.4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.4.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3303,
+    "question": "¿Qué plazo especial rige para invitaciones en acuerdos marco o SDA?",
+    "answer": "Quince días",
+    "options": [
+      "Quince días",
+      "Tres meses",
+      "Seis meses",
+      "Dos meses"
+    ],
+    "reference": "LCSP art. 29.4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.4.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3304,
+    "question": "La nueva adjudicación se tramita por invitación en AM o SDA: ¿cuál es su plazo especial para continuidad excepcional?",
+    "answer": "Quince días",
+    "options": [
+      "Tres meses",
+      "Seis meses",
+      "Dos meses",
+      "Quince días"
+    ],
+    "reference": "LCSP art. 29.4",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 29.4.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3305,
+    "question": "¿Qué importe se compara con umbrales SARA?",
+    "answer": "Valor estimado sin IVA",
+    "options": [
+      "PBL con IVA",
+      "Precio final con IVA",
+      "Valor estimado sin IVA",
+      "Garantía definitiva"
+    ],
+    "reference": "LCSP arts. 19 y 101",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP arts. 19 y 101.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3306,
+    "question": "El PBL lleva IVA y el VE no: ¿qué cuantía debe compararse con el umbral SARA?",
+    "answer": "Valor estimado sin IVA",
+    "options": [
+      "PBL con IVA",
+      "Valor estimado sin IVA",
+      "Precio final con IVA",
+      "Garantía definitiva"
+    ],
+    "reference": "LCSP arts. 19 y 101",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP arts. 19 y 101.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3307,
+    "question": "¿Las prórrogas previstas computan en el valor estimado?",
+    "answer": "Sí, todas las prórrogas previstas",
+    "options": [
+      "Sí, todas las prórrogas previstas",
+      "No, ninguna",
+      "Solo la primera",
+      "Solo las ya ejecutadas"
+    ],
+    "reference": "LCSP art. 101",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 101.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3308,
+    "question": "Un servicio tiene tres años iniciales más dos prórrogas anuales previstas: ¿qué debe incluirse en su VE?",
+    "answer": "Sí, todas las prórrogas previstas",
+    "options": [
+      "No, ninguna",
+      "Solo la primera",
+      "Solo las ya ejecutadas",
+      "Sí, todas las prórrogas previstas"
+    ],
+    "reference": "LCSP art. 101",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 101.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3309,
+    "question": "¿Cuál es el umbral SARA de obras en 2026-2027?",
+    "answer": "5.404.000 euros",
+    "options": [
+      "5.538.000 euros",
+      "221.000 euros",
+      "5.404.000 euros",
+      "750.000 euros"
+    ],
+    "reference": "LCSP art. 20; HAC/1517/2025",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 20; HAC/1517/2025.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3310,
+    "question": "Una obra de poder adjudicador tiene VE exactamente 5.404.000 euros: ¿qué umbral alcanza?",
+    "answer": "5.404.000 euros",
+    "options": [
+      "5.538.000 euros",
+      "5.404.000 euros",
+      "221.000 euros",
+      "750.000 euros"
+    ],
+    "reference": "LCSP art. 20; HAC/1517/2025",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 20; HAC/1517/2025.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3311,
+    "question": "¿Cuál es el umbral de suministros AGE en 2026-2027?",
+    "answer": "140.000 euros",
+    "options": [
+      "140.000 euros",
+      "216.000 euros",
+      "143.000 euros",
+      "750.000 euros"
+    ],
+    "reference": "LCSP art. 21; HAC/1517/2025",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 21; HAC/1517/2025.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3312,
+    "question": "Un ministerio licita suministros por VE de 140.000 euros: ¿qué umbral general alcanza?",
+    "answer": "140.000 euros",
+    "options": [
+      "216.000 euros",
+      "143.000 euros",
+      "750.000 euros",
+      "140.000 euros"
+    ],
+    "reference": "LCSP art. 21; HAC/1517/2025",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 21; HAC/1517/2025.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3313,
+    "question": "¿Cuál es el umbral SARA de servicios municipales ordinarios en 2026-2027?",
+    "answer": "216.000 euros",
+    "options": [
+      "140.000 euros",
+      "750.000 euros",
+      "216.000 euros",
+      "5.404.000 euros"
+    ],
+    "reference": "LCSP art. 22; HAC/1517/2025",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 22; HAC/1517/2025.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3314,
+    "question": "Un ayuntamiento licita un servicio por 216.000 euros de VE: ¿qué umbral general aplica?",
+    "answer": "216.000 euros",
+    "options": [
+      "140.000 euros",
+      "216.000 euros",
+      "750.000 euros",
+      "5.404.000 euros"
+    ],
+    "reference": "LCSP art. 22; HAC/1517/2025",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 22; HAC/1517/2025.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3315,
+    "question": "¿Qué umbral SARA corresponde a servicios sociales del anexo IV?",
+    "answer": "750.000 euros",
+    "options": [
+      "750.000 euros",
+      "216.000 euros",
+      "140.000 euros",
+      "5.404.000 euros"
+    ],
+    "reference": "LCSP art. 22",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 22.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3316,
+    "question": "Se licita un servicio social del anexo IV: ¿qué umbral específico se establece?",
+    "answer": "750.000 euros",
+    "options": [
+      "216.000 euros",
+      "140.000 euros",
+      "5.404.000 euros",
+      "750.000 euros"
+    ],
+    "reference": "LCSP art. 22",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 22.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3317,
+    "question": "¿Cómo se comprueba SARA en contratos por lotes?",
+    "answer": "Sumar VE de todos los lotes",
+    "options": [
+      "Mirar solo el lote más barato",
+      "Contar solo IVA",
+      "Sumar VE de todos los lotes",
+      "Excluir lotes pequeños siempre"
+    ],
+    "reference": "LCSP arts. 20-22",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP arts. 20-22.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3318,
+    "question": "Se licita en seis lotes una prestación: ¿qué regla se aplica para el umbral general?",
+    "answer": "Sumar VE de todos los lotes",
+    "options": [
+      "Mirar solo el lote más barato",
+      "Sumar VE de todos los lotes",
+      "Contar solo IVA",
+      "Excluir lotes pequeños siempre"
+    ],
+    "reference": "LCSP arts. 20-22",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP arts. 20-22.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3319,
+    "question": "¿Qué importe individual permite exceptuar determinados lotes de obras?",
+    "answer": "Inferior a un millón de euros",
+    "options": [
+      "Inferior a un millón de euros",
+      "Igual o inferior a un millón",
+      "Hasta 5.404.000 euros",
+      "Superior a un millón"
+    ],
+    "reference": "LCSP art. 20.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 20.2.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3320,
+    "question": "Un lote de obras vale un millón exacto: ¿cumple el requisito individual para exceptuar SARA?",
+    "answer": "Inferior a un millón de euros",
+    "options": [
+      "Igual o inferior a un millón",
+      "Hasta 5.404.000 euros",
+      "Superior a un millón",
+      "Inferior a un millón de euros"
+    ],
+    "reference": "LCSP art. 20.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 20.2.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3321,
+    "question": "¿Qué importe individual permite exceptuar lotes de suministros y servicios?",
+    "answer": "Inferior a 80.000 euros",
+    "options": [
+      "Igual o inferior a 80.000 euros",
+      "Inferior a 216.000 euros",
+      "Inferior a 80.000 euros",
+      "Igual o inferior a 140.000 euros"
+    ],
+    "reference": "LCSP arts. 21.2-22.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP arts. 21.2-22.2.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3322,
+    "question": "Un lote de servicios vale exactamente 80.000 euros: ¿cumple el requisito individual para exceptuar SARA?",
+    "answer": "Inferior a 80.000 euros",
+    "options": [
+      "Igual o inferior a 80.000 euros",
+      "Inferior a 80.000 euros",
+      "Inferior a 216.000 euros",
+      "Igual o inferior a 140.000 euros"
+    ],
+    "reference": "LCSP arts. 21.2-22.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP arts. 21.2-22.2.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3323,
+    "question": "¿Qué límite conjunto tienen los lotes exceptuados de SARA?",
+    "answer": "20 por ciento",
+    "options": [
+      "20 por ciento",
+      "10 por ciento",
+      "30 por ciento",
+      "50 por ciento"
+    ],
+    "reference": "LCSP arts. 20-22",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP arts. 20-22.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3324,
+    "question": "Varios lotes pequeños se quieren exceptuar: ¿qué máximo pueden representar sobre el VE agregado?",
+    "answer": "20 por ciento",
+    "options": [
+      "10 por ciento",
+      "30 por ciento",
+      "50 por ciento",
+      "20 por ciento"
+    ],
+    "reference": "LCSP arts. 20-22",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP arts. 20-22.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3325,
+    "question": "¿Qué ayuda directa requiere contrato subvencionado SARA?",
+    "answer": "Más del 50 por ciento",
+    "options": [
+      "Al menos el 40 por ciento",
+      "Al menos el 50 por ciento",
+      "Más del 50 por ciento",
+      "Cualquier porcentaje"
+    ],
+    "reference": "LCSP art. 23",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 23.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3326,
+    "question": "La subvención directa de un PA cubre exactamente el 50 % de una obra: ¿qué porcentaje exige el art. 23?",
+    "answer": "Más del 50 por ciento",
+    "options": [
+      "Al menos el 40 por ciento",
+      "Más del 50 por ciento",
+      "Al menos el 50 por ciento",
+      "Cualquier porcentaje"
+    ],
+    "reference": "LCSP art. 23",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 23.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3327,
+    "question": "¿Qué umbral del art. 23 se aplica a servicios ligados a ciertas obras subvencionadas?",
+    "answer": "216.000 euros",
+    "options": [
+      "216.000 euros",
+      "140.000 euros",
+      "80.000 euros",
+      "750.000 euros"
+    ],
+    "reference": "LCSP art. 23",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 23.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3328,
+    "question": "Una obra subvencionada del art. 23 requiere servicios vinculados: ¿qué umbral de servicios aplica?",
+    "answer": "216.000 euros",
+    "options": [
+      "140.000 euros",
+      "80.000 euros",
+      "750.000 euros",
+      "216.000 euros"
+    ],
+    "reference": "LCSP art. 23",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 23.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3329,
+    "question": "¿Puede ser SARA un contrato privado de un PA?",
+    "answer": "Sí, si reúne requisitos de sujeto, objeto y VE",
+    "options": [
+      "No, solo administrativos",
+      "No, los PA no AAPP nunca son SARA",
+      "Sí, si reúne requisitos de sujeto, objeto y VE",
+      "Solo concesiones sanitarias"
+    ],
+    "reference": "LCSP arts. 19-26",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP arts. 19-26.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3330,
+    "question": "Una fundación pública no AAPP licita por encima de umbral: ¿puede contratar privadamente y ser SARA?",
+    "answer": "Sí, si reúne requisitos de sujeto, objeto y VE",
+    "options": [
+      "No, solo administrativos",
+      "Sí, si reúne requisitos de sujeto, objeto y VE",
+      "No, los PA no AAPP nunca son SARA",
+      "Solo concesiones sanitarias"
+    ],
+    "reference": "LCSP arts. 19-26",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP arts. 19-26.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3331,
+    "question": "¿No SARA equivale siempre a exclusión total de la LCSP?",
+    "answer": "No, solo puede excluir régimen armonizado",
+    "options": [
+      "No, solo puede excluir régimen armonizado",
+      "Sí, toda LCSP queda inaplicable",
+      "Se convierte en contrato laboral",
+      "Pasa a concesión de obras"
+    ],
+    "reference": "LCSP art. 19.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 19.2.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3332,
+    "question": "Un servicio jurídico entra en una excepción art. 19.2: ¿cuál es el efecto jurídico?",
+    "answer": "No, solo puede excluir régimen armonizado",
+    "options": [
+      "Sí, toda LCSP queda inaplicable",
+      "Se convierte en contrato laboral",
+      "Pasa a concesión de obras",
+      "No, solo puede excluir régimen armonizado"
+    ],
+    "reference": "LCSP art. 19.2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 19.2.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3333,
+    "question": "¿Puede una AAPP celebrar contratos privados?",
+    "answer": "Sí, en supuestos legales",
+    "options": [
+      "No, nunca",
+      "Solo contratos laborales",
+      "Sí, en supuestos legales",
+      "Solo si es sociedad mercantil"
+    ],
+    "reference": "LCSP arts. 25-26",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP arts. 25-26.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3334,
+    "question": "Un ministerio contrata actuación artística de los supuestos exceptuados: ¿qué regla sobre naturaleza se aplica?",
+    "answer": "Sí, en supuestos legales",
+    "options": [
+      "No, nunca",
+      "Sí, en supuestos legales",
+      "Solo contratos laborales",
+      "Solo si es sociedad mercantil"
+    ],
+    "reference": "LCSP arts. 25-26",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP arts. 25-26.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3335,
+    "question": "¿Qué naturaleza tiene el contrato de una entidad del sector público que no es AAPP?",
+    "answer": "Privada",
+    "options": [
+      "Privada",
+      "Administrativa siempre",
+      "Laboral necesariamente",
+      "Concesional necesariamente"
+    ],
+    "reference": "LCSP art. 26",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 26.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3336,
+    "question": "Una fundación pública no AAPP firma contrato: ¿qué naturaleza le reconoce el art. 26?",
+    "answer": "Privada",
+    "options": [
+      "Administrativa siempre",
+      "Laboral necesariamente",
+      "Concesional necesariamente",
+      "Privada"
+    ],
+    "reference": "LCSP art. 26",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 26.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3337,
+    "question": "¿Qué jurisdicción conoce normalmente de adjudicación de privados de AAPP?",
+    "answer": "Contencioso-administrativo",
+    "options": [
+      "Civil",
+      "Social",
+      "Contencioso-administrativo",
+      "Militar"
+    ],
+    "reference": "LCSP art. 27",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 27.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3338,
+    "question": "Se impugna adjudicación privada de un ministerio: ¿qué orden judicial conoce en general?",
+    "answer": "Contencioso-administrativo",
+    "options": [
+      "Civil",
+      "Contencioso-administrativo",
+      "Social",
+      "Militar"
+    ],
+    "reference": "LCSP art. 27",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 27.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3339,
+    "question": "¿Qué jurisdicción conoce normalmente de efectos de contratos privados?",
+    "answer": "Civil con excepciones legales",
+    "options": [
+      "Civil con excepciones legales",
+      "Social siempre",
+      "Penal siempre",
+      "Contencioso siempre"
+    ],
+    "reference": "LCSP art. 27",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 27.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3340,
+    "question": "Surge discusión por pago durante ejecución de contrato privado: ¿qué orden conoce como regla?",
+    "answer": "Civil con excepciones legales",
+    "options": [
+      "Social siempre",
+      "Penal siempre",
+      "Contencioso siempre",
+      "Civil con excepciones legales"
+    ],
+    "reference": "LCSP art. 27",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 27.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3341,
+    "question": "¿Qué jurisdicción conoce de efectos y extinción de contratos administrativos?",
+    "answer": "Contencioso-administrativo",
+    "options": [
+      "Civil",
+      "Social",
+      "Contencioso-administrativo",
+      "Mercantil"
+    ],
+    "reference": "LCSP art. 27",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 27.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3342,
+    "question": "Se impugna resolución de contrato administrativo de obras: ¿qué orden conoce?",
+    "answer": "Contencioso-administrativo",
+    "options": [
+      "Civil",
+      "Contencioso-administrativo",
+      "Social",
+      "Mercantil"
+    ],
+    "reference": "LCSP art. 27",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 27.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3343,
+    "question": "¿Qué artículo califica contratos administrativos de AAPP?",
+    "answer": "Artículo 25",
+    "options": [
+      "Artículo 25",
+      "Artículo 16",
+      "Artículo 19",
+      "Artículo 63"
+    ],
+    "reference": "LCSP art. 25",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 1,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 25.",
+    "format": "memoria",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3344,
+    "question": "Un organismo autónomo licita obras típicas: ¿qué artículo permite calificar la naturaleza?",
+    "answer": "Artículo 25",
+    "options": [
+      "Artículo 16",
+      "Artículo 19",
+      "Artículo 63",
+      "Artículo 25"
+    ],
+    "reference": "LCSP art. 25",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 25.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3345,
+    "question": "Supuesto de contraste 1: Una licitación limita artificialmente la concurrencia: ¿qué materia regula el art. 1? Seleccione la respuesta jurídicamente correcta.",
+    "answer": "Principios y objeto de la contratación",
+    "options": [
+      "Principios y objeto de la contratación",
+      "Revisión de precios",
+      "Garantía definitiva",
+      "Clasificación de empresas"
+    ],
+    "reference": "LCSP art. 1",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 1.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3346,
+    "question": "Supuesto de contraste 2: Una pregunta menciona 2014/25/UE entre las transpuestas directamente: ¿qué pareja es correcta? Seleccione la respuesta jurídicamente correcta.",
+    "answer": "Directivas 2014/23 y 2014/24",
+    "options": [
+      "Directivas 2004/17 y 2004/18",
+      "Directivas 2014/23 y 2014/25",
+      "Directivas 2014/23 y 2014/24",
+      "Directivas 2014/24 y 2014/25"
+    ],
+    "reference": "Preámbulo LCSP",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: Preámbulo LCSP.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3347,
+    "question": "Supuesto de contraste 3: ¿Dónde se estudian las juntas, órganos consultivos y registros de contratación? Seleccione la respuesta jurídicamente correcta.",
+    "answer": "Libro IV",
+    "options": [
+      "Libro IV",
+      "Libro II",
+      "Libro III",
+      "Libro I"
+    ],
+    "reference": "Estructura LCSP",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: Estructura LCSP.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3348,
+    "question": "Supuesto de contraste 4: Un órgano afirma que siempre debe adjudicar la opción más barata: ¿qué finalidad legal debe considerar? Seleccione la respuesta jurídicamente correcta.",
+    "answer": "Mejor relación calidad-precio",
+    "options": [
+      "Máxima duración del contrato",
+      "Arraigo territorial",
+      "Mejor relación calidad-precio",
+      "Solo menor precio"
+    ],
+    "reference": "Preámbulo LCSP",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: Preámbulo LCSP.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3349,
+    "question": "Supuesto de contraste 5: Se puntúa la maquinaria menos contaminante para prestar el servicio: ¿qué condición ha de concurrir? Seleccione la respuesta jurídicamente correcta.",
+    "answer": "Vinculación al objeto del contrato",
+    "options": [
+      "Vinculación al objeto del contrato",
+      "Exclusividad de pymes",
+      "Valor estimado inferior a 15.000 euros",
+      "Domicilio local"
+    ],
+    "reference": "LCSP art. 1.3",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 1.3.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  },
+  {
+    "id": 3350,
+    "question": "Supuesto de contraste 6: Una empresa obtiene utilidad económica indirecta por una contratación: ¿qué criterio de onerosidad aplica? Seleccione la respuesta jurídicamente correcta.",
+    "answer": "Beneficio económico directo o indirecto",
+    "options": [
+      "Solo beneficio del poder adjudicador",
+      "Siempre exige contrato SARA",
+      "Beneficio económico directo o indirecto",
+      "Solo pagos en efectivo"
+    ],
+    "reference": "LCSP art. 2",
+    "category": "Contratos del Sector Público",
+    "topic": "Tema 1 · Título preliminar",
+    "difficulty": 2,
+    "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
+    "explanation": "Base normativa: LCSP art. 2.",
+    "format": "inap",
+    "subtopic": "Título preliminar"
+  }
+]
