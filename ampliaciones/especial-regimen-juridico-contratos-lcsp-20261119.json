@@ -5,7 +5,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3608,
     "question": "Clasifica jurídicamente esta operación: Un ministerio celebra un contrato de obras ordinarias para reformar su sede.",
     "answer": "Administrativo típico",
@@ -17,7 +17,7 @@
     ],
     "reference": "LCSP Arts. 25.1.a y 13",
     "explanation": "Los contratos de obras celebrados por una AAPP son administrativos típicos.",
-    "difficulty": 3
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -25,7 +25,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3609,
     "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Un ayuntamiento contrata la limpieza habitual de sus oficinas como servicio.",
     "answer": "Administrativo típico",
@@ -37,7 +37,7 @@
     ],
     "reference": "LCSP Arts. 25.1.a y 17",
     "explanation": "Un servicio ordinario contratado por AAPP es administrativo.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -57,7 +57,7 @@
     ],
     "reference": "LCSP Arts. 25.1.a y 16",
     "explanation": "La adquisición de bienes muebles por AAPP es contrato administrativo típico de suministro.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -65,7 +65,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3611,
     "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una universidad pública compra equipamiento de laboratorio a través de suministro.",
     "answer": "Administrativo típico",
@@ -77,7 +77,7 @@
     ],
     "reference": "LCSP Arts. 3.2.a y 25.1.a",
     "explanation": "La universidad pública es AAPP; el suministro ordinario es administrativo.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -85,7 +85,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3612,
     "question": "Clasifica jurídicamente esta operación: Un cabildo insular licita una obra de nueva construcción.",
     "answer": "Administrativo típico",
@@ -97,7 +97,7 @@
     ],
     "reference": "LCSP Art. 25.1.a",
     "explanation": "Un cabildo es AAPP y las obras ordinarias tienen naturaleza administrativa.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -117,7 +117,7 @@
     ],
     "reference": "LCSP Arts. 3.2.a y 25.1.a",
     "explanation": "Los servicios comunes de la SS son AAPP.",
-    "difficulty": 3
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -125,7 +125,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3614,
     "question": "Clasifica jurídicamente esta operación: Una autoridad administrativa independiente contrata suministros de oficina.",
     "answer": "Administrativo típico",
@@ -137,7 +137,7 @@
     ],
     "reference": "LCSP Arts. 3.2.a y 25.1.a",
     "explanation": "Una AAI es AAPP; sus suministros ordinarios son administrativos.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -145,7 +145,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3615,
     "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una AAPP contrata la explotación de una piscina pública transfiriendo riesgo operacional real.",
     "answer": "Administrativo típico",
@@ -157,7 +157,7 @@
     ],
     "reference": "LCSP Arts. 15 y 25.1.a",
     "explanation": "La concesión de servicios de una AAPP es contrato administrativo típico.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -177,7 +177,7 @@
     ],
     "reference": "LCSP Arts. 14 y 25.1.a",
     "explanation": "La concesión de obras celebrada por AAPP tiene naturaleza administrativa típica.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -185,7 +185,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3617,
     "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una diputación adjudica un servicio ordinario de limpieza viaria sin transferir riesgo operacional.",
     "answer": "Administrativo típico",
@@ -197,7 +197,7 @@
     ],
     "reference": "LCSP Arts. 17 y 25.1.a",
     "explanation": "Es contrato administrativo de servicios, no concesión.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -205,7 +205,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3618,
     "question": "Clasifica jurídicamente esta operación: Una comunidad autónoma encarga un programa informático desarrollado a medida.",
     "answer": "Administrativo típico",
@@ -217,7 +217,7 @@
     ],
     "reference": "LCSP Arts. 16.3 y 25.1.a",
     "explanation": "El software a medida se considera servicio; contratado por AAPP es administrativo típico.",
-    "difficulty": 3
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -237,7 +237,7 @@
     ],
     "reference": "LCSP Arts. 16 y 25.1.a",
     "explanation": "El suministro ordinario de una AAPP tiene naturaleza administrativa.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -245,7 +245,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3620,
     "question": "Clasifica jurídicamente esta operación: Un ayuntamiento contrata reparación de una calle pública mediante obras.",
     "answer": "Administrativo típico",
@@ -257,7 +257,7 @@
     ],
     "reference": "LCSP Arts. 13 y 25.1.a",
     "explanation": "Las obras contratadas por AAPP son contratos administrativos típicos.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -265,7 +265,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3621,
     "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una universidad pública celebra un contrato ordinario de servicios de vigilancia.",
     "answer": "Administrativo típico",
@@ -277,7 +277,7 @@
     ],
     "reference": "LCSP Arts. 3 y 25.1.a",
     "explanation": "Una universidad pública es AAPP y los servicios ordinarios son administrativos.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -297,7 +297,7 @@
     ],
     "reference": "LCSP Arts. 3.2.b y 25.1.a",
     "explanation": "La condición de AAPP del consorcio determina naturaleza administrativa para suministro típico.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -305,7 +305,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3623,
     "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Un ministerio contrata un servicio ordinario de consultoría técnica no comprendido en las excepciones financieras ni artísticas.",
     "answer": "Administrativo típico",
@@ -317,7 +317,7 @@
     ],
     "reference": "LCSP Art. 25.1.a",
     "explanation": "Los servicios ordinarios de las AAPP son administrativos.",
-    "difficulty": 3
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -325,7 +325,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3624,
     "question": "Clasifica jurídicamente esta operación: Una AAPP celebra un contrato de objeto distinto a las modalidades típicas, expresamente calificado como administrativo especial por una ley.",
     "answer": "Administrativo especial",
@@ -365,7 +365,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3626,
     "question": "Clasifica jurídicamente esta operación: Una AAPP contrata prestación de objeto distinto de obras, suministro, servicio o concesión, que satisface directa e inmediatamente una finalidad pública de su específica competencia conforme al art. 25.1.b.",
     "answer": "Administrativo especial",
@@ -377,7 +377,7 @@
     ],
     "reference": "LCSP Art. 25.1.b",
     "explanation": "Este es uno de los criterios legales para naturaleza administrativa especial.",
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "category": "Contratos del Sector Público",
@@ -385,7 +385,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3627,
     "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una fundación pública celebra un contrato de servicios de limpieza.",
     "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
@@ -417,7 +417,7 @@
     ],
     "reference": "LCSP Arts. 3.3.c y 26.1.b",
     "explanation": "La mutua es PA no AAPP y su contrato privado.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "category": "Contratos del Sector Público",
@@ -425,7 +425,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3629,
     "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una sociedad mercantil pública sin condición de AAPP contrata la construcción de un edificio.",
     "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
@@ -445,7 +445,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3630,
     "question": "Clasifica jurídicamente esta operación: Una EPE con actividad comercial y que no es PA contrata suministros.",
     "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
@@ -485,7 +485,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3632,
     "question": "Clasifica jurídicamente esta operación: Una AAPP contrata una actuación de interpretación artística incluida en los códigos CPV exceptuados del art. 25.1.a.1.º.",
     "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
@@ -505,7 +505,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3633,
     "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una AAPP contrata un espectáculo de los códigos CPV exceptuados en el art. 25.1.a.1.º.",
     "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
@@ -517,7 +517,7 @@
     ],
     "reference": "LCSP Arts. 25.1.a.1.º y 26",
     "explanation": "Los espectáculos incluidos en los CPV indicados son excepción de naturaleza privada.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "category": "Contratos del Sector Público",
@@ -545,7 +545,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3635,
     "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una diputación suscribe una revista profesional mediante un contrato.",
     "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
@@ -565,7 +565,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3636,
     "question": "Clasifica jurídicamente esta operación: Un organismo autónomo adquiere una suscripción a una publicación periódica.",
     "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
@@ -605,7 +605,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3638,
     "question": "Clasifica jurídicamente esta operación: Una AAPP contrata el acceso por suscripción a una base de datos de jurisprudencia.",
     "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
@@ -617,7 +617,7 @@
     ],
     "reference": "LCSP Arts. 25.1.a.2.º y 26",
     "explanation": "La suscripción a bases de datos está expresamente exceptuada del contrato administrativo.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "category": "Contratos del Sector Público",
@@ -625,7 +625,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3639,
     "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Un consorcio que es PA pero no AAPP celebra un contrato de servicios ordinarios.",
     "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
@@ -665,7 +665,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3641,
     "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una fundación pública concierta suministros para un laboratorio.",
     "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
@@ -685,7 +685,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3642,
     "question": "Clasifica jurídicamente esta operación: Una entidad de derecho público PA que no reúne art. 3.2.b como AAPP adjudica obras.",
     "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
@@ -717,7 +717,7 @@
     ],
     "reference": "LCSP Arts. 25.1.a.1.º y 26",
     "explanation": "Esa contratación artística de una AAPP es privada.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "category": "Contratos del Sector Público",
@@ -725,7 +725,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3644,
     "question": "Clasifica jurídicamente esta operación: Un ayuntamiento compra un solar mediante compraventa patrimonial.",
     "answer": "Negocio o relación excluidos de la LCSP",
@@ -745,7 +745,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3645,
     "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una AAPP arrienda un local comercial existente para oficinas mediante contrato patrimonial.",
     "answer": "Negocio o relación excluidos de la LCSP",
@@ -785,7 +785,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3647,
     "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una Administración concierta la relación de servicio de un funcionario público.",
     "answer": "Negocio o relación excluidos de la LCSP",
@@ -805,7 +805,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3648,
     "question": "Clasifica jurídicamente esta operación: Una Administración celebra un contrato de trabajo laboral con una persona empleada.",
     "answer": "Negocio o relación excluidos de la LCSP",
@@ -817,7 +817,7 @@
     ],
     "reference": "LCSP Art. 11.1",
     "explanation": "Los contratos regulados en legislación laboral se excluyen de la LCSP.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "category": "Contratos del Sector Público",
@@ -857,7 +857,7 @@
     ],
     "reference": "LCSP Art. 27.1.a",
     "explanation": "Preparación de contratos administrativos: contencioso-administrativo.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -877,7 +877,7 @@
     ],
     "reference": "LCSP Art. 27.1.a",
     "explanation": "La adjudicación de contrato administrativo se somete al orden contencioso.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -885,7 +885,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3652,
     "question": "¿Qué orden jurisdiccional resulta competente en este supuesto? La Administración impone penalidades en ejecución de un contrato administrativo de servicios y surge controversia.",
     "answer": "Jurisdicción contencioso-administrativa",
@@ -897,7 +897,7 @@
     ],
     "reference": "LCSP Art. 27.1.a",
     "explanation": "Los efectos del contrato administrativo corresponden al contencioso.",
-    "difficulty": 3
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -917,7 +917,7 @@
     ],
     "reference": "LCSP Art. 27.1.a",
     "explanation": "La modificación del contrato administrativo corresponde al contencioso.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -937,7 +937,7 @@
     ],
     "reference": "LCSP Art. 27.1.a",
     "explanation": "La extinción del contrato administrativo se revisa en lo contencioso.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "category": "Contratos del Sector Público",
@@ -965,7 +965,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3656,
     "question": "¿Qué orden jurisdiccional resulta competente en este supuesto? Un licitador recurre la adjudicación de una base de datos de suscripción por un organismo autónomo.",
     "answer": "Jurisdicción contencioso-administrativa",
@@ -977,7 +977,7 @@
     ],
     "reference": "LCSP Art. 27.1.b",
     "explanation": "Adjudicación de contratos privados de AAPP: contencioso.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "category": "Contratos del Sector Público",
@@ -1045,7 +1045,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3660,
     "question": "¿Qué orden jurisdiccional resulta competente en este supuesto? Una mutua colaboradora PA no AAPP adjudica servicios; se impugna esa adjudicación.",
     "answer": "Jurisdicción contencioso-administrativa",
@@ -1057,7 +1057,7 @@
     ],
     "reference": "LCSP Art. 27.1.c",
     "explanation": "La adjudicación de PA no AAPP corresponde al contencioso.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "category": "Contratos del Sector Público",
@@ -1125,7 +1125,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3664,
     "question": "¿Qué orden jurisdiccional resulta competente en este supuesto? Una sociedad mercantil pública no PA impone condiciones de licitación y un candidato impugna su preparación.",
     "answer": "Jurisdicción contencioso-administrativa",
@@ -1137,7 +1137,7 @@
     ],
     "reference": "LCSP Art. 27.1.d",
     "explanation": "La preparación de contratos de SP no PA corresponde a lo contencioso.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "category": "Contratos del Sector Público",
@@ -1205,7 +1205,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3668,
     "question": "¿Qué orden jurisdiccional resulta competente en este supuesto? Se impugna la preparación de un contrato subvencionado SARA del art. 23.",
     "answer": "Jurisdicción contencioso-administrativa",
@@ -1237,7 +1237,7 @@
     ],
     "reference": "LCSP Art. 27.1.f",
     "explanation": "La adjudicación de contratos subvencionados art. 23 corresponde al contencioso.",
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "category": "Contratos del Sector Público",
@@ -1257,7 +1257,7 @@
     ],
     "reference": "LCSP Art. 27.1.f",
     "explanation": "También la modificación de esos contratos subvencionados es contenciosa.",
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "category": "Contratos del Sector Público",
@@ -1277,7 +1277,7 @@
     ],
     "reference": "LCSP Art. 27.1.b",
     "explanation": "La excepción específica para esta modificación SARA corresponde al contencioso.",
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "category": "Contratos del Sector Público",
@@ -1285,7 +1285,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3672,
     "question": "¿Qué orden jurisdiccional resulta competente en este supuesto? Una fundación pública PA no AAPP modifica un contrato y un tercero denuncia que, por infringir los arts. 204 y 205, debía convocarse nueva adjudicación.",
     "answer": "Jurisdicción contencioso-administrativa",
@@ -1317,7 +1317,7 @@
     ],
     "reference": "LCSP Art. 27.1.c",
     "explanation": "Se discute la necesidad de nueva adjudicación, supuesto contencioso.",
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "category": "Contratos del Sector Público",
@@ -1337,7 +1337,7 @@
     ],
     "reference": "LCSP Art. 27.2.c",
     "explanation": "La excepción a jurisdicción civil de financiación concesional es lo contencioso.",
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "category": "Contratos del Sector Público",
@@ -1357,7 +1357,7 @@
     ],
     "reference": "LCSP Art. 27.2.c",
     "explanation": "El ejercicio de potestades administrativas de concedente se revisa en lo contencioso.",
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "category": "Contratos del Sector Público",
@@ -1365,7 +1365,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3676,
     "question": "¿Qué orden jurisdiccional resulta competente en este supuesto? El contratista reclama el pago de la ejecución de una suscripción privada a revista contratada por una AAPP; no se discute preparación ni adjudicación.",
     "answer": "Jurisdicción civil",
@@ -1377,7 +1377,7 @@
     ],
     "reference": "LCSP Art. 27.2.a",
     "explanation": "Efectos de contratos privados AAPP: civil, con excepciones específicas.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "category": "Contratos del Sector Público",
@@ -1445,7 +1445,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3680,
     "question": "¿Qué orden jurisdiccional resulta competente en este supuesto? Una sociedad mercantil pública PA no AAPP discute el precio por un servicio ya prestado; no se denuncia modificación ilegal de arts. 204-205.",
     "answer": "Jurisdicción civil",
@@ -1525,7 +1525,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3684,
     "question": "¿Qué orden jurisdiccional resulta competente en este supuesto? El conflicto se refiere a la financiación privada de una concesión de obras, sin ejercicio de potestades públicas por el concedente.",
     "answer": "Jurisdicción civil",
@@ -1557,7 +1557,7 @@
     ],
     "reference": "LCSP Art. 27.2.c",
     "explanation": "El orden civil conoce cuestiones litigiosas de financiación privada concesional.",
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "category": "Contratos del Sector Público",
@@ -1577,7 +1577,7 @@
     ],
     "reference": "LCSP Art. 27.2.a",
     "explanation": "Efectos de contratos privados AAPP se conocen en civil como regla.",
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "category": "Contratos del Sector Público",
@@ -1597,7 +1597,7 @@
     ],
     "reference": "LCSP Art. 27.2.a",
     "explanation": "Es cuestión de efectos de contrato privado, jurisdicción civil.",
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "category": "Contratos del Sector Público",
@@ -1605,7 +1605,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3688,
     "question": "¿Qué normas rigen, con carácter principal, la preparación y adjudicación de un contrato administrativo típico de una AAPP?",
     "answer": "La LCSP y sus disposiciones de desarrollo",
@@ -1685,7 +1685,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3692,
     "question": "Una AAPP formaliza contrato privado de suscripción a base de datos. En defecto de reglas especiales, ¿qué régimen rige su preparación?",
     "answer": "Las reglas de preparación y adjudicación LCSP aplicables a contratos privados de AAPP",
@@ -1697,7 +1697,7 @@
     ],
     "reference": "LCSP Art. 26.2",
     "explanation": "Aunque privado, preparación de AAPP sigue reglas LCSP aplicables.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "category": "Contratos del Sector Público",
@@ -1765,7 +1765,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3696,
     "question": "Una AAPP celebra contrato privado financiero del art. 25.1.a.1.º. ¿Qué reglas de LCSP se aplican a su preparación y adjudicación?",
     "answer": "Libros I y II, en los términos del art. 26.2",
@@ -1797,7 +1797,7 @@
     ],
     "reference": "LCSP Art. 26.2 párrafo segundo",
     "explanation": "Las excepciones del art. 26.2 operan cuando está sujeto a regulación armonizada.",
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "category": "Contratos del Sector Público",
@@ -1845,7 +1845,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3700,
     "question": "Una mutua colaboradora PA no AAPP prepara contrato de suministros. ¿Qué régimen formal de licitación le corresponde?",
     "answer": "Título I del Libro III de la LCSP",
@@ -1917,7 +1917,7 @@
     ],
     "reference": "LCSP Arts. 26.3 y 319",
     "explanation": "La LCSP mantiene reglas de modificación para PA no AAPP.",
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "category": "Contratos del Sector Público",
@@ -1925,7 +1925,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3704,
     "question": "En contratos de PA no AAPP, ¿cuál de estas materias se mantiene regulada por reglas LCSP además del Derecho privado?",
     "answer": "Condiciones especiales de ejecución",
@@ -1937,7 +1937,7 @@
     ],
     "reference": "LCSP Arts. 26.3 y 319",
     "explanation": "Las condiciones especiales de ejecución figuran en el art. 319.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "category": "Contratos del Sector Público",
@@ -2005,7 +2005,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3708,
     "question": "Una sociedad del SP no PA celebra contrato privado de servicios. ¿Qué artículos LCSP rigen su preparación y adjudicación?",
     "answer": "Artículos 321 y 322",
@@ -2085,7 +2085,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3712,
     "question": "Si una fundación pública PA no AAPP celebra una concesión con riesgo operacional, ¿se convierte en contrato administrativo?",
     "answer": "No, el contrato celebrado por PA no AAPP tiene naturaleza privada",
@@ -2097,7 +2097,7 @@
     ],
     "reference": "LCSP Arts. 25 y 26.1.b",
     "explanation": "Naturaleza administrativa típica solo cuando es AAPP contratante.",
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "category": "Contratos del Sector Público",
@@ -2137,7 +2137,7 @@
     ],
     "reference": "LCSP Arts. 19, 25 y 26",
     "explanation": "La naturaleza privada no impide por sí sola ser SARA.",
-    "difficulty": 2
+    "difficulty": 3
   },
   {
     "category": "Contratos del Sector Público",
@@ -2165,7 +2165,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3716,
     "question": "Una AAPP celebra un contrato de obra típicamente administrativo. ¿Qué debe aplicar para modificarlo?",
     "answer": "Las reglas LCSP de modificación del contrato administrativo",
@@ -2177,7 +2177,7 @@
     ],
     "reference": "LCSP Art. 25.2",
     "explanation": "La modificación de administrativos sigue LCSP.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "category": "Contratos del Sector Público",
@@ -2245,7 +2245,7 @@
     "subtopic": "Régimen jurídico · arts. 24–27 LCSP",
     "source": "Ley 9/2017 consolidada, arts. 9, 11 y 24-27 (BOE 2026) · entrenamiento original",
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
-    "format": "inap",
+    "format": "memoria",
     "id": 3720,
     "question": "Una fundación pública adjudica un contrato de suministro. ¿En qué norma de la LCSP se establece su preparación/adjudicación?",
     "answer": "Artículo 26.3, con remisión al Título I del Libro III",
@@ -2297,6 +2297,6 @@
     ],
     "reference": "LCSP Art. 11.1",
     "explanation": "El empleo laboral no es contrato LCSP.",
-    "difficulty": 3
+    "difficulty": 2
   }
 ]
