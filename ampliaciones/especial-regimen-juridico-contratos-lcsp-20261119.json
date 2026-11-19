@@ -527,7 +527,7 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "inap",
     "id": 3634,
-    "question": "Clasifica jurídicamente esta operación: Un ministerio concierta servicios financieros comprendidos en CPV 66100000-1 a 66720000-3.",
+    "question": "Clasifica jurídicamente esta operación: Un ministerio concierta servicios financieros comprendidos en CPV 66100000-1 a 66720000-3, que no constituyen un negocio excluido por el artículo 10.",
     "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
     "options": [
       "Administrativo especial",
@@ -536,7 +536,7 @@
       "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)"
     ],
     "reference": "LCSP Arts. 25.1.a.1.º y 26",
-    "explanation": "Los servicios financieros en esos CPV son contratos privados.",
+    "explanation": "La excepción del artículo 25.1.a.1.º califica estos servicios como privados, siempre que no queden fuera de LCSP por una exclusión específica, como las del artículo 10.",
     "difficulty": 2
   },
   {
@@ -1007,7 +1007,7 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "inap",
     "id": 3658,
-    "question": "¿Qué orden jurisdiccional resulta competente en este supuesto? Se impugna la adjudicación de servicios financieros privados por una AAPP en códigos CPV excepcionados.",
+    "question": "¿Qué orden jurisdiccional resulta competente en este supuesto? Se impugna la adjudicación de servicios financieros privados por una AAPP en códigos CPV excepcionados, no excluidos por art. 10.",
     "answer": "Jurisdicción contencioso-administrativa",
     "options": [
       "Jurisdicción penal",
