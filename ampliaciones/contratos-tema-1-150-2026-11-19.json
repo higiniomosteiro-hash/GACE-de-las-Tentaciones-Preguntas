@@ -2737,115 +2737,115 @@
   },
   {
     "id": 3345,
-    "question": "Supuesto de contraste 1: Una licitación limita artificialmente la concurrencia: ¿qué materia regula el art. 1? Seleccione la respuesta jurídicamente correcta.",
-    "answer": "Principios y objeto de la contratación",
+    "question": "Un servicio de 60.000 euros anuales durante tres años más dos prórrogas anuales previstas tiene, sin ajustes, ¿qué valor estimado?",
+    "answer": "300.000 euros",
     "options": [
-      "Principios y objeto de la contratación",
-      "Revisión de precios",
-      "Garantía definitiva",
-      "Clasificación de empresas"
+      "180.000 euros",
+      "60.000 euros",
+      "300.000 euros",
+      "363.000 euros"
     ],
-    "reference": "LCSP art. 1",
+    "reference": "LCSP art. 101",
     "category": "Contratos del Sector Público",
     "topic": "Tema 1 · Título preliminar",
     "difficulty": 2,
     "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 1.",
+    "explanation": "Base normativa: LCSP art. 101.",
     "format": "inap",
     "subtopic": "Título preliminar"
   },
   {
     "id": 3346,
-    "question": "Supuesto de contraste 2: Una pregunta menciona 2014/25/UE entre las transpuestas directamente: ¿qué pareja es correcta? Seleccione la respuesta jurídicamente correcta.",
-    "answer": "Directivas 2014/23 y 2014/24",
+    "question": "Un poder adjudicador estatal licita suministro por 139.999 euros de VE en 2026. Salvo excepción específica, ¿alcanza el umbral SARA general?",
+    "answer": "No, está por debajo del umbral",
     "options": [
-      "Directivas 2004/17 y 2004/18",
-      "Directivas 2014/23 y 2014/25",
-      "Directivas 2014/23 y 2014/24",
-      "Directivas 2014/24 y 2014/25"
+      "Sí, porque supera 80.000 euros",
+      "No, está por debajo del umbral",
+      "Sí, desde 100.000 euros",
+      "Sí, todos los suministros estatales son SARA"
     ],
-    "reference": "Preámbulo LCSP",
+    "reference": "LCSP art. 21; Orden HAC/1517/2025",
     "category": "Contratos del Sector Público",
     "topic": "Tema 1 · Título preliminar",
     "difficulty": 2,
     "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: Preámbulo LCSP.",
+    "explanation": "Base normativa: LCSP art. 21; Orden HAC/1517/2025.",
     "format": "inap",
     "subtopic": "Título preliminar"
   },
   {
     "id": 3347,
-    "question": "Supuesto de contraste 3: ¿Dónde se estudian las juntas, órganos consultivos y registros de contratación? Seleccione la respuesta jurídicamente correcta.",
-    "answer": "Libro IV",
+    "question": "¿Una concesión de una red fija de suministro de agua potable puede estar excluida del régimen armonizado pese a su valor?",
+    "answer": "Sí, por la exclusión legal específica",
     "options": [
-      "Libro IV",
-      "Libro II",
-      "Libro III",
-      "Libro I"
+      "Sí, por la exclusión legal específica",
+      "No, las concesiones de agua siempre son SARA",
+      "Solo si existe contrato menor",
+      "No, todas las concesiones son SARA"
     ],
-    "reference": "Estructura LCSP",
+    "reference": "LCSP art. 19.2.h",
     "category": "Contratos del Sector Público",
     "topic": "Tema 1 · Título preliminar",
     "difficulty": 2,
     "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: Estructura LCSP.",
+    "explanation": "Base normativa: LCSP art. 19.2.h.",
     "format": "inap",
     "subtopic": "Título preliminar"
   },
   {
     "id": 3348,
-    "question": "Supuesto de contraste 4: Un órgano afirma que siempre debe adjudicar la opción más barata: ¿qué finalidad legal debe considerar? Seleccione la respuesta jurídicamente correcta.",
-    "answer": "Mejor relación calidad-precio",
+    "question": "En un mixto de suministros por 25.000 euros y servicios por 70.000 euros, ¿qué componente prevalece para la regla de calificación?",
+    "answer": "Servicios",
     "options": [
-      "Máxima duración del contrato",
-      "Arraigo territorial",
-      "Mejor relación calidad-precio",
-      "Solo menor precio"
+      "Suministros",
+      "Concesión de obras",
+      "Obras",
+      "Servicios"
     ],
-    "reference": "Preámbulo LCSP",
+    "reference": "LCSP art. 18",
     "category": "Contratos del Sector Público",
     "topic": "Tema 1 · Título preliminar",
     "difficulty": 2,
     "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: Preámbulo LCSP.",
+    "explanation": "Base normativa: LCSP art. 18.",
     "format": "inap",
     "subtopic": "Título preliminar"
   },
   {
     "id": 3349,
-    "question": "Supuesto de contraste 5: Se puntúa la maquinaria menos contaminante para prestar el servicio: ¿qué condición ha de concurrir? Seleccione la respuesta jurídicamente correcta.",
-    "answer": "Vinculación al objeto del contrato",
+    "question": "Un contrato de espectáculo artístico celebrado por una AAPP en el supuesto del art. 25.1.a tiene ¿qué naturaleza?",
+    "answer": "Privada",
     "options": [
-      "Vinculación al objeto del contrato",
-      "Exclusividad de pymes",
-      "Valor estimado inferior a 15.000 euros",
-      "Domicilio local"
+      "Administrativa típica necesariamente",
+      "Laboral",
+      "Privada",
+      "Concesión de obras"
     ],
-    "reference": "LCSP art. 1.3",
+    "reference": "LCSP art. 25.1.a",
     "category": "Contratos del Sector Público",
     "topic": "Tema 1 · Título preliminar",
     "difficulty": 2,
     "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 1.3.",
+    "explanation": "Base normativa: LCSP art. 25.1.a.",
     "format": "inap",
     "subtopic": "Título preliminar"
   },
   {
     "id": 3350,
-    "question": "Supuesto de contraste 6: Una empresa obtiene utilidad económica indirecta por una contratación: ¿qué criterio de onerosidad aplica? Seleccione la respuesta jurídicamente correcta.",
-    "answer": "Beneficio económico directo o indirecto",
+    "question": "Una entidad privada recibe un 55 % de financiación directa de PA para una obra de las previstas en art. 23, con VE de 5.500.000 euros. ¿Qué posibilidad existe?",
+    "answer": "Puede quedar sujeta a SARA como contrato subvencionado",
     "options": [
-      "Solo beneficio del poder adjudicador",
-      "Siempre exige contrato SARA",
-      "Beneficio económico directo o indirecto",
-      "Solo pagos en efectivo"
+      "Nunca puede ser SARA por ser privada",
+      "Puede quedar sujeta a SARA como contrato subvencionado",
+      "Solo será SARA desde diez millones",
+      "Es siempre contrato menor"
     ],
-    "reference": "LCSP art. 2",
+    "reference": "LCSP art. 23",
     "category": "Contratos del Sector Público",
     "topic": "Tema 1 · Título preliminar",
     "difficulty": 2,
     "source": "LCSP (BOE actualizado 18/11/2026), resumen visual y modelo CEF",
-    "explanation": "Base normativa: LCSP art. 2.",
+    "explanation": "Base normativa: LCSP art. 23.",
     "format": "inap",
     "subtopic": "Título preliminar"
   }
