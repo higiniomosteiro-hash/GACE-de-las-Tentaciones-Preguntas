@@ -4,9 +4,9 @@
     "answer": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.",
     "options": [
       "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.",
+      "Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.",
       "Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.",
-      "Real Decreto 349/2001, de 4 de abril, por el que se regula la composición y funciones de la Comisión Superior de Personal.",
-      "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical."
+      "Ley 50/1997, de 27 de noviembre, del Gobierno."
     ],
     "reference": "BOE · Real Decreto Legislativo 5/2015",
     "category": "RRHH",
@@ -21,9 +21,9 @@
     "answer": "Real Decreto Legislativo 5/2015",
     "options": [
       "Real Decreto Legislativo 5/2015",
+      "Ley 30/1984",
       "Ley 53/1984",
-      "Real Decreto 349/2001",
-      "Ley Orgánica 11/1985"
+      "Ley 50/1997"
     ],
     "reference": "BOE · Real Decreto Legislativo 5/2015",
     "category": "RRHH",
@@ -38,9 +38,9 @@
     "answer": "30 de octubre de 2015",
     "options": [
       "30 de octubre de 2015",
-      "26 de diciembre de 1984",
-      "19 de diciembre de 2023",
-      "23 de octubre de 2015"
+      "30 de octubre de 2014",
+      "30 de octubre de 2016",
+      "29 de octubre de 2015"
     ],
     "reference": "BOE · Real Decreto Legislativo 5/2015",
     "category": "RRHH",
@@ -55,9 +55,9 @@
     "answer": "Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.",
     "options": [
       "Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.",
-      "Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo.",
-      "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.",
-      "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público."
+      "Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.",
+      "Ley 50/1997, de 27 de noviembre, del Gobierno.",
+      "Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad."
     ],
     "reference": "BOE · Ley 30/1984",
     "category": "RRHH",
@@ -72,9 +72,9 @@
     "answer": "Ley 30/1984",
     "options": [
       "Ley 30/1984",
-      "Real Decreto-ley 6/2023",
-      "Real Decreto Legislativo 2/2015",
-      "Ley 40/2015"
+      "Ley 53/1984",
+      "Ley 50/1997",
+      "Ley Orgánica 2/1986"
     ],
     "reference": "BOE · Ley 30/1984",
     "category": "RRHH",
@@ -89,9 +89,9 @@
     "answer": "2 de agosto de 1984",
     "options": [
       "2 de agosto de 1984",
-      "19 de diciembre de 2023",
-      "23 de octubre de 2015",
-      "6 de junio de 2002"
+      "2 de agosto de 1983",
+      "2 de agosto de 1985",
+      "1 de agosto de 1984"
     ],
     "reference": "BOE · Ley 30/1984",
     "category": "RRHH",
@@ -106,9 +106,9 @@
     "answer": "Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.",
     "options": [
       "Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.",
-      "Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado.",
-      "Orden APU/1461/2002, de 6 de junio, por la que se establecen las normas para la selección y nombramiento de personal funcionario interino.",
-      "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público."
+      "Ley 50/1997, de 27 de noviembre, del Gobierno.",
+      "Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.",
+      "Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo."
     ],
     "reference": "BOE · Ley 53/1984",
     "category": "RRHH",
@@ -123,9 +123,9 @@
     "answer": "Ley 53/1984",
     "options": [
       "Ley 53/1984",
-      "Real Decreto 365/1995",
-      "Orden APU/1461/2002",
-      "Real Decreto Legislativo 5/2015"
+      "Ley 50/1997",
+      "Ley Orgánica 2/1986",
+      "Real Decreto-ley 6/2023"
     ],
     "reference": "BOE · Ley 53/1984",
     "category": "RRHH",
@@ -140,9 +140,9 @@
     "answer": "26 de diciembre de 1984",
     "options": [
       "26 de diciembre de 1984",
-      "23 de octubre de 2015",
-      "6 de junio de 2002",
-      "30 de octubre de 2015"
+      "26 de diciembre de 1983",
+      "26 de diciembre de 1985",
+      "25 de diciembre de 1984"
     ],
     "reference": "BOE · Ley 53/1984",
     "category": "RRHH",
@@ -157,9 +157,9 @@
     "answer": "Ley 50/1997, de 27 de noviembre, del Gobierno.",
     "options": [
       "Ley 50/1997, de 27 de noviembre, del Gobierno.",
-      "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.",
-      "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.",
-      "Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad."
+      "Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.",
+      "Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo.",
+      "Real Decreto 349/2001, de 4 de abril, por el que se regula la composición y funciones de la Comisión Superior de Personal."
     ],
     "reference": "BOE · Ley 50/1997",
     "category": "RRHH",
@@ -174,9 +174,9 @@
     "answer": "Ley 50/1997",
     "options": [
       "Ley 50/1997",
-      "Ley 31/1995",
-      "Ley 9/2017",
-      "Ley Orgánica 2/1986"
+      "Ley Orgánica 2/1986",
+      "Real Decreto-ley 6/2023",
+      "Real Decreto 349/2001"
     ],
     "reference": "BOE · Ley 50/1997",
     "category": "RRHH",
@@ -191,9 +191,9 @@
     "answer": "27 de noviembre de 1997",
     "options": [
       "27 de noviembre de 1997",
-      "6 de junio de 2002",
-      "30 de octubre de 2015",
-      "13 de marzo de 1986"
+      "27 de noviembre de 1996",
+      "27 de noviembre de 1998",
+      "26 de noviembre de 1997"
     ],
     "reference": "BOE · Ley 50/1997",
     "category": "RRHH",
@@ -208,8 +208,8 @@
     "answer": "Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.",
     "options": [
       "Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.",
-      "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
-      "Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.",
+      "Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo.",
+      "Real Decreto 349/2001, de 4 de abril, por el que se regula la composición y funciones de la Comisión Superior de Personal.",
       "Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración general del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración general del Estado."
     ],
     "reference": "BOE · Ley Orgánica 2/1986",
@@ -225,8 +225,8 @@
     "answer": "Ley Orgánica 2/1986",
     "options": [
       "Ley Orgánica 2/1986",
-      "Ley 39/2015",
-      "Ley 53/1984",
+      "Real Decreto-ley 6/2023",
+      "Real Decreto 349/2001",
       "Real Decreto 364/1995"
     ],
     "reference": "BOE · Ley Orgánica 2/1986",
@@ -242,9 +242,9 @@
     "answer": "13 de marzo de 1986",
     "options": [
       "13 de marzo de 1986",
-      "30 de octubre de 2015",
-      "27 de noviembre de 1997",
-      "10 de marzo de 1995"
+      "13 de marzo de 1985",
+      "13 de marzo de 1987",
+      "12 de marzo de 1986"
     ],
     "reference": "BOE · Ley Orgánica 2/1986",
     "category": "RRHH",
@@ -259,9 +259,9 @@
     "answer": "Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo.",
     "options": [
       "Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo.",
-      "Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.",
       "Real Decreto 349/2001, de 4 de abril, por el que se regula la composición y funciones de la Comisión Superior de Personal.",
-      "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical."
+      "Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración general del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración general del Estado.",
+      "Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado."
     ],
     "reference": "BOE · Real Decreto-ley 6/2023",
     "category": "RRHH",
@@ -276,9 +276,9 @@
     "answer": "Real Decreto-ley 6/2023",
     "options": [
       "Real Decreto-ley 6/2023",
-      "Ley 30/1984",
       "Real Decreto 349/2001",
-      "Ley Orgánica 11/1985"
+      "Real Decreto 364/1995",
+      "Real Decreto 365/1995"
     ],
     "reference": "BOE · Real Decreto-ley 6/2023",
     "category": "RRHH",
@@ -293,9 +293,9 @@
     "answer": "19 de diciembre de 2023",
     "options": [
       "19 de diciembre de 2023",
-      "27 de noviembre de 1997",
-      "10 de marzo de 1995",
-      "8 de noviembre de 1995"
+      "19 de diciembre de 2022",
+      "19 de diciembre de 2024",
+      "18 de diciembre de 2023"
     ],
     "reference": "BOE · Real Decreto-ley 6/2023",
     "category": "RRHH",
@@ -310,9 +310,9 @@
     "answer": "Real Decreto 349/2001, de 4 de abril, por el que se regula la composición y funciones de la Comisión Superior de Personal.",
     "options": [
       "Real Decreto 349/2001, de 4 de abril, por el que se regula la composición y funciones de la Comisión Superior de Personal.",
-      "Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.",
-      "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.",
-      "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público."
+      "Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración general del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración general del Estado.",
+      "Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado.",
+      "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores."
     ],
     "reference": "BOE · Real Decreto 349/2001",
     "category": "RRHH",
@@ -327,9 +327,9 @@
     "answer": "Real Decreto 349/2001",
     "options": [
       "Real Decreto 349/2001",
-      "Ley Orgánica 2/1986",
-      "Real Decreto Legislativo 2/2015",
-      "Ley 40/2015"
+      "Real Decreto 364/1995",
+      "Real Decreto 365/1995",
+      "Real Decreto Legislativo 2/2015"
     ],
     "reference": "BOE · Real Decreto 349/2001",
     "category": "RRHH",
@@ -344,9 +344,9 @@
     "answer": "4 de abril de 2001",
     "options": [
       "4 de abril de 2001",
-      "10 de marzo de 1995",
-      "8 de noviembre de 1995",
-      "8 de noviembre de 2017"
+      "4 de abril de 2000",
+      "4 de abril de 2002",
+      "3 de abril de 2001"
     ],
     "reference": "BOE · Real Decreto 349/2001",
     "category": "RRHH",
@@ -362,8 +362,8 @@
     "options": [
       "Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración general del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración general del Estado.",
       "Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado.",
-      "Orden APU/1461/2002, de 6 de junio, por la que se establecen las normas para la selección y nombramiento de personal funcionario interino.",
-      "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público."
+      "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.",
+      "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical."
     ],
     "reference": "BOE · Real Decreto 364/1995",
     "category": "RRHH",
@@ -379,8 +379,8 @@
     "options": [
       "Real Decreto 364/1995",
       "Real Decreto 365/1995",
-      "Orden APU/1461/2002",
-      "Real Decreto Legislativo 5/2015"
+      "Real Decreto Legislativo 2/2015",
+      "Ley Orgánica 11/1985"
     ],
     "reference": "BOE · Real Decreto 364/1995",
     "category": "RRHH",
@@ -395,9 +395,9 @@
     "answer": "10 de marzo de 1995",
     "options": [
       "10 de marzo de 1995",
-      "8 de noviembre de 1995",
-      "8 de noviembre de 2017",
-      "26 de diciembre de 1984"
+      "10 de marzo de 1994",
+      "10 de marzo de 1996",
+      "9 de marzo de 1995"
     ],
     "reference": "BOE · Real Decreto 364/1995",
     "category": "RRHH",
@@ -412,9 +412,9 @@
     "answer": "Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado.",
     "options": [
       "Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado.",
-      "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.",
-      "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.",
-      "Ley 50/1997, de 27 de noviembre, del Gobierno."
+      "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.",
+      "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical.",
+      "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales."
     ],
     "reference": "BOE · Real Decreto 365/1995",
     "category": "RRHH",
@@ -429,9 +429,9 @@
     "answer": "Real Decreto 365/1995",
     "options": [
       "Real Decreto 365/1995",
-      "Ley 31/1995",
-      "Ley 9/2017",
-      "Ley 50/1997"
+      "Real Decreto Legislativo 2/2015",
+      "Ley Orgánica 11/1985",
+      "Ley 31/1995"
     ],
     "reference": "BOE · Real Decreto 365/1995",
     "category": "RRHH",
@@ -446,9 +446,9 @@
     "answer": "10 de marzo de 1995",
     "options": [
       "10 de marzo de 1995",
-      "8 de noviembre de 2017",
-      "26 de diciembre de 1984",
-      "19 de diciembre de 2023"
+      "10 de marzo de 1994",
+      "10 de marzo de 1996",
+      "9 de marzo de 1995"
     ],
     "reference": "BOE · Real Decreto 365/1995",
     "category": "RRHH",
@@ -463,9 +463,9 @@
     "answer": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.",
     "options": [
       "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.",
-      "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
-      "Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.",
-      "Real Decreto 349/2001, de 4 de abril, por el que se regula la composición y funciones de la Comisión Superior de Personal."
+      "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical.",
+      "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.",
+      "Orden APU/1461/2002, de 6 de junio, por la que se establecen las normas para la selección y nombramiento de personal funcionario interino."
     ],
     "reference": "BOE · Real Decreto Legislativo 2/2015",
     "category": "RRHH",
@@ -480,9 +480,9 @@
     "answer": "Real Decreto Legislativo 2/2015",
     "options": [
       "Real Decreto Legislativo 2/2015",
-      "Ley 39/2015",
-      "Ley 53/1984",
-      "Real Decreto 349/2001"
+      "Ley Orgánica 11/1985",
+      "Ley 31/1995",
+      "Orden APU/1461/2002"
     ],
     "reference": "BOE · Real Decreto Legislativo 2/2015",
     "category": "RRHH",
@@ -497,9 +497,9 @@
     "answer": "23 de octubre de 2015",
     "options": [
       "23 de octubre de 2015",
-      "26 de diciembre de 1984",
-      "19 de diciembre de 2023",
-      "2 de agosto de 1985"
+      "23 de octubre de 2014",
+      "23 de octubre de 2016",
+      "22 de octubre de 2015"
     ],
     "reference": "BOE · Real Decreto Legislativo 2/2015",
     "category": "RRHH",
@@ -514,9 +514,9 @@
     "answer": "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical.",
     "options": [
       "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical.",
-      "Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.",
-      "Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo.",
-      "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores."
+      "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.",
+      "Orden APU/1461/2002, de 6 de junio, por la que se establecen las normas para la selección y nombramiento de personal funcionario interino.",
+      "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público."
     ],
     "reference": "BOE · Ley Orgánica 11/1985",
     "category": "RRHH",
@@ -531,9 +531,9 @@
     "answer": "Ley Orgánica 11/1985",
     "options": [
       "Ley Orgánica 11/1985",
-      "Ley 30/1984",
-      "Real Decreto-ley 6/2023",
-      "Real Decreto Legislativo 2/2015"
+      "Ley 31/1995",
+      "Orden APU/1461/2002",
+      "Ley 40/2015"
     ],
     "reference": "BOE · Ley Orgánica 11/1985",
     "category": "RRHH",
@@ -548,9 +548,9 @@
     "answer": "2 de agosto de 1985",
     "options": [
       "2 de agosto de 1985",
-      "19 de diciembre de 2023",
-      "23 de octubre de 2015",
-      "1 de octubre de 2015"
+      "2 de agosto de 1984",
+      "2 de agosto de 1986",
+      "1 de agosto de 1985"
     ],
     "reference": "BOE · Ley Orgánica 11/1985",
     "category": "RRHH",
@@ -565,9 +565,9 @@
     "answer": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.",
     "options": [
       "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.",
-      "Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.",
-      "Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado.",
-      "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público."
+      "Orden APU/1461/2002, de 6 de junio, por la que se establecen las normas para la selección y nombramiento de personal funcionario interino.",
+      "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
+      "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas."
     ],
     "reference": "BOE · Ley 31/1995",
     "category": "RRHH",
@@ -582,9 +582,9 @@
     "answer": "Ley 31/1995",
     "options": [
       "Ley 31/1995",
-      "Ley Orgánica 2/1986",
-      "Real Decreto 365/1995",
-      "Ley 40/2015"
+      "Orden APU/1461/2002",
+      "Ley 40/2015",
+      "Ley 39/2015"
     ],
     "reference": "BOE · Ley 31/1995",
     "category": "RRHH",
@@ -599,9 +599,9 @@
     "answer": "8 de noviembre de 1995",
     "options": [
       "8 de noviembre de 1995",
-      "23 de octubre de 2015",
-      "1 de octubre de 2015",
-      "2 de agosto de 1984"
+      "8 de noviembre de 1994",
+      "8 de noviembre de 1996",
+      "7 de noviembre de 1995"
     ],
     "reference": "BOE · Ley 31/1995",
     "category": "RRHH",
@@ -616,9 +616,9 @@
     "answer": "Orden APU/1461/2002, de 6 de junio, por la que se establecen las normas para la selección y nombramiento de personal funcionario interino.",
     "options": [
       "Orden APU/1461/2002, de 6 de junio, por la que se establecen las normas para la selección y nombramiento de personal funcionario interino.",
-      "Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración general del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración general del Estado.",
-      "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.",
-      "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público."
+      "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
+      "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+      "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014."
     ],
     "reference": "BOE · Orden APU/1461/2002",
     "category": "RRHH",
@@ -633,9 +633,9 @@
     "answer": "Orden APU/1461/2002",
     "options": [
       "Orden APU/1461/2002",
-      "Real Decreto 364/1995",
-      "Ley 31/1995",
-      "Real Decreto Legislativo 5/2015"
+      "Ley 40/2015",
+      "Ley 39/2015",
+      "Ley 9/2017"
     ],
     "reference": "BOE · Orden APU/1461/2002",
     "category": "RRHH",
@@ -650,9 +650,9 @@
     "answer": "6 de junio de 2002",
     "options": [
       "6 de junio de 2002",
-      "1 de octubre de 2015",
-      "2 de agosto de 1984",
-      "13 de marzo de 1986"
+      "6 de junio de 2001",
+      "6 de junio de 2003",
+      "5 de junio de 2002"
     ],
     "reference": "BOE · Orden APU/1461/2002",
     "category": "RRHH",
@@ -667,9 +667,9 @@
     "answer": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
     "options": [
       "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
-      "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical.",
+      "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
       "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.",
-      "Ley 50/1997, de 27 de noviembre, del Gobierno."
+      "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público."
     ],
     "reference": "BOE · Ley 40/2015",
     "category": "RRHH",
@@ -684,9 +684,9 @@
     "answer": "Ley 40/2015",
     "options": [
       "Ley 40/2015",
-      "Ley Orgánica 11/1985",
+      "Ley 39/2015",
       "Ley 9/2017",
-      "Ley 50/1997"
+      "Real Decreto Legislativo 5/2015"
     ],
     "reference": "BOE · Ley 40/2015",
     "category": "RRHH",
@@ -718,9 +718,9 @@
     "answer": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
     "options": [
       "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
-      "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
-      "Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.",
-      "Real Decreto 349/2001, de 4 de abril, por el que se regula la composición y funciones de la Comisión Superior de Personal."
+      "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.",
+      "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.",
+      "Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública."
     ],
     "reference": "BOE · Ley 39/2015",
     "category": "RRHH",
@@ -735,9 +735,9 @@
     "answer": "Ley 39/2015",
     "options": [
       "Ley 39/2015",
-      "Ley 40/2015",
-      "Ley 53/1984",
-      "Real Decreto 349/2001"
+      "Ley 9/2017",
+      "Real Decreto Legislativo 5/2015",
+      "Ley 30/1984"
     ],
     "reference": "BOE · Ley 39/2015",
     "category": "RRHH",
@@ -769,9 +769,9 @@
     "answer": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.",
     "options": [
       "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.",
+      "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.",
       "Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.",
-      "Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo.",
-      "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores."
+      "Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas."
     ],
     "reference": "BOE · Ley 9/2017",
     "category": "RRHH",
@@ -786,9 +786,9 @@
     "answer": "Ley 9/2017",
     "options": [
       "Ley 9/2017",
+      "Real Decreto Legislativo 5/2015",
       "Ley 30/1984",
-      "Real Decreto-ley 6/2023",
-      "Real Decreto Legislativo 2/2015"
+      "Ley 53/1984"
     ],
     "reference": "BOE · Ley 9/2017",
     "category": "RRHH",
@@ -803,9 +803,9 @@
     "answer": "8 de noviembre de 2017",
     "options": [
       "8 de noviembre de 2017",
-      "10 de marzo de 1995",
-      "8 de noviembre de 1995",
-      "30 de octubre de 2015"
+      "8 de noviembre de 2016",
+      "8 de noviembre de 2018",
+      "7 de noviembre de 2017"
     ],
     "reference": "BOE · Ley 9/2017",
     "category": "RRHH",
@@ -820,9 +820,9 @@
     "answer": "Artículo 23.2 CE",
     "options": [
       "Artículo 23.2 CE",
-      "Artículo 103.3 CE",
-      "Artículo 103.1 CE",
-      "Artículo 149.1.18.ª CE"
+      "Artículo 22.2 CE",
+      "Artículo 24.2 CE",
+      "Artículo 25.2 CE"
     ],
     "reference": "CE 23.2, 103.3 y 149.1",
     "category": "RRHH",
@@ -837,9 +837,9 @@
     "answer": "Artículo 103.3 CE",
     "options": [
       "Artículo 103.3 CE",
-      "Artículo 149.1.18.ª CE",
-      "Artículo 23.2 CE",
-      "Artículo 149.1.7.ª CE"
+      "Artículo 102.3 CE",
+      "Artículo 104.3 CE",
+      "Artículo 105.3 CE"
     ],
     "reference": "CE 23.2, 103.3 y 149.1",
     "category": "RRHH",
@@ -854,9 +854,9 @@
     "answer": "Artículo 149.1.18.ª CE",
     "options": [
       "Artículo 149.1.18.ª CE",
-      "Artículo 149.1.7.ª CE",
-      "Artículo 103.3 CE",
-      "Artículo 103.1 CE"
+      "Artículo 148.1.18.ª CE",
+      "Artículo 150.1.18.ª CE",
+      "Artículo 151.1.18.ª CE"
     ],
     "reference": "CE 23.2, 103.3 y 149.1",
     "category": "RRHH",
@@ -871,9 +871,9 @@
     "answer": "Artículo 149.1.7.ª CE",
     "options": [
       "Artículo 149.1.7.ª CE",
-      "Artículo 103.1 CE",
-      "Artículo 149.1.18.ª CE",
-      "Artículo 23.2 CE"
+      "Artículo 148.1.7.ª CE",
+      "Artículo 150.1.7.ª CE",
+      "Artículo 151.1.7.ª CE"
     ],
     "reference": "CE 23.2, 103.3 y 149.1",
     "category": "RRHH",
@@ -888,9 +888,9 @@
     "answer": "Artículo 103.1 CE",
     "options": [
       "Artículo 103.1 CE",
-      "Artículo 23.2 CE",
-      "Artículo 149.1.7.ª CE",
-      "Artículo 103.3 CE"
+      "Artículo 102.1 CE",
+      "Artículo 104.1 CE",
+      "Artículo 105.1 CE"
     ],
     "reference": "CE 23.2, 103.3 y 149.1",
     "category": "RRHH",
@@ -905,9 +905,9 @@
     "answer": "Artículo 23.2 CE",
     "options": [
       "Artículo 23.2 CE",
-      "Artículo 149.1.18.ª CE",
-      "Artículo 103.3 CE",
-      "Artículo 149.1.7.ª CE"
+      "Artículo 22.2 CE",
+      "Artículo 24.2 CE",
+      "Artículo 25.2 CE"
     ],
     "reference": "CE 23.2, 103.3 y 149.1",
     "category": "RRHH",
@@ -922,9 +922,9 @@
     "answer": "Artículo 103.3 CE",
     "options": [
       "Artículo 103.3 CE",
-      "Artículo 149.1.7.ª CE",
-      "Artículo 149.1.18.ª CE",
-      "Artículo 103.1 CE"
+      "Artículo 102.3 CE",
+      "Artículo 104.3 CE",
+      "Artículo 105.3 CE"
     ],
     "reference": "CE 23.2, 103.3 y 149.1",
     "category": "RRHH",
@@ -939,9 +939,9 @@
     "answer": "Artículo 149.1.18.ª CE",
     "options": [
       "Artículo 149.1.18.ª CE",
-      "Artículo 103.1 CE",
-      "Artículo 149.1.7.ª CE",
-      "Artículo 23.2 CE"
+      "Artículo 148.1.18.ª CE",
+      "Artículo 150.1.18.ª CE",
+      "Artículo 151.1.18.ª CE"
     ],
     "reference": "CE 23.2, 103.3 y 149.1",
     "category": "RRHH",
@@ -956,9 +956,9 @@
     "answer": "Relación estatutaria de Derecho Administrativo",
     "options": [
       "Relación estatutaria de Derecho Administrativo",
-      "Contrato de trabajo de Derecho laboral",
-      "Convenio colectivo",
-      "Resolución administrativa"
+      "Contrato de trabajo",
+      "Resolución administrativa",
+      "TREBEP"
     ],
     "reference": "Apuntes profesor, pp. 1-16",
     "category": "RRHH",
@@ -973,9 +973,9 @@
     "answer": "Contrato de trabajo de Derecho laboral",
     "options": [
       "Contrato de trabajo de Derecho laboral",
-      "Ley autonómica de función pública",
-      "Contrato de trabajo",
-      "TREBEP"
+      "Resolución administrativa",
+      "TREBEP",
+      "Disposición derogatoria única"
     ],
     "reference": "Apuntes profesor, pp. 1-16",
     "category": "RRHH",
@@ -990,9 +990,9 @@
     "answer": "Ley autonómica de función pública",
     "options": [
       "Ley autonómica de función pública",
-      "Reglamento",
-      "Resolución administrativa",
-      "Relación estatutaria de Derecho Administrativo"
+      "TREBEP",
+      "Disposición derogatoria única",
+      "Disposición final cuarta"
     ],
     "reference": "Apuntes profesor, pp. 1-16",
     "category": "RRHH",
@@ -1007,9 +1007,9 @@
     "answer": "Reglamento",
     "options": [
       "Reglamento",
-      "Convenio colectivo",
-      "TREBEP",
-      "Contrato de trabajo de Derecho laboral"
+      "Disposición derogatoria única",
+      "Disposición final cuarta",
+      "Ley 50/1997, del Gobierno"
     ],
     "reference": "Apuntes profesor, pp. 1-16",
     "category": "RRHH",
@@ -1024,9 +1024,9 @@
     "answer": "Convenio colectivo",
     "options": [
       "Convenio colectivo",
-      "Contrato de trabajo",
-      "Relación estatutaria de Derecho Administrativo",
-      "Ley autonómica de función pública"
+      "Disposición final cuarta",
+      "Ley 50/1997, del Gobierno",
+      "Legislación laboral"
     ],
     "reference": "Apuntes profesor, pp. 1-16",
     "category": "RRHH",
@@ -1041,9 +1041,9 @@
     "answer": "Contrato de trabajo",
     "options": [
       "Contrato de trabajo",
-      "Resolución administrativa",
-      "Contrato de trabajo de Derecho laboral",
-      "Reglamento"
+      "Ley 50/1997, del Gobierno",
+      "Legislación laboral",
+      "Que no se opongan al TREBEP"
     ],
     "reference": "Apuntes profesor, pp. 1-16",
     "category": "RRHH",
@@ -1058,9 +1058,9 @@
     "answer": "Resolución administrativa",
     "options": [
       "Resolución administrativa",
-      "TREBEP",
-      "Ley autonómica de función pública",
-      "Convenio colectivo"
+      "Legislación laboral",
+      "Que no se opongan al TREBEP",
+      "Leyes de función pública"
     ],
     "reference": "Apuntes profesor, pp. 1-16",
     "category": "RRHH",
@@ -1075,9 +1075,9 @@
     "answer": "TREBEP",
     "options": [
       "TREBEP",
-      "Relación estatutaria de Derecho Administrativo",
-      "Reglamento",
-      "Contrato de trabajo"
+      "Que no se opongan al TREBEP",
+      "Leyes de función pública",
+      "Relación estatutaria de Derecho Administrativo"
     ],
     "reference": "Apuntes profesor, pp. 1-16",
     "category": "RRHH",
@@ -1092,9 +1092,9 @@
     "answer": "1918",
     "options": [
       "1918",
-      "1964",
-      "1978",
-      "2015"
+      "1917",
+      "1919",
+      "1920"
     ],
     "reference": "Apuntes profesor, pp. 1-10",
     "category": "RRHH",
@@ -1109,9 +1109,9 @@
     "answer": "1964",
     "options": [
       "1964",
-      "1918",
-      "1978",
-      "2015"
+      "1963",
+      "1965",
+      "1966"
     ],
     "reference": "Apuntes profesor, pp. 1-10",
     "category": "RRHH",
@@ -1126,9 +1126,9 @@
     "answer": "1978",
     "options": [
       "1978",
-      "1918",
-      "1964",
-      "2015"
+      "1977",
+      "1979",
+      "1980"
     ],
     "reference": "Apuntes profesor, pp. 1-10",
     "category": "RRHH",
@@ -1143,9 +1143,9 @@
     "answer": "2015",
     "options": [
       "2015",
-      "1918",
-      "1964",
-      "1978"
+      "2014",
+      "2016",
+      "2017"
     ],
     "reference": "Apuntes profesor, pp. 1-10",
     "category": "RRHH",
@@ -1160,9 +1160,9 @@
     "answer": "Artículo 2",
     "options": [
       "Artículo 2",
+      "Artículo 1",
       "Artículo 3",
-      "Artículo 6",
-      "Artículo 8"
+      "Artículo 4"
     ],
     "reference": "TREBEP arts. 2-7",
     "category": "RRHH",
@@ -1177,9 +1177,9 @@
     "answer": "Artículo 3",
     "options": [
       "Artículo 3",
+      "Artículo 2",
       "Artículo 4",
-      "Artículo 7",
-      "Artículo 13"
+      "Artículo 5"
     ],
     "reference": "TREBEP arts. 2-7",
     "category": "RRHH",
@@ -1194,9 +1194,9 @@
     "answer": "Artículo 4",
     "options": [
       "Artículo 4",
+      "Artículo 3",
       "Artículo 5",
-      "Artículo 8",
-      "Artículo 2"
+      "Artículo 6"
     ],
     "reference": "TREBEP arts. 2-7",
     "category": "RRHH",
@@ -1211,9 +1211,9 @@
     "answer": "Artículo 5",
     "options": [
       "Artículo 5",
+      "Artículo 4",
       "Artículo 6",
-      "Artículo 13",
-      "Artículo 3"
+      "Artículo 7"
     ],
     "reference": "TREBEP arts. 2-7",
     "category": "RRHH",
@@ -1228,9 +1228,9 @@
     "answer": "Artículo 6",
     "options": [
       "Artículo 6",
+      "Artículo 5",
       "Artículo 7",
-      "Artículo 2",
-      "Artículo 4"
+      "Artículo 8"
     ],
     "reference": "TREBEP arts. 2-7",
     "category": "RRHH",
@@ -1245,9 +1245,9 @@
     "answer": "Artículo 7",
     "options": [
       "Artículo 7",
+      "Artículo 6",
       "Artículo 8",
-      "Artículo 3",
-      "Artículo 5"
+      "Artículo 9"
     ],
     "reference": "TREBEP arts. 2-7",
     "category": "RRHH",
@@ -1262,9 +1262,9 @@
     "answer": "Artículo 8",
     "options": [
       "Artículo 8",
-      "Artículo 13",
-      "Artículo 4",
-      "Artículo 6"
+      "Artículo 7",
+      "Artículo 9",
+      "Artículo 10"
     ],
     "reference": "TREBEP arts. 2-7",
     "category": "RRHH",
@@ -1279,9 +1279,9 @@
     "answer": "Artículo 13",
     "options": [
       "Artículo 13",
-      "Artículo 2",
-      "Artículo 5",
-      "Artículo 7"
+      "Artículo 12",
+      "Artículo 14",
+      "Artículo 15"
     ],
     "reference": "TREBEP arts. 2-7",
     "category": "RRHH",
@@ -1296,9 +1296,9 @@
     "answer": "Disposición derogatoria única",
     "options": [
       "Disposición derogatoria única",
-      "Disposición final cuarta",
-      "TREBEP",
-      "Leyes de función pública"
+      "Que no se opongan al TREBEP",
+      "Leyes de función pública",
+      "Relación estatutaria de Derecho Administrativo"
     ],
     "reference": "Apuntes profesor, pp. 4-16",
     "category": "RRHH",
@@ -1313,9 +1313,9 @@
     "answer": "Disposición final cuarta",
     "options": [
       "Disposición final cuarta",
-      "Ley 50/1997, del Gobierno",
-      "Que no se opongan al TREBEP",
-      "Reglamento"
+      "Leyes de función pública",
+      "Relación estatutaria de Derecho Administrativo",
+      "Contrato de trabajo de Derecho laboral"
     ],
     "reference": "Apuntes profesor, pp. 4-16",
     "category": "RRHH",
@@ -1330,9 +1330,9 @@
     "answer": "Ley 50/1997, del Gobierno",
     "options": [
       "Ley 50/1997, del Gobierno",
-      "Legislación laboral",
-      "Leyes de función pública",
-      "Disposición derogatoria única"
+      "Relación estatutaria de Derecho Administrativo",
+      "Contrato de trabajo de Derecho laboral",
+      "Ley autonómica de función pública"
     ],
     "reference": "Apuntes profesor, pp. 4-16",
     "category": "RRHH",
@@ -1347,9 +1347,9 @@
     "answer": "Legislación laboral",
     "options": [
       "Legislación laboral",
-      "TREBEP",
-      "Reglamento",
-      "Disposición final cuarta"
+      "Contrato de trabajo de Derecho laboral",
+      "Ley autonómica de función pública",
+      "Reglamento"
     ],
     "reference": "Apuntes profesor, pp. 4-16",
     "category": "RRHH",
@@ -1364,9 +1364,9 @@
     "answer": "TREBEP",
     "options": [
       "TREBEP",
-      "Que no se opongan al TREBEP",
-      "Disposición derogatoria única",
-      "Ley 50/1997, del Gobierno"
+      "Ley autonómica de función pública",
+      "Reglamento",
+      "Convenio colectivo"
     ],
     "reference": "Apuntes profesor, pp. 4-16",
     "category": "RRHH",
@@ -1381,9 +1381,9 @@
     "answer": "Que no se opongan al TREBEP",
     "options": [
       "Que no se opongan al TREBEP",
-      "Leyes de función pública",
-      "Disposición final cuarta",
-      "Legislación laboral"
+      "Reglamento",
+      "Convenio colectivo",
+      "Contrato de trabajo"
     ],
     "reference": "Apuntes profesor, pp. 4-16",
     "category": "RRHH",
@@ -1398,9 +1398,9 @@
     "answer": "Leyes de función pública",
     "options": [
       "Leyes de función pública",
-      "Reglamento",
-      "Ley 50/1997, del Gobierno",
-      "TREBEP"
+      "Convenio colectivo",
+      "Contrato de trabajo",
+      "Resolución administrativa"
     ],
     "reference": "Apuntes profesor, pp. 4-16",
     "category": "RRHH",
@@ -1415,9 +1415,9 @@
     "answer": "Reglamento",
     "options": [
       "Reglamento",
-      "Disposición derogatoria única",
-      "Legislación laboral",
-      "Que no se opongan al TREBEP"
+      "Resolución administrativa",
+      "TREBEP",
+      "Disposición derogatoria única"
     ],
     "reference": "Apuntes profesor, pp. 4-16",
     "category": "RRHH",
