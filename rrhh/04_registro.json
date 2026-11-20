@@ -4,9 +4,9 @@
     "answer": "Artículo 71",
     "options": [
       "Artículo 71",
-      "Convenio de Conferencia Sectorial",
-      "Información agregada",
-      "Entidades locales sin capacidad suficiente"
+      "Artículo 69",
+      "Artículo 70",
+      "Artículo 72"
     ],
     "reference": "TREBEP art. 71",
     "category": "RRHH",
@@ -21,9 +21,9 @@
     "answer": "Convenio de Conferencia Sectorial",
     "options": [
       "Convenio de Conferencia Sectorial",
-      "Protección de datos",
-      "Homogeneidad e interoperabilidad",
-      "Artículo 71"
+      "Orden ministerial de coordinación",
+      "Acuerdo bilateral de intercambio",
+      "Resolución conjunta de los registros"
     ],
     "reference": "TREBEP art. 71",
     "category": "RRHH",
@@ -38,9 +38,9 @@
     "answer": "Protección de datos",
     "options": [
       "Protección de datos",
-      "Registro de personal",
-      "Gestión integrada",
-      "Convenio de Conferencia Sectorial"
+      "Publicidad activa",
+      "Libre acceso a expedientes",
+      "Transparencia administrativa"
     ],
     "reference": "TREBEP art. 71",
     "category": "RRHH",
@@ -55,9 +55,9 @@
     "answer": "Registro de personal",
     "options": [
       "Registro de personal",
-      "Información agregada",
-      "Entidades locales sin capacidad suficiente",
-      "Protección de datos"
+      "Expediente personal único",
+      "Relación de puestos de trabajo",
+      "Inventario de efectivos"
     ],
     "reference": "TREBEP art. 71",
     "category": "RRHH",
@@ -72,9 +72,9 @@
     "answer": "Información agregada",
     "options": [
       "Información agregada",
-      "Homogeneidad e interoperabilidad",
-      "Artículo 71",
-      "Registro de personal"
+      "Información estadística anonimizada exclusivamente",
+      "Información presupuestaria individual",
+      "Información de evaluación individual"
     ],
     "reference": "TREBEP art. 71",
     "category": "RRHH",
@@ -89,9 +89,9 @@
     "answer": "Homogeneidad e interoperabilidad",
     "options": [
       "Homogeneidad e interoperabilidad",
-      "Gestión integrada",
-      "Convenio de Conferencia Sectorial",
-      "Información agregada"
+      "Uniformidad de los procedimientos",
+      "Integridad y confidencialidad",
+      "Exactitud y actualización"
     ],
     "reference": "TREBEP art. 71",
     "category": "RRHH",
@@ -106,9 +106,9 @@
     "answer": "Gestión integrada",
     "options": [
       "Gestión integrada",
-      "Entidades locales sin capacidad suficiente",
-      "Protección de datos",
-      "Homogeneidad e interoperabilidad"
+      "Gestión descentralizada",
+      "Gestión exclusivamente ministerial",
+      "Gestión independiente por organismo"
     ],
     "reference": "TREBEP art. 71",
     "category": "RRHH",
@@ -123,9 +123,9 @@
     "answer": "Entidades locales sin capacidad suficiente",
     "options": [
       "Entidades locales sin capacidad suficiente",
-      "Artículo 71",
-      "Registro de personal",
-      "Gestión integrada"
+      "Entidades locales con registros propios",
+      "Organismos autónomos estatales",
+      "Administraciones autonómicas con registro central"
     ],
     "reference": "TREBEP art. 71",
     "category": "RRHH",
@@ -140,9 +140,9 @@
     "answer": "Real Decreto 2073/1999",
     "options": [
       "Real Decreto 2073/1999",
-      "Artículo 13",
-      "Oficina central y oficinas delegadas",
-      "Órgano competente de personal"
+      "Real Decreto 2083/1999",
+      "Real Decreto 2073/1998",
+      "Real Decreto 2073/2000"
     ],
     "reference": "TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999",
     "category": "RRHH",
@@ -157,9 +157,9 @@
     "answer": "Artículo 13",
     "options": [
       "Artículo 13",
-      "Registro Central de Personal",
-      "Registro de personal autonómico",
-      "Real Decreto 2073/1999"
+      "Artículo 12",
+      "Artículo 14",
+      "Artículo 15"
     ],
     "reference": "TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999",
     "category": "RRHH",
@@ -174,9 +174,9 @@
     "answer": "Registro Central de Personal",
     "options": [
       "Registro Central de Personal",
-      "Dirección General de la Función Pública",
-      "No lo sustituye ni convalida",
-      "Artículo 13"
+      "Registro de Personal del Ministerio",
+      "Registro General de Funcionarios",
+      "Registro de Relaciones de Puestos"
     ],
     "reference": "TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999",
     "category": "RRHH",
@@ -191,9 +191,9 @@
     "answer": "Dirección General de la Función Pública",
     "options": [
       "Dirección General de la Función Pública",
-      "Oficina central y oficinas delegadas",
-      "Órgano competente de personal",
-      "Registro Central de Personal"
+      "Subsecretaría de cada ministerio",
+      "Dirección General de Organización Administrativa",
+      "Secretaría General Técnica"
     ],
     "reference": "TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999",
     "category": "RRHH",
@@ -208,9 +208,9 @@
     "answer": "Oficina central y oficinas delegadas",
     "options": [
       "Oficina central y oficinas delegadas",
-      "Registro de personal autonómico",
-      "Real Decreto 2073/1999",
-      "Dirección General de la Función Pública"
+      "Oficina central y registros provinciales",
+      "Oficinas ministeriales independientes",
+      "Oficina única sin delegaciones"
     ],
     "reference": "TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999",
     "category": "RRHH",
@@ -225,9 +225,9 @@
     "answer": "Registro de personal autonómico",
     "options": [
       "Registro de personal autonómico",
-      "No lo sustituye ni convalida",
-      "Artículo 13",
-      "Oficina central y oficinas delegadas"
+      "Registro Central de Personal estatal",
+      "Registro de personal de la entidad local",
+      "Registro de personal del ministerio de adscripción"
     ],
     "reference": "TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999",
     "category": "RRHH",
@@ -242,9 +242,9 @@
     "answer": "No lo sustituye ni convalida",
     "options": [
       "No lo sustituye ni convalida",
-      "Órgano competente de personal",
-      "Registro Central de Personal",
-      "Registro de personal autonómico"
+      "Lo sustituye cuando está inscrito",
+      "Lo convalida desde su anotación",
+      "Le otorga eficacia retroactiva"
     ],
     "reference": "TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999",
     "category": "RRHH",
@@ -259,9 +259,9 @@
     "answer": "Órgano competente de personal",
     "options": [
       "Órgano competente de personal",
-      "Real Decreto 2073/1999",
-      "Dirección General de la Función Pública",
-      "No lo sustituye ni convalida"
+      "Oficina delegada del Registro",
+      "Unidad encargada del asiento",
+      "Responsable de archivo de personal"
     ],
     "reference": "TREBEP 71; Ley 30/1984 art. 13; RD 2073/1999",
     "category": "RRHH",
@@ -277,8 +277,8 @@
     "options": [
       "NIP",
       "NRP",
-      "Código de identificación del vínculo",
-      "Puede haber varios"
+      "DNI",
+      "Código de puesto"
     ],
     "reference": "RD 2073/1999; apuntes del profesor, Registro p. 9",
     "category": "RRHH",
@@ -293,9 +293,9 @@
     "answer": "NRP",
     "options": [
       "NRP",
-      "A la persona",
-      "Dos dígitos adicionales",
-      "NIP"
+      "NIP",
+      "Código de destino",
+      "Identificador de expediente"
     ],
     "reference": "RD 2073/1999; apuntes del profesor, Registro p. 9",
     "category": "RRHH",
@@ -310,9 +310,9 @@
     "answer": "A la persona",
     "options": [
       "A la persona",
-      "La relación de servicios",
-      "Se conserva",
-      "NRP"
+      "Al puesto de trabajo",
+      "Al cuerpo o escala",
+      "A cada nombramiento"
     ],
     "reference": "RD 2073/1999; apuntes del profesor, Registro p. 9",
     "category": "RRHH",
@@ -327,9 +327,9 @@
     "answer": "La relación de servicios",
     "options": [
       "La relación de servicios",
-      "Código de identificación del vínculo",
-      "Puede haber varios",
-      "A la persona"
+      "A la persona con independencia de sus vínculos",
+      "Al puesto desempeñado",
+      "A la unidad administrativa de destino"
     ],
     "reference": "RD 2073/1999; apuntes del profesor, Registro p. 9",
     "category": "RRHH",
@@ -344,9 +344,9 @@
     "answer": "Código de identificación del vínculo",
     "options": [
       "Código de identificación del vínculo",
-      "Dos dígitos adicionales",
-      "NIP",
-      "La relación de servicios"
+      "Código del puesto ocupado",
+      "Código de la unidad de destino",
+      "Código del órgano que nombró"
     ],
     "reference": "RD 2073/1999; apuntes del profesor, Registro p. 9",
     "category": "RRHH",
@@ -361,9 +361,9 @@
     "answer": "Dos dígitos adicionales",
     "options": [
       "Dos dígitos adicionales",
-      "Se conserva",
-      "NRP",
-      "Código de identificación del vínculo"
+      "Un dígito de control",
+      "Tres dígitos de control",
+      "Cuatro dígitos de control"
     ],
     "reference": "RD 2073/1999; apuntes del profesor, Registro p. 9",
     "category": "RRHH",
@@ -378,9 +378,9 @@
     "answer": "Se conserva",
     "options": [
       "Se conserva",
-      "Puede haber varios",
-      "A la persona",
-      "Dos dígitos adicionales"
+      "Se sustituye por un nuevo NIP",
+      "Se anula hasta la toma de posesión",
+      "Se asigna un NIP provisional"
     ],
     "reference": "RD 2073/1999; apuntes del profesor, Registro p. 9",
     "category": "RRHH",
@@ -395,9 +395,9 @@
     "answer": "Puede haber varios",
     "options": [
       "Puede haber varios",
-      "NIP",
-      "La relación de servicios",
-      "Se conserva"
+      "Se mantiene siempre uno solo",
+      "Se cancela al cambiar de puesto",
+      "Se convierte automáticamente en NIP"
     ],
     "reference": "RD 2073/1999; apuntes del profesor, Registro p. 9",
     "category": "RRHH",
@@ -412,9 +412,9 @@
     "answer": "Inscripción",
     "options": [
       "Inscripción",
-      "Anotación",
-      "Ordinaria",
-      "Marginal"
+      "Anotación ordinaria",
+      "Anotación marginal",
+      "Cancelación"
     ],
     "reference": "RD 2073/1999; apuntes profesor, p. 9-11",
     "category": "RRHH",
@@ -430,8 +430,8 @@
     "options": [
       "Anotación",
       "Inscripción",
-      "Ordinaria",
-      "Marginal"
+      "Anotación marginal",
+      "Cancelación"
     ],
     "reference": "RD 2073/1999; apuntes profesor, p. 9-11",
     "category": "RRHH",
@@ -446,9 +446,9 @@
     "answer": "Ordinaria",
     "options": [
       "Ordinaria",
-      "Inscripción",
-      "Anotación",
-      "Marginal"
+      "Marginal",
+      "Provisional",
+      "De rectificación"
     ],
     "reference": "RD 2073/1999; apuntes profesor, p. 9-11",
     "category": "RRHH",
@@ -463,9 +463,9 @@
     "answer": "Marginal",
     "options": [
       "Marginal",
-      "Inscripción",
-      "Anotación",
-      "Ordinaria"
+      "Ordinaria",
+      "Provisional",
+      "De cancelación"
     ],
     "reference": "RD 2073/1999; apuntes profesor, p. 9-11",
     "category": "RRHH",
@@ -480,9 +480,9 @@
     "answer": "Provisional",
     "options": [
       "Provisional",
-      "Inscripción",
-      "Anotación",
-      "Ordinaria"
+      "Ordinaria",
+      "Marginal",
+      "Definitiva"
     ],
     "reference": "RD 2073/1999; apuntes profesor, p. 9-11",
     "category": "RRHH",
@@ -497,9 +497,9 @@
     "answer": "Inscripción",
     "options": [
       "Inscripción",
-      "Anotación",
-      "Ordinaria",
-      "Marginal"
+      "Anotación ordinaria",
+      "Anotación marginal",
+      "Cancelación"
     ],
     "reference": "RD 2073/1999; apuntes profesor, p. 9-11",
     "category": "RRHH",
@@ -515,8 +515,8 @@
     "options": [
       "Anotación ordinaria",
       "Inscripción",
-      "Anotación",
-      "Ordinaria"
+      "Anotación marginal",
+      "Anotación provisional"
     ],
     "reference": "RD 2073/1999; apuntes profesor, p. 9-11",
     "category": "RRHH",
@@ -531,9 +531,9 @@
     "answer": "Cancelación",
     "options": [
       "Cancelación",
-      "Inscripción",
-      "Anotación",
-      "Ordinaria"
+      "Anotación marginal",
+      "Inscripción nueva",
+      "Anotación ordinaria"
     ],
     "reference": "RD 2073/1999; apuntes profesor, p. 9-11",
     "category": "RRHH",
@@ -548,9 +548,9 @@
     "answer": "Tres días",
     "options": [
       "Tres días",
-      "Noventa días naturales",
-      "Otros noventa días",
-      "15 de julio de 2020"
+      "Dos días",
+      "Cinco días",
+      "Diez días"
     ],
     "reference": "RD 2073/1999; apuntes profesor, pp. 10-12",
     "category": "RRHH",
@@ -565,9 +565,9 @@
     "answer": "Tres días",
     "options": [
       "Tres días",
-      "Noventa días naturales",
-      "Otros noventa días",
-      "15 de julio de 2020"
+      "Dos días",
+      "Cinco días",
+      "Diez días"
     ],
     "reference": "RD 2073/1999; apuntes profesor, pp. 10-12",
     "category": "RRHH",
@@ -582,9 +582,9 @@
     "answer": "Noventa días naturales",
     "options": [
       "Noventa días naturales",
-      "Tres días",
-      "Otros noventa días",
-      "15 de julio de 2020"
+      "Sesenta días naturales",
+      "Ciento veinte días naturales",
+      "Treinta días naturales"
     ],
     "reference": "RD 2073/1999; apuntes profesor, pp. 10-12",
     "category": "RRHH",
@@ -599,9 +599,9 @@
     "answer": "Otros noventa días",
     "options": [
       "Otros noventa días",
-      "Tres días",
-      "Noventa días naturales",
-      "15 de julio de 2020"
+      "Otros treinta días",
+      "Otros sesenta días",
+      "Otros ciento veinte días"
     ],
     "reference": "RD 2073/1999; apuntes profesor, pp. 10-12",
     "category": "RRHH",
@@ -616,9 +616,9 @@
     "answer": "15 de julio de 2020",
     "options": [
       "15 de julio de 2020",
-      "Tres días",
-      "Noventa días naturales",
-      "Otros noventa días"
+      "15 de julio de 2019",
+      "1 de julio de 2020",
+      "15 de junio de 2020"
     ],
     "reference": "RD 2073/1999; apuntes profesor, pp. 10-12",
     "category": "RRHH",
@@ -633,9 +633,9 @@
     "answer": "Anot@RCP",
     "options": [
       "Anot@RCP",
-      "Tres días",
-      "Noventa días naturales",
-      "Otros noventa días"
+      "Consult@RCP",
+      "Edit@RCP",
+      "Gestion@RCP"
     ],
     "reference": "RD 2073/1999; apuntes profesor, pp. 10-12",
     "category": "RRHH",
@@ -650,9 +650,9 @@
     "answer": "Consult@RCP",
     "options": [
       "Consult@RCP",
-      "Tres días",
-      "Noventa días naturales",
-      "Otros noventa días"
+      "Anot@RCP",
+      "Edit@RCP",
+      "Gestion@RCP"
     ],
     "reference": "RD 2073/1999; apuntes profesor, pp. 10-12",
     "category": "RRHH",
@@ -667,9 +667,9 @@
     "answer": "Edit@RCP",
     "options": [
       "Edit@RCP",
-      "Tres días",
-      "Noventa días naturales",
-      "Otros noventa días"
+      "Anot@RCP",
+      "Consult@RCP",
+      "Gestion@RCP"
     ],
     "reference": "RD 2073/1999; apuntes profesor, pp. 10-12",
     "category": "RRHH",
