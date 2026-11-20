@@ -1,0 +1,2522 @@
+[
+  {
+    "id": 3723,
+    "question": "Una renovación afecta a los magistrados propuestos conjuntamente por Congreso y Senado. ¿Cuántas propuestas corresponden a ambas Cámaras sumadas?",
+    "answer": "8",
+    "options": [
+      "12",
+      "8",
+      "10",
+      "6"
+    ],
+    "reference": "CE 159.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición y nombramientos",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Cada Cámara propone cuatro magistrados: ocho en total."
+  },
+  {
+    "id": 3724,
+    "question": "¿Cuántos magistrados del Tribunal Constitucional son propuestos, en total, por el Gobierno y el CGPJ?",
+    "answer": "4",
+    "options": [
+      "4",
+      "2",
+      "6",
+      "8"
+    ],
+    "reference": "CE 159.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición y nombramientos",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Gobierno y CGPJ proponen dos magistrados cada uno."
+  },
+  {
+    "id": 3725,
+    "question": "En la propuesta al Rey de cuatro magistrados del TC por el Senado, ¿cuántos candidatos puede presentar como máximo cada Asamblea Legislativa autonómica?",
+    "answer": "Hasta 2",
+    "options": [
+      "Hasta 1",
+      "Hasta 3",
+      "Hasta 4",
+      "Hasta 2"
+    ],
+    "reference": "LOTC 16.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición y nombramientos",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Reglamento del Senado art. 184.7."
+  },
+  {
+    "id": 3726,
+    "question": "¿Con qué mayoría debe acordar el Pleno del CGPJ la propuesta de sus dos magistrados del TC?",
+    "answer": "Tres quintos de sus miembros",
+    "options": [
+      "Mayoría absoluta",
+      "Dos tercios",
+      "Tres quintos de sus miembros",
+      "Mayoría simple"
+    ],
+    "reference": "LOPJ 599.1.4.ª; CE 159.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición y nombramientos",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Se exige la mayoría cualificada de tres quintos."
+  },
+  {
+    "id": 3727,
+    "question": "El mandato de los magistrados del TC propuestos por el CGPJ ha vencido. ¿Cuál es el plazo máximo para que el órgano competente efectúe la propuesta?",
+    "answer": "3 meses desde el día siguiente al vencimiento",
+    "options": [
+      "4 meses desde la publicación de la vacante",
+      "1 mes desde la decisión del Senado",
+      "3 meses desde el día siguiente al vencimiento",
+      "6 meses desde la toma de posesión del CGPJ"
+    ],
+    "reference": "LOPJ 599.1.4.ª",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición y nombramientos",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "No confundir con la solicitud de inicio de renovación formulada por el Presidente del TC."
+  },
+  {
+    "id": 3728,
+    "question": "Una propuesta de nombramiento de magistrados del TC contiene un 30 % de mujeres y un 70 % de hombres. ¿Cumple el mínimo de presencia equilibrada?",
+    "answer": "No: se exige al menos el 40 % de cada sexo",
+    "options": [
+      "Sí: basta un 30 % de cada sexo",
+      "Sí: el 40 % se exige solo al Congreso",
+      "No: se exige al menos el 40 % de cada sexo",
+      "No: se exige exactamente el 50 % de cada sexo"
+    ],
+    "reference": "LOTC 16.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición y nombramientos",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La regla exige un mínimo de 40 % de cada sexo en las propuestas de cada órgano."
+  },
+  {
+    "id": 3729,
+    "question": "Si un órgano debe proponer dos magistrados del TC, ¿qué reparto satisface, en principio, el mínimo de un 40 % para cada sexo?",
+    "answer": "Una mujer y un hombre",
+    "options": [
+      "Dos mujeres",
+      "Una mujer y un hombre",
+      "Cualquier distribución, porque solo hay dos plazas",
+      "Dos hombres"
+    ],
+    "reference": "LOTC 16.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición y nombramientos",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Con dos plazas, 40 % para cada sexo obliga a que haya una persona de cada sexo."
+  },
+  {
+    "id": 3730,
+    "question": "¿Puede ser magistrada del TC una jurista con exactamente quince años de ejercicio profesional, si no tiene más antigüedad?",
+    "answer": "No, la CE exige más de 15 años",
+    "options": [
+      "No, porque siempre exige 20 años",
+      "No, la CE exige más de 15 años",
+      "Sí, porque basta con 15 años exactos",
+      "Sí, porque basta con 12 años"
+    ],
+    "reference": "CE 159.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición y nombramientos",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El texto del art. 159.2 CE utiliza «más de quince años»."
+  },
+  {
+    "id": 3731,
+    "question": "Una magistrada del TC ocupó una vacante durante dos años y ocho meses. ¿Puede, por ese límite temporal, ser propuesta inmediatamente para otro mandato?",
+    "answer": "Sí, porque no superó 3 años",
+    "options": [
+      "Sí, porque no superó 3 años",
+      "No, porque cualquier mandato anterior lo impide",
+      "Solo si obtuvo tres quintos del Pleno del TC",
+      "Solo si no superó 2 años"
+    ],
+    "reference": "LOTC 16.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición y nombramientos",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La excepción a la prohibición de reelección inmediata se da cuando el cargo se ocupó por plazo no superior a tres años."
+  },
+  {
+    "id": 3732,
+    "question": "Un magistrado ha ocupado su cargo cuatro años como sustituto. ¿Permite el art. 16.4 LOTC su propuesta inmediata para otro período?",
+    "answer": "No, ha superado los 3 años permitidos en la excepción",
+    "options": [
+      "No, solo están prohibidas las reelecciones tras 9 años",
+      "Sí, mientras el primer período sea inferior a 6 años",
+      "Sí, cualquier sustituto puede ser reelegido",
+      "No, ha superado los 3 años permitidos en la excepción"
+    ],
+    "reference": "LOTC 16.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición y nombramientos",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El umbral de excepción es no superior a tres años."
+  },
+  {
+    "id": 3733,
+    "question": "Cuando se cubre una vacante por fallecimiento de un magistrado a mitad de mandato, ¿qué duración corresponde al nuevo nombrado?",
+    "answer": "El tiempo que restaba del mandato del sustituido",
+    "options": [
+      "El tiempo restante más tres años",
+      "Tres años exactos en todos los casos",
+      "El tiempo que restaba del mandato del sustituido",
+      "Siempre un nuevo período íntegro de 9 años"
+    ],
+    "reference": "LOTC 16.5",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición y nombramientos",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El nuevo magistrado no reinicia el cómputo del período originario."
+  },
+  {
+    "id": 3734,
+    "question": "Un tercio del TC se renueva con dos años de retraso. ¿Qué sucede con la duración del mandato de los nuevos magistrados?",
+    "answer": "Se descuentan los dos años de retraso",
+    "options": [
+      "La renovación queda anulada",
+      "Reciben nueve años completos adicionales",
+      "Se les prorroga doce años",
+      "Se descuentan los dos años de retraso"
+    ],
+    "reference": "LOTC 16.5",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición y nombramientos",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "LOTC 16.5 ordena descontar el retraso en la renovación por tercios."
+  },
+  {
+    "id": 3735,
+    "question": "¿Con qué anticipación debe el Presidente del TC pedir a los órganos proponentes que inicien el procedimiento de renovación?",
+    "answer": "Antes de los 4 meses previos al vencimiento",
+    "options": [
+      "En los 15 días posteriores al vencimiento",
+      "Antes de los 4 meses previos al vencimiento",
+      "Solo el mismo día en que vencen los nombramientos",
+      "Dentro de los 2 meses siguientes al vencimiento"
+    ],
+    "reference": "LOTC 17.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición y nombramientos",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Reproduce el tenor temporal del artículo 17.1 LOTC."
+  },
+  {
+    "id": 3736,
+    "question": "Si ningún candidato obtiene mayoría absoluta en la primera votación para Presidente del TC, ¿qué regla decide la segunda?",
+    "answer": "Resulta elegido quien obtenga mayor número de votos",
+    "options": [
+      "Se exige necesariamente mayoría de dos tercios",
+      "Resulta elegido quien obtenga mayor número de votos",
+      "Se exige otra vez mayoría absoluta",
+      "Resulta elegido el magistrado de mayor edad sin votación"
+    ],
+    "reference": "LOTC 9.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Elección de Presidencia",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El artículo 9.2 distingue expresamente primera y segunda votación."
+  },
+  {
+    "id": 3737,
+    "question": "Si en la segunda votación para Presidente del TC se produce empate, ¿cuántas votaciones adicionales prevé la LOTC antes de acudir a los criterios de antigüedad y edad?",
+    "answer": "Una última votación",
+    "options": [
+      "Ninguna, decide la edad inmediatamente",
+      "Dos últimas votaciones",
+      "Una última votación",
+      "Tres últimas votaciones"
+    ],
+    "reference": "LOTC 9.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Elección de Presidencia",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La ley manda una última votación; si persiste el empate, antigüedad y edad."
+  },
+  {
+    "id": 3738,
+    "question": "En la votación final para Presidente del TC persiste el empate y dos candidatos tienen distinta antigüedad. ¿Quién debe ser propuesto?",
+    "answer": "El de mayor antigüedad en el cargo",
+    "options": [
+      "Quien decida el Gobierno",
+      "El de mayor antigüedad en el cargo",
+      "El de menor antigüedad en el cargo",
+      "El de mayor edad, aunque tenga menos antigüedad"
+    ],
+    "reference": "LOTC 9.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Elección de Presidencia",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La edad solo desempata cuando hay igualdad en antigüedad."
+  },
+  {
+    "id": 3739,
+    "question": "Una persona ha desempeñado dos mandatos consecutivos de tres años como Presidente del TC. ¿Puede ser reelegida de nuevo para un tercero inmediato?",
+    "answer": "No: solo cabe una reelección",
+    "options": [
+      "No, porque ni siquiera cabía la primera reelección",
+      "No: solo cabe una reelección",
+      "Sí, si alcanza tres quintos del Pleno",
+      "Sí, sin límite de reelecciones"
+    ],
+    "reference": "CE 160; LOTC 9.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Elección de Presidencia",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La LOTC permite ser reelegido una sola vez."
+  },
+  {
+    "id": 3740,
+    "question": "En la elección del Vicepresidente del TC, ¿qué procedimiento de votación y período se aplican?",
+    "answer": "El mismo procedimiento del Presidente y mandato de 3 años",
+    "options": [
+      "Mayoría de dos tercios y mandato de 9 años",
+      "El mismo procedimiento del Presidente y mandato de 3 años",
+      "Designación directa por el Gobierno y mandato de 3 años",
+      "Mayoría simple sin votación secreta y mandato de 6 años"
+    ],
+    "reference": "LOTC 9.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Elección de Presidencia",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "LOTC 9.4 remite a los apartados sobre elección y período del Presidente."
+  },
+  {
+    "id": 3741,
+    "question": "Si termina el mandato trienal del Presidente sin haberse producido la renovación de magistrados prevista, ¿hasta cuándo queda prorrogado?",
+    "answer": "Hasta la renovación y toma de posesión de los nuevos magistrados",
+    "options": [
+      "Hasta cumplirse un mes desde el vencimiento",
+      "Hasta la renovación y toma de posesión de los nuevos magistrados",
+      "Por nueve años adicionales",
+      "No puede prorrogarse en ningún caso"
+    ],
+    "reference": "LOTC 16.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Elección de Presidencia",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La prórroga busca hacer coincidir la presidencia con la renovación."
+  },
+  {
+    "id": 3742,
+    "question": "¿Quién preside ordinariamente la Sala Primera y quién la Sala Segunda del TC?",
+    "answer": "Presidente del TC / Vicepresidente del TC",
+    "options": [
+      "Vicepresidente del TC / Presidente del TC",
+      "Presidente del Congreso / Presidente del Senado",
+      "Presidente del TC / Vicepresidente del TC",
+      "Magistrado más antiguo / Presidente del TC"
+    ],
+    "reference": "LOTC 7.2 y 7.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Elección de Presidencia",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El Presidente preside la Primera y el Vicepresidente la Segunda."
+  },
+  {
+    "id": 3743,
+    "question": "Al ausentarse el Vicepresidente de la Sala Segunda, ¿cuál es el criterio ordinario de sustitución?",
+    "answer": "Magistrado más antiguo y, si igual antigüedad, de mayor edad",
+    "options": [
+      "Magistrado más antiguo y, si igual antigüedad, de mayor edad",
+      "El magistrado más joven y, si empata, por sorteo",
+      "El magistrado que propuso el Gobierno más recientemente",
+      "El Presidente de la Sala Primera en todos los casos"
+    ],
+    "reference": "LOTC 7.2 y 7.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Elección de Presidencia",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "LOTC 7.3 fija antigüedad y, subsidiariamente, edad."
+  },
+  {
+    "id": 3744,
+    "question": "Si faltan Presidente y Vicepresidente del TC, ¿quién preside el Pleno?",
+    "answer": "El magistrado más antiguo y, si empatan, el de mayor edad",
+    "options": [
+      "El Secretario General",
+      "El magistrado más joven",
+      "El magistrado más antiguo y, si empatan, el de mayor edad",
+      "El último nombrado por el Senado"
+    ],
+    "reference": "LOTC 6.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Elección de Presidencia",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "LOTC 6.2 señala el orden de sustitución."
+  },
+  {
+    "id": 3745,
+    "question": "¿Qué mayoría corresponde al Pleno para cesar a un magistrado por dejar de atender con diligencia los deberes del cargo?",
+    "answer": "Tres cuartas partes de sus miembros",
+    "options": [
+      "Mayoría absoluta de los presentes",
+      "Tres cuartas partes de sus miembros",
+      "Dos tercios de los presentes",
+      "Mayoría simple de sus miembros"
+    ],
+    "reference": "LOTC 23.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Cese y suspensión",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Los motivos quinto a séptimo del art. 23.1 requieren tres cuartas partes."
+  },
+  {
+    "id": 3746,
+    "question": "El TC tiene doce magistrados en ejercicio. ¿Cuántos votos favorables requiere el cese por violación de la reserva propia de su función?",
+    "answer": "9 votos",
+    "options": [
+      "8 votos",
+      "10 votos",
+      "7 votos",
+      "9 votos"
+    ],
+    "reference": "LOTC 23.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Cese y suspensión",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Tres cuartas partes de doce son nueve."
+  },
+  {
+    "id": 3747,
+    "question": "En un Pleno de doce magistrados, ¿cuántos votos favorables requiere la suspensión cautelar de otro magistrado?",
+    "answer": "9 votos",
+    "options": [
+      "6 votos",
+      "9 votos",
+      "7 votos",
+      "8 votos"
+    ],
+    "reference": "LOTC 24",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Cese y suspensión",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La suspensión previa exige el voto favorable de tres cuartas partes de los miembros."
+  },
+  {
+    "id": 3748,
+    "question": "¿Qué órgano declara el cese por expiración del mandato o acepta la renuncia de un magistrado del TC?",
+    "answer": "El Presidente del TC",
+    "options": [
+      "El CGPJ por tres quintos",
+      "El Presidente del TC",
+      "El Pleno por tres cuartas partes",
+      "El Senado por mayoría absoluta"
+    ],
+    "reference": "LOTC 23.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Cese y suspensión",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Para renuncia y expiración, corresponde al Presidente del TC."
+  },
+  {
+    "id": 3749,
+    "question": "Para acordar el cese por incompatibilidad sobrevenida, ¿qué mayoría establece la LOTC?",
+    "answer": "Mayoría simple del Pleno",
+    "options": [
+      "Mayoría simple del Pleno",
+      "Tres cuartas partes del Pleno",
+      "Tres quintos del Congreso",
+      "Unanimidad de todas las Salas"
+    ],
+    "reference": "LOTC 23.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Cese y suspensión",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El motivo cuarto lleva mayoría simple, igual que la incapacidad."
+  },
+  {
+    "id": 3750,
+    "question": "¿Cuántas causas de cese enumera expresamente el artículo 23.1 de la LOTC?",
+    "answer": "7",
+    "options": [
+      "5",
+      "8",
+      "7",
+      "6"
+    ],
+    "reference": "LOTC 23.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Cese y suspensión",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El precepto enumera causas primera a séptima."
+  },
+  {
+    "id": 3751,
+    "question": "En un Pleno ordinario compuesto por doce magistrados, ¿cuántos deben estar presentes al menos para que pueda adoptar acuerdos?",
+    "answer": "8",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "reference": "LOTC 14",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición interna",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Dos tercios de doce equivale a ocho magistrados."
+  },
+  {
+    "id": 3752,
+    "question": "En una Sala del TC formada por seis magistrados, ¿cuántos deben estar presentes al menos para que pueda adoptar acuerdos?",
+    "answer": "4",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "reference": "LOTC 14",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición interna",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El quórum de Sala también es dos tercios."
+  },
+  {
+    "id": 3753,
+    "question": "¿Cuántos magistrados pueden proponer al Pleno que recabe para sí otro asunto de competencia del TC?",
+    "answer": "3 magistrados",
+    "options": [
+      "3 magistrados",
+      "2 magistrados",
+      "4 magistrados",
+      "6 magistrados"
+    ],
+    "reference": "LOTC 10.1.n",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición interna",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El art. 10.1.n permite la propuesta del Presidente o de tres magistrados."
+  },
+  {
+    "id": 3754,
+    "question": "¿cuál es el máximo de letrados del TC seleccionados por concurso-oposición?",
+    "answer": "16",
+    "options": [
+      "16",
+      "12",
+      "20",
+      "24"
+    ],
+    "reference": "Reglamento del TC, organización y personal",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición interna",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El temario indica que el número de letrados seleccionados por esta vía no excederá de dieciséis."
+  },
+  {
+    "id": 3755,
+    "question": "¿qué antigüedad mínima como letrado del TC se exige para ser elegido Secretario General?",
+    "answer": "3 años",
+    "options": [
+      "3 años",
+      "2 años",
+      "5 años",
+      "6 años"
+    ],
+    "reference": "Reglamento de Organización y Personal del TC",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición interna",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El régimen descrito exige al menos tres años de antigüedad como letrado."
+  },
+  {
+    "id": 3756,
+    "question": "¿cuánto dura el nombramiento del Secretario General del TC?",
+    "answer": "3 años",
+    "options": [
+      "9 años",
+      "6 años",
+      "5 años",
+      "3 años"
+    ],
+    "reference": "Reglamento de Organización y Personal del TC",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Composición interna",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El material fija un período de tres años."
+  },
+  {
+    "id": 3757,
+    "question": "¿Cuál es el plazo máximo de práctica de prueba que puede señalar el TC al acordarla?",
+    "answer": "30 días",
+    "options": [
+      "15 días",
+      "30 días",
+      "20 días",
+      "60 días"
+    ],
+    "reference": "LOTC 89.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Resoluciones y tramitación",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El art. 89.1 LOTC fija el máximo de treinta días."
+  },
+  {
+    "id": 3758,
+    "question": "Tras notificarse una sentencia del TC, ¿de cuánto tiempo disponen las partes para pedir aclaración?",
+    "answer": "2 días",
+    "options": [
+      "2 días",
+      "10 días",
+      "3 días",
+      "5 días"
+    ],
+    "reference": "LOTC 93.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Resoluciones y tramitación",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La aclaración de sentencias puede solicitarse en los dos días desde notificación."
+  },
+  {
+    "id": 3759,
+    "question": "¿En qué plazo puede interponerse el recurso de súplica contra autos o providencias del TC cuando proceda?",
+    "answer": "3 días",
+    "options": [
+      "5 días",
+      "3 días",
+      "10 días",
+      "2 días"
+    ],
+    "reference": "LOTC 93.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Resoluciones y tramitación",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El art. 93.2 establece tres días."
+  },
+  {
+    "id": 3760,
+    "question": "En el recurso general de súplica contra una providencia del TC, ¿qué plazo de audiencia común tienen las partes?",
+    "answer": "3 días",
+    "options": [
+      "2 días",
+      "5 días",
+      "10 días",
+      "3 días"
+    ],
+    "reference": "LOTC 93.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Resoluciones y tramitación",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La audiencia común se concede por igual tiempo al plazo de interposición: tres días."
+  },
+  {
+    "id": 3761,
+    "question": "Transcurrida la audiencia común del recurso general de súplica, ¿en qué plazo se resuelve?",
+    "answer": "En los 2 días siguientes",
+    "options": [
+      "En los 10 días siguientes",
+      "En los 2 días siguientes",
+      "En los 3 días siguientes",
+      "En los 15 días siguientes"
+    ],
+    "reference": "LOTC 93.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Resoluciones y tramitación",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El art. 93.2 prevé resolver en los dos días siguientes."
+  },
+  {
+    "id": 3762,
+    "question": "Una sentencia del TC se publicó un lunes en el BOE. ¿Qué día adquiere valor de cosa juzgada, conforme a la regla constitucional?",
+    "answer": "El martes",
+    "options": [
+      "Transcurrido un mes",
+      "El jueves",
+      "El martes",
+      "El mismo lunes"
+    ],
+    "reference": "CE 164.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Resoluciones y tramitación",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Es el día siguiente a su publicación."
+  },
+  {
+    "id": 3763,
+    "question": "Si se unen cuarenta y nueve diputados para presentar un recurso de inconstitucionalidad, ¿alcanzan la legitimación numérica?",
+    "answer": "No, se requieren al menos 50 diputados",
+    "options": [
+      "Sí, bastan 40 diputados",
+      "Sí, bastan 45 diputados",
+      "No, deben ser exactamente 60 diputados",
+      "No, se requieren al menos 50 diputados"
+    ],
+    "reference": "LOTC 32.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Recurso de inconstitucionalidad",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Constitución y LOTC exigen cincuenta diputados."
+  },
+  {
+    "id": 3764,
+    "question": "Una ley ha sido publicada hace cinco meses. ¿Puede acogerse el Defensor del Pueblo al plazo excepcional de nueve meses del art. 33.2 LOTC?",
+    "answer": "No; la excepción solo corresponde al Presidente del Gobierno y ejecutivos autonómicos",
+    "options": [
+      "No; el plazo excepcional es exclusivamente de seis meses",
+      "Sí, el plazo excepcional alcanza a cualquier legitimado",
+      "No; la excepción solo corresponde al Presidente del Gobierno y ejecutivos autonómicos",
+      "Sí, siempre que tenga el apoyo de 50 diputados"
+    ],
+    "reference": "LOTC 33.1 y 33.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Recurso de inconstitucionalidad",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El Defensor del Pueblo conserva el plazo ordinario de tres meses."
+  },
+  {
+    "id": 3765,
+    "question": "¿Qué requisito formal debe cumplirse dentro de los tres meses desde la publicación de la norma para utilizar el plazo excepcional de nueve meses?",
+    "answer": "Comunicar al TC el acuerdo de inicio de negociaciones y publicarlo en los diarios oficiales correspondientes",
+    "options": [
+      "Interponer previamente un recurso de amparo",
+      "Conseguir 50 firmas de cada Cámara",
+      "Comunicar al TC el acuerdo de inicio de negociaciones y publicarlo en los diarios oficiales correspondientes",
+      "Obtener un informe favorable del CGPJ"
+    ],
+    "reference": "LOTC 33.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Recurso de inconstitucionalidad",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El art. 33.2 contiene comunicación al TC y publicación oficial."
+  },
+  {
+    "id": 3766,
+    "question": "¿Qué pareja de plazos distingue correctamente el recurso de inconstitucionalidad ordinario del excepcional con negociación bilateral?",
+    "answer": "3 meses / 9 meses",
+    "options": [
+      "6 meses / 12 meses",
+      "2 meses / 9 meses",
+      "3 meses / 9 meses",
+      "3 meses / 6 meses"
+    ],
+    "reference": "LOTC 33.1, 33.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Recurso de inconstitucionalidad",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La posibilidad de nueve meses está condicionada a los requisitos del art. 33.2."
+  },
+  {
+    "id": 3767,
+    "question": "¿Cuál es el plazo ordinario de sentencia del recurso de inconstitucionalidad tras las alegaciones, y cuál el máximo ampliado motivadamente?",
+    "answer": "10 días / 30 días",
+    "options": [
+      "15 días / 30 días",
+      "15 días / 60 días",
+      "10 días / 30 días",
+      "10 días / 20 días"
+    ],
+    "reference": "LOTC 34.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Recurso de inconstitucionalidad",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Distinción importante con la cuestión de inconstitucionalidad: diez frente a quince días ordinarios."
+  },
+  {
+    "id": 3768,
+    "question": "Un grupo de 50 diputados interpone recurso de inconstitucionalidad contra una ley autonómica. ¿Se suspende la ley automáticamente por ese solo hecho?",
+    "answer": "No; la suspensión automática del art. 161.2 corresponde a la impugnación gubernamental en sus términos",
+    "options": [
+      "No, porque las leyes autonómicas son irrecurribles",
+      "Sí, por cualquier recurso registrado en plazo",
+      "Sí, siempre que la ley sea autonómica",
+      "No; la suspensión automática del art. 161.2 corresponde a la impugnación gubernamental en sus términos"
+    ],
+    "reference": "LOTC 30 y CE 161.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Recurso de inconstitucionalidad",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La mera admisión del recurso no suspende la ley; hay una excepción del Gobierno en la CE."
+  },
+  {
+    "id": 3769,
+    "question": "Finalizada la audiencia de diez días sobre la cuestión, ¿qué plazo tiene el órgano judicial para decidir mediante auto?",
+    "answer": "3 días",
+    "options": [
+      "3 días",
+      "15 días",
+      "10 días",
+      "5 días"
+    ],
+    "reference": "LOTC 35.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Cuestión de inconstitucionalidad",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Artículo 35.2 LOTC: resolución del juez en tres días."
+  },
+  {
+    "id": 3770,
+    "question": "Publicada la admisión de una cuestión, ¿cuántos días tienen las partes del proceso judicial para personarse ante el TC?",
+    "answer": "15 días",
+    "options": [
+      "20 días",
+      "15 días",
+      "30 días",
+      "10 días"
+    ],
+    "reference": "LOTC 37.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Cuestión de inconstitucionalidad",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Plazo de personación tras la publicación en BOE."
+  },
+  {
+    "id": 3771,
+    "question": "Una parte se persona en una cuestión de inconstitucionalidad tras publicarse su admisión. ¿De qué plazo posterior dispone para alegaciones?",
+    "answer": "Otros 15 días",
+    "options": [
+      "Otros 10 días",
+      "Otros 30 días",
+      "Otros 15 días",
+      "Otros 20 días"
+    ],
+    "reference": "LOTC 37.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Cuestión de inconstitucionalidad",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La LOTC separa los quince días de personación de otros quince para alegar."
+  },
+  {
+    "id": 3772,
+    "question": "Concluido el plazo de alegaciones en la cuestión de inconstitucionalidad, ¿qué plazo ordinario y máximo ampliado rigen para sentencia?",
+    "answer": "15 días / 30 días",
+    "options": [
+      "10 días / 30 días",
+      "15 días / 30 días",
+      "30 días / 60 días",
+      "15 días / 20 días"
+    ],
+    "reference": "LOTC 37.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Cuestión de inconstitucionalidad",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La cuestión tiene plazo ordinario de quince días, ampliable motivadamente a treinta."
+  },
+  {
+    "id": 3773,
+    "question": "¿Qué procedimiento tiene, tras las alegaciones, plazo ordinario de 15 días para sentencia: recurso o cuestión de inconstitucionalidad?",
+    "answer": "La cuestión; el recurso tiene ordinariamente 10 días",
+    "options": [
+      "El recurso; la cuestión tiene ordinariamente 10 días",
+      "Ambos tienen 30 días",
+      "La cuestión; el recurso tiene ordinariamente 10 días",
+      "Ambos tienen 10 días"
+    ],
+    "reference": "LOTC 34.2 y 37.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Cuestión de inconstitucionalidad",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La pregunta contrasta dos plazos contiguos especialmente confundibles."
+  },
+  {
+    "id": 3774,
+    "question": "En una cuestión de inconstitucionalidad, ¿qué secuencia de plazos es correcta para audiencia previa del juez / resolución de planteamiento / personación en el TC?",
+    "answer": "10 días / 3 días / 15 días",
+    "options": [
+      "10 días / 10 días / 20 días",
+      "10 días / 3 días / 15 días",
+      "15 días / 3 días / 10 días",
+      "3 días / 15 días / 30 días"
+    ],
+    "reference": "LOTC 35.2 y 37.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Cuestión de inconstitucionalidad",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Deben distinguirse las tres fases procesales de la LOTC."
+  },
+  {
+    "id": 3775,
+    "question": "Requerida la declaración sobre constitucionalidad de un tratado aún no consentido, ¿qué plazo tienen los órganos legitimados para expresar su opinión?",
+    "answer": "1 mes",
+    "options": [
+      "15 días",
+      "3 meses",
+      "10 días",
+      "1 mes"
+    ],
+    "reference": "CE 95; LOTC 78",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Control previo y tratados",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "LOTC 78.2: un mes de audiencia."
+  },
+  {
+    "id": 3776,
+    "question": "Finalizado el mes para opiniones en el control previo de tratados, ¿cuánto tiempo dispone el TC para emitir declaración?",
+    "answer": "Dentro del mes siguiente",
+    "options": [
+      "Dentro del mes siguiente",
+      "Dentro de los 15 días siguientes",
+      "Dentro de los 3 días siguientes",
+      "Dentro de los 3 meses siguientes"
+    ],
+    "reference": "LOTC 78",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Control previo y tratados",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La LOTC da otro mes para la declaración vinculante."
+  },
+  {
+    "id": 3777,
+    "question": "¿Cuál es la secuencia ordinaria de los dos plazos en el control previo de constitucionalidad de tratados?",
+    "answer": "1 mes de opiniones + 1 mes para la declaración",
+    "options": [
+      "1 mes de opiniones + 1 mes para la declaración",
+      "2 meses de opiniones + 15 días para la declaración",
+      "1 mes de opiniones + 3 meses para la declaración",
+      "15 días de opiniones + 1 mes para la declaración"
+    ],
+    "reference": "LOTC 78",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Control previo y tratados",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "No confundir con plazo de recurso previo estatutario."
+  },
+  {
+    "id": 3778,
+    "question": "Aprobado parlamentariamente un proyecto de Estatuto de Autonomía, ¿cuántos días desde su publicación en el Boletín Oficial de las Cortes Generales hay para recurrirlo previamente?",
+    "answer": "3 días",
+    "options": [
+      "10 días",
+      "15 días",
+      "3 días",
+      "3 meses"
+    ],
+    "reference": "LOTC 79.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Recurso previo estatutario",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El recurso previo del art. 79.2 LOTC tiene plazo de tres días."
+  },
+  {
+    "id": 3779,
+    "question": "Interpuesto un recurso previo contra un Estatuto, ¿cuál es el plazo máximo del TC para pronunciarse?",
+    "answer": "6 meses",
+    "options": [
+      "6 meses",
+      "1 año",
+      "9 meses",
+      "3 meses"
+    ],
+    "reference": "LOTC 79.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Recurso previo estatutario",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El art. 79.3 LOTC fija seis meses."
+  },
+  {
+    "id": 3780,
+    "question": "¿Qué pareja distingue plazo de interposición y plazo máximo de decisión del recurso previo estatutario?",
+    "answer": "3 días / 6 meses",
+    "options": [
+      "10 días / 3 meses",
+      "15 días / 9 meses",
+      "3 meses / 6 meses",
+      "3 días / 6 meses"
+    ],
+    "reference": "LOTC 79.2 y 79.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Recurso previo estatutario",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Recurso previo: tres días desde publicación y decisión en seis meses."
+  },
+  {
+    "id": 3781,
+    "question": "Si se interpone recurso previo estatutario dentro de los tres días legales, ¿qué trámites quedan paralizados mientras decide el TC?",
+    "answer": "Los ulteriores trámites de entrada en vigor, incluido eventual referéndum preceptivo",
+    "options": [
+      "Ningún trámite, por regla general",
+      "Solo el procedimiento de inscripción en el Registro Mercantil",
+      "Los ulteriores trámites de entrada en vigor, incluido eventual referéndum preceptivo",
+      "Solo la publicación en diarios oficiales municipales"
+    ],
+    "reference": "LOTC 79.2 y 79.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Recurso previo estatutario",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "LOTC 79.3 dispone suspensión de trámites de entrada en vigor."
+  },
+  {
+    "id": 3782,
+    "question": "¿Qué tres plazos de interposición diferencian los amparos parlamentario, ejecutivo tras vía judicial y judicial directo?",
+    "answer": "3 meses / 20 días / 30 días",
+    "options": [
+      "3 meses / 20 días / 30 días",
+      "30 días / 20 días / 3 meses",
+      "20 días / 30 días / 3 meses",
+      "3 meses / 30 días / 20 días"
+    ],
+    "reference": "LOTC 42-44",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Amparo constitucional",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Orden: actos parlamentarios sin ley, art. 43, actos judiciales art. 44."
+  },
+  {
+    "id": 3783,
+    "question": "Una cámara adopta un acto firme sin valor de ley que vulnera un derecho amparable. ¿Qué plazo rige?",
+    "answer": "3 meses desde la firmeza conforme a normas internas",
+    "options": [
+      "30 días desde el conocimiento por la prensa",
+      "3 meses desde la firmeza conforme a normas internas",
+      "9 meses desde su adopción",
+      "20 días desde el acto inicial, aunque no sea firme"
+    ],
+    "reference": "LOTC 42-44",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Amparo constitucional",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "LOTC 42 regula específicamente los actos parlamentarios."
+  },
+  {
+    "id": 3784,
+    "question": "Una administración vulnera un derecho y, agotada la vía judicial, se notifica la última resolución. ¿Plazo de amparo?",
+    "answer": "20 días",
+    "options": [
+      "30 días",
+      "15 días",
+      "20 días",
+      "3 meses"
+    ],
+    "reference": "LOTC 43.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Amparo constitucional",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El art. 43.2 prevé veinte días."
+  },
+  {
+    "id": 3785,
+    "question": "Una lesión del derecho fundamental deriva directamente de una resolución judicial. Tras agotar recursos, ¿cuál es el plazo de amparo?",
+    "answer": "30 días",
+    "options": [
+      "30 días",
+      "3 meses",
+      "15 días",
+      "20 días"
+    ],
+    "reference": "LOTC 44.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Amparo constitucional",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El art. 44.2 prevé treinta días."
+  },
+  {
+    "id": 3786,
+    "question": "Si una demanda de amparo contiene defectos subsanables, ¿qué plazo concede la LOTC para subsanarlos tras advertirlos la Secretaría de Justicia?",
+    "answer": "10 días",
+    "options": [
+      "15 días",
+      "3 días",
+      "20 días",
+      "10 días"
+    ],
+    "reference": "LOTC 49.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Amparo constitucional",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El art. 49.4 fija diez días."
+  },
+  {
+    "id": 3787,
+    "question": "La Sección, compuesta por tres magistrados, registra dos votos favorables a admitir un amparo y uno contrario. ¿Quién debe resolver la admisión?",
+    "answer": "La Sala correspondiente",
+    "options": [
+      "La Sala correspondiente",
+      "El Congreso de los Diputados",
+      "El Presidente del Gobierno",
+      "La Sección por mayoría simple"
+    ],
+    "reference": "LOTC 50.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Amparo constitucional",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La mayoría sin unanimidad obliga a trasladar a la Sala."
+  },
+  {
+    "id": 3788,
+    "question": "En un amparo admitido, ¿qué secuencia es correcta para remisión de actuaciones / comparecencia de partes previas / vista para alegaciones?",
+    "answer": "10 días / 10 días / hasta 20 días",
+    "options": [
+      "10 días / 15 días / hasta 10 días",
+      "20 días / 10 días / hasta 30 días",
+      "15 días / 20 días / hasta 10 días",
+      "10 días / 10 días / hasta 20 días"
+    ],
+    "reference": "LOTC 51-52",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Amparo constitucional",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Cuantías procesales consecutivas con riesgo de confusión."
+  },
+  {
+    "id": 3789,
+    "question": "¿En qué plazo puede el Gobierno formalizar directamente un conflicto positivo ante el TC contra disposición autonómica?",
+    "answer": "2 meses",
+    "options": [
+      "3 meses",
+      "9 meses",
+      "1 mes",
+      "2 meses"
+    ],
+    "reference": "LOTC 62",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Conflicto positivo de competencia",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "LOTC 62: dos meses; el Gobierno puede acudir directamente sin requerimiento previo."
+  },
+  {
+    "id": 3790,
+    "question": "¿Es obligatorio el requerimiento previo del Gobierno en un conflicto positivo contra una comunidad autónoma?",
+    "answer": "No: para el Gobierno es potestativo",
+    "options": [
+      "No: queda prohibido requerir",
+      "Sí: solo si el conflicto es negativo",
+      "Sí: siempre obligatorio",
+      "No: para el Gobierno es potestativo"
+    ],
+    "reference": "LOTC 62 y 63",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Conflicto positivo de competencia",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La LOTC permite al Gobierno formalizar directamente o requerir."
+  },
+  {
+    "id": 3791,
+    "question": "¿Cuál es la secuencia temporal del conflicto positivo autonómico: requerimiento inicial / respuesta / interposición tras rechazo?",
+    "answer": "2 meses / 1 mes / 1 mes",
+    "options": [
+      "3 meses / 1 mes / 2 meses",
+      "2 meses / 2 meses / 3 meses",
+      "1 mes / 2 meses / 1 mes",
+      "2 meses / 1 mes / 1 mes"
+    ],
+    "reference": "LOTC 62-65",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Conflicto positivo de competencia",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Tres momentos distintos; no basta memorizar números aislados."
+  },
+  {
+    "id": 3792,
+    "question": "En conflicto negativo instado por particular, dictado el auto de planteamiento, ¿qué plazo de alegaciones se concede a las Administraciones implicadas?",
+    "answer": "1 mes",
+    "options": [
+      "1 mes",
+      "10 días",
+      "15 días",
+      "2 meses"
+    ],
+    "reference": "LOTC 70.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Conflicto negativo por particular",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El TC fija plazo común de un mes."
+  },
+  {
+    "id": 3793,
+    "question": "Agotado el plazo de alegaciones de un conflicto negativo promovido por particular, ¿cuándo debe dictar sentencia el TC?",
+    "answer": "Dentro del mes siguiente",
+    "options": [
+      "En 10 días",
+      "En 3 meses",
+      "Dentro del mes siguiente",
+      "En 15 días"
+    ],
+    "reference": "LOTC 70.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Conflicto negativo por particular",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "LOTC 70.2: un mes."
+  },
+  {
+    "id": 3794,
+    "question": "En un conflicto negativo promovido por el Gobierno, ¿cuál es la duración mínima del plazo que este debe conceder a la comunidad autónoma para ejercer sus atribuciones?",
+    "answer": "Al menos 1 mes",
+    "options": [
+      "Al menos 3 meses",
+      "Al menos 15 días",
+      "Al menos 10 días",
+      "Al menos 1 mes"
+    ],
+    "reference": "LOTC 71",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Conflicto negativo por Gobierno",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El plazo fijado por el Gobierno nunca será inferior a un mes."
+  },
+  {
+    "id": 3795,
+    "question": "Transcurrido el plazo fijado en el requerimiento gubernamental sin ejercicio de competencia, ¿dentro de qué plazo puede el Gobierno plantear conflicto negativo?",
+    "answer": "Dentro del mes siguiente",
+    "options": [
+      "Dentro de los 10 días siguientes",
+      "Dentro de los 5 meses siguientes",
+      "Dentro del mes siguiente",
+      "Dentro de los 3 meses siguientes"
+    ],
+    "reference": "LOTC 71",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Conflicto negativo por Gobierno",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Se dispone de un mes tras rechazo expreso o tácito."
+  },
+  {
+    "id": 3796,
+    "question": "Planteado por el Gobierno el conflicto negativo, ¿qué plazo tiene la comunidad autónoma para alegar al recibir traslado del TC?",
+    "answer": "1 mes",
+    "options": [
+      "2 meses",
+      "1 mes",
+      "10 días",
+      "15 días"
+    ],
+    "reference": "LOTC 71",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Conflicto negativo por Gobierno",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El TC concede un mes al ejecutivo autonómico."
+  },
+  {
+    "id": 3797,
+    "question": "Concluida la fase de alegaciones del conflicto negativo promovido por el Gobierno, ¿cuánto tiempo tiene el TC para sentenciar?",
+    "answer": "Dentro del mes siguiente",
+    "options": [
+      "Dentro de 10 días",
+      "Dentro de 15 días",
+      "Dentro de 3 meses",
+      "Dentro del mes siguiente"
+    ],
+    "reference": "LOTC 72",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Conflicto negativo por Gobierno",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "LOTC 72: un mes."
+  },
+  {
+    "id": 3798,
+    "question": "Si se comparan conflicto positivo y negativo promovido por particular, ¿qué plazos ordinarios de sentencia rigen tras las alegaciones?",
+    "answer": "15 días en positivo / 1 mes en negativo",
+    "options": [
+      "10 días en ambos",
+      "15 días en positivo / 1 mes en negativo",
+      "20 días en positivo / 3 meses en negativo",
+      "1 mes en positivo / 15 días en negativo"
+    ],
+    "reference": "LOTC 64, 65, 70-72",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Conflictos competenciales",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Contraste entre arts. 65 y 70 LOTC."
+  },
+  {
+    "id": 3799,
+    "question": "¿Qué plazo concede el TC al órgano constitucional requerido para formular alegaciones tras el traslado?",
+    "answer": "1 mes",
+    "options": [
+      "1 mes",
+      "10 días",
+      "2 meses",
+      "15 días"
+    ],
+    "reference": "LOTC 74",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Conflicto entre órganos",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El plazo de alegaciones es un mes."
+  },
+  {
+    "id": 3800,
+    "question": "Concluido el plazo de alegaciones en conflicto entre órganos constitucionales, ¿qué plazo ordinario tiene el TC para resolver?",
+    "answer": "1 mes",
+    "options": [
+      "1 mes",
+      "10 días",
+      "2 meses",
+      "15 días"
+    ],
+    "reference": "LOTC 75",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Conflicto entre órganos",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "LOTC 75: el mes siguiente a las alegaciones o aclaraciones."
+  },
+  {
+    "id": 3801,
+    "question": "Ordena los plazos de conflicto de atribuciones entre órganos: comunicación inicial / espera de rectificación / traslado del TC / alegaciones.",
+    "answer": "1 mes / 1 mes / 10 días / 1 mes",
+    "options": [
+      "1 mes / 1 mes / 10 días / 1 mes",
+      "1 mes / 15 días / 20 días / 1 mes",
+      "3 meses / 2 meses / 10 días / 1 mes",
+      "2 meses / 1 mes / 10 días / 15 días"
+    ],
+    "reference": "LOTC 73-75",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Conflicto entre órganos",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Secuencia completa de los arts. 73 y 74."
+  },
+  {
+    "id": 3802,
+    "question": "Admitido un conflicto de autonomía local, ¿en qué término debe el TC dar traslado a los órganos estatales y autonómicos previstos?",
+    "answer": "10 días",
+    "options": [
+      "30 días",
+      "15 días",
+      "20 días",
+      "10 días"
+    ],
+    "reference": "LOTC 75 quinquies.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Autonomía local",
+    "difficulty": 1,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "LOTC 75 quinquies: diez días."
+  },
+  {
+    "id": 3803,
+    "question": "¿Qué plazo tienen los órganos emplazados para personarse y formular alegaciones en conflicto de autonomía local?",
+    "answer": "20 días",
+    "options": [
+      "10 días",
+      "15 días",
+      "20 días",
+      "1 mes"
+    ],
+    "reference": "LOTC 75 quinquies.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Autonomía local",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El art. 75 quinquies concede veinte días."
+  },
+  {
+    "id": 3804,
+    "question": "Una vez terminadas alegaciones y aclaraciones en conflicto de autonomía local, ¿qué plazo se indica para resolver?",
+    "answer": "15 días",
+    "options": [
+      "10 días",
+      "15 días",
+      "1 mes",
+      "20 días"
+    ],
+    "reference": "LOTC 75 quinquies.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Autonomía local",
+    "difficulty": 1,
+    "format": "memoria",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "El art. 75 quinquies prevé quince días."
+  },
+  {
+    "id": 3805,
+    "question": "¿Cuál es la secuencia de plazos para dictamen / interposición / traslado / alegaciones en defensa de autonomía local?",
+    "answer": "3 meses / 1 mes / 10 días / 20 días",
+    "options": [
+      "1 mes / 3 meses / 15 días / 20 días",
+      "3 meses / 1 mes / 10 días / 20 días",
+      "3 meses / 2 meses / 20 días / 10 días",
+      "2 meses / 1 mes / 10 días / 15 días"
+    ],
+    "reference": "LOTC 75 ter a quinquies",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Autonomía local",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Secuencia normativa completa; todos los plazos son distintos y referidos a actos específicos."
+  },
+  {
+    "id": 3806,
+    "question": "Solo un municipio es destinatario de una ley que lesiona su autonomía. ¿Debe reunir el apoyo de otro sexto de la población para recurrirla?",
+    "answer": "No; como destinatario único está legitimado por sí solo",
+    "options": [
+      "No; requiere apoyo de la mitad de las provincias",
+      "No; como destinatario único está legitimado por sí solo",
+      "Sí; debe reunir al menos un sexto de población",
+      "Sí; necesita además un séptimo de municipios"
+    ],
+    "reference": "LOTC 75 ter.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Autonomía local",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La legitimación individual es la excepción frente a las reglas de agrupación."
+  },
+  {
+    "id": 3807,
+    "question": "En un ámbito hay 140 municipios. ¿Cuántos municipios se necesitan como mínimo para alcanzar un séptimo, sin perjuicio de la población exigida?",
+    "answer": "20 municipios",
+    "options": [
+      "14 municipios",
+      "70 municipios",
+      "20 municipios",
+      "23 municipios"
+    ],
+    "reference": "LOTC 75 ter.1.b",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Autonomía local",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "140 dividido entre 7 es 20; además debe cumplirse 1/6 de la población."
+  },
+  {
+    "id": 3808,
+    "question": "En un ámbito hay 84 municipios. Un grupo de 12 promueve conflicto, pero representa solo una décima parte de población. ¿Tiene legitimación suficiente?",
+    "answer": "No, aunque alcance 1/7 de municipios, no alcanza 1/6 de población",
+    "options": [
+      "Sí: basta 1/7 de municipios",
+      "No: deben ser 42 municipios en todo caso",
+      "Sí: basta 1/10 de población",
+      "No, aunque alcance 1/7 de municipios, no alcanza 1/6 de población"
+    ],
+    "reference": "LOTC 75 ter.1.b",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Autonomía local",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "La legitimación exige simultáneamente un séptimo y un sexto."
+  },
+  {
+    "id": 3809,
+    "question": "Una norma afecta a ocho provincias. Cuatro acuerdan promover conflicto, representando el 45 % de la población. ¿Pueden por esa regla de legitimación?",
+    "answer": "No, falta alcanzar la mitad de la población",
+    "options": [
+      "Sí: cuatro provincias son suficientes aunque tengan 45 % de población",
+      "Sí: basta con superar un tercio de población",
+      "No: se exigen seis provincias aunque tengan población suficiente",
+      "No, falta alcanzar la mitad de la población"
+    ],
+    "reference": "LOTC 75 ter.1.c",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Autonomía local",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Se exige al menos mitad de provincias y mitad de población."
+  },
+  {
+    "id": 3810,
+    "question": "En una impugnación gubernamental de resolución autonómica sin fuerza de ley, ¿qué combinación plazo de impugnación / revisión de suspensión es correcta?",
+    "answer": "2 meses / hasta 5 meses",
+    "options": [
+      "3 meses / hasta 3 meses",
+      "1 mes / hasta 6 meses",
+      "2 meses / hasta 9 meses",
+      "2 meses / hasta 5 meses"
+    ],
+    "reference": "LOTC 76-77",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Impugnación art. 161.2",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Normativa del Tribunal Constitucional y legislación relacionada (véase referencia)",
+    "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026",
+    "explanation": "Dos meses para impugnar y cinco como máximo para resolver la suspensión."
+  },
+  {
+    "id": 3811,
+    "question": "Una pregunta exige identificar todos los legitimados del art. 162.1.a CE. ¿Qué conjunto no omite ninguna categoría?",
+    "answer": "Presidente del Gobierno, Defensor del Pueblo, 50 diputados, 50 senadores y, en su caso, ejecutivos colegiados y asambleas autonómicas",
+    "options": [
+      "Presidente del Gobierno, Defensor del Pueblo, 50 diputados, 50 senadores y presidentes de asambleas autonómicas, sin ejecutivos colegiados",
+      "Presidente del Gobierno, Defensor del Pueblo, 50 diputados, 50 senadores y, en su caso, ejecutivos colegiados y asambleas autonómicas",
+      "Presidente del Gobierno, Defensor del Pueblo, 50 diputados y 50 senadores, excluidas las comunidades autónomas",
+      "Presidente del Gobierno, 50 diputados, 50 senadores y ejecutivos autonómicos, excluido el Defensor del Pueblo"
+    ],
+    "reference": "CE 162.1.a; LOTC 32",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Legitimación del recurso de inconstitucionalidad",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La Constitución incluye cuatro sujetos estatales y, en su caso, órganos colegiados ejecutivos y asambleas autonómicas. Las condiciones de actuación autonómica se concretan en la LOTC."
+  },
+  {
+    "id": 3812,
+    "question": "Hay 49 diputados y 49 senadores dispuestos a recurrir una ley, sin otros legitimados. ¿Pueden sumar sus firmas para alcanzar el umbral de recurso?",
+    "answer": "No: se exigen 50 diputados o 50 senadores, cada grupo por separado",
+    "options": [
+      "No: se exigen 50 diputados o 50 senadores, cada grupo por separado",
+      "Sí: sumados son 98 parlamentarios y superan el mínimo de 50",
+      "Sí: basta el acuerdo de 40 miembros de cualquiera de las dos Cámaras",
+      "No: se exige la firma conjunta de 50 diputados y 50 senadores"
+    ],
+    "reference": "CE 162.1.a; LOTC 32.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Legitimación del recurso de inconstitucionalidad",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "Los umbrales de 50 diputados o de 50 senadores son vías de legitimación alternativas; no se suman firmas de ambas Cámaras."
+  },
+  {
+    "id": 3813,
+    "question": "Una asamblea autonómica quiere recurrir una ley estatal que considera lesiva de su ámbito de autonomía. ¿Qué exige la LOTC?",
+    "answer": "Que la ley pueda afectar a su ámbito de autonomía y que exista acuerdo adoptado al efecto",
+    "options": [
+      "Que exista acuerdo de la asamblea, aunque la ley estatal no tenga incidencia en su ámbito de autonomía",
+      "Que la ley estatal tenga rango de ley orgánica, aunque no afecte a la autonomía de la comunidad",
+      "Que el acuerdo autonómico sea autorizado por una Comisión Bilateral de Cooperación",
+      "Que la ley pueda afectar a su ámbito de autonomía y que exista acuerdo adoptado al efecto"
+    ],
+    "reference": "LOTC 32.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Legitimación del recurso de inconstitucionalidad",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "Para recurrir disposiciones estatales que afecten a su autonomía, los órganos autonómicos mencionados necesitan acuerdo expreso; no son legitimados universales sin condiciones."
+  },
+  {
+    "id": 3814,
+    "question": "Un Gobierno autonómico pretende recurrir una ley estatal ajena a su ámbito de autonomía. ¿Basta su condición institucional para aplicar el art. 32.2 LOTC?",
+    "answer": "No: la ley estatal debe poder afectar a su propio ámbito de autonomía",
+    "options": [
+      "Sí: los ejecutivos autonómicos pueden recurrir indiscriminadamente cualquier ley estatal",
+      "Sí: basta que el ejecutivo autonómico apruebe interponer el recurso por mayoría absoluta",
+      "No: la ley estatal debe poder afectar a su propio ámbito de autonomía",
+      "No: solo puede impugnar leyes de otra comunidad autónoma, nunca leyes estatales"
+    ],
+    "reference": "LOTC 32.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Legitimación del recurso de inconstitucionalidad",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "El art. 32.2 vincula la legitimación autonómica frente a leyes estatales a la posible afección a su propio ámbito de autonomía."
+  },
+  {
+    "id": 3815,
+    "question": "Según la Constitución, ¿qué legitimados se contemplan para el recurso de amparo?",
+    "answer": "Toda persona natural o jurídica con interés legítimo, el Defensor del Pueblo y el Ministerio Fiscal",
+    "options": [
+      "Toda persona natural o jurídica con interés legítimo, el Presidente del Gobierno y el Ministerio Fiscal",
+      "Toda persona natural o jurídica con interés legítimo, el Defensor del Pueblo y el Ministerio Fiscal",
+      "Solo la persona física directamente lesionada y el Defensor del Pueblo",
+      "Los mismos sujetos institucionales que pueden recurrir directamente una ley"
+    ],
+    "reference": "CE 162.1.b; LOTC 46",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Legitimación para el amparo",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La legitimación constitucional incluye personas naturales o jurídicas con interés legítimo, Defensor del Pueblo y Ministerio Fiscal; los requisitos procesales concretos dependen de la vía."
+  },
+  {
+    "id": 3816,
+    "question": "Una decisión parlamentaria firme sin valor de ley afecta directamente a una persona. ¿Qué tríada puede promover el amparo por esta vía?",
+    "answer": "La persona directamente afectada, el Defensor del Pueblo y el Ministerio Fiscal",
+    "options": [
+      "La persona directamente afectada, el Defensor del Pueblo y el Ministerio Fiscal",
+      "Quien haya sido parte en un proceso judicial previo, el Defensor del Pueblo y el Ministerio Fiscal",
+      "La persona directamente afectada, el Defensor del Pueblo y 50 diputados",
+      "Solo el Defensor del Pueblo y el Ministerio Fiscal, con exclusión del perjudicado"
+    ],
+    "reference": "LOTC 42 y 46.1.a",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Legitimación para el amparo",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "Para actos parlamentarios sin valor de ley, el art. 46.1.a menciona al afectado directo, al Defensor del Pueblo y al Ministerio Fiscal."
+  },
+  {
+    "id": 3817,
+    "question": "Cuando la vulneración denunciada en amparo deriva de una resolución judicial, ¿a quién incluye expresamente la LOTC entre los legitimados?",
+    "answer": "A quienes hayan sido parte en el proceso judicial, junto con el Defensor del Pueblo y el Ministerio Fiscal",
+    "options": [
+      "A cualquier persona con interés legítimo, aunque no haya sido parte en el proceso judicial, junto al Defensor del Pueblo",
+      "A quien haya sufrido un perjuicio directo, sin necesidad de ser parte en el procedimiento judicial, y al Fiscal",
+      "A 50 diputados, 50 senadores y el Defensor del Pueblo",
+      "A quienes hayan sido parte en el proceso judicial, junto con el Defensor del Pueblo y el Ministerio Fiscal"
+    ],
+    "reference": "LOTC 44 y 46.1.b",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Legitimación para el amparo",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "En los amparos de los arts. 43 y 44 la LOTC usa la condición de parte en el proceso judicial antecedente."
+  },
+  {
+    "id": 3818,
+    "question": "¿Cuál de estas atribuciones NO se obtiene por el mero hecho de ser Presidente del Gobierno?",
+    "answer": "Legitimación institucional propia para interponer recurso de amparo",
+    "options": [
+      "Legitimación para recurso de inconstitucionalidad",
+      "Posibilidad de impugnar disposiciones autonómicas invocando el art. 161.2 CE en los términos legales",
+      "Legitimación institucional propia para interponer recurso de amparo",
+      "Posibilidad de intervenir en el procedimiento del art. 33.2 LOTC cuando concurran sus requisitos"
+    ],
+    "reference": "CE 162.1; LOTC 32, 33 y 46",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Legitimación para el amparo",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "Ser Presidente del Gobierno legitima para el recurso de inconstitucionalidad, pero no confiere una legitimación institucional específica de amparo."
+  },
+  {
+    "id": 3819,
+    "question": "Una sentencia del TC incluye un voto particular discrepante. ¿Qué exige la regla de publicidad constitucional?",
+    "answer": "Publicación de la sentencia en el BOE junto con el voto particular",
+    "options": [
+      "Publicación del fallo en BOE, pero del voto particular únicamente en la web del TC",
+      "Publicación de la sentencia en el BOE junto con el voto particular",
+      "Publicación de la sentencia y el voto exclusivamente en el diario oficial de la comunidad afectada",
+      "Publicación del voto particular solo si lo aprueba por mayoría el Pleno"
+    ],
+    "reference": "CE 164.1; LOTC 90.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Publicación de resoluciones y votos particulares",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La Constitución exige publicación en el BOE con los votos particulares; el art. 90.2 LOTC precisa además la publicación de los discrepantes cuando proceda."
+  },
+  {
+    "id": 3820,
+    "question": "Una magistrada disiente de la fundamentación, no del fallo, y defendió esa posición en deliberación. ¿Cabe voto particular?",
+    "answer": "Sí: puede referirse también a la fundamentación y publicarse con la resolución cuando proceda",
+    "options": [
+      "Sí: puede referirse también a la fundamentación y publicarse con la resolución cuando proceda",
+      "No: los votos particulares solo pueden impugnar la parte dispositiva de una sentencia",
+      "Sí, pero solo si la mayoría de la Sala autoriza que el voto discrepe de la motivación",
+      "Sí, pero únicamente para procesos de amparo y nunca para autos o declaraciones"
+    ],
+    "reference": "LOTC 90.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Publicación de resoluciones y votos particulares",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "El voto particular puede discrepar del fallo o de su fundamentación, si la posición se sostuvo en la deliberación."
+  },
+  {
+    "id": 3821,
+    "question": "¿Cuál es la incompatibilidad constitucional correcta relativa a los mandatos de un magistrado del TC?",
+    "answer": "Todo mandato representativo",
+    "options": [
+      "Todo mandato imperativo, con excepción de los mandatos representativos locales",
+      "Los mandatos parlamentarios estatales y autonómicos, pero no los locales",
+      "Todo mandato representativo retribuido, pero no el desempeñado sin remuneración",
+      "Todo mandato representativo"
+    ],
+    "reference": "CE 159.4; LOTC 19.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Incompatibilidades de los magistrados",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "El texto constitucional establece incompatibilidad con todo mandato representativo. «Mandato imperativo» no es la formulación legal."
+  },
+  {
+    "id": 3822,
+    "question": "Una jurista es militante de un partido, sin funciones directivas ni empleo en él. ¿Qué permite concluir exclusivamente el art. 159.4 CE?",
+    "answer": "La mera afiliación no figura por sí sola entre las incompatibilidades que enumera ese precepto",
+    "options": [
+      "Que toda militancia comporta automáticamente la destitución como magistrada",
+      "Que sí puede dirigir el partido, pero no trabajar como empleada suya",
+      "La mera afiliación no figura por sí sola entre las incompatibilidades que enumera ese precepto",
+      "Que la afiliación sindical está prohibida, pero la afiliación política no"
+    ],
+    "reference": "CE 159.4; LOTC 19.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Incompatibilidades de los magistrados",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "Lo prohibido expresamente es desempeñar funciones directivas en partido o sindicato o estar empleado a su servicio; no se menciona la mera afiliación."
+  },
+  {
+    "id": 3823,
+    "question": "Un abogado es nombrado magistrado del TC. ¿Puede seguir ejerciendo profesionalmente la abogacía durante su mandato?",
+    "answer": "No: el ejercicio de actividades profesionales es incompatible con el cargo",
+    "options": [
+      "Sí, cuando su cartera de clientes incluya solo asuntos ajenos a lo constitucional",
+      "No: el ejercicio de actividades profesionales es incompatible con el cargo",
+      "Sí, si no interviene en procedimientos ante el propio Tribunal Constitucional",
+      "No, porque ninguna persona que haya ejercido la abogacía puede ser nombrada magistrada"
+    ],
+    "reference": "CE 159.2 y 159.4; LOTC 18 y 19.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Incompatibilidades de los magistrados",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La abogacía puede ser profesión de procedencia, pero su ejercicio durante el mandato es incompatible."
+  },
+  {
+    "id": 3824,
+    "question": "Un funcionario propuesto para el TC conserva una actividad incompatible y deja pasar diez días desde la propuesta sin cesar. ¿Qué consecuencia señala la LOTC?",
+    "answer": "Se entiende que no acepta el cargo de magistrado del TC",
+    "options": [
+      "Se entiende que no acepta el cargo de magistrado del TC",
+      "Se entiende prorrogado automáticamente el plazo de cese por otros diez días",
+      "Adquiere el cargo y queda suspendido solo el empleo incompatible",
+      "Se produce una sanción pecuniaria obligatoria, pero conserva la propuesta"
+    ],
+    "reference": "LOTC 19.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Incompatibilidades de los magistrados",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La falta de cese en actividad incompatible dentro de los diez días siguientes a la propuesta equivale a no aceptación del nombramiento."
+  },
+  {
+    "id": 3825,
+    "question": "El Presidente del TC está ausente de la Sala Primera. ¿Quién ocupa su presidencia según el art. 7 LOTC?",
+    "answer": "El magistrado de esa Sala con mayor antigüedad y, en caso de empate, el de mayor edad",
+    "options": [
+      "El Vicepresidente del TC en todo caso, aunque presida la Sala Segunda",
+      "El magistrado de mayor edad, y solo en caso de igualdad de edad el de mayor antigüedad",
+      "El magistrado que el Pleno designe expresamente para cada ausencia",
+      "El magistrado de esa Sala con mayor antigüedad y, en caso de empate, el de mayor edad"
+    ],
+    "reference": "LOTC 7.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Presidencia y sustitución de las Salas",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La sustitución en Sala Primera no es idéntica a la de la presidencia del Pleno: rigen antigüedad en la Sala y edad para desempatar."
+  },
+  {
+    "id": 3826,
+    "question": "En la Sala Primera, el magistrado A tiene 9 años de antigüedad en el cargo y 51 de edad; B tiene 6 años y 65 de edad. Sin el Presidente, ¿quién preside?",
+    "answer": "A: la mayor antigüedad prevalece sobre la edad",
+    "options": [
+      "B: la mayor edad prevalece siempre, con independencia de la antigüedad",
+      "Ninguno: se requiere designación del Pleno porque sus antigüedades no coinciden",
+      "A: la mayor antigüedad prevalece sobre la edad",
+      "El Vicepresidente, aunque pertenezca a la Sala Segunda"
+    ],
+    "reference": "LOTC 7.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Presidencia y sustitución de las Salas",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La edad solo entra en juego si existe igualdad de antigüedad; con 9 años frente a 6, preside A."
+  },
+  {
+    "id": 3827,
+    "question": "Si el Vicepresidente no puede presidir la Sala Segunda, ¿qué criterio se aplica a su sustituto?",
+    "answer": "Mayor antigüedad como magistrado y, si coincide, mayor edad",
+    "options": [
+      "Sustitución automática por el Presidente de la Sala Primera",
+      "Mayor antigüedad como magistrado y, si coincide, mayor edad",
+      "Mayor edad siempre, antes de examinar la antigüedad",
+      "El magistrado designado por el Pleno para suplir al Vicepresidente en cada ocasión"
+    ],
+    "reference": "LOTC 7.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Presidencia y sustitución de las Salas",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La misma regla de antigüedad y, en su caso, edad se aplica al sustituto en la Sala Segunda."
+  },
+  {
+    "id": 3828,
+    "question": "¿Qué distinción entre sustitución en el Pleno y en Sala Primera es correcta cuando falta el Presidente del TC?",
+    "answer": "En el Pleno lo sustituye primero el Vicepresidente; en Sala Primera rige el magistrado más antiguo de la Sala",
+    "options": [
+      "En el Pleno lo sustituye primero el Vicepresidente; en Sala Primera rige el magistrado más antiguo de la Sala",
+      "En ambos órganos lo sustituye necesariamente el Vicepresidente del TC",
+      "En el Pleno lo sustituye el Secretario General; en Sala Primera, el Vicepresidente",
+      "En Sala Primera sustituye el Vicepresidente; en el Pleno, el magistrado más antiguo"
+    ],
+    "reference": "LOTC 6.2 y 7.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Presidencia y sustitución de las Salas",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "El Vicepresidente sustituye al Presidente al frente del Pleno, pero la ley regula separadamente la presidencia accidental de Sala Primera."
+  },
+  {
+    "id": 3829,
+    "question": "Una parte recibe una sentencia del TC y quiere pedir aclaración; otra pretende recurrir en súplica un auto. ¿Qué plazos tienen?",
+    "answer": "Dos días desde notificación para aclaración; tres días para la súplica contra el auto",
+    "options": [
+      "Tres días para aclaración; dos días para la súplica contra el auto",
+      "Diez días para ambas actuaciones",
+      "Dos días para ambas, al tratarse de resoluciones del TC",
+      "Dos días desde notificación para aclaración; tres días para la súplica contra el auto"
+    ],
+    "reference": "LOTC 93.1 y 93.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Aclaración, súplica y costas",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La sentencia no admite recurso pero sí aclaración en dos días; la súplica, cuando procede contra auto o providencia, se interpone en tres días."
+  },
+  {
+    "id": 3830,
+    "question": "¿Cómo se combina la gratuidad del procedimiento ante el TC con la posibilidad de condena en costas?",
+    "answer": "El procedimiento es gratuito, pero pueden imponerse costas por posiciones infundadas con temeridad o mala fe",
+    "options": [
+      "El procedimiento es gratuito, pero toda desestimación implica condena en costas",
+      "La gratuidad impide absolutamente cualquier condena en costas",
+      "El procedimiento es gratuito, pero pueden imponerse costas por posiciones infundadas con temeridad o mala fe",
+      "Solo se imponen costas cuando existe delito, no cuando hay temeridad procesal"
+    ],
+    "reference": "LOTC 95.1 y 95.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Aclaración, súplica y costas",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La gratuidad procesal es la regla; la apreciación de temeridad o mala fe permite condenar en costas."
+  },
+  {
+    "id": 3831,
+    "question": "Si se aprecia temeridad o abuso al formular un recurso de inconstitucionalidad o amparo, ¿qué intervalo prevé la LOTC para la sanción pecuniaria?",
+    "answer": "De 600 a 3.000 euros",
+    "options": [
+      "De 300 a 1.500 euros",
+      "De 600 a 3.000 euros",
+      "De 1.000 a 6.000 euros",
+      "De 600 a 6.000 euros"
+    ],
+    "reference": "LOTC 95.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Aclaración, súplica y costas",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "El art. 95.3 establece una sanción pecuniaria de 600 a 3.000 euros, distinta de las eventuales costas."
+  },
+  {
+    "id": 3832,
+    "question": "¿Puede prosperar la afirmación «como no cabe recurso contra la sentencia del TC, tampoco se puede pedir su aclaración»?",
+    "answer": "No: la irrecurribilidad no excluye la aclaración prevista en la LOTC",
+    "options": [
+      "No: la irrecurribilidad no excluye la aclaración prevista en la LOTC",
+      "Sí: la aclaración se considera recurso ordinario contra la sentencia",
+      "Sí: una sentencia del TC no puede ser objeto de actuación posterior alguna",
+      "No: siempre cabe apelación ante la Sala Segunda en los siguientes tres días"
+    ],
+    "reference": "CE 164.1; LOTC 93.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Aclaración, súplica y costas",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La aclaración es posible sin convertir la sentencia del TC en recurrible."
+  },
+  {
+    "id": 3833,
+    "question": "Un recurso de inconstitucionalidad exige únicamente aplicar doctrina ya establecida. ¿Cabe que lo resuelva una Sala?",
+    "answer": "Sí: el Pleno puede atribuirlo a una Sala en el trámite de admisión",
+    "options": [
+      "No: todo recurso de inconstitucionalidad exige sentencia del Pleno sin excepciones",
+      "Sí: la Sección lo atribuye directamente a una Sala sin intervención del Pleno",
+      "Sí: las Salas tienen competencia exclusiva sobre todos los recursos de inconstitucionalidad",
+      "Sí: el Pleno puede atribuirlo a una Sala en el trámite de admisión"
+    ],
+    "reference": "LOTC 10.1.b",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Competencias del Pleno y de las Salas",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La atribución a Sala es excepcional para asuntos de mera aplicación de doctrina y se decide por el Pleno en admisión."
+  },
+  {
+    "id": 3834,
+    "question": "Al deferir a una Sala un recurso de inconstitucionalidad por aplicación de doctrina, ¿quién debe identificar la doctrina aplicable?",
+    "answer": "El Pleno del Tribunal Constitucional",
+    "options": [
+      "La Sección que examinó inicialmente la admisibilidad del recurso",
+      "La Sala por libre elección, sin indicaciones del Pleno",
+      "El Pleno del Tribunal Constitucional",
+      "El órgano que interpuso el recurso, en la demanda inicial"
+    ],
+    "reference": "LOTC 10.1.b",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Competencias del Pleno y de las Salas",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "El Pleno debe señalar la doctrina constitucional que la Sala aplicará."
+  },
+  {
+    "id": 3835,
+    "question": "Una Sala considera necesario apartarse de la doctrina constitucional precedente. ¿Qué cauce establece la LOTC?",
+    "answer": "Someter la cuestión a la decisión del Pleno",
+    "options": [
+      "Dictar sentencia sin comunicar al Pleno el cambio de doctrina",
+      "Someter la cuestión a la decisión del Pleno",
+      "Solicitar al Tribunal Supremo autorización para modificar la doctrina",
+      "Remitir la cuestión a la Fiscalía para decisión definitiva"
+    ],
+    "reference": "LOTC 13",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Competencias del Pleno y de las Salas",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "El apartamiento de doctrina constitucional previa requiere decisión del Pleno."
+  },
+  {
+    "id": 3836,
+    "question": "¿Qué reparto competencial en cuestiones de inconstitucionalidad refleja el art. 10.1.c LOTC?",
+    "answer": "El Pleno conoce las que reserva para sí; las restantes se defieren a las Salas por turno objetivo",
+    "options": [
+      "El Pleno conoce las que reserva para sí; las restantes se defieren a las Salas por turno objetivo",
+      "Todas las cuestiones corresponden exclusivamente a las Secciones",
+      "El Pleno solo conoce las planteadas por el Gobierno; el resto corresponde a los juzgados",
+      "Todas las cuestiones se tramitan y resuelven necesariamente en Pleno"
+    ],
+    "reference": "LOTC 10.1.c",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Competencias del Pleno y de las Salas",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La reserva de cuestiones al Pleno es selectiva; las restantes se distribuyen a Salas mediante turno objetivo."
+  },
+  {
+    "id": 3837,
+    "question": "¿Quién puede promover el recurso previo de inconstitucionalidad frente al texto definitivo de un proyecto de Estatuto aprobado por las Cortes?",
+    "answer": "Los legitimados que también pueden recurrir posteriormente un Estatuto de Autonomía por inconstitucionalidad",
+    "options": [
+      "Solo el Gobierno, por tratarse de una fiscalización previa",
+      "El Defensor del Pueblo y el Ministerio Fiscal, pero no el Presidente del Gobierno",
+      "Solo el Presidente del Gobierno y 50 diputados, con exclusión de los senadores",
+      "Los legitimados que también pueden recurrir posteriormente un Estatuto de Autonomía por inconstitucionalidad"
+    ],
+    "reference": "LOTC 79.3 y 32",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Recurso previo estatutario",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "El recurso previo remite expresamente a los legitimados para recurrir Estatutos de Autonomía."
+  },
+  {
+    "id": 3838,
+    "question": "Sobre el recurso previo contra un Estatuto, ¿qué afirmación diferencia correctamente al Defensor del Pueblo del Ministerio Fiscal?",
+    "answer": "El Defensor del Pueblo está legitimado; el Ministerio Fiscal no tiene esa legitimación propia",
+    "options": [
+      "Ambos están legitimados para interponerlo en igualdad de condiciones",
+      "El Ministerio Fiscal está legitimado y el Defensor del Pueblo no",
+      "El Defensor del Pueblo está legitimado; el Ministerio Fiscal no tiene esa legitimación propia",
+      "Ninguno puede plantearlo, pues solo corresponde al Presidente del Gobierno"
+    ],
+    "reference": "LOTC 32.1.b y 79.3; CE 162.1.a",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Recurso previo estatutario",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La legitimación del previo es la de recurso contra Estatutos: incluye al Defensor del Pueblo, no al Ministerio Fiscal."
+  },
+  {
+    "id": 3839,
+    "question": "El Defensor del Pueblo recurre previamente un proyecto estatutario ya aprobado por las Cortes. ¿Qué combinación es correcta?",
+    "answer": "Está legitimado y el recurso debe presentarse en los tres días desde la publicación del texto en el Boletín de las Cortes",
+    "options": [
+      "No está legitimado, aunque dispone de seis meses desde la publicación",
+      "Está legitimado y el recurso debe presentarse en los tres días desde la publicación del texto en el Boletín de las Cortes",
+      "Está legitimado, pero debe esperar a que el Estatuto entre en vigor",
+      "Solo está legitimado si se suman las firmas de cincuenta diputados y cincuenta senadores"
+    ],
+    "reference": "LOTC 32.1.b y 79.3-4",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Recurso previo estatutario",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "El Defensor del Pueblo está legitimado; el plazo para recurrir previamente es de tres días desde la publicación del texto aprobado."
+  },
+  {
+    "id": 3840,
+    "question": "¿En qué procesos de amparo debe intervenir el Ministerio Fiscal aunque la demanda la haya presentado una persona particular?",
+    "answer": "En todos los procesos de amparo constitucional",
+    "options": [
+      "En todos los procesos de amparo constitucional",
+      "Solo en amparos iniciados por el propio Ministerio Fiscal",
+      "Solo cuando la lesión deriva de actos de las Cortes Generales",
+      "En aquellos en los que la Sala lo haya designado voluntariamente"
+    ],
+    "reference": "LOTC 47.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Intervención del Ministerio Fiscal",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La intervención del Ministerio Fiscal en amparo es preceptiva, cualquiera que sea quien promovió el recurso."
+  },
+  {
+    "id": 3841,
+    "question": "Una demanda de recurso de inconstitucionalidad está firmada solo por el Ministerio Fiscal. ¿Qué defecto presenta?",
+    "answer": "Carece de legitimación para promover por sí ese recurso",
+    "options": [
+      "No presenta defecto: el Ministerio Fiscal puede recurrir cualquier norma con rango de ley",
+      "Solo necesita la aprobación del Defensor del Pueblo tras interponerla",
+      "Basta acreditar que ha intervenido previamente en un proceso de amparo",
+      "Carece de legitimación para promover por sí ese recurso"
+    ],
+    "reference": "CE 162.1.a-b; LOTC 32 y 46",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Intervención del Ministerio Fiscal",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La legitimación del Ministerio Fiscal alcanza al amparo, pero no al recurso directo de inconstitucionalidad."
+  },
+  {
+    "id": 3842,
+    "question": "Una ley estatal vulnera la autonomía constitucionalmente garantizada de una provincia. ¿Quién puede promover el conflicto específico si la provincia es destinataria única?",
+    "answer": "La propia provincia, sin requerir el apoyo de otras provincias",
+    "options": [
+      "La provincia, pero únicamente si obtiene aprobación previa de su comunidad autónoma",
+      "La provincia, si la demanda incorpora también al menos un séptimo de los municipios afectados",
+      "La propia provincia, sin requerir el apoyo de otras provincias",
+      "La provincia únicamente si actúa junto con otra mitad de las provincias del Estado"
+    ],
+    "reference": "LOTC 75 bis.1 y 75 ter.1.a",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Conflictos en defensa de autonomía local",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "El municipio o la provincia destinatario único de la ley está legitimado individualmente."
+  },
+  {
+    "id": 3843,
+    "question": "Una entidad de ámbito territorial inferior al municipio quiere promover por sí sola el conflicto especial en defensa de autonomía local. ¿Qué indica la LOTC?",
+    "answer": "La legitimación general de ese procedimiento se atribuye a municipios y provincias en las condiciones legales",
+    "options": [
+      "La entidad inframunicipal está legitimada en los mismos términos que una provincia",
+      "La legitimación general de ese procedimiento se atribuye a municipios y provincias en las condiciones legales",
+      "Solo si reúne a un séptimo de las entidades inframunicipales y un sexto de población",
+      "Si es destinataria única de una ley, tiene exactamente la misma legitimación que un municipio"
+    ],
+    "reference": "LOTC 75 ter.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Conflictos en defensa de autonomía local",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La legitimación general específica se refiere a municipio o provincia, individualmente o en grupo según los requisitos; no incluye expresamente a entidades inframunicipales."
+  },
+  {
+    "id": 3844,
+    "question": "Una ley autonómica afecta a 42 municipios. Se reúnen 6 municipios que representan el 18 % de la población afectada. ¿Superan el mínimo de legitimación colectiva?",
+    "answer": "Sí: 6 de 42 son un séptimo y el 18 % supera un sexto de la población",
+    "options": [
+      "Sí: 6 de 42 son un séptimo y el 18 % supera un sexto de la población",
+      "No: hace falta como mínimo la mitad de municipios y la mitad de habitantes",
+      "No: un séptimo de 42 exige al menos 7 municipios",
+      "Sí: basta el apoyo del 10 % de municipios, sin examinar población"
+    ],
+    "reference": "LOTC 75 ter.1.b",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Conflictos en defensa de autonomía local",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "Se exige al menos 1/7 de municipios y 1/6 de población; 6/42 = 1/7 y 18 % > 16,67 % (sin perjuicio de los demás requisitos del procedimiento)."
+  },
+  {
+    "id": 3845,
+    "question": "Salvo que la LOTC disponga expresamente otra forma, ¿qué resoluciones adoptan la forma de auto?",
+    "answer": "Inadmisión inicial, desistimiento y caducidad",
+    "options": [
+      "Toda inadmisión de cualquier recurso, sin posibilidad de excepción legal",
+      "Inadmisión inicial y desistimiento, pero no caducidad, que exige siempre sentencia",
+      "Inadmisión inicial, desistimiento y caducidad, pero necesariamente mediante providencia",
+      "Inadmisión inicial, desistimiento y caducidad"
+    ],
+    "reference": "LOTC 86.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Formas de las resoluciones del TC",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "El art. 86.1 contiene una regla de auto para esas tres decisiones, expresamente sometida a excepciones de la ley."
+  },
+  {
+    "id": 3846,
+    "question": "¿Qué diferencia formal fija el art. 86.1 LOTC para las «otras resoluciones», según su contenido?",
+    "answer": "Auto si son motivadas; providencia si no lo son",
+    "options": [
+      "Providencia motivada si ponen fin al procedimiento; auto si no lo finalizan",
+      "Providencia si son motivadas; auto si no lo son",
+      "Auto si son motivadas; providencia si no lo son",
+      "Auto en cualquier caso, incluso cuando la ley establece una providencia"
+    ],
+    "reference": "LOTC 86.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Formas de las resoluciones del TC",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "El tipo formal depende de su motivación y contenido, fuera de las decisiones con régimen específico."
+  },
+  {
+    "id": 3847,
+    "question": "La Sección inadmite un recurso de amparo porque no concurre un requisito del art. 50 LOTC. ¿Qué resolución prevé específicamente esa norma?",
+    "answer": "Providencia que especifique el requisito incumplido",
+    "options": [
+      "Sentencia desestimatoria dictada siempre tras vista pública",
+      "Providencia que especifique el requisito incumplido",
+      "Auto motivado obligatorio sin excepción por aplicación del art. 86.1",
+      "Auto de inadmisión que no precisa expresar el requisito incumplido"
+    ],
+    "reference": "LOTC 50.3 y 86.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Formas de las resoluciones del TC",
+    "difficulty": 2,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La regla específica del art. 50.3 prevé providencia de inadmisión en amparo; constituye una excepción legal al régimen general."
+  },
+  {
+    "id": 3848,
+    "question": "El TC rechaza de inicio un conflicto en defensa de la autonomía local porque carece de legitimación no subsanable. ¿Cómo debe acordarlo?",
+    "answer": "Por auto motivado",
+    "options": [
+      "Por auto motivado",
+      "Por providencia no motivada que no identifique la causa",
+      "Mediante sentencia sobre el fondo que declare la constitucionalidad de la ley",
+      "Mediante providencia, por tratarse de una cuestión de admisión"
+    ],
+    "reference": "LOTC 75 quinquies.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 3 · Tribunal Constitucional",
+    "subtopic": "Formas de las resoluciones del TC",
+    "difficulty": 3,
+    "format": "inap",
+    "source": "Constitución Española y Ley Orgánica 2/1979, texto consolidado",
+    "origin": "Refuerzo original de cobertura · 40 preguntas de contraste · noviembre 2026",
+    "explanation": "La ley contempla expresamente auto motivado para inadmisión inicial del conflicto local por falta de legitimación u otros motivos legales."
+  }
+]
