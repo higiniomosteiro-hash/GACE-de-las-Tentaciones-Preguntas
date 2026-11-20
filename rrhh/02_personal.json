@@ -4,9 +4,9 @@
     "answer": "Cuatro",
     "options": [
       "Cuatro",
-      "Artículo 9",
-      "Artículo 12",
-      "Contrato de trabajo escrito"
+      "Tres",
+      "Cinco",
+      "Seis"
     ],
     "reference": "TREBEP arts. 8-13",
     "category": "RRHH",
@@ -21,9 +21,9 @@
     "answer": "Artículo 9",
     "options": [
       "Artículo 9",
+      "Artículo 8",
       "Artículo 10",
-      "Artículo 13",
-      "Cuatro"
+      "Artículo 11"
     ],
     "reference": "TREBEP arts. 8-13",
     "category": "RRHH",
@@ -38,9 +38,9 @@
     "answer": "Artículo 10",
     "options": [
       "Artículo 10",
+      "Artículo 9",
       "Artículo 11",
-      "Relación estatutaria permanente",
-      "Artículo 9"
+      "Artículo 12"
     ],
     "reference": "TREBEP arts. 8-13",
     "category": "RRHH",
@@ -55,9 +55,9 @@
     "answer": "Artículo 11",
     "options": [
       "Artículo 11",
+      "Artículo 10",
       "Artículo 12",
-      "Contrato de trabajo escrito",
-      "Artículo 10"
+      "Artículo 13"
     ],
     "reference": "TREBEP arts. 8-13",
     "category": "RRHH",
@@ -72,9 +72,9 @@
     "answer": "Artículo 12",
     "options": [
       "Artículo 12",
+      "Artículo 11",
       "Artículo 13",
-      "Cuatro",
-      "Artículo 11"
+      "Artículo 14"
     ],
     "reference": "TREBEP arts. 8-13",
     "category": "RRHH",
@@ -89,9 +89,9 @@
     "answer": "Artículo 13",
     "options": [
       "Artículo 13",
-      "Relación estatutaria permanente",
-      "Artículo 9",
-      "Artículo 12"
+      "Artículo 12",
+      "Artículo 14",
+      "Artículo 15"
     ],
     "reference": "TREBEP arts. 8-13",
     "category": "RRHH",
@@ -106,9 +106,9 @@
     "answer": "Relación estatutaria permanente",
     "options": [
       "Relación estatutaria permanente",
-      "Contrato de trabajo escrito",
-      "Artículo 10",
-      "Artículo 13"
+      "Relación laboral permanente",
+      "Relación administrativa temporal",
+      "Relación contractual especial"
     ],
     "reference": "TREBEP arts. 8-13",
     "category": "RRHH",
@@ -123,9 +123,9 @@
     "answer": "Contrato de trabajo escrito",
     "options": [
       "Contrato de trabajo escrito",
-      "Cuatro",
-      "Artículo 11",
-      "Relación estatutaria permanente"
+      "Nombramiento estatutario",
+      "Contrato administrativo de servicios",
+      "Designación de confianza"
     ],
     "reference": "TREBEP arts. 8-13",
     "category": "RRHH",
@@ -140,9 +140,9 @@
     "answer": "Artículo 9.2",
     "options": [
       "Artículo 9.2",
-      "Artículo 75",
-      "Técnico Superior",
-      "A1"
+      "Artículo 8.2",
+      "Artículo 10.2",
+      "Artículo 11.2"
     ],
     "reference": "TREBEP arts. 9, 75-76, DT 3 y DA 6",
     "category": "RRHH",
@@ -157,9 +157,9 @@
     "answer": "Artículo 75",
     "options": [
       "Artículo 75",
+      "Artículo 74",
       "Artículo 76",
-      "Bachiller o Técnico",
-      "A2"
+      "Artículo 77"
     ],
     "reference": "TREBEP arts. 9, 75-76, DT 3 y DA 6",
     "category": "RRHH",
@@ -174,9 +174,9 @@
     "answer": "Artículo 76",
     "options": [
       "Artículo 76",
-      "Grado universitario",
-      "Graduado en ESO",
-      "C1"
+      "Artículo 75",
+      "Artículo 77",
+      "Artículo 78"
     ],
     "reference": "TREBEP arts. 9, 75-76, DT 3 y DA 6",
     "category": "RRHH",
@@ -191,9 +191,9 @@
     "answer": "Grado universitario",
     "options": [
       "Grado universitario",
+      "Bachiller o Técnico",
       "Técnico Superior",
-      "A1",
-      "C2"
+      "Máster universitario"
     ],
     "reference": "TREBEP arts. 9, 75-76, DT 3 y DA 6",
     "category": "RRHH",
@@ -208,9 +208,9 @@
     "answer": "Técnico Superior",
     "options": [
       "Técnico Superior",
+      "Grado universitario",
       "Bachiller o Técnico",
-      "A2",
-      "Agrupaciones profesionales"
+      "Graduado en ESO"
     ],
     "reference": "TREBEP arts. 9, 75-76, DT 3 y DA 6",
     "category": "RRHH",
@@ -225,9 +225,9 @@
     "answer": "Bachiller o Técnico",
     "options": [
       "Bachiller o Técnico",
-      "Graduado en ESO",
-      "C1",
-      "Artículo 9.2"
+      "Técnico Superior",
+      "Grado universitario",
+      "Graduado en ESO"
     ],
     "reference": "TREBEP arts. 9, 75-76, DT 3 y DA 6",
     "category": "RRHH",
@@ -242,9 +242,9 @@
     "answer": "Graduado en ESO",
     "options": [
       "Graduado en ESO",
-      "A1",
-      "C2",
-      "Artículo 75"
+      "Bachiller o Técnico",
+      "Técnico Superior",
+      "Grado universitario"
     ],
     "reference": "TREBEP arts. 9, 75-76, DT 3 y DA 6",
     "category": "RRHH",
@@ -260,8 +260,8 @@
     "options": [
       "A1",
       "A2",
-      "Agrupaciones profesionales",
-      "Artículo 76"
+      "B",
+      "C1"
     ],
     "reference": "TREBEP arts. 9, 75-76, DT 3 y DA 6",
     "category": "RRHH",
@@ -276,9 +276,9 @@
     "answer": "A2",
     "options": [
       "A2",
-      "C1",
-      "Artículo 9.2",
-      "Grado universitario"
+      "A1",
+      "B",
+      "C1"
     ],
     "reference": "TREBEP arts. 9, 75-76, DT 3 y DA 6",
     "category": "RRHH",
@@ -293,9 +293,9 @@
     "answer": "C1",
     "options": [
       "C1",
-      "C2",
-      "Artículo 75",
-      "Técnico Superior"
+      "A2",
+      "B",
+      "C2"
     ],
     "reference": "TREBEP arts. 9, 75-76, DT 3 y DA 6",
     "category": "RRHH",
@@ -310,9 +310,9 @@
     "answer": "C2",
     "options": [
       "C2",
-      "Agrupaciones profesionales",
-      "Artículo 76",
-      "Bachiller o Técnico"
+      "C1",
+      "B",
+      "Agrupaciones profesionales"
     ],
     "reference": "TREBEP arts. 9, 75-76, DT 3 y DA 6",
     "category": "RRHH",
@@ -327,9 +327,9 @@
     "answer": "Agrupaciones profesionales",
     "options": [
       "Agrupaciones profesionales",
-      "Artículo 9.2",
-      "Grado universitario",
-      "Graduado en ESO"
+      "C2",
+      "C1",
+      "B"
     ],
     "reference": "TREBEP arts. 9, 75-76, DT 3 y DA 6",
     "category": "RRHH",
@@ -344,9 +344,9 @@
     "answer": "Tres años",
     "options": [
       "Tres años",
-      "Tiempo estrictamente necesario",
-      "Dieciocho meses",
-      "Temporal"
+      "Dos años",
+      "Cuatro años",
+      "Cinco años"
     ],
     "reference": "TREBEP art. 10.1",
     "category": "RRHH",
@@ -361,9 +361,9 @@
     "answer": "Tiempo estrictamente necesario",
     "options": [
       "Tiempo estrictamente necesario",
-      "Doce meses",
-      "Necesidad y urgencia",
-      "Sustitución transitoria"
+      "Hasta tres años",
+      "Hasta doce meses",
+      "Hasta nueve meses"
     ],
     "reference": "TREBEP art. 10.1",
     "category": "RRHH",
@@ -378,9 +378,9 @@
     "answer": "Tres años",
     "options": [
       "Tres años",
-      "Nueve meses",
-      "Funciones propias de funcionario de carrera",
-      "Exceso o acumulación de tareas"
+      "Dos años",
+      "Cuatro años",
+      "Cinco años"
     ],
     "reference": "TREBEP art. 10.1",
     "category": "RRHH",
@@ -395,9 +395,9 @@
     "answer": "Doce meses",
     "options": [
       "Doce meses",
-      "Dieciocho meses",
-      "Temporal",
-      "Ejecución de programas temporales"
+      "Seis meses",
+      "Nueve meses",
+      "Dieciocho meses"
     ],
     "reference": "TREBEP art. 10.1",
     "category": "RRHH",
@@ -412,9 +412,9 @@
     "answer": "Nueve meses",
     "options": [
       "Nueve meses",
-      "Necesidad y urgencia",
-      "Sustitución transitoria",
-      "Tres años"
+      "Seis meses",
+      "Doce meses",
+      "Dieciocho meses"
     ],
     "reference": "TREBEP art. 10.1",
     "category": "RRHH",
@@ -429,9 +429,9 @@
     "answer": "Dieciocho meses",
     "options": [
       "Dieciocho meses",
-      "Funciones propias de funcionario de carrera",
-      "Exceso o acumulación de tareas",
-      "Tiempo estrictamente necesario"
+      "Doce meses",
+      "Veinticuatro meses",
+      "Treinta meses"
     ],
     "reference": "TREBEP art. 10.1",
     "category": "RRHH",
@@ -446,9 +446,9 @@
     "answer": "Necesidad y urgencia",
     "options": [
       "Necesidad y urgencia",
-      "Temporal",
-      "Ejecución de programas temporales",
-      "Doce meses"
+      "Mérito y capacidad",
+      "Interés del servicio y antigüedad",
+      "Publicidad y concurrencia"
     ],
     "reference": "TREBEP art. 10.1",
     "category": "RRHH",
@@ -463,9 +463,9 @@
     "answer": "Funciones propias de funcionario de carrera",
     "options": [
       "Funciones propias de funcionario de carrera",
-      "Sustitución transitoria",
-      "Tres años",
-      "Nueve meses"
+      "Funciones exclusivamente laborales",
+      "Funciones de asesoramiento especial",
+      "Funciones de dirección política"
     ],
     "reference": "TREBEP art. 10.1",
     "category": "RRHH",
@@ -480,9 +480,9 @@
     "answer": "Temporal",
     "options": [
       "Temporal",
-      "Exceso o acumulación de tareas",
-      "Tiempo estrictamente necesario",
-      "Dieciocho meses"
+      "Permanente",
+      "Indefinido",
+      "Eventual"
     ],
     "reference": "TREBEP art. 10.1",
     "category": "RRHH",
@@ -497,9 +497,9 @@
     "answer": "Sustitución transitoria",
     "options": [
       "Sustitución transitoria",
-      "Ejecución de programas temporales",
-      "Doce meses",
-      "Necesidad y urgencia"
+      "Plaza vacante",
+      "Programa temporal",
+      "Acumulación de tareas"
     ],
     "reference": "TREBEP art. 10.1",
     "category": "RRHH",
@@ -514,9 +514,9 @@
     "answer": "Exceso o acumulación de tareas",
     "options": [
       "Exceso o acumulación de tareas",
-      "Tres años",
-      "Nueve meses",
-      "Funciones propias de funcionario de carrera"
+      "Sustitución transitoria",
+      "Plaza vacante",
+      "Programa temporal"
     ],
     "reference": "TREBEP art. 10.1",
     "category": "RRHH",
@@ -531,9 +531,9 @@
     "answer": "Ejecución de programas temporales",
     "options": [
       "Ejecución de programas temporales",
-      "Tiempo estrictamente necesario",
-      "Dieciocho meses",
-      "Temporal"
+      "Acumulación de tareas",
+      "Sustitución transitoria",
+      "Plaza vacante"
     ],
     "reference": "TREBEP art. 10.1",
     "category": "RRHH",
@@ -548,9 +548,9 @@
     "answer": "Cobertura inmediata del puesto",
     "options": [
       "Cobertura inmediata del puesto",
-      "Celeridad",
-      "Mérito",
-      "Concurso-oposición"
+      "Cobertura definitiva por oposición",
+      "Adquisición de la condición de carrera",
+      "Constitución de una relación indefinida"
     ],
     "reference": "TREBEP art. 10.2 y Orden APU/1461/2002",
     "category": "RRHH",
@@ -565,9 +565,9 @@
     "answer": "Celeridad",
     "options": [
       "Celeridad",
-      "Publicidad",
-      "Igualdad",
-      "Relaciones de candidatos"
+      "Antigüedad",
+      "Permanencia",
+      "Estabilidad"
     ],
     "reference": "TREBEP art. 10.2 y Orden APU/1461/2002",
     "category": "RRHH",
@@ -582,9 +582,9 @@
     "answer": "Publicidad",
     "options": [
       "Publicidad",
-      "Capacidad",
-      "Concurso",
-      "No convierte en funcionario de carrera"
+      "Concurrencia",
+      "Transparencia",
+      "Igualdad"
     ],
     "reference": "TREBEP art. 10.2 y Orden APU/1461/2002",
     "category": "RRHH",
@@ -599,9 +599,9 @@
     "answer": "Capacidad",
     "options": [
       "Capacidad",
-      "Mérito",
-      "Concurso-oposición",
-      "Cobertura inmediata del puesto"
+      "Antigüedad",
+      "Publicidad",
+      "Celeridad"
     ],
     "reference": "TREBEP art. 10.2 y Orden APU/1461/2002",
     "category": "RRHH",
@@ -616,9 +616,9 @@
     "answer": "Mérito",
     "options": [
       "Mérito",
+      "Capacidad",
       "Igualdad",
-      "Relaciones de candidatos",
-      "Celeridad"
+      "Publicidad"
     ],
     "reference": "TREBEP art. 10.2 y Orden APU/1461/2002",
     "category": "RRHH",
@@ -633,9 +633,9 @@
     "answer": "Igualdad",
     "options": [
       "Igualdad",
-      "Concurso",
-      "No convierte en funcionario de carrera",
-      "Publicidad"
+      "Mérito",
+      "Capacidad",
+      "Celeridad"
     ],
     "reference": "TREBEP art. 10.2 y Orden APU/1461/2002",
     "category": "RRHH",
@@ -650,9 +650,9 @@
     "answer": "Concurso",
     "options": [
       "Concurso",
+      "Oposición",
       "Concurso-oposición",
-      "Cobertura inmediata del puesto",
-      "Capacidad"
+      "Libre designación"
     ],
     "reference": "TREBEP art. 10.2 y Orden APU/1461/2002",
     "category": "RRHH",
@@ -667,9 +667,9 @@
     "answer": "Concurso-oposición",
     "options": [
       "Concurso-oposición",
-      "Relaciones de candidatos",
-      "Celeridad",
-      "Mérito"
+      "Concurso",
+      "Oposición",
+      "Libre designación"
     ],
     "reference": "TREBEP art. 10.2 y Orden APU/1461/2002",
     "category": "RRHH",
@@ -684,9 +684,9 @@
     "answer": "Relaciones de candidatos",
     "options": [
       "Relaciones de candidatos",
-      "No convierte en funcionario de carrera",
-      "Publicidad",
-      "Igualdad"
+      "Bolsa de libre designación",
+      "Relación de puestos de trabajo",
+      "Concurso de traslados"
     ],
     "reference": "TREBEP art. 10.2 y Orden APU/1461/2002",
     "category": "RRHH",
@@ -701,9 +701,9 @@
     "answer": "No convierte en funcionario de carrera",
     "options": [
       "No convierte en funcionario de carrera",
-      "Cobertura inmediata del puesto",
-      "Capacidad",
-      "Concurso"
+      "Adquiere carrera tras tres años",
+      "Adquiere carrera tras cinco años",
+      "Adquiere carrera por evaluación positiva"
     ],
     "reference": "TREBEP art. 10.2 y Orden APU/1461/2002",
     "category": "RRHH",
@@ -718,9 +718,9 @@
     "answer": "Cesa de oficio",
     "options": [
       "Cesa de oficio",
-      "Se formaliza su cese",
-      "Convocatoria publicada dentro de esos tres años",
-      "No procede"
+      "Se prorroga automáticamente",
+      "Se transforma en plaza laboral",
+      "Continúa hasta completar tres años"
     ],
     "reference": "TREBEP art. 10.3, 10.4 y DA 17",
     "category": "RRHH",
@@ -735,9 +735,9 @@
     "answer": "Se formaliza su cese",
     "options": [
       "Se formaliza su cese",
-      "Finaliza la interinidad",
-      "Veinte días de retribuciones fijas",
-      "Régimen General"
+      "Se mantiene hasta la siguiente oferta",
+      "Se convierte en funcionario de carrera",
+      "Se prorroga un año"
     ],
     "reference": "TREBEP art. 10.3, 10.4 y DA 17",
     "category": "RRHH",
@@ -752,9 +752,9 @@
     "answer": "Finaliza la interinidad",
     "options": [
       "Finaliza la interinidad",
-      "Debe cesar",
-      "Doce mensualidades",
-      "Funcionario de carrera"
+      "Se prorroga por un año",
+      "Se convierte en relación permanente",
+      "Se mantiene hasta la siguiente convocatoria"
     ],
     "reference": "TREBEP art. 10.3, 10.4 y DA 17",
     "category": "RRHH",
@@ -769,9 +769,9 @@
     "answer": "Debe cesar",
     "options": [
       "Debe cesar",
-      "Convocatoria publicada dentro de esos tres años",
-      "No procede",
-      "Cesa de oficio"
+      "Continúa hasta agotar tres años",
+      "Se transforma en personal laboral",
+      "Se mantiene hasta cobertura definitiva"
     ],
     "reference": "TREBEP art. 10.3, 10.4 y DA 17",
     "category": "RRHH",
@@ -786,9 +786,9 @@
     "answer": "Convocatoria publicada dentro de esos tres años",
     "options": [
       "Convocatoria publicada dentro de esos tres años",
-      "Veinte días de retribuciones fijas",
-      "Régimen General",
-      "Se formaliza su cese"
+      "Convocatoria publicada después de tres años",
+      "Informe favorable de la unidad",
+      "Prórroga automática de un año"
     ],
     "reference": "TREBEP art. 10.3, 10.4 y DA 17",
     "category": "RRHH",
@@ -803,9 +803,9 @@
     "answer": "Veinte días de retribuciones fijas",
     "options": [
       "Veinte días de retribuciones fijas",
-      "Doce mensualidades",
-      "Funcionario de carrera",
-      "Finaliza la interinidad"
+      "Diez días de retribuciones fijas",
+      "Treinta días de retribuciones fijas",
+      "Cuarenta y cinco días de retribuciones fijas"
     ],
     "reference": "TREBEP art. 10.3, 10.4 y DA 17",
     "category": "RRHH",
@@ -820,9 +820,9 @@
     "answer": "Doce mensualidades",
     "options": [
       "Doce mensualidades",
-      "No procede",
-      "Cesa de oficio",
-      "Debe cesar"
+      "Seis mensualidades",
+      "Dieciocho mensualidades",
+      "Veinticuatro mensualidades"
     ],
     "reference": "TREBEP art. 10.3, 10.4 y DA 17",
     "category": "RRHH",
@@ -837,9 +837,9 @@
     "answer": "No procede",
     "options": [
       "No procede",
-      "Régimen General",
-      "Se formaliza su cese",
-      "Convocatoria publicada dentro de esos tres años"
+      "Se abona íntegramente",
+      "Se abona la mitad",
+      "Se difiere hasta el próximo nombramiento"
     ],
     "reference": "TREBEP art. 10.3, 10.4 y DA 17",
     "category": "RRHH",
@@ -854,9 +854,9 @@
     "answer": "Régimen General",
     "options": [
       "Régimen General",
-      "Funcionario de carrera",
-      "Finaliza la interinidad",
-      "Veinte días de retribuciones fijas"
+      "Régimen Especial de Clases Pasivas",
+      "Mutualidad General exclusivamente",
+      "Régimen Especial de Autónomos"
     ],
     "reference": "TREBEP art. 10.3, 10.4 y DA 17",
     "category": "RRHH",
@@ -871,9 +871,9 @@
     "answer": "Funcionario de carrera",
     "options": [
       "Funcionario de carrera",
-      "Cesa de oficio",
-      "Debe cesar",
-      "Doce mensualidades"
+      "Personal laboral fijo",
+      "Personal eventual",
+      "Personal directivo profesional"
     ],
     "reference": "TREBEP art. 10.3, 10.4 y DA 17",
     "category": "RRHH",
@@ -888,9 +888,9 @@
     "answer": "Por escrito",
     "options": [
       "Por escrito",
-      "Laboral fijo",
-      "Igualdad, mérito y capacidad",
-      "Leyes de función pública"
+      "Verbalmente",
+      "Por nombramiento administrativo",
+      "Mediante resolución unilateral"
     ],
     "reference": "TREBEP arts. 8, 11, 55, DA 17; Ley 30/1984 art. 15",
     "category": "RRHH",
@@ -905,9 +905,9 @@
     "answer": "Laboral fijo",
     "options": [
       "Laboral fijo",
+      "Laboral temporal",
       "Indefinido no fijo",
-      "Celeridad",
-      "Reserva de funciones públicas del art. 9.2"
+      "Personal eventual"
     ],
     "reference": "TREBEP arts. 8, 11, 55, DA 17; Ley 30/1984 art. 15",
     "category": "RRHH",
@@ -922,9 +922,9 @@
     "answer": "Indefinido no fijo",
     "options": [
       "Indefinido no fijo",
-      "Laboral temporal",
-      "Legislación laboral y convenios",
-      "Adquisición automática de plaza fija"
+      "Laboral fijo",
+      "Funcionario interino",
+      "Personal eventual"
     ],
     "reference": "TREBEP arts. 8, 11, 55, DA 17; Ley 30/1984 art. 15",
     "category": "RRHH",
@@ -939,9 +939,9 @@
     "answer": "Laboral temporal",
     "options": [
       "Laboral temporal",
-      "Igualdad, mérito y capacidad",
-      "Leyes de función pública",
-      "Por escrito"
+      "Laboral fijo",
+      "Indefinido no fijo",
+      "Funcionario interino"
     ],
     "reference": "TREBEP arts. 8, 11, 55, DA 17; Ley 30/1984 art. 15",
     "category": "RRHH",
@@ -956,9 +956,9 @@
     "answer": "Igualdad, mérito y capacidad",
     "options": [
       "Igualdad, mérito y capacidad",
-      "Celeridad",
-      "Reserva de funciones públicas del art. 9.2",
-      "Laboral fijo"
+      "Igualdad, antigüedad y publicidad",
+      "Mérito, capacidad y libre designación",
+      "Igualdad, publicidad y confianza"
     ],
     "reference": "TREBEP arts. 8, 11, 55, DA 17; Ley 30/1984 art. 15",
     "category": "RRHH",
@@ -973,9 +973,9 @@
     "answer": "Celeridad",
     "options": [
       "Celeridad",
-      "Legislación laboral y convenios",
-      "Adquisición automática de plaza fija",
-      "Indefinido no fijo"
+      "Antigüedad",
+      "Libre designación",
+      "Confianza"
     ],
     "reference": "TREBEP arts. 8, 11, 55, DA 17; Ley 30/1984 art. 15",
     "category": "RRHH",
@@ -990,9 +990,9 @@
     "answer": "Legislación laboral y convenios",
     "options": [
       "Legislación laboral y convenios",
-      "Leyes de función pública",
-      "Por escrito",
-      "Laboral temporal"
+      "Legislación funcionarial exclusivamente",
+      "Derecho administrativo común",
+      "Estatuto del personal eventual"
     ],
     "reference": "TREBEP arts. 8, 11, 55, DA 17; Ley 30/1984 art. 15",
     "category": "RRHH",
@@ -1007,9 +1007,9 @@
     "answer": "Leyes de función pública",
     "options": [
       "Leyes de función pública",
-      "Reserva de funciones públicas del art. 9.2",
-      "Laboral fijo",
-      "Igualdad, mérito y capacidad"
+      "Convenio colectivo",
+      "Reglamento interno de cada centro",
+      "Contrato individual"
     ],
     "reference": "TREBEP arts. 8, 11, 55, DA 17; Ley 30/1984 art. 15",
     "category": "RRHH",
@@ -1024,9 +1024,9 @@
     "answer": "Reserva de funciones públicas del art. 9.2",
     "options": [
       "Reserva de funciones públicas del art. 9.2",
-      "Adquisición automática de plaza fija",
-      "Indefinido no fijo",
-      "Celeridad"
+      "Reserva de funciones directivas",
+      "Reserva de puestos temporales",
+      "Reserva de funciones de confianza"
     ],
     "reference": "TREBEP arts. 8, 11, 55, DA 17; Ley 30/1984 art. 15",
     "category": "RRHH",
@@ -1041,9 +1041,9 @@
     "answer": "Adquisición automática de plaza fija",
     "options": [
       "Adquisición automática de plaza fija",
-      "Por escrito",
-      "Laboral temporal",
-      "Legislación laboral y convenios"
+      "Nombramiento automático de carrera",
+      "Conversión automática en laboral fijo",
+      "Promoción automática a plaza estructural"
     ],
     "reference": "TREBEP arts. 8, 11, 55, DA 17; Ley 30/1984 art. 15",
     "category": "RRHH",
@@ -1058,9 +1058,9 @@
     "answer": "Confianza o asesoramiento especial",
     "options": [
       "Confianza o asesoramiento especial",
-      "No permanente",
-      "Libre",
-      "Cesa en todo caso"
+      "Gestión administrativa ordinaria",
+      "Ejercicio permanente de potestades públicas",
+      "Funciones técnicas propias de carrera"
     ],
     "reference": "TREBEP art. 12; Ley 50/1997 art. 10",
     "category": "RRHH",
@@ -1075,9 +1075,9 @@
     "answer": "No permanente",
     "options": [
       "No permanente",
-      "Confianza o asesoramiento especial",
-      "Libre",
-      "Cesa en todo caso"
+      "Permanente",
+      "Indefinido",
+      "Vitalicio"
     ],
     "reference": "TREBEP art. 12; Ley 50/1997 art. 10",
     "category": "RRHH",
@@ -1092,9 +1092,9 @@
     "answer": "Libre",
     "options": [
       "Libre",
-      "Confianza o asesoramiento especial",
-      "No permanente",
-      "Cesa en todo caso"
+      "Por concurso",
+      "Por oposición",
+      "Por antigüedad"
     ],
     "reference": "TREBEP art. 12; Ley 50/1997 art. 10",
     "category": "RRHH",
@@ -1109,9 +1109,9 @@
     "answer": "Libre",
     "options": [
       "Libre",
-      "Confianza o asesoramiento especial",
-      "No permanente",
-      "Cesa en todo caso"
+      "Por concurso",
+      "Por oposición",
+      "Por antigüedad"
     ],
     "reference": "TREBEP art. 12; Ley 50/1997 art. 10",
     "category": "RRHH",
@@ -1126,9 +1126,9 @@
     "answer": "Cesa en todo caso",
     "options": [
       "Cesa en todo caso",
-      "Confianza o asesoramiento especial",
-      "No permanente",
-      "Libre"
+      "Se mantiene hasta agotar el mandato",
+      "Se convierte en laboral fijo",
+      "Se prorroga automáticamente"
     ],
     "reference": "TREBEP art. 12; Ley 50/1997 art. 10",
     "category": "RRHH",
@@ -1143,9 +1143,9 @@
     "answer": "No constituye mérito",
     "options": [
       "No constituye mérito",
-      "Confianza o asesoramiento especial",
-      "No permanente",
-      "Libre"
+      "Constituye mérito preferente",
+      "Equivale a servicios de carrera",
+      "Da acceso directo a una plaza"
     ],
     "reference": "TREBEP art. 12; Ley 50/1997 art. 10",
     "category": "RRHH",
@@ -1160,9 +1160,9 @@
     "answer": "Órgano de gobierno respectivo",
     "options": [
       "Órgano de gobierno respectivo",
-      "Confianza o asesoramiento especial",
-      "No permanente",
-      "Libre"
+      "Órgano de selección",
+      "Comisión de personal",
+      "Órgano sindical"
     ],
     "reference": "TREBEP art. 12; Ley 50/1997 art. 10",
     "category": "RRHH",
@@ -1177,9 +1177,9 @@
     "answer": "Número y condiciones retributivas",
     "options": [
       "Número y condiciones retributivas",
-      "Confianza o asesoramiento especial",
-      "No permanente",
-      "Libre"
+      "Solo el nombre de los asesores",
+      "Únicamente su número",
+      "Solo el coste global anual"
     ],
     "reference": "TREBEP art. 12; Ley 50/1997 art. 10",
     "category": "RRHH",
