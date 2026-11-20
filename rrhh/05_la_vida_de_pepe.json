@@ -4,9 +4,9 @@
     "answer": "Relación estatutaria",
     "options": [
       "Relación estatutaria",
-      "Contrato laboral",
-      "Contrato mercantil",
-      "Encargo externo"
+      "Relación laboral fija",
+      "Relación temporal",
+      "Relación eventual"
     ],
     "reference": "TREBEP 9.1",
     "category": "RRHH",
@@ -21,9 +21,9 @@
     "answer": "Personal laboral",
     "options": [
       "Personal laboral",
+      "Personal eventual",
       "Funcionario interino",
-      "Funcionario de carrera",
-      "Eventual"
+      "Funcionario de carrera"
     ],
     "reference": "TREBEP 11",
     "category": "RRHH",
@@ -38,9 +38,9 @@
     "answer": "Personal eventual",
     "options": [
       "Personal eventual",
-      "Funcionario de carrera",
-      "Interino por vacante",
-      "Laboral fijo"
+      "Personal laboral",
+      "Funcionario interino",
+      "Funcionario de carrera"
     ],
     "reference": "TREBEP 12",
     "category": "RRHH",
@@ -55,9 +55,9 @@
     "answer": "Igualdad en el acceso",
     "options": [
       "Igualdad en el acceso",
-      "Jerarquía normativa",
-      "Desconcentración",
-      "Cooperación administrativa"
+      "Mérito",
+      "Capacidad",
+      "Publicidad"
     ],
     "reference": "CE 23.2",
     "category": "RRHH",
@@ -72,9 +72,9 @@
     "answer": "Reserva a funcionarios",
     "options": [
       "Reserva a funcionarios",
-      "Libertad de pactos absoluta",
-      "Contrato mercantil",
-      "Antigüedad del eventual"
+      "Reserva a personal laboral",
+      "Reserva a personal eventual",
+      "Reserva a personal directivo"
     ],
     "reference": "TREBEP 9.2",
     "category": "RRHH",
@@ -90,8 +90,8 @@
     "options": [
       "TREBEP y legislación estatal y autonómica aplicable",
       "Solo TREBEP",
-      "Solo convenio colectivo",
-      "Solo derecho civil"
+      "Solo legislación autonómica",
+      "Solo legislación laboral"
     ],
     "reference": "TREBEP 3",
     "category": "RRHH",
@@ -106,9 +106,9 @@
     "answer": "Legislación policial además del TREBEP y autonómica",
     "options": [
       "Legislación policial además del TREBEP y autonómica",
+      "Solo TREBEP",
       "Solo legislación laboral",
-      "Solo Estatuto de los Trabajadores",
-      "Únicamente la LCSP"
+      "Solo reglamento municipal"
     ],
     "reference": "TREBEP 3.2",
     "category": "RRHH",
@@ -123,9 +123,9 @@
     "answer": "Legislación laboral y convencional",
     "options": [
       "Legislación laboral y convencional",
-      "TREBEP íntegro como funcionario",
-      "Solo régimen de eventual",
-      "Solo reglamento de registro"
+      "Solo TREBEP",
+      "Solo normativa postal",
+      "Solo normativa funcionarial"
     ],
     "reference": "TREBEP 5.2",
     "category": "RRHH",
@@ -140,9 +140,9 @@
     "answer": "Sí, conforme al artículo 2",
     "options": [
       "Sí, conforme al artículo 2",
-      "No, nunca",
-      "Solo si es eventual",
-      "Solo en universidades privadas"
+      "No, está excluido",
+      "Solo para interinos",
+      "Solo para laborales"
     ],
     "reference": "TREBEP 2.1",
     "category": "RRHH",
@@ -157,9 +157,9 @@
     "answer": "Cuando así lo prevea su legislación específica",
     "options": [
       "Cuando así lo prevea su legislación específica",
-      "Siempre sin excepciones",
-      "Nunca aunque remita la ley",
-      "Cuando lo autorice un ayuntamiento"
+      "Siempre",
+      "Solo por antigüedad",
+      "Solo por resolución ministerial"
     ],
     "reference": "TREBEP 4",
     "category": "RRHH",
@@ -174,9 +174,9 @@
     "answer": "No; ambos exigen en general Grado",
     "options": [
       "No; ambos exigen en general Grado",
-      "Sí; A1 exige doctorado",
-      "Sí; A2 exige ESO",
-      "No; ningún grupo exige titulación"
+      "Sí, A1 exige máster",
+      "Sí, A2 exige Bachiller",
+      "Sí, A1 exige doctorado"
     ],
     "reference": "TREBEP 76",
     "category": "RRHH",
@@ -192,8 +192,8 @@
     "options": [
       "Grupo B",
       "A1",
-      "C2",
-      "Agrupaciones profesionales"
+      "A2",
+      "B"
     ],
     "reference": "TREBEP 76",
     "category": "RRHH",
@@ -208,9 +208,9 @@
     "answer": "C1",
     "options": [
       "C1",
-      "C2",
-      "Grupo B",
-      "A1"
+      "A1",
+      "A2",
+      "B"
     ],
     "reference": "TREBEP 76",
     "category": "RRHH",
@@ -225,9 +225,9 @@
     "answer": "C2",
     "options": [
       "C2",
-      "C1",
+      "A1",
       "A2",
-      "Grupo B"
+      "B"
     ],
     "reference": "TREBEP 76",
     "category": "RRHH",
@@ -259,9 +259,9 @@
     "answer": "Agrupaciones profesionales",
     "options": [
       "Agrupaciones profesionales",
+      "A1",
       "A2",
-      "C1",
-      "Grupo B"
+      "B"
     ],
     "reference": "TREBEP DT 3",
     "category": "RRHH",
@@ -276,9 +276,9 @@
     "answer": "No; requiere ley",
     "options": [
       "No; requiere ley",
-      "Sí, basta circular",
-      "Sí, basta nómina",
-      "Sí, basta orden verbal"
+      "Sí, basta una orden",
+      "Sí, basta una circular",
+      "Sí, basta una resolución"
     ],
     "reference": "TREBEP 75.2",
     "category": "RRHH",
@@ -293,9 +293,9 @@
     "answer": "No; el artículo 8 enumera cuatro clases",
     "options": [
       "No; el artículo 8 enumera cuatro clases",
-      "Sí; enumera cinco clases",
-      "No; enumera solo dos",
-      "Sí; el eventual no existe"
+      "Sí, es la quinta clase",
+      "Sí, sustituye al eventual",
+      "Sí, es siempre personal laboral"
     ],
     "reference": "TREBEP 8 y 13",
     "category": "RRHH",
@@ -310,9 +310,9 @@
     "answer": "Permanente y retribuida",
     "options": [
       "Permanente y retribuida",
-      "Temporal por confianza",
-      "Mercantil",
-      "Voluntaria sin retribución"
+      "Temporal y retribuida",
+      "Permanente y gratuita",
+      "Eventual y retribuida"
     ],
     "reference": "TREBEP 9.1",
     "category": "RRHH",
@@ -327,9 +327,9 @@
     "answer": "Grupo de clasificación del cuerpo o escala",
     "options": [
       "Grupo de clasificación del cuerpo o escala",
-      "Su salario anterior",
-      "El nombre de su jefe",
-      "Su dirección postal"
+      "Grupo del puesto",
+      "Antigüedad",
+      "Ministerio de destino"
     ],
     "reference": "TREBEP 75-76",
     "category": "RRHH",
@@ -344,9 +344,9 @@
     "answer": "Tres años",
     "options": [
       "Tres años",
-      "Cinco años",
-      "Nueve meses",
-      "Doce meses"
+      "Dos años",
+      "Cuatro años",
+      "Cinco años"
     ],
     "reference": "TREBEP 10.1.a y 10.4",
     "category": "RRHH",
@@ -361,9 +361,9 @@
     "answer": "Tiempo estrictamente necesario",
     "options": [
       "Tiempo estrictamente necesario",
-      "Siempre tres años exactos",
-      "Máximo nueve meses",
-      "Hasta su jubilación propia"
+      "Hasta tres años",
+      "Hasta doce meses",
+      "Hasta nueve meses"
     ],
     "reference": "TREBEP 10.1.b",
     "category": "RRHH",
@@ -378,9 +378,9 @@
     "answer": "Tres años",
     "options": [
       "Tres años",
-      "Seis años",
-      "Nueve meses",
-      "Dieciocho meses"
+      "Dos años",
+      "Cuatro años",
+      "Cinco años"
     ],
     "reference": "TREBEP 10.1.c",
     "category": "RRHH",
@@ -395,9 +395,9 @@
     "answer": "Hasta doce meses",
     "options": [
       "Hasta doce meses",
-      "Hasta cinco años",
-      "Hasta nueve meses dentro de dieciocho",
-      "Sin límite"
+      "Seis meses",
+      "Nueve meses",
+      "Dieciocho meses"
     ],
     "reference": "TREBEP 10.1.c",
     "category": "RRHH",
@@ -412,9 +412,9 @@
     "answer": "Nueve meses en dieciocho",
     "options": [
       "Nueve meses en dieciocho",
-      "Dieciocho en nueve",
-      "Tres años",
-      "Doce años"
+      "Seis meses en doce",
+      "Nueve meses en doce",
+      "Doce meses en dieciocho"
     ],
     "reference": "TREBEP 10.1.d",
     "category": "RRHH",
@@ -429,9 +429,9 @@
     "answer": "Tres meses",
     "options": [
       "Tres meses",
-      "Nueve meses nuevos",
-      "Doce meses",
-      "Dieciocho meses"
+      "Dos meses",
+      "Cuatro meses",
+      "Seis meses"
     ],
     "reference": "TREBEP 10.1.d",
     "category": "RRHH",
@@ -446,9 +446,9 @@
     "answer": "No, la interinidad no confiere carrera",
     "options": [
       "No, la interinidad no confiere carrera",
-      "Sí desde el primer día",
-      "Sí tras nueve meses",
-      "Sí por un trienio"
+      "Sí, tras tres años",
+      "Sí, por evaluación",
+      "Sí, por renovación"
     ],
     "reference": "TREBEP 10.2",
     "category": "RRHH",
@@ -463,9 +463,9 @@
     "answer": "Celeridad",
     "options": [
       "Celeridad",
-      "Secreto",
-      "Discrecionalidad arbitraria",
-      "Libre designación política"
+      "Antigüedad",
+      "Permanencia",
+      "Libre designación"
     ],
     "reference": "TREBEP 10.2",
     "category": "RRHH",
@@ -480,9 +480,9 @@
     "answer": "Cese de oficio",
     "options": [
       "Cese de oficio",
-      "Conversión automática en fijo",
-      "Prórroga forzosa",
-      "Acceso automático a A1"
+      "Prórroga automática",
+      "Conversión en carrera",
+      "Mantenimiento indefinido"
     ],
     "reference": "TREBEP 10.3",
     "category": "RRHH",
@@ -497,9 +497,9 @@
     "answer": "Sí, por excepción legal",
     "options": [
       "Sí, por excepción legal",
-      "Nunca, ni en ese supuesto",
-      "Sí, como laboral fijo automático",
-      "Solo como eventual"
+      "No, cesa siempre",
+      "Sí, sin convocatoria",
+      "Sí, por prórroga automática"
     ],
     "reference": "TREBEP 10.4",
     "category": "RRHH",
@@ -514,9 +514,9 @@
     "answer": "Veinte días de retribuciones fijas",
     "options": [
       "Veinte días de retribuciones fijas",
-      "Treinta días de vacaciones",
-      "Dos mensualidades por trimestre",
-      "Una plaza de carrera"
+      "Diez días de retribuciones fijas",
+      "Treinta días de retribuciones fijas",
+      "Cuarenta y cinco días de retribuciones fijas"
     ],
     "reference": "TREBEP DA 17",
     "category": "RRHH",
@@ -531,9 +531,9 @@
     "answer": "Doce mensualidades",
     "options": [
       "Doce mensualidades",
-      "Veinticuatro mensualidades",
-      "Cinco mensualidades",
-      "Sin límite alguno"
+      "Seis mensualidades",
+      "Dieciocho mensualidades",
+      "Veinticuatro mensualidades"
     ],
     "reference": "TREBEP DA 17",
     "category": "RRHH",
@@ -548,9 +548,9 @@
     "answer": "No, se excluye por renuncia",
     "options": [
       "No, se excluye por renuncia",
-      "Sí, automáticamente",
-      "Sí, sin tope",
-      "Se convierte en fijo"
+      "Sí, íntegra",
+      "Sí, a la mitad",
+      "Sí, tras seis meses"
     ],
     "reference": "TREBEP DA 17",
     "category": "RRHH",
@@ -565,9 +565,9 @@
     "answer": "No, cesa cuando termina la causa",
     "options": [
       "No, cesa cuando termina la causa",
-      "Sí, aunque no exista causa",
-      "Solo al cumplir 65 años",
-      "Pasa a laboral fijo"
+      "Sí, hasta fin del nombramiento",
+      "Sí, hasta cobertura",
+      "Sí, hasta nueva convocatoria"
     ],
     "reference": "TREBEP 10.3",
     "category": "RRHH",
@@ -582,9 +582,9 @@
     "answer": "No; puede plantearse indefinido no fijo",
     "options": [
       "No; puede plantearse indefinido no fijo",
-      "Sí, sin selección",
-      "Sí, con autorización verbal",
-      "Sí, como funcionario"
+      "Sí, adquiere fijeza",
+      "Sí, pasa a funcionario",
+      "Sí, por antigüedad"
     ],
     "reference": "Apuntes profesor, personal laboral",
     "category": "RRHH",
@@ -599,9 +599,9 @@
     "answer": "Celeridad",
     "options": [
       "Celeridad",
-      "Confidencialidad del temario",
-      "Elección personal del ministro",
-      "Falta de publicidad"
+      "Antigüedad",
+      "Permanencia",
+      "Libre designación"
     ],
     "reference": "TREBEP 55 y 61",
     "category": "RRHH",
@@ -616,9 +616,9 @@
     "answer": "Cesa también Pepe",
     "options": [
       "Cesa también Pepe",
-      "Se convierte en funcionario",
-      "Asciende a A1",
-      "Queda vitaliciamente en el puesto"
+      "Permanece hasta fin de legislatura",
+      "Pasa a laboral fijo",
+      "Permanece hasta cubrir vacante"
     ],
     "reference": "TREBEP 12.3",
     "category": "RRHH",
@@ -633,9 +633,9 @@
     "answer": "No, no constituye mérito",
     "options": [
       "No, no constituye mérito",
-      "Sí, da plaza directa",
-      "Sí, exime de examen",
-      "Sí, da antigüedad para carrera automática"
+      "Sí, mérito preferente",
+      "Sí, equivale a oposición",
+      "Sí, da acceso directo"
     ],
     "reference": "TREBEP 12.4",
     "category": "RRHH",
@@ -650,9 +650,9 @@
     "answer": "Deben ser públicos",
     "options": [
       "Deben ser públicos",
-      "Deben permanecer secretos",
-      "Solo se conoce al final del mandato",
-      "No hay límite máximo"
+      "Solo el número",
+      "Solo las retribuciones",
+      "Ningún dato"
     ],
     "reference": "TREBEP 12.2",
     "category": "RRHH",
@@ -667,9 +667,9 @@
     "answer": "Libremente",
     "options": [
       "Libremente",
-      "Mediante oposición obligatoria",
-      "Por contrato mercantil",
-      "Por sorteo"
+      "Por concurso",
+      "Por oposición",
+      "Por promoción interna"
     ],
     "reference": "TREBEP 12.3",
     "category": "RRHH",
@@ -684,9 +684,9 @@
     "answer": "A1",
     "options": [
       "A1",
-      "A2 siempre",
-      "C1",
-      "C2"
+      "A2",
+      "B",
+      "C1"
     ],
     "reference": "RDL 6/2023 art. 126",
     "category": "RRHH",
@@ -701,9 +701,9 @@
     "answer": "Justificación escrita de idoneidad",
     "options": [
       "Justificación escrita de idoneidad",
-      "Renuncia a trienios",
-      "Contrato mercantil",
-      "Nómina de su antiguo jefe"
+      "Certificado de antigüedad",
+      "Declaración de disponibilidad",
+      "Memoria presupuestaria"
     ],
     "reference": "RDL 6/2023 art. 127",
     "category": "RRHH",
@@ -718,9 +718,9 @@
     "answer": "Diez días naturales",
     "options": [
       "Diez días naturales",
-      "Veinte días hábiles",
-      "Un trimestre",
-      "Cinco meses"
+      "Dos días",
+      "Tres días",
+      "Cinco días"
     ],
     "reference": "RDL 6/2023 art. 127",
     "category": "RRHH",
@@ -735,9 +735,9 @@
     "answer": "Cinco años",
     "options": [
       "Cinco años",
-      "Nueve meses",
-      "Tres meses",
-      "Diez años"
+      "Dos años",
+      "Tres años",
+      "Cuatro años"
     ],
     "reference": "RDL 6/2023 art. 127",
     "category": "RRHH",
@@ -752,9 +752,9 @@
     "answer": "Cese motivado",
     "options": [
       "Cese motivado",
-      "Cese siempre verbal",
-      "Ratificación judicial previa obligatoria",
-      "Concurso público del cese"
+      "Cese automático",
+      "Cese por antigüedad",
+      "Cese solo disciplinario"
     ],
     "reference": "RDL 6/2023 art. 127",
     "category": "RRHH",
@@ -769,9 +769,9 @@
     "answer": "Directivo público profesional",
     "options": [
       "Directivo público profesional",
-      "Eventual obligatorio",
-      "Personal predirectivo por ser subdirector",
-      "Laboral temporal en todo caso"
+      "Personal predirectivo",
+      "Personal eventual",
+      "Personal laboral"
     ],
     "reference": "RDL 6/2023 art. 123",
     "category": "RRHH",
@@ -786,9 +786,9 @@
     "answer": "El ministerio de destino",
     "options": [
       "El ministerio de destino",
-      "El ministerio de adscripción del cuerpo siempre",
-      "El Tribunal Constitucional",
-      "La FEMP"
+      "El de adscripción del cuerpo",
+      "El de acceso inicial",
+      "El convocante"
     ],
     "reference": "Apuntes profesor, competencias",
     "category": "RRHH",
@@ -803,9 +803,9 @@
     "answer": "El de adscripción del cuerpo",
     "options": [
       "El de adscripción del cuerpo",
-      "El de destino de Pepe exclusivamente",
-      "El ayuntamiento",
-      "El organismo pagador de su alquiler"
+      "El de destino",
+      "El de residencia",
+      "El de ingreso"
     ],
     "reference": "Apuntes profesor, competencias",
     "category": "RRHH",
@@ -820,9 +820,9 @@
     "answer": "Subsecretario del ministerio",
     "options": [
       "Subsecretario del ministerio",
-      "Delegado del Gobierno de otra provincia",
-      "Director del INE",
-      "Presidente del Senado"
+      "Secretario general técnico",
+      "Director general",
+      "Delegado del Gobierno"
     ],
     "reference": "Ley 40/2015 art. 63",
     "category": "RRHH",
@@ -837,9 +837,9 @@
     "answer": "Delegado del Gobierno",
     "options": [
       "Delegado del Gobierno",
-      "Alcalde",
-      "Presidente del Congreso",
-      "Rector de universidad"
+      "Subdelegado del Gobierno",
+      "Secretario de Estado",
+      "Director general"
     ],
     "reference": "Apuntes profesor, competencias",
     "category": "RRHH",
@@ -854,9 +854,9 @@
     "answer": "Inscripción",
     "options": [
       "Inscripción",
-      "Anotación marginal",
-      "Cancelación",
-      "Asiento de nómina sin registro"
+      "Anotación",
+      "Anotación ordinaria",
+      "Anotación marginal"
     ],
     "reference": "Apuntes profesor, RCP",
     "category": "RRHH",
@@ -871,9 +871,9 @@
     "answer": "Anotación",
     "options": [
       "Anotación",
-      "Nueva inscripción cada trienio",
-      "Cancelación del NIP",
-      "Alta en un cuerpo distinto"
+      "Inscripción",
+      "Anotación ordinaria",
+      "Anotación marginal"
     ],
     "reference": "Apuntes profesor, RCP",
     "category": "RRHH",
@@ -888,9 +888,9 @@
     "answer": "NIP",
     "options": [
       "NIP",
-      "Siempre el mismo NRP para todas las relaciones",
-      "NIP de otro funcionario",
-      "Número de inventario"
+      "NRP",
+      "DNI",
+      "Código de puesto"
     ],
     "reference": "Apuntes profesor, RCP",
     "category": "RRHH",
@@ -905,9 +905,9 @@
     "answer": "Sí, puede tener varios NRP",
     "options": [
       "Sí, puede tener varios NRP",
-      "No, nunca",
-      "Debe cambiar el DNI",
-      "Pierde necesariamente el NIP"
+      "No, solo un NRP",
+      "No, cambia el NIP",
+      "No, el NRP identifica puesto"
     ],
     "reference": "Apuntes profesor, RCP",
     "category": "RRHH",
@@ -922,9 +922,9 @@
     "answer": "Máximo tres días",
     "options": [
       "Máximo tres días",
-      "Quince días hábiles",
-      "Noventa días",
-      "Dos años"
+      "Dos días",
+      "Tres días",
+      "Cinco días"
     ],
     "reference": "Apuntes profesor, RCP",
     "category": "RRHH",
@@ -939,9 +939,9 @@
     "answer": "Tres días desde recepción",
     "options": [
       "Tres días desde recepción",
-      "Un año",
-      "Dieciocho meses",
-      "Nueve meses"
+      "Dos días desde recepción",
+      "Cinco días desde recepción",
+      "Diez días desde recepción"
     ],
     "reference": "Apuntes profesor, RCP",
     "category": "RRHH",
@@ -956,9 +956,9 @@
     "answer": "Noventa días naturales",
     "options": [
       "Noventa días naturales",
-      "Quince días",
-      "Tres días",
-      "Cinco años"
+      "Treinta días naturales",
+      "Sesenta días naturales",
+      "Ciento veinte días naturales"
     ],
     "reference": "Apuntes profesor, RCP",
     "category": "RRHH",
@@ -973,9 +973,9 @@
     "answer": "Otros noventa días",
     "options": [
       "Otros noventa días",
-      "Otros cinco años",
-      "Treinta meses",
-      "Diez días hábiles"
+      "Otros treinta días",
+      "Otros sesenta días",
+      "Otros ciento veinte días"
     ],
     "reference": "Apuntes profesor, RCP",
     "category": "RRHH",
@@ -990,9 +990,9 @@
     "answer": "No puede incluirse en nómina",
     "options": [
       "No puede incluirse en nómina",
-      "Siempre genera nómina",
-      "Da automáticamente trienio",
-      "Sustituye el acto legal"
+      "Sí, desde anotación",
+      "Sí, si se comunica",
+      "Sí, hasta cancelación"
     ],
     "reference": "Apuntes profesor, RCP",
     "category": "RRHH",
@@ -1007,9 +1007,9 @@
     "answer": "Marginal",
     "options": [
       "Marginal",
-      "Inscripción inicial",
-      "Provisional obligatoria",
-      "Nombramiento"
+      "Ordinaria",
+      "Provisional",
+      "De rectificación"
     ],
     "reference": "Apuntes profesor, RCP",
     "category": "RRHH",
