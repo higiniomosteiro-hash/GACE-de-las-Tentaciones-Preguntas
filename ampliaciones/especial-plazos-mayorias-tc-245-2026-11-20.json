@@ -1,6 +1,6 @@
 [
   {
-    "id": 4001,
+    "id": 3849,
     "question": "¿Cuántos magistrados integran el Tribunal Constitucional?",
     "answer": "12",
     "options": [
@@ -21,7 +21,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4002,
+    "id": 3850,
     "question": "¿Qué ley orgánica regula el Tribunal Constitucional?",
     "answer": "Ley Orgánica 2/1979",
     "options": [
@@ -42,7 +42,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4003,
+    "id": 3851,
     "question": "¿Cuántos magistrados del TC propone el Congreso de los Diputados?",
     "answer": "4",
     "options": [
@@ -63,7 +63,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4004,
+    "id": 3852,
     "question": "¿En qué fecha se aprobó la Ley Orgánica del Tribunal Constitucional?",
     "answer": "3 de octubre de 1979",
     "options": [
@@ -84,7 +84,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4005,
+    "id": 3853,
     "question": "¿Cuántos magistrados del TC propone el Senado?",
     "answer": "4",
     "options": [
@@ -105,7 +105,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4006,
+    "id": 3854,
     "question": "¿Cuántos magistrados del TC propone el Gobierno?",
     "answer": "2",
     "options": [
@@ -126,7 +126,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4007,
+    "id": 3855,
     "question": "¿Qué artículo constitucional regula la composición del TC?",
     "answer": "159",
     "options": [
@@ -147,7 +147,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4008,
+    "id": 3856,
     "question": "¿Cuántos magistrados del TC propone el Consejo General del Poder Judicial?",
     "answer": "2",
     "options": [
@@ -168,7 +168,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4009,
+    "id": 3857,
     "question": "¿Qué artículo de la Constitución enumera las competencias del TC?",
     "answer": "161",
     "options": [
@@ -189,7 +189,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4010,
+    "id": 3858,
     "question": "¿Qué mayoría exige el Congreso para proponer a los magistrados del TC?",
     "answer": "3/5",
     "options": [
@@ -210,7 +210,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4011,
+    "id": 3859,
     "question": "¿Qué artículo constitucional regula el valor de las sentencias del TC?",
     "answer": "164",
     "options": [
@@ -231,7 +231,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4012,
+    "id": 3860,
     "question": "¿Qué mayoría exige el Senado para proponer a los magistrados del TC?",
     "answer": "3/5",
     "options": [
@@ -252,7 +252,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4013,
+    "id": 3861,
     "question": "¿Qué artículo de la Constitución remite a una ley orgánica la regulación del TC?",
     "answer": "165",
     "options": [
@@ -273,7 +273,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4014,
+    "id": 3862,
     "question": "¿Cuántos años dura el mandato de los magistrados del TC?",
     "answer": "9 años",
     "options": [
@@ -294,7 +294,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4015,
+    "id": 3863,
     "question": "¿Cada cuántos años se renueva parcialmente el Tribunal Constitucional?",
     "answer": "3 años",
     "options": [
@@ -315,7 +315,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4016,
+    "id": 3864,
     "question": "¿Quién elige al Presidente del TC entre sus miembros?",
     "answer": "El Pleno del TC",
     "options": [
@@ -336,7 +336,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4017,
+    "id": 3865,
     "question": "¿Qué fracción del TC se renueva periódicamente?",
     "answer": "1/3",
     "options": [
@@ -357,7 +357,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4018,
+    "id": 3866,
     "question": "¿Cuántos magistrados del TC se renuevan en cada tercio?",
     "answer": "4",
     "options": [
@@ -378,7 +378,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4019,
+    "id": 3867,
     "question": "¿Cuál es el requisito de experiencia profesional para ser magistrado del Tribunal Constitucional según el art. 159.2 CE?",
     "answer": "Más de 15 años de ejercicio profesional",
     "options": [
@@ -399,7 +399,7 @@
     "source": "Banco Tema 3 TC · GitHub"
   },
   {
-    "id": 4020,
+    "id": 3868,
     "question": "¿Cuántos años dura el mandato del presidente del Tribunal Constitucional?",
     "answer": "3 años",
     "options": [
@@ -420,7 +420,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4021,
+    "id": 3869,
     "question": "¿Cuántas veces consecutivas puede ser reelegido el presidente del TC?",
     "answer": "1",
     "options": [
@@ -441,7 +441,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4022,
+    "id": 3870,
     "question": "¿Cuál es el plazo general para interponer un recurso de inconstitucionalidad?",
     "answer": "3 meses",
     "options": [
@@ -462,7 +462,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4023,
+    "id": 3871,
     "question": "¿Qué quórum de presencia requiere el Pleno para adoptar acuerdos?",
     "answer": "Dos tercios",
     "options": [
@@ -483,7 +483,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4024,
+    "id": 3872,
     "question": "¿Qué plazo especial puede aplicarse al recurso de inconstitucionalidad con el procedimiento del art. 33.2 LOTC?",
     "answer": "9 meses",
     "options": [
@@ -504,7 +504,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4025,
+    "id": 3873,
     "question": "¿Cuántos magistrados deben estar presentes en una Sección para adoptar acuerdos sin discrepancia?",
     "answer": "2",
     "options": [
@@ -525,7 +525,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4026,
+    "id": 3874,
     "question": "¿Qué plazo hay para presentar amparo frente a disposiciones, actos o vías de hecho del Ejecutivo tras agotar la vía judicial?",
     "answer": "20 días",
     "options": [
@@ -546,7 +546,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4027,
+    "id": 3875,
     "question": "Si discrepan los miembros de una Sección del TC, ¿cuántos deben estar presentes?",
     "answer": "3",
     "options": [
@@ -567,7 +567,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4028,
+    "id": 3876,
     "question": "¿Cuántos días hay para interponer amparo frente a resoluciones judiciales?",
     "answer": "30 días",
     "options": [
@@ -588,7 +588,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4029,
+    "id": 3877,
     "question": "¿Cuántos magistrados integran ordinariamente una Sección del TC?",
     "answer": "3",
     "options": [
@@ -609,7 +609,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4030,
+    "id": 3878,
     "question": "¿Cuál es el plazo para recurrir en amparo actos parlamentarios sin valor de ley?",
     "answer": "3 meses",
     "options": [
@@ -630,7 +630,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4031,
+    "id": 3879,
     "question": "¿Con qué mayoría acuerda el Pleno suspender cautelarmente a un magistrado del TC?",
     "answer": "Tres cuartas partes",
     "options": [
@@ -651,7 +651,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4032,
+    "id": 3880,
     "question": "¿Qué plazo existe para plantear conflicto positivo de competencia tras el rechazo del requerimiento?",
     "answer": "1 mes",
     "options": [
@@ -672,7 +672,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4033,
+    "id": 3881,
     "question": "¿Con qué mayoría decide el Pleno el cese de un magistrado por responsabilidad civil dolosa?",
     "answer": "Tres cuartas partes",
     "options": [
@@ -693,7 +693,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4034,
+    "id": 3882,
     "question": "¿En qué plazo puede formularse el requerimiento previo en un conflicto positivo de competencia?",
     "answer": "2 meses",
     "options": [
@@ -714,7 +714,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4035,
+    "id": 3883,
     "question": "¿Qué porcentaje mínimo de cada sexo exige la LOTC en las nuevas propuestas de magistrados?",
     "answer": "40 %",
     "options": [
@@ -735,7 +735,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4036,
+    "id": 3884,
     "question": "¿En qué plazo máximo debe el TC ratificar o levantar la suspensión del art. 161.2 CE?",
     "answer": "5 meses",
     "options": [
@@ -756,7 +756,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4037,
+    "id": 3885,
     "question": "¿A qué cargo corresponde comunicar las vacantes de magistrados del TC a los órganos proponentes?",
     "answer": "Presidente del TC",
     "options": [
@@ -777,7 +777,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4038,
+    "id": 3886,
     "question": "¿Cuántos diputados pueden interponer recurso de inconstitucionalidad?",
     "answer": "50 diputados",
     "options": [
@@ -798,7 +798,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4039,
+    "id": 3887,
     "question": "En el recurso de amparo admitido, ¿qué plazo máximo tiene el órgano requerido para remitir las actuaciones?",
     "answer": "10 días",
     "options": [
@@ -820,7 +820,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4040,
+    "id": 3888,
     "question": "¿Cuántos senadores pueden interponer recurso de inconstitucionalidad?",
     "answer": "50 senadores",
     "options": [
@@ -841,7 +841,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4041,
+    "id": 3889,
     "question": "Admitida la demanda de amparo, ¿cuál es el plazo común máximo para formular alegaciones tras dar vista de actuaciones?",
     "answer": "20 días",
     "options": [
@@ -863,7 +863,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4042,
+    "id": 3890,
     "category": "Organización del Estado",
     "topic": "Tema 3 · Especial · Plazos y mayorías del TC",
     "reference": "LOTC art. 7.1",
@@ -884,7 +884,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4043,
+    "id": 3891,
     "category": "Organización del Estado",
     "topic": "Tema 3 · Especial · Plazos y mayorías del TC",
     "reference": "LOTC art. 8.1",
@@ -905,7 +905,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4044,
+    "id": 3892,
     "category": "Organización del Estado",
     "topic": "Tema 3 · Especial · Plazos y mayorías del TC",
     "reference": "LOTC art. 9.2",
@@ -926,7 +926,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4045,
+    "id": 3893,
     "category": "Organización del Estado",
     "topic": "Tema 3 · Especial · Plazos y mayorías del TC",
     "reference": "LOTC art. 9.4",
@@ -947,7 +947,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4046,
+    "id": 3894,
     "category": "Organización del Estado",
     "topic": "Tema 3 · Especial · Plazos y mayorías del TC",
     "reference": "LOTC art. 16.5",
@@ -968,7 +968,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4047,
+    "id": 3895,
     "category": "Organización del Estado",
     "topic": "Tema 3 · Especial · Plazos y mayorías del TC",
     "reference": "LOTC art. 16.4",
@@ -989,7 +989,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4048,
+    "id": 3896,
     "category": "Organización del Estado",
     "topic": "Tema 3 · Especial · Plazos y mayorías del TC",
     "reference": "LOTC art. 35.2",
@@ -1010,7 +1010,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4049,
+    "id": 3897,
     "category": "Organización del Estado",
     "topic": "Tema 3 · Especial · Plazos y mayorías del TC",
     "reference": "LOTC art. 35.2",
@@ -1031,7 +1031,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4050,
+    "id": 3898,
     "category": "Organización del Estado",
     "topic": "Tema 3 · Especial · Plazos y mayorías del TC",
     "reference": "LOTC art. 35.2",
@@ -1052,7 +1052,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4051,
+    "id": 3899,
     "category": "Organización del Estado",
     "topic": "Tema 3 · Especial · Plazos y mayorías del TC",
     "reference": "LOTC art. 50.2",
@@ -1073,7 +1073,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4052,
+    "id": 3900,
     "category": "Organización del Estado",
     "topic": "Tema 3 · Especial · Plazos y mayorías del TC",
     "reference": "LOTC art. 50.3",
@@ -1094,7 +1094,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4053,
+    "id": 3901,
     "category": "Organización del Estado",
     "topic": "Tema 3 · Especial · Plazos y mayorías del TC",
     "reference": "Tema 3 §2.2.4",
@@ -1116,7 +1116,7 @@
     "source_id": 848
   },
   {
-    "id": 4054,
+    "id": 3902,
     "question": "¿Qué criterio se aplica si hay empate persistente al elegir al Presidente del TC?",
     "answer": "Mayor antigüedad en el cargo",
     "options": [
@@ -1137,7 +1137,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4055,
+    "id": 3903,
     "question": "Si persiste igualdad de antigüedad al elegir Presidente del TC, ¿qué criterio decide?",
     "answer": "Mayor edad",
     "options": [
@@ -1158,7 +1158,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4056,
+    "id": 3904,
     "question": "¿Cuánto dura el mandato del Vicepresidente del Tribunal Constitucional?",
     "answer": "3 años",
     "options": [
@@ -1179,7 +1179,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4057,
+    "id": 3905,
     "question": "Si el mandato del Presidente y Vicepresidente no coincide con la renovación del TC, ¿qué sucede?",
     "answer": "Se prorroga hasta la renovación y toma de posesión de los nuevos magistrados",
     "options": [
@@ -1200,7 +1200,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4058,
+    "id": 3906,
     "question": "Si la segunda votación para elegir al Presidente del TC termina en empate, ¿qué procede?",
     "answer": "Celebrar una última votación",
     "options": [
@@ -1221,7 +1221,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4059,
+    "id": 3907,
     "question": "¿Con cuántos meses de antelación se activa el procedimiento de renovación ordinaria de magistrados?",
     "answer": "4 meses",
     "options": [
@@ -1242,7 +1242,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4060,
+    "id": 3908,
     "question": "Si la renovación por tercios se retrasa, ¿cómo se calcula el mandato de los nuevos magistrados?",
     "answer": "Se descuenta el retraso",
     "options": [
@@ -1263,7 +1263,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4061,
+    "id": 3909,
     "question": "¿Qué mayoría del Pleno se exige para acordar el cese por incompatibilidad sobrevenida?",
     "answer": "Mayoría simple",
     "options": [
@@ -1284,7 +1284,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4062,
+    "id": 3910,
     "question": "¿Qué mayoría del Pleno acuerda el cese por incapacidad legal sobrevenida?",
     "answer": "Mayoría simple",
     "options": [
@@ -1305,7 +1305,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4063,
+    "id": 3911,
     "question": "¿Qué plazo tiene un magistrado propuesto para cesar en una actividad incompatible?",
     "answer": "10 días",
     "options": [
@@ -1326,7 +1326,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4064,
+    "id": 3912,
     "question": "¿Qué consecuencia tiene no cesar en la actividad incompatible en el plazo legal tras ser propuesto magistrado?",
     "answer": "Se entiende que no acepta el cargo",
     "options": [
@@ -1347,7 +1347,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4065,
+    "id": 3913,
     "question": "¿Cuál es el período mínimo de servicio como magistrado del TC para recibir remuneración de transición?",
     "answer": "3 años",
     "options": [
@@ -1368,7 +1368,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4066,
+    "id": 3914,
     "question": "¿Cuánto dura la remuneración de transición prevista para magistrados del TC que cumplen los requisitos?",
     "answer": "1 año",
     "options": [
@@ -1389,7 +1389,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4067,
+    "id": 3915,
     "question": "¿Qué sujeto puede provocar la suspensión de una disposición autonómica mediante su impugnación ante el TC invocando el artículo 161.2 CE?",
     "answer": "El Gobierno",
     "options": [
@@ -1410,7 +1410,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4068,
+    "id": 3916,
     "question": "¿Pueden los órganos ejecutivos autonómicos recurrir leyes estatales que afecten a su autonomía?",
     "answer": "Sí, previo acuerdo",
     "options": [
@@ -1431,7 +1431,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4069,
+    "id": 3917,
     "question": "¿A quién se extiende exclusivamente el plazo especial de nueve meses del recurso de inconstitucionalidad?",
     "answer": "Presidente del Gobierno y ejecutivos autonómicos",
     "options": [
@@ -1452,7 +1452,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4070,
+    "id": 3918,
     "question": "¿Qué comisión debe reunirse para activar el plazo especial de nueve meses del recurso de inconstitucionalidad?",
     "answer": "Comisión Bilateral de Cooperación",
     "options": [
@@ -1473,7 +1473,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4071,
+    "id": 3919,
     "question": "¿De qué plazo se dispone para comunicar al TC el acuerdo bilateral que permite usar el plazo especial de recurso?",
     "answer": "3 meses",
     "options": [
@@ -1494,7 +1494,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4072,
+    "id": 3920,
     "question": "¿Qué plazo tienen los órganos emplazados para personarse y alegar en un recurso de inconstitucionalidad admitido?",
     "answer": "15 días",
     "options": [
@@ -1515,7 +1515,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4073,
+    "id": 3921,
     "question": "¿En qué plazo ordinario dicta sentencia el TC tras las alegaciones en un recurso de inconstitucionalidad?",
     "answer": "10 días",
     "options": [
@@ -1536,7 +1536,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4074,
+    "id": 3922,
     "question": "¿Hasta qué plazo máximo puede extenderse motivadamente la sentencia en un recurso de inconstitucionalidad tras las alegaciones?",
     "answer": "30 días",
     "options": [
@@ -1557,7 +1557,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4075,
+    "id": 3923,
     "question": "¿En qué plazo ordinario sentencia el TC una cuestión de inconstitucionalidad tras el trámite de alegaciones?",
     "answer": "15 días",
     "options": [
@@ -1578,7 +1578,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4076,
+    "id": 3924,
     "question": "¿En qué plazo pueden personarse ante el TC quienes fueron parte en el proceso tras publicarse la admisión de la cuestión?",
     "answer": "15 días",
     "options": [
@@ -1599,7 +1599,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4077,
+    "id": 3925,
     "question": "¿De qué plazo disponen esas partes para formular alegaciones tras personarse en la cuestión?",
     "answer": "Otros 15 días",
     "options": [
@@ -1620,7 +1620,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4078,
+    "id": 3926,
     "question": "¿Cuál es el plazo común e improrrogable para alegaciones de los órganos emplazados en una cuestión de inconstitucionalidad?",
     "answer": "15 días",
     "options": [
@@ -1641,7 +1641,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4079,
+    "id": 3927,
     "question": "¿Qué tramo principal de derechos constitucionales protege el recurso de amparo?",
     "answer": "Artículos 14 a 29 CE",
     "options": [
@@ -1662,7 +1662,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4080,
+    "id": 3928,
     "question": "¿Qué derecho del artículo 30 CE se protege excepcionalmente mediante amparo?",
     "answer": "La objeción de conciencia",
     "options": [
@@ -1683,7 +1683,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4081,
+    "id": 3929,
     "question": "¿Qué órganos pueden causar vulneraciones recurribles en amparo según la LOTC?",
     "answer": "Los poderes públicos y sus agentes",
     "options": [
@@ -1704,7 +1704,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4082,
+    "id": 3930,
     "question": "¿Se usa el amparo para reclamar vulneraciones constitucionales distintas de los derechos protegidos por el artículo 53.2?",
     "answer": "No",
     "options": [
@@ -1725,7 +1725,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4083,
+    "id": 3931,
     "question": "¿Contra qué actos parlamentarios cabe el amparo del artículo 42 LOTC?",
     "answer": "Actos sin valor de ley",
     "options": [
@@ -1746,7 +1746,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4084,
+    "id": 3932,
     "question": "¿En cuántos procesos de amparo interviene el Ministerio Fiscal?",
     "answer": "En todos",
     "options": [
@@ -1767,7 +1767,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4085,
+    "id": 3933,
     "question": "¿Con qué exigencia de voto admite ordinariamente a trámite un amparo la Sección?",
     "answer": "Unanimidad de sus miembros",
     "options": [
@@ -1788,7 +1788,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4086,
+    "id": 3934,
     "question": "¿En cuánto tiempo máximo debe remitir las actuaciones el órgano requerido tras admitirse un amparo?",
     "answer": "10 días",
     "options": [
@@ -1809,7 +1809,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4087,
+    "id": 3935,
     "question": "¿Cuánto plazo tienen las partes del proceso anterior para comparecer en el amparo tras el emplazamiento?",
     "answer": "10 días",
     "options": [
@@ -1830,7 +1830,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4088,
+    "id": 3936,
     "question": "¿Cuál es el plazo máximo de vista de las actuaciones para alegaciones en un proceso de amparo?",
     "answer": "20 días",
     "options": [
@@ -1851,7 +1851,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4089,
+    "id": 3937,
     "question": "¿En qué plazo debe pronunciarse sentencia en amparo desde el día señalado para vista o deliberación?",
     "answer": "10 días",
     "options": [
@@ -1872,7 +1872,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4090,
+    "id": 3938,
     "question": "Si una Sección alcanza mayoría para admitir un amparo, pero no unanimidad, ¿quién resuelve?",
     "answer": "La Sala correspondiente",
     "options": [
@@ -1894,7 +1894,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4091,
+    "id": 3939,
     "question": "¿Qué ley orgánica introdujo los conflictos en defensa de la autonomía local ante el TC?",
     "answer": "Ley Orgánica 7/1999",
     "options": [
@@ -1916,7 +1916,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4092,
+    "id": 3940,
     "question": "¿En qué plazo desde su publicación puede el Gobierno impugnar ante el TC disposiciones autonómicas sin fuerza de ley?",
     "answer": "2 meses",
     "options": [
@@ -1938,7 +1938,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4093,
+    "id": 3941,
     "question": "En las impugnaciones del artículo 161.2 CE, ¿en qué plazo máximo debe el TC ratificar o levantar la suspensión, salvo sentencia previa?",
     "answer": "5 meses",
     "options": [
@@ -1960,7 +1960,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4094,
+    "id": 3942,
     "question": "¿Qué actos ejecutivos o administrativos pueden ser objeto de amparo según el artículo 43 LOTC?",
     "answer": "Disposiciones, actos, omisiones y vías de hecho",
     "options": [
@@ -1981,7 +1981,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4095,
+    "id": 3943,
     "question": "¿Qué intervalo de artículos de la CE regula el TC?",
     "answer": "159 a 165",
     "options": [
@@ -2003,7 +2003,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4096,
+    "id": 3944,
     "question": "¿Qué mayoría exige el Congreso para proponer magistrados del TC?",
     "answer": "Tres quintos",
     "options": [
@@ -2025,7 +2025,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4097,
+    "id": 3945,
     "question": "¿Cuántos años de experiencia profesional exige la CE para optar a magistrado del TC?",
     "answer": "Más de 15 años",
     "options": [
@@ -2047,7 +2047,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4098,
+    "id": 3946,
     "question": "¿Qué órgano elige al presidente del TC entre sus miembros?",
     "answer": "Pleno del Tribunal Constitucional",
     "options": [
@@ -2069,7 +2069,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4099,
+    "id": 3947,
     "question": "¿Cuánto dura el mandato del presidente del TC?",
     "answer": "3 años",
     "options": [
@@ -2091,7 +2091,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4100,
+    "id": 3948,
     "question": "¿Cuántas veces consecutivas puede reelegirse al presidente del TC?",
     "answer": "Una vez",
     "options": [
@@ -2113,7 +2113,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4101,
+    "id": 3949,
     "question": "¿Cuántas Salas componen el TC?",
     "answer": "2",
     "options": [
@@ -2135,7 +2135,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4102,
+    "id": 3950,
     "question": "¿Cuántos magistrados integran cada Sala del TC?",
     "answer": "6",
     "options": [
@@ -2157,7 +2157,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4103,
+    "id": 3951,
     "question": "¿En qué fecha aprobó el Pleno del Tribunal Constitucional su Reglamento de Organización y Personal?",
     "answer": "5 de julio de 1990",
     "options": [
@@ -2179,7 +2179,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4104,
+    "id": 3952,
     "question": "¿Qué plazo general rige para el recurso de inconstitucionalidad?",
     "answer": "3 meses",
     "options": [
@@ -2201,7 +2201,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4105,
+    "id": 3953,
     "question": "¿Qué plazo especial admite el artículo 33.2 LOTC bajo sus requisitos?",
     "answer": "9 meses",
     "options": [
@@ -2223,7 +2223,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4106,
+    "id": 3954,
     "question": "¿Qué plazo rige el amparo contra actos ejecutivos tras agotar la vía judicial?",
     "answer": "20 días",
     "options": [
@@ -2245,7 +2245,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4107,
+    "id": 3955,
     "question": "¿Qué plazo rige el amparo contra resoluciones judiciales?",
     "answer": "30 días",
     "options": [
@@ -2267,7 +2267,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4108,
+    "id": 3956,
     "question": "¿Qué plazo rige el amparo contra actos parlamentarios sin valor de ley?",
     "answer": "3 meses",
     "options": [
@@ -2289,7 +2289,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4109,
+    "id": 3957,
     "question": "¿Qué reglamento aprobó el Pleno del Tribunal Constitucional mediante acuerdo de 5 de julio de 1990?",
     "answer": "Reglamento de Organización y Personal del Tribunal Constitucional",
     "options": [
@@ -2311,7 +2311,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4110,
+    "id": 3958,
     "question": "¿Qué artículo constitucional regula las competencias del TC?",
     "answer": "Artículo 161",
     "options": [
@@ -2333,7 +2333,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4111,
+    "id": 3959,
     "question": "Según el artículo 37.3 LOTC, cuando el Tribunal Constitucional amplía motivadamente el plazo para dictar sentencia en una cuestión de inconstitucionalidad, ¿cuál es el plazo máximo?",
     "answer": "30 días",
     "options": [
@@ -2354,7 +2354,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4112,
+    "id": 3960,
     "question": "Según la LOTC, concluidas las alegaciones, ¿cuáles son los plazos ordinarios para dictar sentencia en el recurso y en la cuestión de inconstitucionalidad, respectivamente?",
     "answer": "10 días y 15 días",
     "options": [
@@ -2375,7 +2375,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4113,
+    "id": 3961,
     "question": "El Gobierno pretende proponer cinco magistrados del Tribunal Constitucional alegando que designa un tercio. ¿Es correcta esa cifra?",
     "answer": "No; el Gobierno propone dos de los doce magistrados.",
     "options": [
@@ -2396,7 +2396,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4114,
+    "id": 3962,
     "question": "¿Qué mayoría se exige al Congreso para proponer sus cuatro magistrados del Tribunal Constitucional?",
     "answer": "Tres quintos de sus miembros.",
     "options": [
@@ -2417,7 +2417,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4115,
+    "id": 3963,
     "question": "Un jurista tiene doce años de ejercicio profesional. ¿Cumple por ese solo dato el requisito temporal para ser magistrado del Tribunal Constitucional?",
     "answer": "No; se exigen más de quince años de ejercicio profesional.",
     "options": [
@@ -2438,7 +2438,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4116,
+    "id": 3964,
     "question": "¿Qué dato distingue la duración del mandato de un magistrado constitucional de su renovación ordinaria por tercios?",
     "answer": "Mandato de nueve años y renovación por terceras partes cada tres años.",
     "options": [
@@ -2459,7 +2459,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4117,
+    "id": 3965,
     "question": "¿Cuánto dura el mandato del presidente del Tribunal Constitucional?",
     "answer": "Tres años, con posibilidad de reelección.",
     "options": [
@@ -2480,7 +2480,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4118,
+    "id": 3966,
     "question": "¿Qué límite tiene la fase adicional de aclaraciones en conflicto entre órganos constitucionales según el temario?",
     "answer": "No puede exceder de otros treinta días",
     "options": [
@@ -2501,7 +2501,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4119,
+    "id": 3967,
     "question": "¿Transcurrido qué plazo sin rectificación puede promoverse ante el TC un conflicto entre órganos constitucionales?",
     "answer": "Un mes desde la recepción de la comunicación",
     "options": [
@@ -2522,7 +2522,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4120,
+    "id": 3968,
     "question": "¿Qué plazo tiene el TC para dictar el auto que aprecia el planteamiento de un conflicto negativo de competencia por particular?",
     "answer": "Diez días desde la presentación del escrito",
     "options": [
@@ -2543,7 +2543,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4121,
+    "id": 3969,
     "question": "¿Cuál de estas singularidades reconoce la LOTC para conflictos de autonomía local frente a normas de Canarias?",
     "answer": "Legitimación de tres Cabildos en los términos legales",
     "options": [
@@ -2564,7 +2564,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4122,
+    "id": 3970,
     "question": "¿En qué plazo puede acudir al TC el interesado tras recibir segunda declaración de incompetencia administrativa?",
     "answer": "Dentro del mes siguiente a su notificación",
     "options": [
@@ -2585,7 +2585,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4123,
+    "id": 3971,
     "question": "¿Cuándo debe solicitarse el dictamen preceptivo en defensa de autonomía local, según la LOTC?",
     "answer": "Dentro de los tres meses siguientes a la publicación de la ley",
     "options": [
@@ -2606,7 +2606,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4124,
+    "id": 3972,
     "question": "¿En qué momento procesal puede plantearse la cuestión de inconstitucionalidad con carácter general?",
     "answer": "Una vez concluso el procedimiento judicial y dentro del plazo para dictar sentencia",
     "options": [
@@ -2627,7 +2627,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4125,
+    "id": 3973,
     "question": "¿En qué plazo debe resolver el TC el conflicto positivo una vez concluidas alegaciones y aclaraciones según la regla del temario?",
     "answer": "Quince días",
     "options": [
@@ -2648,7 +2648,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4126,
+    "id": 3974,
     "question": "¿Quiénes pueden protagonizar un conflicto constitucional de atribuciones entre órganos del Estado según la LOTC?",
     "answer": "Gobierno, Congreso, Senado y Consejo General del Poder Judicial",
     "options": [
@@ -2669,7 +2669,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4127,
+    "id": 3975,
     "question": "¿Quién tiene voto de calidad en caso de empate en una deliberación del Tribunal Constitucional según la LOTC?",
     "answer": "El Presidente del Tribunal",
     "options": [
@@ -2690,7 +2690,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4128,
+    "id": 3976,
     "question": "¿Qué consecuencia puede tener la inactividad de una comunidad autónoma ante requerimiento gubernamental para ejercer una competencia?",
     "answer": "Se entiende implícita la declaración de incompetencia al vencer el plazo fijado",
     "options": [
@@ -2711,7 +2711,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4129,
+    "id": 3977,
     "question": "¿En qué situación puede el Gobierno instar la suspensión automática de un acto autonómico al formular conflicto de competencia?",
     "answer": "Cuando invoca el artículo 161.2 CE en los términos legales",
     "options": [
@@ -2732,7 +2732,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4130,
+    "id": 3978,
     "question": "¿Qué representación conjunta de municipios exige como regla la legitimación en defensa de la autonomía local?",
     "answer": "Al menos un séptimo de los municipios afectados y un sexto de la población correspondiente",
     "options": [
@@ -2753,7 +2753,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4131,
+    "id": 3979,
     "question": "¿Qué límite temporal tiene el período de alegaciones concedido a la contraparte en un conflicto positivo?",
     "answer": "No superior a veinte días",
     "options": [
@@ -2774,7 +2774,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4132,
+    "id": 3980,
     "question": "¿Qué representación de provincias permite promover conflicto en defensa de autonomía local?",
     "answer": "Al menos la mitad de provincias del ámbito y la mitad de su población",
     "options": [
@@ -2795,7 +2795,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4133,
+    "id": 3981,
     "question": "¿Cuál de estas singularidades reconoce la LOTC para conflictos de autonomía local frente a normas de Illes Balears?",
     "answer": "Legitimación de dos consejos insulares en los términos legales",
     "options": [
@@ -2816,7 +2816,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4134,
+    "id": 3982,
     "question": "¿Qué efecto tiene el silencio del órgano requerido transcurrido el plazo legal en un conflicto positivo?",
     "answer": "El requerimiento se entiende rechazado",
     "options": [
@@ -2837,7 +2837,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4135,
+    "id": 3983,
     "question": "¿En cuánto tiempo debe el TC trasladar a la contraparte un conflicto de atribuciones entre órganos constitucionales?",
     "answer": "Dentro de diez días",
     "options": [
@@ -2858,7 +2858,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4136,
+    "id": 3984,
     "question": "¿En qué plazo debe un órgano constitucional comunicar a otro que considera invadidas sus atribuciones?",
     "answer": "Un mes desde que conozca la decisión",
     "options": [
@@ -2879,7 +2879,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4137,
+    "id": 3985,
     "question": "¿Cuánto tiempo tiene el órgano requerido para contestar un requerimiento previo en conflicto positivo?",
     "answer": "Un mes desde su recepción",
     "options": [
@@ -2900,7 +2900,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4138,
+    "id": 3986,
     "question": "¿Cuánto plazo dispone el TC para comunicar a la contraparte la iniciación de un conflicto positivo de competencia?",
     "answer": "Diez días",
     "options": [
@@ -2921,7 +2921,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4139,
+    "id": 3987,
     "question": "¿Qué mayoría requiere el acuerdo plenario para promover un conflicto en defensa de la autonomía local?",
     "answer": "Mayoría absoluta del número legal de miembros",
     "options": [
@@ -2942,7 +2942,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4140,
+    "id": 3988,
     "question": "¿En qué plazo puede formalizarse ante el TC un conflicto de autonomía local después de recibir el dictamen preceptivo?",
     "answer": "Dentro del mes siguiente",
     "options": [
@@ -2963,7 +2963,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4141,
+    "id": 3989,
     "question": "¿Qué ocurre con los plazos administrativos ya consumidos al publicarse la sentencia de un conflicto negativo promovido por particular?",
     "answer": "Se entienden nuevamente abiertos por su duración ordinaria",
     "options": [
@@ -2984,7 +2984,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4142,
+    "id": 3990,
     "question": "¿Cuál es el plazo para que la Administración requerida en segundo lugar admita o decline competencia en un conflicto negativo promovido por interesado?",
     "answer": "Un mes",
     "options": [
@@ -3005,7 +3005,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4143,
+    "id": 3991,
     "question": "¿Qué condición mantiene la sentencia constitucional para producir cosa juzgada?",
     "answer": "Tiene valor de cosa juzgada a partir del día siguiente a su publicación, conforme a la CE",
     "options": [
@@ -3026,7 +3026,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4144,
+    "id": 3992,
     "question": "¿Quiénes integran el Pleno del Tribunal Constitucional?",
     "answer": "Todos sus magistrados",
     "options": [
@@ -3047,7 +3047,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4145,
+    "id": 3993,
     "question": "En la segunda votación para Presidente del TC, ¿qué criterio decide?",
     "answer": "Mayor número de votos",
     "options": [
@@ -3068,7 +3068,7 @@
     "explanation": "Pregunta existente del Tema 3, duplicada en el especial para repaso intensivo."
   },
   {
-    "id": 4146,
+    "id": 3994,
     "category": "Organización del Estado",
     "topic": "Tema 3 · Especial · Plazos y mayorías del TC",
     "reference": "LOTC art. 16.1",
@@ -3089,7 +3089,7 @@
     "origin": "Ampliación del Tribunal Constitucional · noviembre de 2026"
   },
   {
-    "id": 4147,
+    "id": 3995,
     "question": "Una renovación afecta a los magistrados propuestos conjuntamente por Congreso y Senado. ¿Cuántas propuestas corresponden a ambas Cámaras sumadas?",
     "answer": "8",
     "options": [
@@ -3110,7 +3110,7 @@
     "source_id": 3723
   },
   {
-    "id": 4148,
+    "id": 3996,
     "question": "¿Cuántos magistrados del Tribunal Constitucional son propuestos, en total, por el Gobierno y el CGPJ?",
     "answer": "4",
     "options": [
@@ -3131,7 +3131,7 @@
     "source_id": 3724
   },
   {
-    "id": 4149,
+    "id": 3997,
     "question": "En la propuesta al Rey de cuatro magistrados del TC por el Senado, ¿cuántos candidatos puede presentar como máximo cada Asamblea Legislativa autonómica?",
     "answer": "Hasta 2",
     "options": [
@@ -3152,7 +3152,7 @@
     "source_id": 3725
   },
   {
-    "id": 4150,
+    "id": 3998,
     "question": "¿Con qué mayoría debe acordar el Pleno del CGPJ la propuesta de sus dos magistrados del TC?",
     "answer": "Tres quintos de sus miembros",
     "options": [
@@ -3173,7 +3173,7 @@
     "source_id": 3726
   },
   {
-    "id": 4151,
+    "id": 3999,
     "question": "El mandato de los magistrados del TC propuestos por el CGPJ ha vencido. ¿Cuál es el plazo máximo para que el órgano competente efectúe la propuesta?",
     "answer": "3 meses desde el día siguiente al vencimiento",
     "options": [
@@ -3194,7 +3194,7 @@
     "source_id": 3727
   },
   {
-    "id": 4152,
+    "id": 4000,
     "question": "Una propuesta de nombramiento de magistrados del TC contiene un 30 % de mujeres y un 70 % de hombres. ¿Cumple el mínimo de presencia equilibrada?",
     "answer": "No: se exige al menos el 40 % de cada sexo",
     "options": [
@@ -3215,7 +3215,7 @@
     "source_id": 3728
   },
   {
-    "id": 4153,
+    "id": 4001,
     "question": "Si un órgano debe proponer dos magistrados del TC, ¿qué reparto satisface, en principio, el mínimo de un 40 % para cada sexo?",
     "answer": "Una mujer y un hombre",
     "options": [
@@ -3236,7 +3236,7 @@
     "source_id": 3729
   },
   {
-    "id": 4154,
+    "id": 4002,
     "question": "¿Puede ser magistrada del TC una jurista con exactamente quince años de ejercicio profesional, si no tiene más antigüedad?",
     "answer": "No, la CE exige más de 15 años",
     "options": [
@@ -3257,7 +3257,7 @@
     "source_id": 3730
   },
   {
-    "id": 4155,
+    "id": 4003,
     "question": "Una magistrada del TC ocupó una vacante durante dos años y ocho meses. ¿Puede, por ese límite temporal, ser propuesta inmediatamente para otro mandato?",
     "answer": "Sí, porque no superó 3 años",
     "options": [
@@ -3278,7 +3278,7 @@
     "source_id": 3731
   },
   {
-    "id": 4156,
+    "id": 4004,
     "question": "Un magistrado ha ocupado su cargo cuatro años como sustituto. ¿Permite el art. 16.4 LOTC su propuesta inmediata para otro período?",
     "answer": "No, ha superado los 3 años permitidos en la excepción",
     "options": [
@@ -3299,7 +3299,7 @@
     "source_id": 3732
   },
   {
-    "id": 4157,
+    "id": 4005,
     "question": "Cuando se cubre una vacante por fallecimiento de un magistrado a mitad de mandato, ¿qué duración corresponde al nuevo nombrado?",
     "answer": "El tiempo que restaba del mandato del sustituido",
     "options": [
@@ -3320,7 +3320,7 @@
     "source_id": 3733
   },
   {
-    "id": 4158,
+    "id": 4006,
     "question": "Un tercio del TC se renueva con dos años de retraso. ¿Qué sucede con la duración del mandato de los nuevos magistrados?",
     "answer": "Se descuentan los dos años de retraso",
     "options": [
@@ -3341,7 +3341,7 @@
     "source_id": 3734
   },
   {
-    "id": 4159,
+    "id": 4007,
     "question": "¿Con qué anticipación debe el Presidente del TC pedir a los órganos proponentes que inicien el procedimiento de renovación?",
     "answer": "Antes de los 4 meses previos al vencimiento",
     "options": [
@@ -3362,7 +3362,7 @@
     "source_id": 3735
   },
   {
-    "id": 4160,
+    "id": 4008,
     "question": "Si ningún candidato obtiene mayoría absoluta en la primera votación para Presidente del TC, ¿qué regla decide la segunda?",
     "answer": "Resulta elegido quien obtenga mayor número de votos",
     "options": [
@@ -3383,7 +3383,7 @@
     "source_id": 3736
   },
   {
-    "id": 4161,
+    "id": 4009,
     "question": "Si en la segunda votación para Presidente del TC se produce empate, ¿cuántas votaciones adicionales prevé la LOTC antes de acudir a los criterios de antigüedad y edad?",
     "answer": "Una última votación",
     "options": [
@@ -3404,7 +3404,7 @@
     "source_id": 3737
   },
   {
-    "id": 4162,
+    "id": 4010,
     "question": "En la votación final para Presidente del TC persiste el empate y dos candidatos tienen distinta antigüedad. ¿Quién debe ser propuesto?",
     "answer": "El de mayor antigüedad en el cargo",
     "options": [
@@ -3425,7 +3425,7 @@
     "source_id": 3738
   },
   {
-    "id": 4163,
+    "id": 4011,
     "question": "Una persona ha desempeñado dos mandatos consecutivos de tres años como Presidente del TC. ¿Puede ser reelegida de nuevo para un tercero inmediato?",
     "answer": "No: solo cabe una reelección",
     "options": [
@@ -3446,7 +3446,7 @@
     "source_id": 3739
   },
   {
-    "id": 4164,
+    "id": 4012,
     "question": "En la elección del Vicepresidente del TC, ¿qué procedimiento de votación y período se aplican?",
     "answer": "El mismo procedimiento del Presidente y mandato de 3 años",
     "options": [
@@ -3467,7 +3467,7 @@
     "source_id": 3740
   },
   {
-    "id": 4165,
+    "id": 4013,
     "question": "Si termina el mandato trienal del Presidente sin haberse producido la renovación de magistrados prevista, ¿hasta cuándo queda prorrogado?",
     "answer": "Hasta la renovación y toma de posesión de los nuevos magistrados",
     "options": [
@@ -3488,7 +3488,7 @@
     "source_id": 3741
   },
   {
-    "id": 4166,
+    "id": 4014,
     "question": "¿Quién preside ordinariamente la Sala Primera y quién la Sala Segunda del TC?",
     "answer": "Presidente del TC / Vicepresidente del TC",
     "options": [
@@ -3509,7 +3509,7 @@
     "source_id": 3742
   },
   {
-    "id": 4167,
+    "id": 4015,
     "question": "Al ausentarse el Vicepresidente de la Sala Segunda, ¿cuál es el criterio ordinario de sustitución?",
     "answer": "Magistrado más antiguo y, si igual antigüedad, de mayor edad",
     "options": [
@@ -3530,7 +3530,7 @@
     "source_id": 3743
   },
   {
-    "id": 4168,
+    "id": 4016,
     "question": "Si faltan Presidente y Vicepresidente del TC, ¿quién preside el Pleno?",
     "answer": "El magistrado más antiguo y, si empatan, el de mayor edad",
     "options": [
@@ -3551,7 +3551,7 @@
     "source_id": 3744
   },
   {
-    "id": 4169,
+    "id": 4017,
     "question": "¿Qué mayoría corresponde al Pleno para cesar a un magistrado por dejar de atender con diligencia los deberes del cargo?",
     "answer": "Tres cuartas partes de sus miembros",
     "options": [
@@ -3572,7 +3572,7 @@
     "source_id": 3745
   },
   {
-    "id": 4170,
+    "id": 4018,
     "question": "El TC tiene doce magistrados en ejercicio. ¿Cuántos votos favorables requiere el cese por violación de la reserva propia de su función?",
     "answer": "9 votos",
     "options": [
@@ -3593,7 +3593,7 @@
     "source_id": 3746
   },
   {
-    "id": 4171,
+    "id": 4019,
     "question": "En un Pleno de doce magistrados, ¿cuántos votos favorables requiere la suspensión cautelar de otro magistrado?",
     "answer": "9 votos",
     "options": [
@@ -3614,7 +3614,7 @@
     "source_id": 3747
   },
   {
-    "id": 4172,
+    "id": 4020,
     "question": "¿Qué órgano declara el cese por expiración del mandato o acepta la renuncia de un magistrado del TC?",
     "answer": "El Presidente del TC",
     "options": [
@@ -3635,7 +3635,7 @@
     "source_id": 3748
   },
   {
-    "id": 4173,
+    "id": 4021,
     "question": "Para acordar el cese por incompatibilidad sobrevenida, ¿qué mayoría establece la LOTC?",
     "answer": "Mayoría simple del Pleno",
     "options": [
@@ -3656,7 +3656,7 @@
     "source_id": 3749
   },
   {
-    "id": 4174,
+    "id": 4022,
     "question": "¿Cuántas causas de cese enumera expresamente el artículo 23.1 de la LOTC?",
     "answer": "7",
     "options": [
@@ -3677,7 +3677,7 @@
     "source_id": 3750
   },
   {
-    "id": 4175,
+    "id": 4023,
     "question": "En un Pleno ordinario compuesto por doce magistrados, ¿cuántos deben estar presentes al menos para que pueda adoptar acuerdos?",
     "answer": "8",
     "options": [
@@ -3698,7 +3698,7 @@
     "source_id": 3751
   },
   {
-    "id": 4176,
+    "id": 4024,
     "question": "En una Sala del TC formada por seis magistrados, ¿cuántos deben estar presentes al menos para que pueda adoptar acuerdos?",
     "answer": "4",
     "options": [
@@ -3719,7 +3719,7 @@
     "source_id": 3752
   },
   {
-    "id": 4177,
+    "id": 4025,
     "question": "¿Cuántos magistrados pueden proponer al Pleno que recabe para sí otro asunto de competencia del TC?",
     "answer": "3 magistrados",
     "options": [
@@ -3740,7 +3740,7 @@
     "source_id": 3753
   },
   {
-    "id": 4178,
+    "id": 4026,
     "question": "¿cuál es el máximo de letrados del TC seleccionados por concurso-oposición?",
     "answer": "16",
     "options": [
@@ -3761,7 +3761,7 @@
     "source_id": 3754
   },
   {
-    "id": 4179,
+    "id": 4027,
     "question": "¿qué antigüedad mínima como letrado del TC se exige para ser elegido Secretario General?",
     "answer": "3 años",
     "options": [
@@ -3782,7 +3782,7 @@
     "source_id": 3755
   },
   {
-    "id": 4180,
+    "id": 4028,
     "question": "¿cuánto dura el nombramiento del Secretario General del TC?",
     "answer": "3 años",
     "options": [
@@ -3803,7 +3803,7 @@
     "source_id": 3756
   },
   {
-    "id": 4181,
+    "id": 4029,
     "question": "¿Cuál es el plazo máximo de práctica de prueba que puede señalar el TC al acordarla?",
     "answer": "30 días",
     "options": [
@@ -3824,7 +3824,7 @@
     "source_id": 3757
   },
   {
-    "id": 4182,
+    "id": 4030,
     "question": "Tras notificarse una sentencia del TC, ¿de cuánto tiempo disponen las partes para pedir aclaración?",
     "answer": "2 días",
     "options": [
@@ -3845,7 +3845,7 @@
     "source_id": 3758
   },
   {
-    "id": 4183,
+    "id": 4031,
     "question": "¿En qué plazo puede interponerse el recurso de súplica contra autos o providencias del TC cuando proceda?",
     "answer": "3 días",
     "options": [
@@ -3866,7 +3866,7 @@
     "source_id": 3759
   },
   {
-    "id": 4184,
+    "id": 4032,
     "question": "En el recurso general de súplica contra una providencia del TC, ¿qué plazo de audiencia común tienen las partes?",
     "answer": "3 días",
     "options": [
@@ -3887,7 +3887,7 @@
     "source_id": 3760
   },
   {
-    "id": 4185,
+    "id": 4033,
     "question": "Transcurrida la audiencia común del recurso general de súplica, ¿en qué plazo se resuelve?",
     "answer": "En los 2 días siguientes",
     "options": [
@@ -3908,7 +3908,7 @@
     "source_id": 3761
   },
   {
-    "id": 4186,
+    "id": 4034,
     "question": "Una sentencia del TC se publicó un lunes en el BOE. ¿Qué día adquiere valor de cosa juzgada, conforme a la regla constitucional?",
     "answer": "El martes",
     "options": [
@@ -3929,7 +3929,7 @@
     "source_id": 3762
   },
   {
-    "id": 4187,
+    "id": 4035,
     "question": "Si se unen cuarenta y nueve diputados para presentar un recurso de inconstitucionalidad, ¿alcanzan la legitimación numérica?",
     "answer": "No, se requieren al menos 50 diputados",
     "options": [
@@ -3950,7 +3950,7 @@
     "source_id": 3763
   },
   {
-    "id": 4188,
+    "id": 4036,
     "question": "Una ley ha sido publicada hace cinco meses. ¿Puede acogerse el Defensor del Pueblo al plazo excepcional de nueve meses del art. 33.2 LOTC?",
     "answer": "No; la excepción solo corresponde al Presidente del Gobierno y ejecutivos autonómicos",
     "options": [
@@ -3971,7 +3971,7 @@
     "source_id": 3764
   },
   {
-    "id": 4189,
+    "id": 4037,
     "question": "¿Qué requisito formal debe cumplirse dentro de los tres meses desde la publicación de la norma para utilizar el plazo excepcional de nueve meses?",
     "answer": "Comunicar al TC el acuerdo de inicio de negociaciones y publicarlo en los diarios oficiales correspondientes",
     "options": [
@@ -3992,7 +3992,7 @@
     "source_id": 3765
   },
   {
-    "id": 4190,
+    "id": 4038,
     "question": "¿Qué pareja de plazos distingue correctamente el recurso de inconstitucionalidad ordinario del excepcional con negociación bilateral?",
     "answer": "3 meses / 9 meses",
     "options": [
@@ -4013,7 +4013,7 @@
     "source_id": 3766
   },
   {
-    "id": 4191,
+    "id": 4039,
     "question": "¿Cuál es el plazo ordinario de sentencia del recurso de inconstitucionalidad tras las alegaciones, y cuál el máximo ampliado motivadamente?",
     "answer": "10 días / 30 días",
     "options": [
@@ -4034,7 +4034,7 @@
     "source_id": 3767
   },
   {
-    "id": 4192,
+    "id": 4040,
     "question": "Un grupo de 50 diputados interpone recurso de inconstitucionalidad contra una ley autonómica. ¿Se suspende la ley automáticamente por ese solo hecho?",
     "answer": "No; la suspensión automática del art. 161.2 corresponde a la impugnación gubernamental en sus términos",
     "options": [
@@ -4055,7 +4055,7 @@
     "source_id": 3768
   },
   {
-    "id": 4193,
+    "id": 4041,
     "question": "Finalizada la audiencia de diez días sobre la cuestión, ¿qué plazo tiene el órgano judicial para decidir mediante auto?",
     "answer": "3 días",
     "options": [
@@ -4076,7 +4076,7 @@
     "source_id": 3769
   },
   {
-    "id": 4194,
+    "id": 4042,
     "question": "Publicada la admisión de una cuestión, ¿cuántos días tienen las partes del proceso judicial para personarse ante el TC?",
     "answer": "15 días",
     "options": [
@@ -4097,7 +4097,7 @@
     "source_id": 3770
   },
   {
-    "id": 4195,
+    "id": 4043,
     "question": "Una parte se persona en una cuestión de inconstitucionalidad tras publicarse su admisión. ¿De qué plazo posterior dispone para alegaciones?",
     "answer": "Otros 15 días",
     "options": [
@@ -4118,7 +4118,7 @@
     "source_id": 3771
   },
   {
-    "id": 4196,
+    "id": 4044,
     "question": "Concluido el plazo de alegaciones en la cuestión de inconstitucionalidad, ¿qué plazo ordinario y máximo ampliado rigen para sentencia?",
     "answer": "15 días / 30 días",
     "options": [
@@ -4139,7 +4139,7 @@
     "source_id": 3772
   },
   {
-    "id": 4197,
+    "id": 4045,
     "question": "¿Qué procedimiento tiene, tras las alegaciones, plazo ordinario de 15 días para sentencia: recurso o cuestión de inconstitucionalidad?",
     "answer": "La cuestión; el recurso tiene ordinariamente 10 días",
     "options": [
@@ -4160,7 +4160,7 @@
     "source_id": 3773
   },
   {
-    "id": 4198,
+    "id": 4046,
     "question": "En una cuestión de inconstitucionalidad, ¿qué secuencia de plazos es correcta para audiencia previa del juez / resolución de planteamiento / personación en el TC?",
     "answer": "10 días / 3 días / 15 días",
     "options": [
@@ -4181,7 +4181,7 @@
     "source_id": 3774
   },
   {
-    "id": 4199,
+    "id": 4047,
     "question": "Requerida la declaración sobre constitucionalidad de un tratado aún no consentido, ¿qué plazo tienen los órganos legitimados para expresar su opinión?",
     "answer": "1 mes",
     "options": [
@@ -4202,7 +4202,7 @@
     "source_id": 3775
   },
   {
-    "id": 4200,
+    "id": 4048,
     "question": "Finalizado el mes para opiniones en el control previo de tratados, ¿cuánto tiempo dispone el TC para emitir declaración?",
     "answer": "Dentro del mes siguiente",
     "options": [
@@ -4223,7 +4223,7 @@
     "source_id": 3776
   },
   {
-    "id": 4201,
+    "id": 4049,
     "question": "¿Cuál es la secuencia ordinaria de los dos plazos en el control previo de constitucionalidad de tratados?",
     "answer": "1 mes de opiniones + 1 mes para la declaración",
     "options": [
@@ -4244,7 +4244,7 @@
     "source_id": 3777
   },
   {
-    "id": 4202,
+    "id": 4050,
     "question": "Aprobado parlamentariamente un proyecto de Estatuto de Autonomía, ¿cuántos días desde su publicación en el Boletín Oficial de las Cortes Generales hay para recurrirlo previamente?",
     "answer": "3 días",
     "options": [
@@ -4265,7 +4265,7 @@
     "source_id": 3778
   },
   {
-    "id": 4203,
+    "id": 4051,
     "question": "Interpuesto un recurso previo contra un Estatuto, ¿cuál es el plazo máximo del TC para pronunciarse?",
     "answer": "6 meses",
     "options": [
@@ -4286,7 +4286,7 @@
     "source_id": 3779
   },
   {
-    "id": 4204,
+    "id": 4052,
     "question": "¿Qué pareja distingue plazo de interposición y plazo máximo de decisión del recurso previo estatutario?",
     "answer": "3 días / 6 meses",
     "options": [
@@ -4307,7 +4307,7 @@
     "source_id": 3780
   },
   {
-    "id": 4205,
+    "id": 4053,
     "question": "Si se interpone recurso previo estatutario dentro de los tres días legales, ¿qué trámites quedan paralizados mientras decide el TC?",
     "answer": "Los ulteriores trámites de entrada en vigor, incluido eventual referéndum preceptivo",
     "options": [
@@ -4328,7 +4328,7 @@
     "source_id": 3781
   },
   {
-    "id": 4206,
+    "id": 4054,
     "question": "¿Qué tres plazos de interposición diferencian los amparos parlamentario, ejecutivo tras vía judicial y judicial directo?",
     "answer": "3 meses / 20 días / 30 días",
     "options": [
@@ -4349,7 +4349,7 @@
     "source_id": 3782
   },
   {
-    "id": 4207,
+    "id": 4055,
     "question": "Una cámara adopta un acto firme sin valor de ley que vulnera un derecho amparable. ¿Qué plazo rige?",
     "answer": "3 meses desde la firmeza conforme a normas internas",
     "options": [
@@ -4370,7 +4370,7 @@
     "source_id": 3783
   },
   {
-    "id": 4208,
+    "id": 4056,
     "question": "Una administración vulnera un derecho y, agotada la vía judicial, se notifica la última resolución. ¿Plazo de amparo?",
     "answer": "20 días",
     "options": [
@@ -4391,7 +4391,7 @@
     "source_id": 3784
   },
   {
-    "id": 4209,
+    "id": 4057,
     "question": "Una lesión del derecho fundamental deriva directamente de una resolución judicial. Tras agotar recursos, ¿cuál es el plazo de amparo?",
     "answer": "30 días",
     "options": [
@@ -4412,7 +4412,7 @@
     "source_id": 3785
   },
   {
-    "id": 4210,
+    "id": 4058,
     "question": "Si una demanda de amparo contiene defectos subsanables, ¿qué plazo concede la LOTC para subsanarlos tras advertirlos la Secretaría de Justicia?",
     "answer": "10 días",
     "options": [
@@ -4433,7 +4433,7 @@
     "source_id": 3786
   },
   {
-    "id": 4211,
+    "id": 4059,
     "question": "La Sección, compuesta por tres magistrados, registra dos votos favorables a admitir un amparo y uno contrario. ¿Quién debe resolver la admisión?",
     "answer": "La Sala correspondiente",
     "options": [
@@ -4454,7 +4454,7 @@
     "source_id": 3787
   },
   {
-    "id": 4212,
+    "id": 4060,
     "question": "En un amparo admitido, ¿qué secuencia es correcta para remisión de actuaciones / comparecencia de partes previas / vista para alegaciones?",
     "answer": "10 días / 10 días / hasta 20 días",
     "options": [
@@ -4475,7 +4475,7 @@
     "source_id": 3788
   },
   {
-    "id": 4213,
+    "id": 4061,
     "question": "¿En qué plazo puede el Gobierno formalizar directamente un conflicto positivo ante el TC contra disposición autonómica?",
     "answer": "2 meses",
     "options": [
@@ -4496,7 +4496,7 @@
     "source_id": 3789
   },
   {
-    "id": 4214,
+    "id": 4062,
     "question": "¿Es obligatorio el requerimiento previo del Gobierno en un conflicto positivo contra una comunidad autónoma?",
     "answer": "No: para el Gobierno es potestativo",
     "options": [
@@ -4517,7 +4517,7 @@
     "source_id": 3790
   },
   {
-    "id": 4215,
+    "id": 4063,
     "question": "¿Cuál es la secuencia temporal del conflicto positivo autonómico: requerimiento inicial / respuesta / interposición tras rechazo?",
     "answer": "2 meses / 1 mes / 1 mes",
     "options": [
@@ -4538,7 +4538,7 @@
     "source_id": 3791
   },
   {
-    "id": 4216,
+    "id": 4064,
     "question": "En conflicto negativo instado por particular, dictado el auto de planteamiento, ¿qué plazo de alegaciones se concede a las Administraciones implicadas?",
     "answer": "1 mes",
     "options": [
@@ -4559,7 +4559,7 @@
     "source_id": 3792
   },
   {
-    "id": 4217,
+    "id": 4065,
     "question": "Agotado el plazo de alegaciones de un conflicto negativo promovido por particular, ¿cuándo debe dictar sentencia el TC?",
     "answer": "Dentro del mes siguiente",
     "options": [
@@ -4580,7 +4580,7 @@
     "source_id": 3793
   },
   {
-    "id": 4218,
+    "id": 4066,
     "question": "En un conflicto negativo promovido por el Gobierno, ¿cuál es la duración mínima del plazo que este debe conceder a la comunidad autónoma para ejercer sus atribuciones?",
     "answer": "Al menos 1 mes",
     "options": [
@@ -4601,7 +4601,7 @@
     "source_id": 3794
   },
   {
-    "id": 4219,
+    "id": 4067,
     "question": "Transcurrido el plazo fijado en el requerimiento gubernamental sin ejercicio de competencia, ¿dentro de qué plazo puede el Gobierno plantear conflicto negativo?",
     "answer": "Dentro del mes siguiente",
     "options": [
@@ -4622,7 +4622,7 @@
     "source_id": 3795
   },
   {
-    "id": 4220,
+    "id": 4068,
     "question": "Planteado por el Gobierno el conflicto negativo, ¿qué plazo tiene la comunidad autónoma para alegar al recibir traslado del TC?",
     "answer": "1 mes",
     "options": [
@@ -4643,7 +4643,7 @@
     "source_id": 3796
   },
   {
-    "id": 4221,
+    "id": 4069,
     "question": "Concluida la fase de alegaciones del conflicto negativo promovido por el Gobierno, ¿cuánto tiempo tiene el TC para sentenciar?",
     "answer": "Dentro del mes siguiente",
     "options": [
@@ -4664,7 +4664,7 @@
     "source_id": 3797
   },
   {
-    "id": 4222,
+    "id": 4070,
     "question": "Si se comparan conflicto positivo y negativo promovido por particular, ¿qué plazos ordinarios de sentencia rigen tras las alegaciones?",
     "answer": "15 días en positivo / 1 mes en negativo",
     "options": [
@@ -4685,7 +4685,7 @@
     "source_id": 3798
   },
   {
-    "id": 4223,
+    "id": 4071,
     "question": "¿Qué plazo concede el TC al órgano constitucional requerido para formular alegaciones tras el traslado?",
     "answer": "1 mes",
     "options": [
@@ -4706,7 +4706,7 @@
     "source_id": 3799
   },
   {
-    "id": 4224,
+    "id": 4072,
     "question": "Concluido el plazo de alegaciones en conflicto entre órganos constitucionales, ¿qué plazo ordinario tiene el TC para resolver?",
     "answer": "1 mes",
     "options": [
@@ -4727,7 +4727,7 @@
     "source_id": 3800
   },
   {
-    "id": 4225,
+    "id": 4073,
     "question": "Ordena los plazos de conflicto de atribuciones entre órganos: comunicación inicial / espera de rectificación / traslado del TC / alegaciones.",
     "answer": "1 mes / 1 mes / 10 días / 1 mes",
     "options": [
@@ -4748,7 +4748,7 @@
     "source_id": 3801
   },
   {
-    "id": 4226,
+    "id": 4074,
     "question": "Admitido un conflicto de autonomía local, ¿en qué término debe el TC dar traslado a los órganos estatales y autonómicos previstos?",
     "answer": "10 días",
     "options": [
@@ -4769,7 +4769,7 @@
     "source_id": 3802
   },
   {
-    "id": 4227,
+    "id": 4075,
     "question": "¿Qué plazo tienen los órganos emplazados para personarse y formular alegaciones en conflicto de autonomía local?",
     "answer": "20 días",
     "options": [
@@ -4790,7 +4790,7 @@
     "source_id": 3803
   },
   {
-    "id": 4228,
+    "id": 4076,
     "question": "Una vez terminadas alegaciones y aclaraciones en conflicto de autonomía local, ¿qué plazo se indica para resolver?",
     "answer": "15 días",
     "options": [
@@ -4811,7 +4811,7 @@
     "source_id": 3804
   },
   {
-    "id": 4229,
+    "id": 4077,
     "question": "¿Cuál es la secuencia de plazos para dictamen / interposición / traslado / alegaciones en defensa de autonomía local?",
     "answer": "3 meses / 1 mes / 10 días / 20 días",
     "options": [
@@ -4832,7 +4832,7 @@
     "source_id": 3805
   },
   {
-    "id": 4230,
+    "id": 4078,
     "question": "Solo un municipio es destinatario de una ley que lesiona su autonomía. ¿Debe reunir el apoyo de otro sexto de la población para recurrirla?",
     "answer": "No; como destinatario único está legitimado por sí solo",
     "options": [
@@ -4853,7 +4853,7 @@
     "source_id": 3806
   },
   {
-    "id": 4231,
+    "id": 4079,
     "question": "En un ámbito hay 140 municipios. ¿Cuántos municipios se necesitan como mínimo para alcanzar un séptimo, sin perjuicio de la población exigida?",
     "answer": "20 municipios",
     "options": [
@@ -4874,7 +4874,7 @@
     "source_id": 3807
   },
   {
-    "id": 4232,
+    "id": 4080,
     "question": "En un ámbito hay 84 municipios. Un grupo de 12 promueve conflicto, pero representa solo una décima parte de población. ¿Tiene legitimación suficiente?",
     "answer": "No, aunque alcance 1/7 de municipios, no alcanza 1/6 de población",
     "options": [
@@ -4895,7 +4895,7 @@
     "source_id": 3808
   },
   {
-    "id": 4233,
+    "id": 4081,
     "question": "Una norma afecta a ocho provincias. Cuatro acuerdan promover conflicto, representando el 45 % de la población. ¿Pueden por esa regla de legitimación?",
     "answer": "No, falta alcanzar la mitad de la población",
     "options": [
@@ -4916,7 +4916,7 @@
     "source_id": 3809
   },
   {
-    "id": 4234,
+    "id": 4082,
     "question": "En una impugnación gubernamental de resolución autonómica sin fuerza de ley, ¿qué combinación plazo de impugnación / revisión de suspensión es correcta?",
     "answer": "2 meses / hasta 5 meses",
     "options": [
@@ -4937,7 +4937,7 @@
     "source_id": 3810
   },
   {
-    "id": 4235,
+    "id": 4083,
     "question": "Una pregunta exige identificar todos los legitimados del art. 162.1.a CE. ¿Qué conjunto no omite ninguna categoría?",
     "answer": "Presidente del Gobierno, Defensor del Pueblo, 50 diputados, 50 senadores y, en su caso, ejecutivos colegiados y asambleas autonómicas",
     "options": [
@@ -4958,7 +4958,7 @@
     "source_id": 3811
   },
   {
-    "id": 4236,
+    "id": 4084,
     "question": "Hay 49 diputados y 49 senadores dispuestos a recurrir una ley, sin otros legitimados. ¿Pueden sumar sus firmas para alcanzar el umbral de recurso?",
     "answer": "No: se exigen 50 diputados o 50 senadores, cada grupo por separado",
     "options": [
@@ -4979,7 +4979,7 @@
     "source_id": 3812
   },
   {
-    "id": 4237,
+    "id": 4085,
     "question": "Un funcionario propuesto para el TC conserva una actividad incompatible y deja pasar diez días desde la propuesta sin cesar. ¿Qué consecuencia señala la LOTC?",
     "answer": "Se entiende que no acepta el cargo de magistrado del TC",
     "options": [
@@ -5000,7 +5000,7 @@
     "source_id": 3824
   },
   {
-    "id": 4238,
+    "id": 4086,
     "question": "El Presidente del TC está ausente de la Sala Primera. ¿Quién ocupa su presidencia según el art. 7 LOTC?",
     "answer": "El magistrado de esa Sala con mayor antigüedad y, en caso de empate, el de mayor edad",
     "options": [
@@ -5021,7 +5021,7 @@
     "source_id": 3825
   },
   {
-    "id": 4239,
+    "id": 4087,
     "question": "En la Sala Primera, el magistrado A tiene 9 años de antigüedad en el cargo y 51 de edad; B tiene 6 años y 65 de edad. Sin el Presidente, ¿quién preside?",
     "answer": "A: la mayor antigüedad prevalece sobre la edad",
     "options": [
@@ -5042,7 +5042,7 @@
     "source_id": 3826
   },
   {
-    "id": 4240,
+    "id": 4088,
     "question": "Si el Vicepresidente no puede presidir la Sala Segunda, ¿qué criterio se aplica a su sustituto?",
     "answer": "Mayor antigüedad como magistrado y, si coincide, mayor edad",
     "options": [
@@ -5063,7 +5063,7 @@
     "source_id": 3827
   },
   {
-    "id": 4241,
+    "id": 4089,
     "question": "¿Qué distinción entre sustitución en el Pleno y en Sala Primera es correcta cuando falta el Presidente del TC?",
     "answer": "En el Pleno lo sustituye primero el Vicepresidente; en Sala Primera rige el magistrado más antiguo de la Sala",
     "options": [
@@ -5084,7 +5084,7 @@
     "source_id": 3828
   },
   {
-    "id": 4242,
+    "id": 4090,
     "question": "Una parte recibe una sentencia del TC y quiere pedir aclaración; otra pretende recurrir en súplica un auto. ¿Qué plazos tienen?",
     "answer": "Dos días desde notificación para aclaración; tres días para la súplica contra el auto",
     "options": [
@@ -5105,7 +5105,7 @@
     "source_id": 3829
   },
   {
-    "id": 4243,
+    "id": 4091,
     "question": "Si se aprecia temeridad o abuso al formular un recurso de inconstitucionalidad o amparo, ¿qué intervalo prevé la LOTC para la sanción pecuniaria?",
     "answer": "De 600 a 3.000 euros",
     "options": [
@@ -5126,7 +5126,7 @@
     "source_id": 3831
   },
   {
-    "id": 4244,
+    "id": 4092,
     "question": "El Defensor del Pueblo recurre previamente un proyecto estatutario ya aprobado por las Cortes. ¿Qué combinación es correcta?",
     "answer": "Está legitimado y el recurso debe presentarse en los tres días desde la publicación del texto en el Boletín de las Cortes",
     "options": [
@@ -5147,7 +5147,7 @@
     "source_id": 3839
   },
   {
-    "id": 4245,
+    "id": 4093,
     "question": "Una ley autonómica afecta a 42 municipios. Se reúnen 6 municipios que representan el 18 % de la población afectada. ¿Superan el mínimo de legitimación colectiva?",
     "answer": "Sí: 6 de 42 son un séptimo y el 18 % supera un sexto de la población",
     "options": [
