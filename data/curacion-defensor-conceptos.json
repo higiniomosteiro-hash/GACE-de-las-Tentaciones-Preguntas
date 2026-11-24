@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "revision": "2026-11-18-organizacion-ampliacion-curada",
+  "revision": "2026-11-24-depuracion-global-semántica-v1",
   "source": "Banco de preguntas GACE (pregunta+respuesta normalizadas); revisión jurídica original Defensor del Pueblo preservada",
-  "scope": "Todos los temas y modalidades; preservar IDs históricos y marcadores de dominio; la selección excluye coincidencias exactas, no meras preguntas sobre el mismo artículo.",
+  "scope": "Todas las materias y modalidades. Retirar duplicados literales, preguntas inversas de idéntica asociación y equivalencias revisadas; preservar diferencias materiales, fases, requisitos y supuestos. IDs originales inmutables.",
   "inactiveIds": [
     13,
     23,
@@ -19,12 +19,384 @@
     62,
     64,
     66,
+    275,
+    368,
+    370,
+    372,
+    374,
+    376,
+    378,
+    380,
+    382,
+    384,
+    386,
+    388,
+    390,
+    392,
+    394,
+    396,
+    398,
+    400,
+    402,
+    404,
+    406,
+    408,
+    410,
+    412,
+    414,
+    416,
+    418,
+    420,
+    422,
+    424,
+    426,
+    428,
+    430,
+    432,
+    434,
+    436,
+    438,
+    440,
+    442,
+    444,
+    446,
+    448,
+    450,
+    452,
+    454,
+    456,
+    458,
+    460,
+    462,
+    464,
+    466,
+    468,
+    470,
+    472,
+    474,
+    476,
+    478,
+    480,
+    484,
+    486,
+    488,
+    490,
+    492,
+    494,
+    496,
+    498,
+    500,
+    502,
+    504,
+    506,
+    508,
+    510,
+    512,
+    514,
+    516,
+    518,
+    520,
+    522,
+    524,
+    526,
+    528,
+    530,
+    532,
+    534,
+    536,
+    538,
+    540,
+    542,
+    544,
+    546,
+    548,
+    550,
+    552,
+    554,
+    556,
+    558,
+    560,
+    562,
+    564,
+    566,
+    568,
+    570,
+    572,
+    574,
+    576,
+    578,
+    580,
+    582,
+    584,
+    586,
+    588,
+    590,
+    592,
+    594,
+    596,
+    598,
+    600,
+    602,
+    604,
+    606,
+    608,
+    610,
+    612,
+    614,
+    616,
+    618,
+    620,
+    622,
+    624,
+    626,
+    628,
+    630,
+    632,
+    634,
+    636,
+    638,
+    640,
+    642,
+    644,
+    646,
+    648,
+    650,
+    652,
+    654,
+    656,
+    658,
+    660,
+    662,
+    664,
+    666,
+    668,
+    670,
+    672,
+    674,
+    676,
+    678,
+    680,
+    682,
+    684,
+    686,
+    688,
+    690,
+    692,
+    694,
+    696,
+    698,
+    700,
+    702,
+    704,
+    768,
+    810,
     848,
     903,
     992,
     993,
     994,
     998,
+    1317,
+    1319,
+    1320,
+    1380,
+    1382,
+    1545,
+    1546,
+    1607,
+    1628,
+    1630,
+    1632,
+    1634,
+    1636,
+    1638,
+    1640,
+    1642,
+    1644,
+    1646,
+    1648,
+    1650,
+    1652,
+    1654,
+    1656,
+    1658,
+    1660,
+    1662,
+    1664,
+    1666,
+    1668,
+    1670,
+    1672,
+    1674,
+    1676,
+    1678,
+    1680,
+    1682,
+    1684,
+    1686,
+    1688,
+    1690,
+    1692,
+    1694,
+    1696,
+    1698,
+    1700,
+    1702,
+    1704,
+    1706,
+    1708,
+    1710,
+    1712,
+    1714,
+    1716,
+    1718,
+    1720,
+    1722,
+    1724,
+    1726,
+    1728,
+    1730,
+    1732,
+    1734,
+    1736,
+    1738,
+    1740,
+    1742,
+    1744,
+    1746,
+    1748,
+    1750,
+    1752,
+    1754,
+    1756,
+    1758,
+    1760,
+    1762,
+    1764,
+    1765,
+    1766,
+    1767,
+    1768,
+    1769,
+    1770,
+    1772,
+    1774,
+    1776,
+    1778,
+    1780,
+    1782,
+    1784,
+    1786,
+    1788,
+    1790,
+    1792,
+    1794,
+    1796,
+    1798,
+    1800,
+    1802,
+    1804,
+    1806,
+    1808,
+    1810,
+    1812,
+    1814,
+    1816,
+    1818,
+    1820,
+    1822,
+    1824,
+    1826,
+    1828,
+    1830,
+    1832,
+    1834,
+    1836,
+    1838,
+    1840,
+    1842,
+    1844,
+    1846,
+    1848,
+    1850,
+    1852,
+    1854,
+    1856,
+    1858,
+    1860,
+    1862,
+    1864,
+    1866,
+    1868,
+    1870,
+    1872,
+    1874,
+    1876,
+    1878,
+    1880,
+    1882,
+    1884,
+    1886,
+    1888,
+    1890,
+    1892,
+    1894,
+    1896,
+    1898,
+    1900,
+    1902,
+    1904,
+    1906,
+    1908,
+    1910,
+    1912,
+    1914,
+    1916,
+    1918,
+    1920,
+    1922,
+    1924,
+    1926,
+    1928,
+    1930,
+    1932,
+    1934,
+    1936,
+    1938,
+    1940,
+    1942,
+    1944,
+    1946,
+    1948,
+    1950,
+    1952,
+    1954,
+    1956,
+    1958,
+    1960,
+    1962,
+    1964,
+    1966,
+    1968,
+    1970,
+    1972,
+    1974,
+    1976,
+    1978,
+    1980,
+    1982,
+    1984,
+    1986,
+    1988,
+    1990,
+    1992,
+    1994,
+    1996,
+    1998,
+    2197,
+    2215,
+    2222,
+    2223,
     2225,
     2226,
     2227,
@@ -78,6 +450,11 @@
     2275,
     2276,
     2282,
+    2293,
+    2299,
+    2305,
+    2312,
+    2315,
     2329,
     2331,
     2332,
@@ -202,7 +579,442 @@
     2482,
     2483,
     2484,
-    2505
+    2505,
+    2617,
+    3337,
+    3382,
+    3849,
+    3850,
+    3851,
+    3852,
+    3853,
+    3854,
+    3855,
+    3856,
+    3857,
+    3858,
+    3859,
+    3861,
+    3862,
+    3863,
+    3864,
+    3865,
+    3866,
+    3868,
+    3869,
+    3870,
+    3871,
+    3872,
+    3873,
+    3874,
+    3875,
+    3876,
+    3877,
+    3878,
+    3879,
+    3880,
+    3881,
+    3882,
+    3883,
+    3884,
+    3885,
+    3886,
+    3888,
+    3890,
+    3891,
+    3892,
+    3893,
+    3894,
+    3895,
+    3896,
+    3897,
+    3898,
+    3899,
+    3900,
+    3902,
+    3903,
+    3904,
+    3905,
+    3906,
+    3907,
+    3908,
+    3909,
+    3910,
+    3911,
+    3912,
+    3913,
+    3914,
+    3915,
+    3916,
+    3917,
+    3918,
+    3919,
+    3920,
+    3921,
+    3922,
+    3923,
+    3924,
+    3925,
+    3926,
+    3927,
+    3928,
+    3929,
+    3930,
+    3931,
+    3932,
+    3933,
+    3934,
+    3935,
+    3936,
+    3937,
+    3939,
+    3940,
+    3942,
+    3945,
+    3951,
+    3958,
+    3959,
+    3961,
+    3962,
+    3963,
+    3964,
+    3965,
+    3966,
+    3967,
+    3968,
+    3969,
+    3970,
+    3971,
+    3972,
+    3973,
+    3974,
+    3975,
+    3976,
+    3977,
+    3978,
+    3979,
+    3980,
+    3981,
+    3982,
+    3983,
+    3984,
+    3985,
+    3986,
+    3987,
+    3988,
+    3989,
+    3990,
+    3991,
+    3992,
+    3993,
+    3994,
+    3995,
+    3996,
+    3997,
+    3998,
+    3999,
+    4000,
+    4001,
+    4002,
+    4003,
+    4004,
+    4005,
+    4006,
+    4007,
+    4008,
+    4009,
+    4010,
+    4011,
+    4012,
+    4013,
+    4014,
+    4015,
+    4016,
+    4017,
+    4018,
+    4019,
+    4020,
+    4021,
+    4022,
+    4023,
+    4024,
+    4025,
+    4026,
+    4027,
+    4028,
+    4029,
+    4030,
+    4031,
+    4032,
+    4033,
+    4034,
+    4035,
+    4036,
+    4037,
+    4038,
+    4039,
+    4040,
+    4041,
+    4042,
+    4043,
+    4044,
+    4045,
+    4046,
+    4047,
+    4048,
+    4049,
+    4050,
+    4051,
+    4052,
+    4053,
+    4054,
+    4055,
+    4056,
+    4057,
+    4058,
+    4059,
+    4060,
+    4061,
+    4062,
+    4063,
+    4064,
+    4065,
+    4066,
+    4067,
+    4068,
+    4069,
+    4070,
+    4071,
+    4072,
+    4073,
+    4074,
+    4075,
+    4076,
+    4077,
+    4078,
+    4079,
+    4080,
+    4081,
+    4082,
+    4083,
+    4084,
+    4085,
+    4086,
+    4087,
+    4088,
+    4089,
+    4090,
+    4091,
+    4092,
+    4093,
+    4094,
+    4098,
+    4099,
+    4106,
+    4124,
+    4160,
+    4161,
+    4162,
+    4163,
+    4173,
+    4275,
+    4276,
+    4277,
+    4278,
+    4279,
+    4280,
+    4281,
+    4282,
+    4283,
+    4284,
+    4285,
+    4286,
+    4287,
+    4288,
+    4289,
+    4290,
+    4291,
+    4292,
+    4293,
+    4294,
+    4295,
+    4296,
+    4297,
+    4298,
+    4299,
+    4300,
+    4301,
+    4302,
+    4303,
+    4304,
+    4305,
+    4306,
+    4307,
+    4308,
+    4309,
+    4310,
+    4311,
+    4312,
+    4313,
+    4314,
+    4315,
+    4316,
+    4317,
+    4318,
+    4319,
+    4320,
+    4321,
+    4322,
+    4323,
+    4324,
+    4325,
+    4326,
+    4327,
+    4328,
+    4329,
+    4330,
+    4331,
+    4332,
+    4333,
+    4334,
+    4335,
+    4336,
+    4337,
+    4338,
+    4339,
+    4340,
+    4341,
+    4342,
+    4343,
+    4344,
+    4345,
+    4346,
+    4347,
+    4348,
+    4349,
+    4350,
+    4351,
+    4352,
+    4353,
+    4354,
+    4355,
+    4356,
+    4357,
+    4358,
+    4359,
+    4360,
+    4361,
+    4362,
+    4363,
+    4364,
+    4365,
+    4366,
+    4367,
+    4368,
+    4369,
+    4370,
+    4371,
+    4372,
+    4373,
+    4374,
+    4375,
+    4376,
+    4377,
+    4378,
+    4379,
+    4380,
+    4381,
+    4382,
+    4383,
+    4384,
+    4385,
+    4386,
+    4387,
+    4388,
+    4389,
+    4390,
+    4391,
+    4392,
+    4393,
+    4394,
+    4395,
+    4396,
+    4397,
+    4398,
+    4399,
+    4400,
+    4401,
+    4402,
+    4403,
+    4404,
+    4405,
+    4406,
+    4407,
+    4408,
+    4409,
+    4410,
+    4411,
+    4412,
+    4413,
+    4414,
+    4415,
+    4416,
+    4417,
+    4418,
+    4419,
+    4420,
+    4421,
+    4422,
+    4423,
+    4424,
+    4425,
+    4426,
+    4427,
+    4428,
+    4429,
+    4430,
+    4431,
+    4432,
+    4433,
+    4434,
+    4435,
+    4436,
+    4437,
+    4438,
+    4439,
+    4440,
+    4441,
+    4442,
+    4443,
+    4444,
+    4445,
+    4446,
+    4447,
+    4448,
+    4449,
+    4450,
+    4451,
+    4452,
+    4453,
+    4454,
+    4455,
+    4456,
+    4459,
+    4462,
+    4464,
+    4465,
+    4466,
+    4473,
+    4475,
+    4479,
+    4480,
+    4481,
+    4482,
+    4488,
+    4492,
+    4493,
+    4494,
+    4505
   ],
   "groups": [
     {
@@ -437,7 +1249,5691 @@
         2437
       ],
       "count": 150
+    },
+    {
+      "keep": 1,
+      "hide": [
+        3849
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 2,
+      "hide": [
+        3850
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3,
+      "hide": [
+        3851
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 4,
+      "hide": [
+        3852
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 5,
+      "hide": [
+        3853
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 7,
+      "hide": [
+        3854
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 8,
+      "hide": [
+        3855
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 9,
+      "hide": [
+        3856
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 10,
+      "hide": [
+        3857
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 11,
+      "hide": [
+        3858
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 12,
+      "hide": [
+        3859
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 14,
+      "hide": [
+        3861
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 15,
+      "hide": [
+        3862
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 17,
+      "hide": [
+        3863
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 18,
+      "hide": [
+        3864
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 19,
+      "hide": [
+        3865
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 21,
+      "hide": [
+        3866
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 22,
+      "hide": [
+        3993
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 25,
+      "hide": [
+        3868
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 27,
+      "hide": [
+        3869
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 29,
+      "hide": [
+        3870
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 30,
+      "hide": [
+        3871
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 31,
+      "hide": [
+        3872
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 32,
+      "hide": [
+        3873
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 33,
+      "hide": [
+        3874
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 34,
+      "hide": [
+        3875
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 35,
+      "hide": [
+        3876
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 36,
+      "hide": [
+        3877
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 37,
+      "hide": [
+        3878
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 38,
+      "hide": [
+        3879
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 39,
+      "hide": [
+        3880
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 40,
+      "hide": [
+        3881
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 41,
+      "hide": [
+        3882
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 42,
+      "hide": [
+        3883
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 43,
+      "hide": [
+        3884
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 44,
+      "hide": [
+        3885
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 45,
+      "hide": [
+        3886
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 47,
+      "hide": [
+        3888
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 825,
+      "hide": [
+        3890
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 826,
+      "hide": [
+        3891
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 828,
+      "hide": [
+        3892
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 829,
+      "hide": [
+        3893
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 830,
+      "hide": [
+        3994
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 831,
+      "hide": [
+        3894
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 832,
+      "hide": [
+        3895
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 838,
+      "hide": [
+        3896
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 839,
+      "hide": [
+        3897
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 840,
+      "hide": [
+        3898
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 846,
+      "hide": [
+        3899
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 847,
+      "hide": [
+        3900
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 883,
+      "hide": [
+        3992
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 891,
+      "hide": [
+        3902
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 892,
+      "hide": [
+        3903
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 893,
+      "hide": [
+        3904
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 894,
+      "hide": [
+        3905
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 895,
+      "hide": [
+        3906
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 898,
+      "hide": [
+        3907
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 900,
+      "hide": [
+        3908
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 906,
+      "hide": [
+        3909
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 907,
+      "hide": [
+        3910
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 908,
+      "hide": [
+        3911
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 909,
+      "hide": [
+        3912
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 915,
+      "hide": [
+        3913
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 916,
+      "hide": [
+        3914
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 927,
+      "hide": [
+        3915
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 929,
+      "hide": [
+        3916
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 931,
+      "hide": [
+        3917
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 932,
+      "hide": [
+        3918
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 933,
+      "hide": [
+        3919
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 935,
+      "hide": [
+        3920
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 936,
+      "hide": [
+        3921
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 937,
+      "hide": [
+        3922
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 944,
+      "hide": [
+        3923
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 948,
+      "hide": [
+        3924
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 949,
+      "hide": [
+        3925
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 950,
+      "hide": [
+        3926
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 961,
+      "hide": [
+        3927
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 962,
+      "hide": [
+        3928
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 963,
+      "hide": [
+        3929
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 965,
+      "hide": [
+        3930
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 966,
+      "hide": [
+        3931
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 976,
+      "hide": [
+        3932
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 980,
+      "hide": [
+        3933
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 983,
+      "hide": [
+        3934
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 984,
+      "hide": [
+        3935
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 985,
+      "hide": [
+        3936
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 986,
+      "hide": [
+        3937
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 996,
+      "hide": [
+        3939
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 997,
+      "hide": [
+        3940
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 999,
+      "hide": [
+        3942
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 2440,
+      "hide": [
+        3945
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 2448,
+      "hide": [
+        3951
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 2504,
+      "hide": [
+        3959
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 2627,
+      "hide": [
+        3961
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 2628,
+      "hide": [
+        3962
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 2629,
+      "hide": [
+        3963
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 2630,
+      "hide": [
+        3964
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 2632,
+      "hide": [
+        3965
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3102,
+      "hide": [
+        3966
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3104,
+      "hide": [
+        3967
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3105,
+      "hide": [
+        3968
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3106,
+      "hide": [
+        3969
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3108,
+      "hide": [
+        3970
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3110,
+      "hide": [
+        3971
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3111,
+      "hide": [
+        3972
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3113,
+      "hide": [
+        3973
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3115,
+      "hide": [
+        3974
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3116,
+      "hide": [
+        3991
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3118,
+      "hide": [
+        3975
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3125,
+      "hide": [
+        3976
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3128,
+      "hide": [
+        3977
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3135,
+      "hide": [
+        3978
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3136,
+      "hide": [
+        3979
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3137,
+      "hide": [
+        3980
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3138,
+      "hide": [
+        3981
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3149,
+      "hide": [
+        3982
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3151,
+      "hide": [
+        3983
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3153,
+      "hide": [
+        3984
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3154,
+      "hide": [
+        3985
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3159,
+      "hide": [
+        3986
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3166,
+      "hide": [
+        3987
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3184,
+      "hide": [
+        3988
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3195,
+      "hide": [
+        3989
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3200,
+      "hide": [
+        3990
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3723,
+      "hide": [
+        3995
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3724,
+      "hide": [
+        3996
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3725,
+      "hide": [
+        3997
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3726,
+      "hide": [
+        3998
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3727,
+      "hide": [
+        3999
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3728,
+      "hide": [
+        4000
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3729,
+      "hide": [
+        4001
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3730,
+      "hide": [
+        4002
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3731,
+      "hide": [
+        4003
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3732,
+      "hide": [
+        4004
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3733,
+      "hide": [
+        4005
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3734,
+      "hide": [
+        4006
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3735,
+      "hide": [
+        4007
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3736,
+      "hide": [
+        4008
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3737,
+      "hide": [
+        4009
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3738,
+      "hide": [
+        4010
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3739,
+      "hide": [
+        4011
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3740,
+      "hide": [
+        4012
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3741,
+      "hide": [
+        4013
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3742,
+      "hide": [
+        4014
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3743,
+      "hide": [
+        4015
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3744,
+      "hide": [
+        4016
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3745,
+      "hide": [
+        4017
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3746,
+      "hide": [
+        4018
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3747,
+      "hide": [
+        4019
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3748,
+      "hide": [
+        4020
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3749,
+      "hide": [
+        4021
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3750,
+      "hide": [
+        4022
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3751,
+      "hide": [
+        4023
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3752,
+      "hide": [
+        4024
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3753,
+      "hide": [
+        4025
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3754,
+      "hide": [
+        4026
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3755,
+      "hide": [
+        4027
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3756,
+      "hide": [
+        4028
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3757,
+      "hide": [
+        4029
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3758,
+      "hide": [
+        4030
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3759,
+      "hide": [
+        4031
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3760,
+      "hide": [
+        4032
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3761,
+      "hide": [
+        4033
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3762,
+      "hide": [
+        4034
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3763,
+      "hide": [
+        4035
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3764,
+      "hide": [
+        4036
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3765,
+      "hide": [
+        4037
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3766,
+      "hide": [
+        4038
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3767,
+      "hide": [
+        4039
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3768,
+      "hide": [
+        4040
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3769,
+      "hide": [
+        4041
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3770,
+      "hide": [
+        4042
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3771,
+      "hide": [
+        4043
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3772,
+      "hide": [
+        4044
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3773,
+      "hide": [
+        4045
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3774,
+      "hide": [
+        4046
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3775,
+      "hide": [
+        4047
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3776,
+      "hide": [
+        4048
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3777,
+      "hide": [
+        4049
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3778,
+      "hide": [
+        4050
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3779,
+      "hide": [
+        4051
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3780,
+      "hide": [
+        4052
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3781,
+      "hide": [
+        4053
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3782,
+      "hide": [
+        4054
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3783,
+      "hide": [
+        4055
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3784,
+      "hide": [
+        4056
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3785,
+      "hide": [
+        4057
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3786,
+      "hide": [
+        4058
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3787,
+      "hide": [
+        4059
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3788,
+      "hide": [
+        4060
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3789,
+      "hide": [
+        4061
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3790,
+      "hide": [
+        4062
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3791,
+      "hide": [
+        4063
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3792,
+      "hide": [
+        4064
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3793,
+      "hide": [
+        4065
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3794,
+      "hide": [
+        4066
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3795,
+      "hide": [
+        4067
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3796,
+      "hide": [
+        4068
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3797,
+      "hide": [
+        4069
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3798,
+      "hide": [
+        4070
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3799,
+      "hide": [
+        4071
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3800,
+      "hide": [
+        4072
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3801,
+      "hide": [
+        4073
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3802,
+      "hide": [
+        4074
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3803,
+      "hide": [
+        4075
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3804,
+      "hide": [
+        4076
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3805,
+      "hide": [
+        4077
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3806,
+      "hide": [
+        4078
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3807,
+      "hide": [
+        4079
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3808,
+      "hide": [
+        4080
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3809,
+      "hide": [
+        4081
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3810,
+      "hide": [
+        4082
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3811,
+      "hide": [
+        4083
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3812,
+      "hide": [
+        4084
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3824,
+      "hide": [
+        4085
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3825,
+      "hide": [
+        4086
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3826,
+      "hide": [
+        4087
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3827,
+      "hide": [
+        4088
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3828,
+      "hide": [
+        4089
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3829,
+      "hide": [
+        4090
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3831,
+      "hide": [
+        4091
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3839,
+      "hide": [
+        4092
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 3844,
+      "hide": [
+        4093
+      ],
+      "concepto": "Duplicado literal normalizado"
+    },
+    {
+      "keep": 367,
+      "hide": [
+        368
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 369,
+      "hide": [
+        370
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 371,
+      "hide": [
+        372
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 373,
+      "hide": [
+        374
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 375,
+      "hide": [
+        376
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 377,
+      "hide": [
+        378
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 379,
+      "hide": [
+        380
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 381,
+      "hide": [
+        382
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 383,
+      "hide": [
+        384
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 385,
+      "hide": [
+        386
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 387,
+      "hide": [
+        388
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 389,
+      "hide": [
+        390
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 391,
+      "hide": [
+        392
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 393,
+      "hide": [
+        394
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 395,
+      "hide": [
+        396
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 397,
+      "hide": [
+        398
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 399,
+      "hide": [
+        400
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 401,
+      "hide": [
+        402
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 403,
+      "hide": [
+        404
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 405,
+      "hide": [
+        406
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 407,
+      "hide": [
+        408
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 409,
+      "hide": [
+        410
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 411,
+      "hide": [
+        412
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 413,
+      "hide": [
+        414
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 415,
+      "hide": [
+        416
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 417,
+      "hide": [
+        418
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 419,
+      "hide": [
+        420
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 421,
+      "hide": [
+        422
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 423,
+      "hide": [
+        424
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 425,
+      "hide": [
+        426
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 427,
+      "hide": [
+        428
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 429,
+      "hide": [
+        430
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 431,
+      "hide": [
+        432
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 433,
+      "hide": [
+        434
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 435,
+      "hide": [
+        436
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 437,
+      "hide": [
+        438
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 439,
+      "hide": [
+        440
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 441,
+      "hide": [
+        442
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 443,
+      "hide": [
+        444
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 445,
+      "hide": [
+        446
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 447,
+      "hide": [
+        448
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 449,
+      "hide": [
+        450
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 451,
+      "hide": [
+        452
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 453,
+      "hide": [
+        454
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 455,
+      "hide": [
+        456
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 457,
+      "hide": [
+        458
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 459,
+      "hide": [
+        460
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 461,
+      "hide": [
+        462
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 463,
+      "hide": [
+        464
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 465,
+      "hide": [
+        466
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 467,
+      "hide": [
+        468
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 469,
+      "hide": [
+        470
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 471,
+      "hide": [
+        472
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 473,
+      "hide": [
+        474
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 475,
+      "hide": [
+        476
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 477,
+      "hide": [
+        478
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 479,
+      "hide": [
+        480
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 483,
+      "hide": [
+        484
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 485,
+      "hide": [
+        486
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 487,
+      "hide": [
+        488
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 489,
+      "hide": [
+        490
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 491,
+      "hide": [
+        492
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 493,
+      "hide": [
+        494
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 495,
+      "hide": [
+        496
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 497,
+      "hide": [
+        498
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 499,
+      "hide": [
+        500
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 501,
+      "hide": [
+        502
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 503,
+      "hide": [
+        504
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 505,
+      "hide": [
+        506
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 507,
+      "hide": [
+        508
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 509,
+      "hide": [
+        510
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 511,
+      "hide": [
+        512
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 513,
+      "hide": [
+        514
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 515,
+      "hide": [
+        516
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 517,
+      "hide": [
+        518
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 519,
+      "hide": [
+        520
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 521,
+      "hide": [
+        522
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 523,
+      "hide": [
+        524
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 525,
+      "hide": [
+        526
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 527,
+      "hide": [
+        528
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 529,
+      "hide": [
+        530
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 531,
+      "hide": [
+        532
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 533,
+      "hide": [
+        534
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 535,
+      "hide": [
+        536
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 537,
+      "hide": [
+        538
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 539,
+      "hide": [
+        540
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 541,
+      "hide": [
+        542
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 543,
+      "hide": [
+        544
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 545,
+      "hide": [
+        546
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 547,
+      "hide": [
+        548
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 549,
+      "hide": [
+        550
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 551,
+      "hide": [
+        552
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 553,
+      "hide": [
+        554
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 555,
+      "hide": [
+        556
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 557,
+      "hide": [
+        558
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 559,
+      "hide": [
+        560
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 561,
+      "hide": [
+        562
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 563,
+      "hide": [
+        564
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 565,
+      "hide": [
+        566
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 567,
+      "hide": [
+        568
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 569,
+      "hide": [
+        570
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 571,
+      "hide": [
+        572
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 573,
+      "hide": [
+        574
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 575,
+      "hide": [
+        576
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 577,
+      "hide": [
+        578
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 579,
+      "hide": [
+        580
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 581,
+      "hide": [
+        582
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 583,
+      "hide": [
+        584
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 585,
+      "hide": [
+        586
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 587,
+      "hide": [
+        588
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 589,
+      "hide": [
+        590
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 591,
+      "hide": [
+        592
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 593,
+      "hide": [
+        594
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 595,
+      "hide": [
+        596
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 597,
+      "hide": [
+        598
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 599,
+      "hide": [
+        600
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 601,
+      "hide": [
+        602
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 603,
+      "hide": [
+        604
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 605,
+      "hide": [
+        606
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 607,
+      "hide": [
+        608
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 609,
+      "hide": [
+        610
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 611,
+      "hide": [
+        612
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 613,
+      "hide": [
+        614
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 615,
+      "hide": [
+        616
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 617,
+      "hide": [
+        618
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 619,
+      "hide": [
+        620
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 621,
+      "hide": [
+        622
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 623,
+      "hide": [
+        624
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 625,
+      "hide": [
+        626
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 627,
+      "hide": [
+        628
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 629,
+      "hide": [
+        630
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 631,
+      "hide": [
+        632
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 633,
+      "hide": [
+        634
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 635,
+      "hide": [
+        636
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 637,
+      "hide": [
+        638
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 639,
+      "hide": [
+        640
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 641,
+      "hide": [
+        642
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 643,
+      "hide": [
+        644
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 645,
+      "hide": [
+        646
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 647,
+      "hide": [
+        648
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 649,
+      "hide": [
+        650
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 651,
+      "hide": [
+        652
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 653,
+      "hide": [
+        654
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 655,
+      "hide": [
+        656
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 657,
+      "hide": [
+        658
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 659,
+      "hide": [
+        660
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 661,
+      "hide": [
+        662
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 663,
+      "hide": [
+        664
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 665,
+      "hide": [
+        666
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 667,
+      "hide": [
+        668
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 669,
+      "hide": [
+        670
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 671,
+      "hide": [
+        672
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 673,
+      "hide": [
+        674
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 675,
+      "hide": [
+        676
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 677,
+      "hide": [
+        678
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 679,
+      "hide": [
+        680
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 681,
+      "hide": [
+        682
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 683,
+      "hide": [
+        684
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 685,
+      "hide": [
+        686
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 687,
+      "hide": [
+        688
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 689,
+      "hide": [
+        690
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 691,
+      "hide": [
+        692
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 693,
+      "hide": [
+        694
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 695,
+      "hide": [
+        696
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 697,
+      "hide": [
+        698
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 699,
+      "hide": [
+        700
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 701,
+      "hide": [
+        702
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 703,
+      "hide": [
+        704
+      ],
+      "concepto": "Artículo CE: pregunta inversa del mismo contenido"
+    },
+    {
+      "keep": 1627,
+      "hide": [
+        1628
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1629,
+      "hide": [
+        1630
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1631,
+      "hide": [
+        1632
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1633,
+      "hide": [
+        1634
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1635,
+      "hide": [
+        1636
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1637,
+      "hide": [
+        1638
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1639,
+      "hide": [
+        1640
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1641,
+      "hide": [
+        1642
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1643,
+      "hide": [
+        1644
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1645,
+      "hide": [
+        1646
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1647,
+      "hide": [
+        1648
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1649,
+      "hide": [
+        1650
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1651,
+      "hide": [
+        1652
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1653,
+      "hide": [
+        1654
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1655,
+      "hide": [
+        1656
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1657,
+      "hide": [
+        1658
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1659,
+      "hide": [
+        1660
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1661,
+      "hide": [
+        1662
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1663,
+      "hide": [
+        1664
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1665,
+      "hide": [
+        1666
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1667,
+      "hide": [
+        1668
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1669,
+      "hide": [
+        1670
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1671,
+      "hide": [
+        1672
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1673,
+      "hide": [
+        1674
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1675,
+      "hide": [
+        1676
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1677,
+      "hide": [
+        1678
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1679,
+      "hide": [
+        1680
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1681,
+      "hide": [
+        1682
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1683,
+      "hide": [
+        1684
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1685,
+      "hide": [
+        1686
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1687,
+      "hide": [
+        1688
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1689,
+      "hide": [
+        1690
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1691,
+      "hide": [
+        1692
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1693,
+      "hide": [
+        1694
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1695,
+      "hide": [
+        1696
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1697,
+      "hide": [
+        1698
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1699,
+      "hide": [
+        1700
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1701,
+      "hide": [
+        1702
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1703,
+      "hide": [
+        1704
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1705,
+      "hide": [
+        1706
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1707,
+      "hide": [
+        1708
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1709,
+      "hide": [
+        1710
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1711,
+      "hide": [
+        1712
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1713,
+      "hide": [
+        1714
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1715,
+      "hide": [
+        1716
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1717,
+      "hide": [
+        1718
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1719,
+      "hide": [
+        1720
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1721,
+      "hide": [
+        1722
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1723,
+      "hide": [
+        1724
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1725,
+      "hide": [
+        1726
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1727,
+      "hide": [
+        1728
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1729,
+      "hide": [
+        1730
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1731,
+      "hide": [
+        1732
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1733,
+      "hide": [
+        1734
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1735,
+      "hide": [
+        1736
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1737,
+      "hide": [
+        1738
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1739,
+      "hide": [
+        1740
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1741,
+      "hide": [
+        1742
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1743,
+      "hide": [
+        1744
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1745,
+      "hide": [
+        1746
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1747,
+      "hide": [
+        1748
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1749,
+      "hide": [
+        1750
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1751,
+      "hide": [
+        1752
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1753,
+      "hide": [
+        1754
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1755,
+      "hide": [
+        1756
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1757,
+      "hide": [
+        1758
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1759,
+      "hide": [
+        1760
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1761,
+      "hide": [
+        1762
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1763,
+      "hide": [
+        1764
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 547,
+      "hide": [
+        1766
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 633,
+      "hide": [
+        1768
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 635,
+      "hide": [
+        1770
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1771,
+      "hide": [
+        1772
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1773,
+      "hide": [
+        1774
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1775,
+      "hide": [
+        1776
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1777,
+      "hide": [
+        1778
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1779,
+      "hide": [
+        1780
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1781,
+      "hide": [
+        1782
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1783,
+      "hide": [
+        1784
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1785,
+      "hide": [
+        1786
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1787,
+      "hide": [
+        1788
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1789,
+      "hide": [
+        1790
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1791,
+      "hide": [
+        1792
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1793,
+      "hide": [
+        1794
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1795,
+      "hide": [
+        1796
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1797,
+      "hide": [
+        1798
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1799,
+      "hide": [
+        1800
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1801,
+      "hide": [
+        1802
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1803,
+      "hide": [
+        1804
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1805,
+      "hide": [
+        1806
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1807,
+      "hide": [
+        1808
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1809,
+      "hide": [
+        1810
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1811,
+      "hide": [
+        1812
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1813,
+      "hide": [
+        1814
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1815,
+      "hide": [
+        1816
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1817,
+      "hide": [
+        1818
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1819,
+      "hide": [
+        1820
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1821,
+      "hide": [
+        1822
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1823,
+      "hide": [
+        1824
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1825,
+      "hide": [
+        1826
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1827,
+      "hide": [
+        1828
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1829,
+      "hide": [
+        1830
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1831,
+      "hide": [
+        1832
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1833,
+      "hide": [
+        1834
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1835,
+      "hide": [
+        1836
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1837,
+      "hide": [
+        1838
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1839,
+      "hide": [
+        1840
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1841,
+      "hide": [
+        1842
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1843,
+      "hide": [
+        1844
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1845,
+      "hide": [
+        1846
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1847,
+      "hide": [
+        1848
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1849,
+      "hide": [
+        1850
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1851,
+      "hide": [
+        1852
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1853,
+      "hide": [
+        1854
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1855,
+      "hide": [
+        1856
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1857,
+      "hide": [
+        1858
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1859,
+      "hide": [
+        1860
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1861,
+      "hide": [
+        1862
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1863,
+      "hide": [
+        1864
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1865,
+      "hide": [
+        1866
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1867,
+      "hide": [
+        1868
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1869,
+      "hide": [
+        1870
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1871,
+      "hide": [
+        1872
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1873,
+      "hide": [
+        1874
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1875,
+      "hide": [
+        1876
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1877,
+      "hide": [
+        1878
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1879,
+      "hide": [
+        1880
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1881,
+      "hide": [
+        1882
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1883,
+      "hide": [
+        1884
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1885,
+      "hide": [
+        1886
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1887,
+      "hide": [
+        1888
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1889,
+      "hide": [
+        1890
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1891,
+      "hide": [
+        1892
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1893,
+      "hide": [
+        1894
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1895,
+      "hide": [
+        1896
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1897,
+      "hide": [
+        1898
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1899,
+      "hide": [
+        1900
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1901,
+      "hide": [
+        1902
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1903,
+      "hide": [
+        1904
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1905,
+      "hide": [
+        1906
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1907,
+      "hide": [
+        1908
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1909,
+      "hide": [
+        1910
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1911,
+      "hide": [
+        1912
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1913,
+      "hide": [
+        1914
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1915,
+      "hide": [
+        1916
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1917,
+      "hide": [
+        1918
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1919,
+      "hide": [
+        1920
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1921,
+      "hide": [
+        1922
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1923,
+      "hide": [
+        1924
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1925,
+      "hide": [
+        1926
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1927,
+      "hide": [
+        1928
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1929,
+      "hide": [
+        1930
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1931,
+      "hide": [
+        1932
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1933,
+      "hide": [
+        1934
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1935,
+      "hide": [
+        1936
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1937,
+      "hide": [
+        1938
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1939,
+      "hide": [
+        1940
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1941,
+      "hide": [
+        1942
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1943,
+      "hide": [
+        1944
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1945,
+      "hide": [
+        1946
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1947,
+      "hide": [
+        1948
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1949,
+      "hide": [
+        1950
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1951,
+      "hide": [
+        1952
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1953,
+      "hide": [
+        1954
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1955,
+      "hide": [
+        1956
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1957,
+      "hide": [
+        1958
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1959,
+      "hide": [
+        1960
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1961,
+      "hide": [
+        1962
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1963,
+      "hide": [
+        1964
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1965,
+      "hide": [
+        1966
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1967,
+      "hide": [
+        1968
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1969,
+      "hide": [
+        1970
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1971,
+      "hide": [
+        1972
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1973,
+      "hide": [
+        1974
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1975,
+      "hide": [
+        1976
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1977,
+      "hide": [
+        1978
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1979,
+      "hide": [
+        1980
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1981,
+      "hide": [
+        1982
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1983,
+      "hide": [
+        1984
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1985,
+      "hide": [
+        1986
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1987,
+      "hide": [
+        1988
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1989,
+      "hide": [
+        1990
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1991,
+      "hide": [
+        1992
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1993,
+      "hide": [
+        1994
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1995,
+      "hide": [
+        1996
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 1997,
+      "hide": [
+        1998
+      ],
+      "concepto": "Gestión financiera: asociación directa e inversa"
+    },
+    {
+      "keep": 3201,
+      "hide": [
+        4275
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4095,
+      "hide": [
+        4276
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4096,
+      "hide": [
+        4277
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4097,
+      "hide": [
+        4278
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 3231,
+      "hide": [
+        4279
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 3235,
+      "hide": [
+        4280
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4100,
+      "hide": [
+        4281
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4101,
+      "hide": [
+        4282
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4102,
+      "hide": [
+        4283
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4103,
+      "hide": [
+        4284
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4104,
+      "hide": [
+        4285
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4105,
+      "hide": [
+        4286
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 1037,
+      "hide": [
+        4287
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4107,
+      "hide": [
+        4288
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4108,
+      "hide": [
+        4289
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4109,
+      "hide": [
+        4290
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4110,
+      "hide": [
+        4291
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4111,
+      "hide": [
+        4292
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4112,
+      "hide": [
+        4293
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4113,
+      "hide": [
+        4294
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4114,
+      "hide": [
+        4295
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4115,
+      "hide": [
+        4296
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4116,
+      "hide": [
+        4297
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4117,
+      "hide": [
+        4298
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4118,
+      "hide": [
+        4299
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4119,
+      "hide": [
+        4300
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4120,
+      "hide": [
+        4301
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4121,
+      "hide": [
+        4302
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4122,
+      "hide": [
+        4303
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4123,
+      "hide": [
+        4304
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 1139,
+      "hide": [
+        4305
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4125,
+      "hide": [
+        4306
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4126,
+      "hide": [
+        4307
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4127,
+      "hide": [
+        4308
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4128,
+      "hide": [
+        4309
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4129,
+      "hide": [
+        4310
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4130,
+      "hide": [
+        4311
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4131,
+      "hide": [
+        4312
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4132,
+      "hide": [
+        4313
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4133,
+      "hide": [
+        4314
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4134,
+      "hide": [
+        4315
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4135,
+      "hide": [
+        4316
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4136,
+      "hide": [
+        4317
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4137,
+      "hide": [
+        4318
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4138,
+      "hide": [
+        4319
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4139,
+      "hide": [
+        4320
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4140,
+      "hide": [
+        4321
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4141,
+      "hide": [
+        4322
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4142,
+      "hide": [
+        4323
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4143,
+      "hide": [
+        4324
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4144,
+      "hide": [
+        4325
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4145,
+      "hide": [
+        4326
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4146,
+      "hide": [
+        4327
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4147,
+      "hide": [
+        4328
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4148,
+      "hide": [
+        4329
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4149,
+      "hide": [
+        4330
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4150,
+      "hide": [
+        4331
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4151,
+      "hide": [
+        4332
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4152,
+      "hide": [
+        4333
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4153,
+      "hide": [
+        4334
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4154,
+      "hide": [
+        4335
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4155,
+      "hide": [
+        4336
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4156,
+      "hide": [
+        4337
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4157,
+      "hide": [
+        4338
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4158,
+      "hide": [
+        4339
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4159,
+      "hide": [
+        4340
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 1281,
+      "hide": [
+        4341
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 1277,
+      "hide": [
+        4342
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 1283,
+      "hide": [
+        4343
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 1279,
+      "hide": [
+        4344
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4164,
+      "hide": [
+        4345
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4165,
+      "hide": [
+        4346
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4166,
+      "hide": [
+        4347
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4167,
+      "hide": [
+        4348
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4168,
+      "hide": [
+        4349
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4169,
+      "hide": [
+        4350
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4170,
+      "hide": [
+        4351
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4171,
+      "hide": [
+        4352
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4172,
+      "hide": [
+        4353
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 1141,
+      "hide": [
+        4354
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4174,
+      "hide": [
+        4355
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4175,
+      "hide": [
+        4356
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4176,
+      "hide": [
+        4357
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4177,
+      "hide": [
+        4358
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4178,
+      "hide": [
+        4359
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4179,
+      "hide": [
+        4360
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4180,
+      "hide": [
+        4361
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4181,
+      "hide": [
+        4362
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4182,
+      "hide": [
+        4363
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4183,
+      "hide": [
+        4364
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4184,
+      "hide": [
+        4365
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4185,
+      "hide": [
+        4366
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4186,
+      "hide": [
+        4367
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4187,
+      "hide": [
+        4368
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4188,
+      "hide": [
+        4369
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4189,
+      "hide": [
+        4370
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4190,
+      "hide": [
+        4371
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4191,
+      "hide": [
+        4372
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4192,
+      "hide": [
+        4373
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4193,
+      "hide": [
+        4374
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4194,
+      "hide": [
+        4375
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4195,
+      "hide": [
+        4376
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4196,
+      "hide": [
+        4377
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4197,
+      "hide": [
+        4378
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4198,
+      "hide": [
+        4379
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4199,
+      "hide": [
+        4380
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4200,
+      "hide": [
+        4381
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4201,
+      "hide": [
+        4382
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4202,
+      "hide": [
+        4383
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4203,
+      "hide": [
+        4384
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4204,
+      "hide": [
+        4385
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4205,
+      "hide": [
+        4386
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4206,
+      "hide": [
+        4387
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4207,
+      "hide": [
+        4388
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4208,
+      "hide": [
+        4389
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4209,
+      "hide": [
+        4390
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4210,
+      "hide": [
+        4391
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4211,
+      "hide": [
+        4392
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4212,
+      "hide": [
+        4393
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4213,
+      "hide": [
+        4394
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4214,
+      "hide": [
+        4395
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4215,
+      "hide": [
+        4396
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4216,
+      "hide": [
+        4397
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4217,
+      "hide": [
+        4398
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4218,
+      "hide": [
+        4399
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4219,
+      "hide": [
+        4400
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4220,
+      "hide": [
+        4401
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4221,
+      "hide": [
+        4402
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4222,
+      "hide": [
+        4403
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4223,
+      "hide": [
+        4404
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4224,
+      "hide": [
+        4405
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4225,
+      "hide": [
+        4406
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4226,
+      "hide": [
+        4407
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4227,
+      "hide": [
+        4408
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4228,
+      "hide": [
+        4409
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4229,
+      "hide": [
+        4410
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4230,
+      "hide": [
+        4411
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4231,
+      "hide": [
+        4412
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4232,
+      "hide": [
+        4413
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4233,
+      "hide": [
+        4414
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4234,
+      "hide": [
+        4415
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4235,
+      "hide": [
+        4416
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4236,
+      "hide": [
+        4417
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4237,
+      "hide": [
+        4418
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4238,
+      "hide": [
+        4419
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4239,
+      "hide": [
+        4420
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4240,
+      "hide": [
+        4421
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4241,
+      "hide": [
+        4422
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4242,
+      "hide": [
+        4423
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4243,
+      "hide": [
+        4424
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4244,
+      "hide": [
+        4425
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4245,
+      "hide": [
+        4426
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4246,
+      "hide": [
+        4427
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4247,
+      "hide": [
+        4428
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4248,
+      "hide": [
+        4429
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4249,
+      "hide": [
+        4430
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4250,
+      "hide": [
+        4431
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4251,
+      "hide": [
+        4432
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4252,
+      "hide": [
+        4433
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4253,
+      "hide": [
+        4434
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4254,
+      "hide": [
+        4435
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4255,
+      "hide": [
+        4436
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4256,
+      "hide": [
+        4437
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4257,
+      "hide": [
+        4438
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4258,
+      "hide": [
+        4439
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4259,
+      "hide": [
+        4440
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4260,
+      "hide": [
+        4441
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4261,
+      "hide": [
+        4442
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4262,
+      "hide": [
+        4443
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4263,
+      "hide": [
+        4444
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4264,
+      "hide": [
+        4445
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4265,
+      "hide": [
+        4446
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4266,
+      "hide": [
+        4447
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4267,
+      "hide": [
+        4448
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4268,
+      "hide": [
+        4449
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4269,
+      "hide": [
+        4450
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4270,
+      "hide": [
+        4451
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4271,
+      "hide": [
+        4452
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4272,
+      "hide": [
+        4453
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4273,
+      "hide": [
+        4454
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 4274,
+      "hide": [
+        4505
+      ],
+      "concepto": "Identifica el artículo: copia global de la misma asociación"
+    },
+    {
+      "keep": 6,
+      "hide": [
+        810
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 547,
+      "hide": [
+        1765
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 748,
+      "hide": [
+        2215
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 635,
+      "hide": [
+        1769
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 809,
+      "hide": [
+        2197
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 1318,
+      "hide": [
+        1320
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 1316,
+      "hide": [
+        1317
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 421,
+      "hide": [
+        2299
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 453,
+      "hide": [
+        2315
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 2083,
+      "hide": [
+        2617
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 633,
+      "hide": [
+        1767
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 1315,
+      "hide": [
+        1319
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 114,
+      "hide": [
+        768
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 409,
+      "hide": [
+        2293
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 433,
+      "hide": [
+        2305
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 791,
+      "hide": [
+        2222
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 812,
+      "hide": [
+        2223
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 1495,
+      "hide": [
+        1607
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 3381,
+      "hide": [
+        3382
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 447,
+      "hide": [
+        2312
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 1099,
+      "hide": [
+        3337
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 1543,
+      "hide": [
+        1545
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 1544,
+      "hide": [
+        1546
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 274,
+      "hide": [
+        275
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 1377,
+      "hide": [
+        1380
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 1377,
+      "hide": [
+        1382
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 10,
+      "hide": [
+        3958
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 3201,
+      "hide": [
+        4094
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 3231,
+      "hide": [
+        4098
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 3235,
+      "hide": [
+        4099
+      ],
+      "concepto": "Equivalencia de concepto revisada individualmente"
+    },
+    {
+      "keep": 367,
+      "hide": [
+        4455
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 369,
+      "hide": [
+        4456
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 395,
+      "hide": [
+        4459
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 401,
+      "hide": [
+        4462
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 411,
+      "hide": [
+        4464
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 413,
+      "hide": [
+        4465
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 471,
+      "hide": [
+        4466
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 539,
+      "hide": [
+        4473
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 549,
+      "hide": [
+        4475
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 579,
+      "hide": [
+        4479
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 597,
+      "hide": [
+        4480
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 599,
+      "hide": [
+        4481
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 633,
+      "hide": [
+        4482
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 687,
+      "hide": [
+        4488
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 697,
+      "hide": [
+        4492
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 699,
+      "hide": [
+        4493
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 701,
+      "hide": [
+        4494
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 1037,
+      "hide": [
+        4106
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 1139,
+      "hide": [
+        4124
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 1141,
+      "hide": [
+        4173
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 1277,
+      "hide": [
+        4161
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 1279,
+      "hide": [
+        4163
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 1281,
+      "hide": [
+        4160
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 1283,
+      "hide": [
+        4162
+      ],
+      "concepto": "Mismo artículo y misma materia en distintas secciones"
     }
   ],
-  "notes": "Curación de 150 duplicados textuales del banco global; conservar preguntas distintas por perspectiva incluso si versan sobre un mismo artículo. La auditoría semántica exige revisión editorial sucesiva. No borrar registros históricos. Actualización Organización del Estado de 18-11-2026: altas seleccionadas con filtros de diversidad y revisión de distractores; baja lógica por IDs de variantes repetidas."
+  "notes": "Depuración global conservadora, no exhaustiva, con asociaciones directas/inversas y equivalencias comprobadas. No borrar ni reasignar IDs históricos. La app iPhone V6.1.1 consume esta lista; Android V6.2.3 requiere adaptar su filtro de IDs retirados, puesto que su validador exige IDs consecutivos y no acepta reducciones."
 }
