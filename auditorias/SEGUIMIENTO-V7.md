@@ -78,3 +78,11 @@ El inventario JSON original se conserva como fotografía histórica, no como lis
 - Los selectores de `MainActivity` (entrenamiento, simulacro, reto, examen del día, estadísticas), `MatchActivity` y la portada `IslandHomeActivity` recorren el banco sin consultar `inactiveIds` en las implementaciones revisadas de V6.2.5. Por tanto, **el filtrado V7 aún no está implementado ni probado**. Hay que filtrar en todos estos recorridos y probar recarga, caché, reinicio y modo sin conexión. Véase `auditorias/PRUEBAS_FILTRO_INACTIVAS_V7.md`.
 - **Estado de contenido acumulado en esta continuación:** 53 preguntas editadas (lotes 2 y 3), 0 nuevas desactivaciones, 4.705 principales conservadas. La revisión semántica adicional no ha justificado más bajas automáticas: las coincidencias numéricas, de supuestos y de órganos que se diferenciaban jurídicamente permanecen activas.
 - No ejecutar fusiones a `main`, no publicar V7 y no declarar superada la validación técnica sin pruebas reales.
+
+
+### Comprobación remota final de la continuación (25/11/2026)
+
+- Se han releído dos blobs remotos del banco (`7fcae299...` antes y `fa7cfc3912...` después), más `data/curacion-defensor-conceptos.json`, ampliación y manifiesto.
+- Comparación exacta: **53 objetos cambiados**, exclusivamente los IDs documentados en los lotes 2 y 3. **0 posiciones de respuesta correcta desplazadas**, **0 campos de clasificación cambiados**, **0 IDs renumerados**.
+- Inventario: **4.705 principales + 33 adicionales = 4.738; 1.013 inactivas y 3.725 activas** (2.533 memoria y 1.192 INAP). Los 4.738 IDs son únicos; las 4 alternativas por pregunta están presentes, son distintas y contienen una vez la respuesta esperada; ninguna pregunta carece de formato o subtema. El comprobador de duplicados exactos activos (enunciado y respuesta normalizados por categoría/modalidad) no emitió avisos.
+- **0 errores** en esa comprobación estructural personalizada. **No se han ejecutado** el workflow de GitHub Actions, pruebas Android, iPhone o Firebase. Este control no identifica duplicados semánticos, ambigüedades jurídicas o distractores inapropiados fuera de los lotes revisados.
