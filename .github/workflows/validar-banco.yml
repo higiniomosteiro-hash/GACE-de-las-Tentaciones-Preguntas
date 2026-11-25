@@ -23,7 +23,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        id: checkout
       - name: Comprobar banco y dossiers
         run: python3 scripts/validar_banco.py
       - name: Auditar coherencia de distractores en todas las materias
+        if: ${{ !cancelled() && steps.checkout.outcome == 'success' }}
         run: python3 scripts/auditar_distractores.py
