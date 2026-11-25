@@ -931,7 +931,7 @@
   },
   {
     "id": 51,
-    "question": "¿Qué mayoría requiere el Congreso para elegir al Defensor del Pueblo?",
+    "question": "En la primera propuesta de candidato a Defensor del Pueblo, ¿qué mayoría de los miembros del Congreso exige la ley para su elección?",
     "answer": "3/5",
     "options": [
       "2/3",
@@ -945,6 +945,7 @@
     "difficulty": 2,
     "subtopic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "format": "memoria",
+    "explanation": "La elección inicial exige tres quintos de los miembros del Congreso y posterior ratificación del Senado por la misma mayoría en veinte días como máximo.",
     "inactive": false
   },
   {
@@ -1042,7 +1043,7 @@
   },
   {
     "id": 57,
-    "question": "En una nueva propuesta, ¿qué mayoría basta en el Senado para elegir al Defensor del Pueblo?",
+    "question": "Si fracasan las mayorías de la primera propuesta, ¿qué mayoría del Senado basta para la designación tras obtener los tres quintos del Congreso?",
     "answer": "mayoría absoluta",
     "options": [
       "mayoría absoluta",
@@ -1056,6 +1057,7 @@
     "difficulty": 2,
     "subtopic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "format": "memoria",
+    "explanation": "En propuestas sucesivas se mantiene la mayoría de tres quintos del Congreso y basta la mayoría absoluta del Senado.",
     "inactive": false
   },
   {
@@ -1153,13 +1155,13 @@
   },
   {
     "id": 63,
-    "question": "¿Qué plazo existe para presentar una queja al Defensor del Pueblo desde que se conocen los hechos?",
+    "question": "¿Cuál es el plazo máximo para presentar una queja al Defensor del Pueblo desde que el interesado conoce los hechos?",
     "answer": "1 año",
     "options": [
-      "2 año",
+      "2 años",
       "1 año",
-      "3 año",
-      "4 año"
+      "3 años",
+      "4 años"
     ],
     "reference": "LO 3/1981 art. 15.1",
     "category": "Organización del Estado",
@@ -1167,6 +1169,7 @@
     "difficulty": 2,
     "subtopic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "format": "memoria",
+    "explanation": "El plazo máximo se cuenta desde el conocimiento de los hechos objeto de la queja.",
     "inactive": false
   },
   {
@@ -1190,7 +1193,7 @@
   },
   {
     "id": 65,
-    "question": "¿Cuántos días tiene inicialmente un organismo para informar al Defensor del Pueblo sobre una queja?",
+    "question": "¿Cuál es el plazo máximo inicial para que el jefe del organismo requerido remita el informe escrito tras admitirse una queja?",
     "answer": "15 días",
     "options": [
       "10 días",
@@ -1204,6 +1207,7 @@
     "difficulty": 2,
     "subtopic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "format": "memoria",
+    "explanation": "El plazo inicial máximo es de quince días y puede ampliarse si las circunstancias lo aconsejan a juicio del Defensor.",
     "inactive": false
   },
   {
@@ -50619,12 +50623,12 @@
   },
   {
     "id": 2530,
-    "question": "¿En qué proporción puede prorrogarse el plazo de respuesta concedido al funcionario investigado, a instancia de parte?",
-    "answer": "Hasta la mitad del plazo inicialmente concedido",
+    "question": "¿Por qué fracción del plazo inicialmente concedido puede prorrogarse, a instancia de parte, el plazo de respuesta escrita del funcionario investigado?",
+    "answer": "Por la mitad del plazo inicialmente concedido",
     "options": [
       "Por el doble del plazo",
       "Por un tercio exactamente",
-      "Hasta la mitad del plazo inicialmente concedido",
+      "Por la mitad del plazo inicialmente concedido",
       "Sin límite legal"
     ],
     "reference": "LO 3/1981, art. 20.2",
@@ -50632,7 +50636,7 @@
     "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
     "difficulty": 3,
     "format": "inap",
-    "explanation": "Base jurídica: LO 3/1981, art. 20.2.",
+    "explanation": "El artículo 20.2 prevé una prórroga por la mitad del plazo concedido, a instancia de parte; no establece un máximo flexible de hasta la mitad.",
     "subtopic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "inactive": false
   },
@@ -50771,7 +50775,7 @@
   },
   {
     "id": 2538,
-    "question": "Si el Defensor detecta indicios de abuso de un funcionario, ¿a quién remite simultáneamente su criterio?",
+    "question": "Si detecta indicios de abuso de un funcionario y decide dirigirle por escrito su criterio, ¿a quiénes traslada el Defensor dicho criterio con la misma fecha?",
     "answer": "Al funcionario afectado y a su superior jerárquico",
     "options": [
       "Solo al tribunal civil",
@@ -50784,7 +50788,7 @@
     "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
     "difficulty": 3,
     "format": "inap",
-    "explanation": "Base jurídica: LO 3/1981, art. 23.",
+    "explanation": "La comunicación al afectado es una facultad. Cuando la ejerce, el Defensor da traslado del escrito al superior jerárquico con la misma fecha.",
     "subtopic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "inactive": false
   },
@@ -50942,7 +50946,7 @@
   },
   {
     "id": 2547,
-    "question": "Si aplicar rigurosamente una norma produce efectos injustos, ¿qué puede proponer el Defensor?",
+    "question": "Si el cumplimiento riguroso de una norma puede provocar situaciones injustas o perjudiciales, ¿qué puede sugerir el Defensor?",
     "answer": "La modificación de la norma al órgano competente",
     "options": [
       "La derogación inmediata por decisión propia",
@@ -50955,7 +50959,7 @@
     "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
     "difficulty": 3,
     "format": "inap",
-    "explanation": "Base jurídica: LO 3/1981, art. 28.2.",
+    "explanation": "Puede sugerir la modificación de la norma al órgano legislativo competente o a la Administración.",
     "subtopic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "inactive": false
   },
@@ -51075,7 +51079,7 @@
   },
   {
     "id": 2554,
-    "question": "Si una autoridad no atiende las recomendaciones ni razona su negativa, ¿cuál es el siguiente escalón previsto?",
+    "question": "Si en un plazo razonable no se adopta una medida adecuada tras la recomendación o no se explican las razones para no adoptarla, ¿qué puede hacer el Defensor?",
     "answer": "Comunicarlo al ministro o máxima autoridad administrativa",
     "options": [
       "Disolver la Administración afectada",
@@ -51088,13 +51092,13 @@
     "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
     "difficulty": 3,
     "format": "inap",
-    "explanation": "Base jurídica: LO 3/1981, art. 30.2.",
+    "explanation": "El artículo 30.2 le faculta para elevar los antecedentes y las recomendaciones al ministro del departamento afectado o a la máxima autoridad de la Administración afectada.",
     "subtopic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "inactive": false
   },
   {
     "id": 2555,
-    "question": "Cuando no se ofrece justificación adecuada tras elevar la queja, ¿dónde puede identificar el Defensor a las autoridades?",
+    "question": "Si, tras elevar el asunto al ministro o a la máxima autoridad administrativa, el Defensor tampoco obtiene una justificación adecuada, ¿en qué documento incluye el asunto con mención de los responsables en los términos del artículo 30.2?",
     "answer": "En su informe anual o especial",
     "options": [
       "En una sentencia penal",
@@ -51107,7 +51111,7 @@
     "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
     "difficulty": 3,
     "format": "inap",
-    "explanation": "Base jurídica: LO 3/1981, art. 30.2.",
+    "explanation": "Cuando considera que era posible una solución positiva que no se ha conseguido, incluye el asunto en su informe anual o especial con mención de los responsables.",
     "subtopic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "inactive": false
   },
@@ -51208,20 +51212,20 @@
   },
   {
     "id": 2561,
-    "question": "¿Pueden figurar datos personales identificativos de los interesados en el informe anual del Defensor?",
-    "answer": "No, como regla general",
+    "question": "¿Pueden figurar datos personales que permitan identificar públicamente a los interesados en el procedimiento investigador en el informe anual del Defensor?",
+    "answer": "No, sin perjuicio de lo dispuesto en el artículo 24.1",
     "options": [
       "Sí, obligatoriamente",
       "Solo en informes de la Comisión Mixta",
       "Siempre que haya consentimiento del ministro",
-      "No, como regla general"
+      "No, sin perjuicio de lo dispuesto en el artículo 24.1"
     ],
     "reference": "LO 3/1981, art. 33.2",
     "category": "Organización del Estado",
     "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
     "difficulty": 3,
     "format": "inap",
-    "explanation": "Base jurídica: LO 3/1981, art. 33.2.",
+    "explanation": "El artículo 33.2 protege los datos que permiten la identificación pública de los interesados, con la salvedad expresa del artículo 24.1.",
     "subtopic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "inactive": false
   },
@@ -51398,7 +51402,7 @@
   },
   {
     "id": 2571,
-    "question": "¿Cuántos órganos adjuntos están previstos nominalmente para sustituir al Defensor y en qué orden?",
+    "question": "¿Qué adjuntos sustituyen por su orden al Defensor del Pueblo?",
     "answer": "Adjunto Primero, después Adjunto Segundo",
     "options": [
       "Dos secretarios generales, indistintamente",
@@ -51411,7 +51415,7 @@
     "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
     "difficulty": 2,
     "format": "memoria",
-    "explanation": "Base jurídica: LO 3/1981, art. 8.1.",
+    "explanation": "El artículo 8.1 prevé un Adjunto Primero y un Adjunto Segundo, que sustituyen al titular por ese orden.",
     "subtopic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "inactive": false
   },
@@ -51531,7 +51535,7 @@
   },
   {
     "id": 2578,
-    "question": "¿En qué único caso cabe detener al Defensor por hechos ajenos a sus funciones durante su mandato?",
+    "question": "Fuera de los actos y opiniones protegidos por la inviolabilidad, ¿en qué único supuesto puede ser detenido o retenido el Defensor mientras ejerce sus funciones?",
     "answer": "En caso de flagrante delito",
     "options": [
       "Con autorización del presidente del Congreso",
@@ -51544,7 +51548,7 @@
     "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
     "difficulty": 3,
     "format": "inap",
-    "explanation": "Base jurídica: LO 3/1981, art. 6.3.",
+    "explanation": "Fuera de la inviolabilidad funcional, durante el ejercicio de sus funciones solo cabe detención o retención por flagrante delito.",
     "subtopic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "inactive": false
   },
@@ -51645,7 +51649,7 @@
   },
   {
     "id": 2584,
-    "question": "¿Qué ley orgánica creó expresamente la institución del Defensor del Pueblo?",
+    "question": "¿Qué ley orgánica desarrolla la institución del Defensor del Pueblo prevista en el artículo 54 de la Constitución?",
     "answer": "Ley Orgánica 3/1981, de 6 de abril",
     "options": [
       "Ley Orgánica 3/1981, de 6 de abril",
@@ -51658,7 +51662,7 @@
     "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
     "difficulty": 1,
     "format": "memoria",
-    "explanation": "Base jurídica: LO 3/1981, encabezamiento.",
+    "explanation": "La institución está prevista en el artículo 54 CE y se desarrolla mediante la Ley Orgánica 3/1981, de 6 de abril.",
     "subtopic": "Tema 2 · Derechos, garantías, suspensión y Defensor del Pueblo",
     "inactive": false
   },
@@ -60024,13 +60028,13 @@
   },
   {
     "id": 2998,
-    "question": "¿Qué condición personal puede impedir por sí sola dirigir una queja al Defensor del Pueblo si se invoca interés legítimo?",
-    "answer": "Ninguna de las enumeradas como nacionalidad, residencia, sexo o minoría de edad",
+    "question": "Si una persona invoca interés legítimo ante el Defensor del Pueblo, ¿qué efecto tienen por sí solas su nacionalidad, residencia, sexo o minoría de edad?",
+    "answer": "Ninguna de esas circunstancias impide presentar la queja",
     "options": [
-      "La minoría de edad, aunque exista un interés legítimo",
-      "La ausencia de nacionalidad española, aun con interés legítimo",
-      "Ninguna de las enumeradas como nacionalidad, residencia, sexo o minoría de edad",
-      "La residencia en el extranjero, cualquiera que sea la actuación administrativa"
+      "La minoría de edad impide presentar la queja",
+      "La ausencia de nacionalidad española impide presentar la queja",
+      "Ninguna de esas circunstancias impide presentar la queja",
+      "La residencia en el extranjero impide presentar la queja"
     ],
     "reference": "LO 3/1981 art. 10.1",
     "category": "Organización del Estado",
@@ -60039,7 +60043,7 @@
     "format": "inap",
     "source": "Ampliación revisada 2026-11-18",
     "subtopic": "Defensor del Pueblo",
-    "explanation": "El interés legítimo permite acudir a la institución; el art. 10.1 impide utilizar esas circunstancias personales como obstáculo.",
+    "explanation": "El artículo 10.1 excluye expresamente estas circunstancias como impedimentos para dirigirse al Defensor.",
     "inactive": false
   },
   {
@@ -60405,10 +60409,10 @@
   {
     "id": 3017,
     "question": "¿Qué recoge el informe anual del Defensor del Pueblo respecto de las quejas?",
-    "answer": "Número y tipo de quejas, las rechazadas y las investigadas, con su resultado",
+    "answer": "Número y tipo de quejas, las rechazadas y sus causas, las investigadas y su resultado",
     "options": [
       "Únicamente la memoria de su personal",
-      "Número y tipo de quejas, las rechazadas y las investigadas, con su resultado",
+      "Número y tipo de quejas, las rechazadas y sus causas, las investigadas y su resultado",
       "Solo un listado de nombres y domicilios de todos los reclamantes",
       "Una relación de sentencias penales dictadas por la institución"
     ],
@@ -60419,7 +60423,7 @@
     "format": "inap",
     "source": "Ampliación revisada 2026-11-18",
     "subtopic": "Defensor del Pueblo",
-    "explanation": "El informe anual recoge las quejas recibidas, rechazadas e investigadas y sus resultados, incluyendo las sugerencias o recomendaciones admitidas.",
+    "explanation": "El informe incluye, además, las sugerencias y recomendaciones admitidas por las Administraciones Públicas.",
     "inactive": false
   },
   {
@@ -60432,14 +60436,14 @@
       "Ponerlo en conocimiento de la Comisión Mixta Congreso-Senado competente",
       "Archivar obligatoriamente la investigación sin informar a ningún órgano"
     ],
-    "reference": "LO 3/1981 art. 22.2",
+    "reference": "LO 3/1981 art. 22.3",
     "category": "Organización del Estado",
     "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
     "difficulty": 2,
     "format": "inap",
     "source": "Ampliación revisada 2026-11-18",
     "subtopic": "Defensor del Pueblo",
-    "explanation": "Ante la falta de un documento secreto que considere decisivo, el Defensor informa a la comisión mixta competente; no lo desclasifica por sí mismo.",
+    "explanation": "El apartado tercero del artículo 22 exige comunicar a la Comisión Mixta la falta de remisión de un documento secreto que pueda afectar decisivamente a la investigación.",
     "inactive": false
   },
   {
@@ -61372,14 +61376,14 @@
       "Sí, siempre que la queja esté firmada por abogado",
       "Solo cuando la queja se refiere a un ayuntamiento"
     ],
-    "reference": "LO 3/1981 art. 17",
+    "reference": "Defensor del Pueblo, Cómo te podemos ayudar; LO 3/1981 art. 17",
     "category": "Organización del Estado",
     "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
     "difficulty": 2,
     "format": "memoria",
-    "source": "Ampliación revisada 2026-11-18",
+    "source": "https://www.defensordelpueblo.es/el-defensor/como-te-podemos-ayudar/",
     "subtopic": "Defensor del Pueblo",
-    "explanation": "La queja no sustituye a un recurso ni interrumpe sus plazos; deben preservarse las vías administrativas y judiciales ordinarias.",
+    "explanation": "La información oficial del Defensor confirma que presentar una queja no suspende los plazos de recurso ni la ejecución del acto. El artículo 17 regula la relación con los procedimientos judiciales.",
     "inactive": false
   },
   {
@@ -61844,13 +61848,13 @@
   },
   {
     "id": 3089,
-    "question": "¿Qué ocurre si una autoridad no adopta las recomendaciones del Defensor del Pueblo?",
-    "answer": "Debe comunicarle por escrito sus razones y la institución puede elevar el asunto",
+    "question": "Si la autoridad no adopta una recomendación del Defensor ni explica por escrito sus razones, ¿qué actuación permite el artículo 30.2 tras un plazo razonable?",
+    "answer": "Elevar los antecedentes y la recomendación al ministro o a la máxima autoridad administrativa",
     "options": [
-      "La recomendación produce automáticamente una sanción penal",
-      "El Defensor del Pueblo disuelve el órgano responsable",
-      "La Administración pierde su competencia sobre el asunto",
-      "Debe comunicarle por escrito sus razones y la institución puede elevar el asunto"
+      "Declarar automáticamente una sanción penal",
+      "Disolver el órgano responsable",
+      "Privar a la Administración de su competencia",
+      "Elevar los antecedentes y la recomendación al ministro o a la máxima autoridad administrativa"
     ],
     "reference": "LO 3/1981 art. 30",
     "category": "Organización del Estado",
@@ -61859,7 +61863,7 @@
     "format": "memoria",
     "source": "Ampliación revisada 2026-11-18",
     "subtopic": "Defensor del Pueblo",
-    "explanation": "El art. 30 prevé respuesta escrita en un plazo no superior a un mes y, si no se adoptan medidas adecuadas ni se justifican, permite elevar los antecedentes.",
+    "explanation": "Las recomendaciones no son ejecutivas. Las autoridades deben responder por escrito en un máximo de un mes; el Defensor puede elevar el asunto en los supuestos del artículo 30.2.",
     "inactive": false
   },
   {
