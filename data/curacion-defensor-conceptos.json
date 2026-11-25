@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": "2026-11-24-depuracion-global-semántica-v1",
+  "revision": "2026-11-25-v7-defensor-revision-juridica",
   "source": "Banco de preguntas GACE (pregunta+respuesta normalizadas); revisión jurídica original Defensor del Pueblo preservada",
   "scope": "Todas las materias y modalidades. Retirar duplicados literales, preguntas inversas de idéntica asociación y equivalencias revisadas; preservar diferencias materiales, fases, requisitos y supuestos. IDs originales inmutables.",
   "inactiveIds": [
@@ -20,6 +20,8 @@
     64,
     66,
     275,
+    305,
+    365,
     368,
     370,
     372,
@@ -393,6 +395,7 @@
     1994,
     1996,
     1998,
+    2137,
     2197,
     2215,
     2222,
@@ -580,9 +583,15 @@
     2483,
     2484,
     2505,
+    2581,
     2617,
     3337,
+    3343,
+    3363,
     3382,
+    3421,
+    3427,
+    3471,
     3849,
     3850,
     3851,
@@ -6933,7 +6942,70 @@
         4162
       ],
       "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 1235,
+      "hide": [
+        3421
+      ],
+      "concepto": "V7: LCSP art. 82, acreditación de solvencia técnica para mantener la clasificación cada tres años; mismo tema y formato"
+    },
+    {
+      "keep": 1239,
+      "hide": [
+        3427
+      ],
+      "concepto": "V7: LCSP art. 69, responsabilidad solidaria de los integrantes de una UTE; mismo tema y formato"
+    },
+    {
+      "keep": 327,
+      "hide": [
+        305
+      ],
+      "concepto": "V7: UE: diez Estados en la quinta ampliación (2004); conservar ID explícito del examen del día"
+    },
+    {
+      "keep": 1271,
+      "hide": [
+        3471
+      ],
+      "concepto": "V7: LCSP 107.3: PBL sin IVA como base de garantía definitiva en precios unitarios"
+    },
+    {
+      "keep": 1149,
+      "hide": [
+        3363
+      ],
+      "concepto": "V7: LCSP 323: órgano de contratación ordinario de organismos autónomos estatales"
+    },
+    {
+      "keep": 1095,
+      "hide": [
+        3343
+      ],
+      "concepto": "V7: LCSP 25: artículo que califica contratos administrativos de AAPP"
+    },
+    {
+      "keep": 191,
+      "hide": [
+        365
+      ],
+      "concepto": "V7: Tratado de Ámsterdam: introducción de cooperaciones reforzadas"
+    },
+    {
+      "keep": 1855,
+      "hide": [
+        2137
+      ],
+      "concepto": "V7: Capítulo 6 del presupuesto de gastos: inversiones reales"
+    },
+    {
+      "keep": 2547,
+      "hide": [
+        2581
+      ],
+      "concepto": "V7: LO 3/1981 art. 28.2: sugerir modificación de norma que produzca situaciones injustas o perjudiciales. Mismo tema, subtema y modalidad."
     }
   ],
-  "notes": "Depuración global conservadora, no exhaustiva, con asociaciones directas/inversas y equivalencias comprobadas. No borrar ni reasignar IDs históricos. La app iPhone V6.1.1 consume esta lista; Android V6.2.3 requiere adaptar su filtro de IDs retirados, puesto que su validador exige IDs consecutivos y no acepta reducciones."
+  "notes": "Depuración global conservadora, no exhaustiva, con asociaciones directas/inversas y equivalencias comprobadas. No borrar ni reasignar IDs históricos. La app iPhone V6.1.1 consume esta lista; Android V6.2.3 requiere adaptar su filtro de IDs retirados, puesto que su validador exige IDs consecutivos y no acepta reducciones. V7: dos equivalencias adicionales comprobadas dentro del mismo tema y formato; conservar especiales y ampliaciones hasta verificar selectores. Segunda pasada: cuatro equivalencias del mismo tema, subtema y modalidad; conservar selección explícita de las 23 sesiones. Tercera pasada: dos equivalencias entre subtemas, autorizada por el usuario; conservar IDs históricos. Cuarta pasada: 2581 se conserva en historial pero se retira de los selectores activos por equivalencia con 2547. Variantes de otras colecciones se conservan hasta validar cobertura de ambos clientes."
 }

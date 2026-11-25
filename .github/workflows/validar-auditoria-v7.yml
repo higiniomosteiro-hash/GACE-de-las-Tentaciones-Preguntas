@@ -1,0 +1,52 @@
+name: Auditoría V7 · Validación aislada
+on:
+  push:
+    branches: [auditoria-2026-11-25]
+    paths:
+      - 'questions.json'
+      - 'data/**'
+      - 'hoy-estudiamos/**'
+      - 'auditorias/questions-v7-candidate.json'
+      - 'scripts/**'
+      - '.github/workflows/validar-auditoria-v7.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validar:
+    if: github.ref == 'refs/heads/auditoria-2026-11-25'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Validar contra la base pública
+        run: |
+          git fetch origin main
+          GACE_BASE_SHA=$(git rev-parse origin/main) python3 scripts/validar_banco.py
+          python3 scripts/auditar_distractores.py
+      - name: Verificar elegibilidad y cupos Android
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          def load(p): return json.loads(Path(p).read_text(encoding='utf-8'))
+          raw=load('questions.json')
+          candidate=load('auditorias/questions-v7-candidate.json')
+          inactive=set(load('data/curacion-defensor-conceptos.json')['inactiveIds'])
+          extra=load('data/ampliacion-defensor-unica-2026.json')
+          assert len(raw)==len(candidate)
+          for i,(old,new) in enumerate(zip(raw,candidate),1):
+              assert new['id']==old['id']==i
+              assert type(new['inactive']) is bool
+              assert new['inactive']==(i in inactive)
+              assert {k:v for k,v in new.items() if k!='inactive'}==old
+          active={q['id'] for q in candidate if not q['inactive']}
+          all_active=active|{q['id'] for q in extra if q['id'] not in inactive}
+          for lesson in load('hoy-estudiamos/programa.json')['published']:
+              exam=lesson['exam']
+              ids=set(exam['includeIds'])
+              assert ids<=all_active,lesson['id']
+              assert len(ids&active)>=exam['count'],lesson['id']
+          print('OK: elegibilidad por ID y cupos explícitos, sin alterar posiciones.')
+          PY

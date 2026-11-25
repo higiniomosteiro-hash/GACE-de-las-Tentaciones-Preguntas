@@ -34,23 +34,75 @@
       "path": "hoy-estudiamos/defensor-del-pueblo.md",
       "exam": {
         "count": 25,
-        "includeSubtopics": [
-          "Defensor del Pueblo"
-        ],
+        "includeSubtopics": [],
         "includeIds": [
           49,
           51,
-          53,
-          55,
           57,
           59,
           61,
           63,
           65,
           473,
+          975,
           2328,
           2330,
-          2334
+          2334,
+          2508,
+          2509,
+          2510,
+          2512,
+          2515,
+          2516,
+          2517,
+          2519,
+          2521,
+          2526,
+          2537,
+          2545,
+          2549,
+          2565,
+          2567,
+          2568,
+          2569,
+          2575,
+          2576,
+          2634,
+          2636,
+          2998,
+          3005,
+          3017,
+          3018,
+          3022,
+          3058,
+          3065,
+          3087,
+          3089,
+          3094,
+          900001,
+          900002,
+          900003,
+          900004,
+          900005,
+          900006,
+          900007,
+          900008,
+          900009,
+          900010,
+          900012,
+          900013,
+          900014,
+          900015,
+          900016,
+          900019,
+          900020,
+          900023,
+          900024,
+          900026,
+          900027,
+          900029,
+          900030,
+          900031
         ],
         "excludeInactive": true
       }
@@ -65,9 +117,7 @@
       "path": "hoy-estudiamos/tribunal-constitucional.md",
       "exam": {
         "count": 25,
-        "includeSubtopics": [
-          "Tribunal Constitucional"
-        ],
+        "includeSubtopics": [],
         "excludeInactive": true,
         "includeIds": [
           1,
@@ -82,7 +132,6 @@
           10,
           11,
           12,
-          13,
           14,
           15,
           16,
@@ -92,7 +141,6 @@
           20,
           21,
           22,
-          23,
           24,
           25,
           26,
@@ -109,7 +157,21 @@
           37,
           38,
           39,
-          40
+          40,
+          874,
+          875,
+          876,
+          877,
+          878,
+          882,
+          2456,
+          2627,
+          2628,
+          2629,
+          2630,
+          2631,
+          2632,
+          2633
         ]
       }
     },
@@ -123,14 +185,7 @@
       "path": "hoy-estudiamos/clases-de-personal.md",
       "exam": {
         "count": 30,
-        "includeSubtopics": [
-          "Clases de personal",
-          "Funcionarios y clasificación",
-          "Interinos · Supuestos",
-          "Personal eventual",
-          "Personal laboral",
-          "Clases y régimen del personal"
-        ],
+        "includeSubtopics": [],
         "excludeInactive": true,
         "includeIds": [
           1411,
@@ -203,6 +258,13 @@
           1478,
           1479,
           1480,
+          2671,
+          2672,
+          2673,
+          2674,
+          2675,
+          2676,
+          2677,
           2778,
           2779,
           2780,
@@ -258,11 +320,7 @@
       "path": "hoy-estudiamos/personal-directivo-profesional.md",
       "exam": {
         "count": 25,
-        "includeSubtopics": [
-          "Personal directivo profesional",
-          "Dirección · Nombramiento y cese",
-          "Clases y régimen del personal"
-        ],
+        "includeSubtopics": [],
         "excludeInactive": true,
         "includeIds": [
           1481,
@@ -288,7 +346,14 @@
           1501,
           1502,
           1503,
-          1504
+          1504,
+          1608,
+          1609,
+          1610,
+          1611,
+          2671,
+          2677,
+          2815
         ]
       }
     },
@@ -302,10 +367,7 @@
       "path": "hoy-estudiamos/fuentes-derecho-administrativo.md",
       "exam": {
         "count": 25,
-        "includeSubtopics": [
-          "Tema 1 · Fuentes del Derecho",
-          "Fuentes y jerarquía"
-        ],
+        "includeSubtopics": [],
         "excludeInactive": true,
         "includeIds": [
           705,
@@ -340,7 +402,12 @@
           734,
           735,
           736,
-          737
+          737,
+          2650,
+          2651,
+          2652,
+          2653,
+          2654
         ]
       }
     },
@@ -354,11 +421,7 @@
       "path": "hoy-estudiamos/la-ley-y-fuerza-de-ley.md",
       "exam": {
         "count": 25,
-        "includeSubtopics": [
-          "Tema 2 · La ley",
-          "Leyes y normas con fuerza de ley",
-          "Procedimiento de elaboración de normas"
-        ],
+        "includeSubtopics": [],
         "excludeInactive": true,
         "includeIds": [
           738,
@@ -391,7 +454,6 @@
           765,
           766,
           767,
-          768,
           769,
           770,
           771,
@@ -413,7 +475,113 @@
           787,
           788,
           789,
-          790
+          790,
+          2655,
+          2656,
+          2657,
+          2658,
+          2659,
+          2660,
+          2678,
+          2679,
+          2680,
+          2681,
+          2682,
+          2683,
+          2684,
+          2685,
+          2686,
+          2687,
+          2688,
+          2689,
+          2690,
+          2691,
+          2692,
+          2693,
+          2694,
+          2695,
+          2696,
+          2697,
+          2698,
+          2699,
+          2700,
+          2701,
+          2702,
+          2703,
+          2704,
+          2705,
+          2706,
+          2707,
+          2708,
+          2709,
+          2710,
+          2711,
+          2712,
+          2713,
+          2714,
+          2715,
+          2716,
+          2717,
+          2718,
+          2719,
+          2720,
+          2721,
+          2722,
+          2723,
+          2724,
+          2725,
+          2726,
+          2727,
+          2728,
+          2729,
+          2730,
+          2731,
+          2732,
+          2733,
+          2734,
+          2735,
+          2736,
+          2737,
+          2738,
+          2739,
+          2740,
+          2741,
+          2742,
+          2743,
+          2744,
+          2745,
+          2746,
+          2747,
+          2748,
+          2749,
+          2750,
+          2751,
+          2752,
+          2753,
+          2754,
+          2755,
+          2756,
+          2757,
+          2758,
+          2759,
+          2760,
+          2761,
+          2762,
+          2763,
+          2764,
+          2765,
+          2766,
+          2767,
+          2768,
+          2769,
+          2770,
+          2771,
+          2772,
+          2773,
+          2774,
+          2775,
+          2776,
+          2777
         ]
       }
     },
@@ -529,9 +697,7 @@
           2776,
           2777
         ],
-        "includeSubtopics": [
-          "Procedimiento de elaboración de normas"
-        ],
+        "includeSubtopics": [],
         "excludeInactive": true
       },
       "date": "2026-11-21"
@@ -547,9 +713,7 @@
       "exam": {
         "count": 25,
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Garantías y Defensor del Pueblo"
-        ],
+        "includeSubtopics": [],
         "includeIds": [
           2277,
           2278,
@@ -566,29 +730,24 @@
           2290,
           2291,
           2292,
-          2293,
           2294,
           2295,
           2296,
           2297,
           2298,
-          2299,
           2300,
           2301,
           2302,
           2303,
           2304,
-          2305,
           2306,
           2307,
           2308,
           2309,
           2310,
           2311,
-          2312,
           2313,
           2314,
-          2315,
           2316,
           2317,
           2318,
@@ -598,7 +757,10 @@
           2322,
           2323,
           2324,
-          2325
+          2325,
+          2634,
+          2635,
+          2636
         ]
       }
     },
@@ -613,9 +775,7 @@
       "exam": {
         "count": 25,
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Repaso transversal de la CE"
-        ],
+        "includeSubtopics": [],
         "includeIds": [
           67,
           68,
@@ -656,7 +816,11 @@
           103,
           104,
           105,
-          106
+          106,
+          2640,
+          2641,
+          2642,
+          2643
         ]
       }
     },
@@ -671,28 +835,52 @@
       "exam": {
         "count": 25,
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Repaso transversal de la CE"
-        ],
+        "includeSubtopics": [],
         "includeIds": [
           367,
-          368,
           369,
-          370,
           371,
-          372,
           373,
-          374,
           375,
-          376,
           377,
-          378,
           379,
-          380,
           381,
-          382,
           383,
-          384
+          2224,
+          2641,
+          2642,
+          2820,
+          2821,
+          2822,
+          2823,
+          2824,
+          2825,
+          2826,
+          2827,
+          2828,
+          2829,
+          2830,
+          2831,
+          2832,
+          2833,
+          2834,
+          2835,
+          2836,
+          2837,
+          2838,
+          2839,
+          2840,
+          2841,
+          2842,
+          2843,
+          2844,
+          2845,
+          2846,
+          2847,
+          2848,
+          2849,
+          2922,
+          2985
         ]
       }
     },
@@ -707,10 +895,11 @@
       "exam": {
         "count": 10,
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Repaso transversal de la CE"
-        ],
+        "includeSubtopics": [],
         "includeIds": [
+          133,
+          135,
+          597,
           851,
           870,
           871,
@@ -718,9 +907,9 @@
           2283,
           2326,
           2327,
-          2430,
-          2437,
-          2503
+          2503,
+          2643,
+          3027
         ]
       }
     },
@@ -735,9 +924,7 @@
       "exam": {
         "count": 25,
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Reforma constitucional"
-        ],
+        "includeSubtopics": [],
         "includeIds": [
           93,
           94,
@@ -753,7 +940,6 @@
           104,
           105,
           106,
-          2197,
           2198,
           2199,
           2200,
@@ -771,13 +957,56 @@
           2212,
           2213,
           2214,
-          2215,
           2216,
           2217,
           2218,
           2219,
           2220,
-          2221
+          2221,
+          2486,
+          2487,
+          2488,
+          2489,
+          2490,
+          2491,
+          2492,
+          2637,
+          2638,
+          2639,
+          2897,
+          2898,
+          2899,
+          2900,
+          2901,
+          2902,
+          2903,
+          2904,
+          2905,
+          2906,
+          2907,
+          2908,
+          2909,
+          2910,
+          2911,
+          2912,
+          2913,
+          2914,
+          2915,
+          2916,
+          2925,
+          2954,
+          2955,
+          2956,
+          2957,
+          2958,
+          2959,
+          2960,
+          2961,
+          2962,
+          2978,
+          2986,
+          2987,
+          2988
         ]
       }
     },
@@ -819,12 +1048,11 @@
           184,
           185,
           201,
-          202
+          202,
+          2645
         ],
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Tratados y procedimientos UE"
-        ]
+        "includeSubtopics": []
       }
     },
     {
@@ -865,12 +1093,13 @@
           197,
           198,
           199,
-          200
+          200,
+          2644,
+          2646,
+          2649
         ],
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Tratados y procedimientos UE"
-        ]
+        "includeSubtopics": []
       }
     },
     {
@@ -914,12 +1143,11 @@
           324,
           325,
           326,
-          327
+          327,
+          2648
         ],
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Tratados y procedimientos UE"
-        ]
+        "includeSubtopics": []
       }
     },
     {
@@ -932,6 +1160,12 @@
       "exam": {
         "count": 25,
         "includeIds": [
+          261,
+          262,
+          263,
+          264,
+          265,
+          266,
           328,
           329,
           330,
@@ -950,17 +1184,10 @@
           343,
           344,
           345,
-          261,
-          262,
-          263,
-          264,
-          265,
-          266
+          2648
         ],
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Tratados y procedimientos UE"
-        ]
+        "includeSubtopics": []
       }
     },
     {
@@ -1001,9 +1228,7 @@
           259
         ],
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Tratados y procedimientos UE"
-        ]
+        "includeSubtopics": []
       }
     },
     {
@@ -1017,36 +1242,76 @@
       "exam": {
         "count": 25,
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Concepto y principios presupuestarios"
-        ],
+        "includeSubtopics": [],
         "includeIds": [
           1627,
-          1628,
           1629,
-          1630,
           1631,
-          1632,
           1633,
-          1634,
           1635,
-          1636,
           1637,
-          1638,
           1639,
-          1640,
           1641,
-          1642,
           1643,
-          1644,
           1645,
-          1646,
           1647,
-          1648,
           1651,
-          1652,
           1653,
-          1654
+          1759,
+          1761,
+          1763,
+          1941,
+          1943,
+          1945,
+          1947,
+          1949,
+          1951,
+          1953,
+          1955,
+          1957,
+          1959,
+          1961,
+          1963,
+          1965,
+          1967,
+          1969,
+          1971,
+          1973,
+          1975,
+          1999,
+          2000,
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2619,
+          2620,
+          2621,
+          2622,
+          2623,
+          2624,
+          2625,
+          2626
         ]
       }
     },
@@ -1061,40 +1326,87 @@
       "exam": {
         "count": 25,
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Objetivos de estabilidad"
-        ],
+        "includeSubtopics": [],
         "includeIds": [
           1655,
-          1656,
           1657,
-          1658,
           1659,
-          1660,
           1661,
-          1662,
           1663,
-          1664,
           1665,
-          1666,
           1667,
-          1668,
           1669,
-          1670,
           1671,
-          1672,
           1673,
-          1674,
           1675,
-          1676,
           1677,
-          1678,
+          1699,
+          1701,
+          1703,
+          1705,
+          1707,
+          1709,
           1715,
-          1716,
           1717,
-          1718,
           1719,
-          1720
+          1933,
+          1935,
+          1937,
+          1939,
+          2073,
+          2074,
+          2075,
+          2076,
+          2077,
+          2078,
+          2079,
+          2080,
+          2081,
+          2082,
+          2083,
+          2084,
+          2085,
+          2086,
+          2087,
+          2088,
+          2089,
+          2090,
+          2091,
+          2092,
+          2093,
+          2094,
+          2095,
+          2096,
+          2097,
+          2098,
+          2099,
+          2100,
+          2101,
+          2102,
+          2103,
+          2104,
+          2105,
+          2106,
+          2107,
+          2108,
+          2109,
+          2110,
+          2111,
+          2112,
+          2113,
+          2114,
+          2115,
+          2116,
+          2117,
+          2118,
+          2119,
+          2120,
+          2121,
+          2122,
+          2614,
+          2615,
+          2616,
+          2618
         ]
       }
     },
@@ -1109,11 +1421,7 @@
       "exam": {
         "count": 30,
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Regla de gasto",
-          "Techo de gasto",
-          "Fondo de Contingencia"
-        ],
+        "includeSubtopics": [],
         "includeIds": [
           1649,
           1681,
@@ -1130,7 +1438,36 @@
           2062,
           2063,
           2064,
-          2065
+          2065,
+          2585,
+          2586,
+          2587,
+          2588,
+          2589,
+          2590,
+          2591,
+          2592,
+          2593,
+          2594,
+          2595,
+          2596,
+          2597,
+          2598,
+          2599,
+          2600,
+          2601,
+          2602,
+          2603,
+          2604,
+          2605,
+          2606,
+          2607,
+          2608,
+          2609,
+          2610,
+          2611,
+          2612,
+          2613
         ]
       }
     },
@@ -1145,9 +1482,7 @@
       "exam": {
         "count": 25,
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Ámbito y tipos contractuales"
-        ],
+        "includeSubtopics": [],
         "includeIds": [
           1001,
           1002,
@@ -1180,7 +1515,12 @@
           1029,
           1030,
           1031,
-          1032
+          1032,
+          2661,
+          2662,
+          2663,
+          2664,
+          2665
         ]
       }
     },
@@ -1195,9 +1535,7 @@
       "exam": {
         "count": 25,
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Preparación y órganos de contratación"
-        ],
+        "includeSubtopics": [],
         "includeIds": [
           1127,
           1128,
@@ -1230,7 +1568,12 @@
           1155,
           1156,
           1157,
-          1158
+          1158,
+          2666,
+          2667,
+          2668,
+          2669,
+          2670
         ]
       }
     },
@@ -1245,9 +1588,7 @@
       "exam": {
         "count": 25,
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Clases y régimen del personal"
-        ],
+        "includeSubtopics": [],
         "includeIds": [
           1431,
           1432,
@@ -1280,7 +1621,10 @@
           1459,
           1460,
           1461,
-          1462
+          1462,
+          2674,
+          2675,
+          2676
         ]
       }
     }

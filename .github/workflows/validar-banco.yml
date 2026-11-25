@@ -9,6 +9,7 @@ on:
       - 'scripts/validar_banco.py'
       - 'scripts/auditar_distractores.py'
       - '.github/workflows/validar-banco.yml'
+  workflow_dispatch:
   pull_request:
     paths:
       - 'questions.json'
@@ -16,6 +17,7 @@ on:
       - 'hoy-estudiamos/**'
       - 'scripts/validar_banco.py'
       - 'scripts/auditar_distractores.py'
+      - '.github/workflows/validar-banco.yml'
 permissions:
   contents: read
 jobs:
@@ -23,7 +25,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        id: checkout
+        with:
+          fetch-depth: 0
       - name: Comprobar banco y dossiers
+        env:
+          GACE_BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before || '' }}
         run: python3 scripts/validar_banco.py
       - name: Auditar coherencia de distractores en todas las materias
+        if: ${{ !cancelled() && steps.checkout.outcome == 'success' }}
         run: python3 scripts/auditar_distractores.py

@@ -15,7 +15,7 @@ La investigación puede iniciarse **de oficio o a petición de parte**. El ámbi
 
 El Defensor es elegido por las Cortes Generales para un **mandato de cinco años**. La relación institucional se articula a través de los presidentes del Congreso y del Senado y de una **Comisión Mixta Congreso-Senado**. La Comisión se reúne por acuerdo conjunto de los presidentes y, necesariamente, para proponer candidaturas. Sus acuerdos se adoptan por **mayoría simple**, que no debe confundirse con las mayorías parlamentarias de elección.
 
-Tras proponer candidatura, el Pleno del Congreso se convoca con una antelación **no inferior a diez días**. En la votación inicial el Congreso necesita el voto favorable de **tres quintos de sus miembros**. El Senado debe ratificar al candidato por **otros tres quintos** y hacerlo dentro del plazo máximo de **veinte días**.
+Tras la propuesta de candidato o candidatos, se convoca al Pleno del Congreso en un término **no inferior a diez días**, conforme al artículo 2.4. En la votación inicial el Congreso necesita el voto favorable de **tres quintos de sus miembros**. El Senado debe ratificar al candidato por **otros tres quintos** y hacerlo dentro del plazo máximo de **veinte días**.
 
 Si no se consiguen esas mayorías, la Comisión se reúne de nuevo y, en un plazo máximo de **un mes**, formula propuestas sucesivas. En esas nuevas propuestas se mantienen los **tres quintos en el Congreso**, pero para la designación basta **mayoría absoluta en el Senado**. La diferencia entre primera ratificación y propuestas sucesivas es una pregunta jurídicamente distinta, no una mera reformulación. Base: artículo 2.
 
@@ -29,13 +29,13 @@ Los presidentes del Congreso y del Senado acreditan conjuntamente el nombramient
 
 Las causas legales de cese son: renuncia, expiración del mandato, muerte o incapacidad sobrevenida, notoria negligencia en el cumplimiento de las obligaciones del cargo y condena por **sentencia firme por delito doloso**. No equivale a cualquier infracción o sentencia no firme.
 
-En caso de muerte, renuncia o expiración del mandato, la vacante la declara el **presidente del Congreso**. Para los restantes supuestos, el cese se decide por **tres quintos de cada Cámara**, mediante debate y previa audiencia del interesado. Si queda vacante el cargo, el procedimiento de nuevo nombramiento ha de iniciarse en un plazo **no superior a un mes**. Mientras se produce la nueva designación, los **adjuntos, por su orden**, desempeñan interinamente las funciones. Base: artículo 5.
+En caso de muerte, renuncia o expiración del mandato, la vacante la declara el **presidente del Congreso**. Para los restantes supuestos, el cese se decide por **tres quintos de los componentes de cada Cámara**, mediante debate y previa audiencia del interesado. Si queda vacante el cargo, el procedimiento de nuevo nombramiento ha de iniciarse en un plazo **no superior a un mes**. Mientras se produce la nueva designación, los **adjuntos, por su orden**, desempeñan interinamente las funciones. Base: artículo 5.
 
 ## 5. Independencia, inviolabilidad, aforamiento e incompatibilidades
 
 La inviolabilidad cubre las opiniones formuladas y los actos realizados en ejercicio de las competencias del cargo: no puede ser detenido, expedientado, multado, perseguido o juzgado por esas actuaciones. En otros casos, **mientras ejerce el cargo**, solo cabe detención o retención en situación de **flagrante delito**. La inculpación, prisión, procesamiento y juicio corresponden exclusivamente a la **Sala de lo Penal del Tribunal Supremo**. Estas garantías se extienden a los adjuntos en el cumplimiento de sus funciones. Base: artículo 6.
 
-El régimen de incompatibilidades es amplio: mandato representativo, cargo político o propaganda política, permanencia en servicio activo de cualquier Administración pública, afiliación a un partido político y determinadas funciones en partidos, sindicatos, asociaciones o fundaciones; carreras judicial y fiscal; y actividad profesional, liberal, mercantil o laboral. Quien resulte designado debe cesar en situaciones incompatibles **dentro de los diez días siguientes al nombramiento y antes de tomar posesión**. Si surge una incompatibilidad sobrevenida, se entiende que renuncia desde la fecha en que se produjo. Base: artículo 7.
+El régimen de incompatibilidades es amplio: mandato representativo, cargo político o propaganda política, permanencia en servicio activo de cualquier Administración pública, afiliación a un partido político y determinadas funciones en partidos, sindicatos, asociaciones o fundaciones; carreras judicial y fiscal; y actividad profesional, liberal, mercantil o laboral. Quien resulte designado debe cesar en situaciones incompatibles **dentro de los diez días siguientes al nombramiento y antes de tomar posesión**. Si no cesa dentro del plazo y antes de tomar posesión, se entiende que no acepta el nombramiento. Si surge una incompatibilidad sobrevenida, se entiende que renuncia desde la fecha en que se produjo. Base: artículo 7.
 
 ## 6. Los dos adjuntos: funciones y aprobación
 
@@ -53,7 +53,7 @@ La actividad del Defensor del Pueblo **no se interrumpe por disolución de las C
 
 Respecto de las quejas sobre el funcionamiento de la Administración de Justicia, las dirige al **Ministerio Fiscal** o, según el caso, se trasladan al **Consejo General del Poder Judicial**. En el ámbito militar supervisa el respeto a los derechos del Título I, **sin interferir en el mando de la Defensa Nacional**. Base: artículos 13 y 14.
 
-No entra en el examen **individual** de una queja pendiente de resolución judicial y suspende su actuación individual si se presenta demanda o recurso ante los tribunales, pero puede investigar los **problemas generales** que surjan de la situación. Es esencial diferenciar la tutela individual del análisis institucional de problemas generales. Base: artículo 17.2.
+No entra en el examen **individual** de una queja pendiente de resolución judicial y suspende su actuación individual si se presenta demanda o recurso ante los tribunales, pero puede investigar los **problemas generales** que surjan de la situación. Es esencial diferenciar la tutela individual del análisis institucional de problemas generales. Presentar una queja no suspende los plazos de recurso ni la ejecución del acto, según la [información oficial del Defensor del Pueblo](https://www.defensordelpueblo.es/el-defensor/como-te-podemos-ayudar/). Base: artículo 17.2.
 
 ## 9. Colaboración administrativa y plazos diferentes
 
@@ -67,7 +67,7 @@ Puede solicitar incluso documentos secretos; la decisión de **no remitirlos** c
 
 El Defensor del Pueblo **no puede modificar ni anular por sí solo los actos administrativos**. Puede sugerir que se modifiquen los criterios empleados y, en su caso, recomendar cambios normativos. Está legitimado para interponer los **recursos de inconstitucionalidad y de amparo** en los términos de la Constitución y la LOTC. Base: artículos 28 y 29.
 
-Puede formular **advertencias, recomendaciones, recordatorios de deberes legales y sugerencias**. Las autoridades y funcionarios han de responder por escrito **en un plazo no superior a un mes**. Si no se adoptan medidas razonables ni se justifican, la cuestión puede escalar a la autoridad superior y llegar al informe anual o extraordinario. Base: artículo 30.
+Puede formular **advertencias, recomendaciones, recordatorios de deberes legales y sugerencias**. Las autoridades y funcionarios han de responder por escrito **en un plazo no superior a un mes**. Si en un plazo razonable no se adopta una medida adecuada o no se explican las razones de no adoptarla, el Defensor puede elevar el asunto al ministro o a la máxima autoridad administrativa. Si tampoco obtiene justificación adecuada, incluye el asunto en su informe anual o especial con mención de los responsables en los términos del artículo 30.2. Base: artículo 30.
 
 Rinde cuentas a las Cortes mediante un **informe anual** durante el período ordinario de sesiones. Cuando la gravedad o urgencia lo justifique puede presentar informe **extraordinario**, dirigido a las Diputaciones Permanentes si las Cámaras no están reunidas. Los informes se publican y deben omitir los datos personales que identifiquen a los interesados, sin perjuicio de las excepciones de la propia ley. La dotación económica de la institución es una partida de los **presupuestos de las Cortes Generales**. Base: artículos 32, 33 y 37.
 
