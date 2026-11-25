@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": "2026-11-24-depuracion-global-semántica-v1",
+  "revision": "2026-11-25-v7-depuracion-semanticamente-confirmada-1",
   "source": "Banco de preguntas GACE (pregunta+respuesta normalizadas); revisión jurídica original Defensor del Pueblo preservada",
   "scope": "Todas las materias y modalidades. Retirar duplicados literales, preguntas inversas de idéntica asociación y equivalencias revisadas; preservar diferencias materiales, fases, requisitos y supuestos. IDs originales inmutables.",
   "inactiveIds": [
@@ -583,6 +583,8 @@
     2617,
     3337,
     3382,
+    3421,
+    3427,
     3849,
     3850,
     3851,
@@ -6933,7 +6935,21 @@
         4162
       ],
       "concepto": "Mismo artículo y misma materia en distintas secciones"
+    },
+    {
+      "keep": 1235,
+      "hide": [
+        3421
+      ],
+      "concepto": "V7: LCSP art. 82, acreditación de solvencia técnica para mantener la clasificación cada tres años; mismo tema y formato"
+    },
+    {
+      "keep": 1239,
+      "hide": [
+        3427
+      ],
+      "concepto": "V7: LCSP art. 69, responsabilidad solidaria de los integrantes de una UTE; mismo tema y formato"
     }
   ],
-  "notes": "Depuración global conservadora, no exhaustiva, con asociaciones directas/inversas y equivalencias comprobadas. No borrar ni reasignar IDs históricos. La app iPhone V6.1.1 consume esta lista; Android V6.2.3 requiere adaptar su filtro de IDs retirados, puesto que su validador exige IDs consecutivos y no acepta reducciones."
+  "notes": "Depuración global conservadora, no exhaustiva, con asociaciones directas/inversas y equivalencias comprobadas. No borrar ni reasignar IDs históricos. La app iPhone V6.1.1 consume esta lista; Android V6.2.3 requiere adaptar su filtro de IDs retirados, puesto que su validador exige IDs consecutivos y no acepta reducciones. V7: dos equivalencias adicionales comprobadas dentro del mismo tema y formato; conservar especiales y ampliaciones hasta verificar selectores."
 }
