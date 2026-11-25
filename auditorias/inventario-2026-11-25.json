@@ -1,0 +1,3824 @@
+{
+  "fecha": "2026-11-25",
+  "commit_base": "399c5f8dd429c27a8383d890e2139974d46b1d99",
+  "blob_banco": "8fcdac57c22feb251357e901a64021d4bd164212",
+  "principales": 4705,
+  "ampliadas": 33,
+  "retiradas": 1011,
+  "activas": 3727,
+  "lecciones": 23,
+  "ids_retirados_sin_registro": [],
+  "metadatos_pendientes": [
+    {
+      "id": 2820,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 1.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2821,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 1.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2822,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 1.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2823,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2824,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2825,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 3.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2826,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 3.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2827,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 3.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2828,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 4.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2829,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 4.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2830,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 5",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2831,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 6",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2832,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 6",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2833,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 6",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2834,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 7",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2835,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 7",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2836,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 8.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2837,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 8.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2838,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 8.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2839,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 8.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2840,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 9.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2841,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 9.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2842,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 9.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2843,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 9.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2844,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 9.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2845,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 9.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2846,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 9.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2847,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 9.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2848,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 9.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2849,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 9.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2850,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2851,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2852,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2853,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2854,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2855,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2856,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2857,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2858,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2859,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2860,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 91; Tema 1 §1.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2861,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2862,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE disposición final",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2863,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE Título II; Tema 1 §1.2.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2864,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2865,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2866,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE disposición final",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2867,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE disposición derogatoria",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2868,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE Título I",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2869,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE Título I",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2870,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE Título I",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2871,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 53 y 81",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2872,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2873,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2874,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2875,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2876,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2877,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 23; Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2878,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 9.1; Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2879,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2880,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2881,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2882,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2883,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2884,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2885,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2886,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2887,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2888,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 2; Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2889,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2890,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2891,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2892,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2893,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2894,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2895,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2896,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 2; Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2897,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 166 y 87.1-2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2898,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 166 y 87",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2899,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 166 y 87.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2900,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Reglamento del Congreso 146; Tema 1 §3.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2901,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 168.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2902,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 168.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2903,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 167-168",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2904,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 168.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2905,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 168.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2906,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 168.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2907,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 168.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2908,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 168.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2909,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 167.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2910,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 167.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2911,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 167.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2912,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 167.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2913,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 169",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2914,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 169",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2915,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 169",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2916,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 167-168",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2917,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 13.2; Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2918,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2919,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2920,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2921,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2922,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 9.3; Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2923,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 9.2 y 14",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2924,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 1.2 y 2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2925,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 167.3 y 168.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2926,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2927,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2928,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2929,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2930,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2931,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2932,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2933,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2934,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2935,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 66; Tema 1 §1.2.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2936,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 97; Tema 1 §1.2.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2937,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 117; Tema 1 §1.2.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2938,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 56.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2939,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 56.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2940,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 64",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2941,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 56.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2942,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 1.3; Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2943,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2944,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2945,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE Título I",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2946,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE Título I",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2947,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE Título I",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2948,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2949,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE disposición final",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2950,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2951,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2952,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2953,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §1.2.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2954,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 167 y 168",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2955,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 168.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2956,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 167.3 y 168.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2957,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 167 y 168",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2958,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 168.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2959,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 168.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2960,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 169",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2961,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 167.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2962,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 166 y 87.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2963,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2; CE 1.2 y 2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2964,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2; CE 9.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2965,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2966,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2; CE 149.1.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2967,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2, principio de autonomía",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2968,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2, principio de autonomía",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2969,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2, principio de autonomía",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2970,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2, principio de autonomía",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2971,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 138.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2972,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 138.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2973,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 158.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2974,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 158.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2975,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 158.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2976,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2977,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2978,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2; CE 168.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2979,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2; CE 14",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2980,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2; CE 1.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2981,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2; CE 1.1 y 6",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2982,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2; CE 9.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2983,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2; CE 2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2984,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "Tema 1 §2; CE 149.1.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2985,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 9.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2986,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 168.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2987,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 168.1-3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2988,
+      "topic": "Tema 1 · Constitución: estructura, contenido y reforma",
+      "reference": "CE 166 y 87",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2989,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 24.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2990,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 16.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2991,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 18.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2992,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 49.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2993,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 55.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2994,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 44.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2995,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 17.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2996,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 18.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2997,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 20.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2998,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "LO 3/1981 art. 10.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 2999,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 43.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3000,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 31.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3001,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 24.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3002,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 53.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3003,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 31.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3004,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 25.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3005,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "LO 3/1981 art. 7",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3006,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 55",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3007,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 33.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3008,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 37.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3009,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 47",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3010,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 40.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3011,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 23.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3012,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 20.1.a",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3013,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 15",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3014,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 27.7",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3015,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 28.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3016,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 45.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3017,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "LO 3/1981 art. 33",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3018,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "LO 3/1981 art. 22.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3019,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 28.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3020,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 51.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3021,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 52",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3022,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 54",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3023,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 45.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3024,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 55.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3025,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 49.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3026,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 55.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3027,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 55.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3028,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 55.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3029,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 49.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3030,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 24.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3031,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 10.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3032,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 19",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3033,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 16.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3034,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 20.1.d",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3035,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 29.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3036,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 20.5",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3037,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 53.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3038,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 17.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3039,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 55.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3040,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 27.4",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3041,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 31.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3042,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 34.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3043,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 24.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3044,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 27.10",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3045,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 29.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3046,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 40.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3047,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 20.1.c",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3048,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 24.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3049,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 30.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3050,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 13.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3051,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 28.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3052,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 38",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3053,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 43.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3054,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 55.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3055,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 20.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3056,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 39.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3057,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 14",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3058,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "LO 3/1981 art. 7",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3059,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 31.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3060,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 55.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3061,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 55.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3062,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 39.4",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3063,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 13.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3064,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 43.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3065,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "LO 3/1981 art. 17",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3066,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 18.4",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3067,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 37.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3068,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 47",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3069,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 14",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3070,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 27.5",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3071,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 18.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3072,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 19",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3073,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 25.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3074,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 28.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3075,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 44.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3076,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 49.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3077,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 53.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3078,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 13.4",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3079,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 25.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3080,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 17.4",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3081,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 26",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3082,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 50",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3083,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 22.4",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3084,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 32.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3085,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 36",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3086,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 39.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3087,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "LO 3/1981 art. 17.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3088,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 20.4",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3089,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "LO 3/1981 art. 30",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3090,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 28.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3091,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 53.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3092,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 43.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3093,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 48",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3094,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 54",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3095,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 39.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3096,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 32.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3097,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 10.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3098,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 10.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3099,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 11.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3100,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 16.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3101,
+      "topic": "Tema 2 · Derechos fundamentales, garantías y Defensor del Pueblo",
+      "reference": "CE 17.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3102,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 75",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3103,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 60-67",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3104,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 73",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3105,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 70.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3106,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC disposición adicional tercera",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3107,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 30",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3108,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 68.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3109,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 29-35",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3110,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 75 ter.3",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3111,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 35.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3112,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 63",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3113,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 65",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3114,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 73",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3115,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 73",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3116,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "CE 164.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3117,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 68",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3118,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 90.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3119,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 75",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3120,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 75 ter",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3121,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 35",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3122,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 35.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3123,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 54",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3124,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "CE 164.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3125,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 71",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3126,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 42",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3127,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 68",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3128,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "CE 161.2; LOTC 64",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3129,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 66",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3130,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 75 ter",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3131,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 75 bis",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3132,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "CE 95.2; LOTC 78",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3133,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 49.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3134,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 86",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3135,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 75 ter",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3136,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 64.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3137,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 75 ter",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3138,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC disposición adicional tercera",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3139,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 70.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3140,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 75 ter",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3141,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "CE 164.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3142,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 68-72",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3143,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 79",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3144,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 41; CE 53.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3145,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 27",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3146,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 67",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3147,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 41-55",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3148,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 29",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3149,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 63.4",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3150,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 90.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3151,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 74",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3152,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 35",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3153,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 73",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3154,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 63.4",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3155,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 75 ter",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3156,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 73",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3157,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "CE 95; LOTC 78",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3158,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 44",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3159,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 64.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3160,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 50 y 53",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3161,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "CE 163",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3162,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 63",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3163,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "CE 95.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3164,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 63.4",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3165,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 60",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3166,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 75 ter",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3167,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "CE 164; LOTC 86",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3168,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC disposición adicional cuarta",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3169,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 37.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3170,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 59",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3171,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 64",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3172,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 66",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3173,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 68",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3174,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 74",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3175,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC disposición adicional cuarta",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3176,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 75 bis y 75 quinquies",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3177,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 79",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3178,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "CE 162.1.a; LOTC 32",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3179,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "CE 161.2; LOTC 30",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3180,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 69",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3181,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 72",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3182,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 75 ter",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3183,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "CE 163 y 164; LOTC 35 y 38",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3184,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 75 quater.1",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3185,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 64",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3186,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 68",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3187,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 75",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3188,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 75 bis",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3189,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 19",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3190,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 70.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3191,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 71",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3192,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 72",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3193,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 75 ter",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3194,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LO 2/1982; Tema 3 §2.2.5.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3195,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 70.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3196,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 62",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3197,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 73",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3198,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 73",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3199,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 10.1.b",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    },
+    {
+      "id": 3200,
+      "topic": "Tema 3 · Tribunal Constitucional",
+      "reference": "LOTC 68.2",
+      "activa": true,
+      "campos": [
+        "subtopic",
+        "explanation"
+      ]
+    }
+  ],
+  "nota": "No se han modificado preguntas ni respuestas. Los metadatos requieren revisión editorial; no inferir explicaciones del enunciado."
+}
