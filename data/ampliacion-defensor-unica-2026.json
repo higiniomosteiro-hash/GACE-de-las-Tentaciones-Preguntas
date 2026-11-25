@@ -1,7 +1,7 @@
 [
   {
     "id": 900001,
-    "question": "Convocado el Pleno del Congreso tras proponerse un candidato a Defensor del Pueblo, ¿qué antelación mínima exige la ley?",
+    "question": "Tras proponerse el candidato o candidatos a Defensor del Pueblo, ¿qué término mínimo establece la ley para convocar al Pleno del Congreso que procederá a la elección?",
     "answer": "10 días",
     "options": [
       "10 días",
@@ -16,7 +16,7 @@
     "format": "memoria",
     "difficulty": 2,
     "source": "BOE-A-1981-10325, texto consolidado",
-    "explanation": "Consulta el artículo 2.4 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+    "explanation": "El art. 2.4 fija un término mínimo de diez días tras la propuesta de candidato o candidatos y diferencia ese plazo del máximo de veinte días para la ratificación senatorial."
   },
   {
     "id": 900002,
@@ -134,7 +134,7 @@
   },
   {
     "id": 900008,
-    "question": "Para acordar el cese por notoria negligencia del Defensor del Pueblo, ¿qué mayoría exige cada Cámara?",
+    "question": "Para acordar el cese por notoria negligencia del Defensor del Pueblo, ¿qué mayoría de los componentes de cada Cámara exige la ley?",
     "answer": "Tres quintos",
     "options": [
       "Tres quintos",
@@ -149,11 +149,11 @@
     "format": "inap",
     "difficulty": 3,
     "source": "BOE-A-1981-10325, texto consolidado",
-    "explanation": "Consulta el artículo 5.2 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+    "explanation": "El art. 5.2 exige tres quintos de los componentes de cada Cámara, mediante debate y previa audiencia del interesado."
   },
   {
     "id": 900009,
-    "question": "Vacante el cargo, ¿en qué plazo máximo debe iniciarse el nombramiento del nuevo Defensor del Pueblo?",
+    "question": "Vacante el cargo, ¿en qué plazo máximo debe iniciarse el procedimiento de nombramiento de un nuevo Defensor del Pueblo?",
     "answer": "1 mes",
     "options": [
       "1 mes",
@@ -168,7 +168,7 @@
     "format": "memoria",
     "difficulty": 2,
     "source": "BOE-A-1981-10325, texto consolidado",
-    "explanation": "Consulta el artículo 5.3 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+    "explanation": "El art. 5.3 fija un mes como máximo para iniciar el procedimiento; no exige que la nueva designación quede completada dentro de ese plazo."
   },
   {
     "id": 900010,
@@ -248,7 +248,7 @@
   },
   {
     "id": 900014,
-    "question": "¿En cuántos días desde su nombramiento debe cesar en las incompatibilidades el Defensor del Pueblo?",
+    "question": "Además de hacerlo antes de tomar posesión, ¿en qué plazo desde su nombramiento debe cesar en las situaciones de incompatibilidad el Defensor del Pueblo?",
     "answer": "10 días",
     "options": [
       "10 días",
@@ -263,7 +263,7 @@
     "format": "memoria",
     "difficulty": 2,
     "source": "BOE-A-1981-10325, texto consolidado",
-    "explanation": "Consulta el artículo 7.2 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+    "explanation": "El art. 7.2 exige cesar en las incompatibilidades dentro de los diez días posteriores al nombramiento y antes de tomar posesión. En caso contrario, se entiende que no acepta el cargo."
   },
   {
     "id": 900015,
@@ -381,7 +381,7 @@
   },
   {
     "id": 900021,
-    "question": "¿Cuánto cuesta presentar una queja ante el Defensor del Pueblo?",
+    "question": "¿Qué regla rige la gratuidad y la asistencia jurídica en las actuaciones del Defensor del Pueblo?",
     "answer": "Es gratuito y no exige letrado ni procurador",
     "options": [
       "Es gratuito y no exige letrado ni procurador",
@@ -396,7 +396,7 @@
     "format": "memoria",
     "difficulty": 2,
     "source": "BOE-A-1981-10325, texto consolidado",
-    "explanation": "Consulta el artículo 15.2 de la Ley Orgánica 3/1981 y su contexto en el BOE."
+    "explanation": "Conforme al art. 15.2, las actuaciones son gratuitas para el interesado y no resulta obligatoria la asistencia de letrado ni de procurador."
   },
   {
     "id": 900022,
