@@ -8,6 +8,7 @@ import json
 import re
 import sys
 import unicodedata
+from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -97,7 +98,11 @@ def main():
           f"{len(retired)} retiradas; {len(active)} activas; "
           f"{len(program.get('published', []))} lecciones publicadas.")
     if errors:
-        for e in errors[:100]:
+        print(f"Total de incidencias: {len(errors)}", file=sys.stderr)
+        groups = Counter(re.sub(r":.*$", "", e) for e in errors)
+        for name, count in sorted(groups.items()):
+            print(f"RESUMEN: {name}: {count}", file=sys.stderr)
+        for e in errors:
             print("ERROR:", e, file=sys.stderr)
         sys.exit(1)
     print("OK: IDs, opciones, duplicados activos, fundamentos de nuevas preguntas y dossiers.")
