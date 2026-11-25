@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": "2026-11-25-v7-depuracion-semanticamente-confirmada-3",
+  "revision": "2026-11-25-v7-defensor-revision-juridica",
   "source": "Banco de preguntas GACE (pregunta+respuesta normalizadas); revisión jurídica original Defensor del Pueblo preservada",
   "scope": "Todas las materias y modalidades. Retirar duplicados literales, preguntas inversas de idéntica asociación y equivalencias revisadas; preservar diferencias materiales, fases, requisitos y supuestos. IDs originales inmutables.",
   "inactiveIds": [
@@ -583,6 +583,7 @@
     2483,
     2484,
     2505,
+    2581,
     2617,
     3337,
     3343,
@@ -6997,7 +6998,14 @@
         2137
       ],
       "concepto": "V7: Capítulo 6 del presupuesto de gastos: inversiones reales"
+    },
+    {
+      "keep": 2547,
+      "hide": [
+        2581
+      ],
+      "concepto": "V7: LO 3/1981 art. 28.2: sugerir modificación de norma que produzca situaciones injustas o perjudiciales. Mismo tema, subtema y modalidad."
     }
   ],
-  "notes": "Depuración global conservadora, no exhaustiva, con asociaciones directas/inversas y equivalencias comprobadas. No borrar ni reasignar IDs históricos. La app iPhone V6.1.1 consume esta lista; Android V6.2.3 requiere adaptar su filtro de IDs retirados, puesto que su validador exige IDs consecutivos y no acepta reducciones. V7: dos equivalencias adicionales comprobadas dentro del mismo tema y formato; conservar especiales y ampliaciones hasta verificar selectores. Segunda pasada: cuatro equivalencias del mismo tema, subtema y modalidad; conservar selección explícita de las 23 sesiones. Tercera pasada: dos equivalencias entre subtemas, autorizada por el usuario; conservar IDs históricos."
+  "notes": "Depuración global conservadora, no exhaustiva, con asociaciones directas/inversas y equivalencias comprobadas. No borrar ni reasignar IDs históricos. La app iPhone V6.1.1 consume esta lista; Android V6.2.3 requiere adaptar su filtro de IDs retirados, puesto que su validador exige IDs consecutivos y no acepta reducciones. V7: dos equivalencias adicionales comprobadas dentro del mismo tema y formato; conservar especiales y ampliaciones hasta verificar selectores. Segunda pasada: cuatro equivalencias del mismo tema, subtema y modalidad; conservar selección explícita de las 23 sesiones. Tercera pasada: dos equivalencias entre subtemas, autorizada por el usuario; conservar IDs históricos. Cuarta pasada: 2581 se conserva en historial pero se retira de los selectores activos por equivalencia con 2547. Variantes de otras colecciones se conservan hasta validar cobertura de ambos clientes."
 }
