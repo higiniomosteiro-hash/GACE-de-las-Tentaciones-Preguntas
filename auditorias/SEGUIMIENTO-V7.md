@@ -95,3 +95,7 @@ El inventario JSON original se conserva como fotografía histórica, no como lis
 - Comparación de las 23 sesiones mediante includeIds/includeSubtopics y exclusión de inactivas: conjuntos de IDs idénticos antes y después; todos los cupos cubiertos. No equivale a ejecución del cliente.
 - Inventario actualizado: 4.738 registros, **1.017 inactivos y 3.721 activos** (2.529 memoria, 1.192 INAP). No se editó questions.json. Las cuatro IDs conservan su posición histórica.
 - Pendientes: 191/365 y 1855/2137 son equivalencias conceptuales con subtemas distintos; no retirar sin comprobar cobertura por subtemas y selectores. La revisión semántica no es exhaustiva. Continuar revisión jurídica/editorial por familias y corregir distractores. No fusionar con main ni publicar.
+
+## Actualización: duplicados entre subtemas (25/11/2026)
+- Por indicación del usuario, retirados 365 (conservar 191: Ámsterdam y cooperaciones reforzadas) y 2137 (conservar 1855: capítulo 6 de gastos, inversiones reales).
+- Commit de curación `6f18923cc51da45f3a74bfc96c02dc607782b054`. 4.738 registros totales, 3.719 activos (2.527 memoria y 1.192 INAP), 1.019 inactivos. Banco e identificadores intactos; los tamaños de las bolsas de las 23 sesiones permanecen iguales y cubren sus cupos. Pendiente verificar los selectores reales y el filtro Android. No publicar ni fusionar con main.
