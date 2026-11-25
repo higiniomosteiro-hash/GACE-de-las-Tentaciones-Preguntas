@@ -28033,36 +28033,36 @@
     "question": "¿Para qué funciones puede nombrarse personal eventual?",
     "answer": "Confianza o asesoramiento especial",
     "options": [
-      "Libre",
+      "Gestión ordinaria de expedientes administrativos",
       "Confianza o asesoramiento especial",
-      "Cesa en todo caso",
-      "No permanente"
+      "Sustitución temporal de funcionarios",
+      "Dirección profesional de cualquier servicio"
     ],
-    "reference": "TREBEP art. 12; Ley 50/1997 art. 10",
+    "reference": "TREBEP art. 12.1",
     "category": "RRHH",
     "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
     "difficulty": 2,
     "source": "Tema 1 · Apuntes profesor y TREBEP BOE",
-    "explanation": "La respuesta es Confianza o asesoramiento especial. TREBEP art. 12; Ley 50/1997 art. 10",
+    "explanation": "Solo puede realizar las funciones expresamente calificadas como de confianza o asesoramiento especial.",
     "format": "memoria",
     "id": 1473,
     "subtopic": "Personal eventual"
   },
   {
-    "question": "¿Qué carácter tiene el puesto del personal eventual?",
+    "question": "¿Qué carácter tiene el nombramiento del personal eventual?",
     "answer": "No permanente",
     "options": [
-      "Confianza o asesoramiento especial",
-      "Libre",
-      "Cesa en todo caso",
+      "Permanente",
+      "Por tiempo indefinido como personal laboral",
+      "Vitalicio",
       "No permanente"
     ],
-    "reference": "TREBEP art. 12; Ley 50/1997 art. 10",
+    "reference": "TREBEP art. 12.1",
     "category": "RRHH",
     "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
     "difficulty": 2,
     "source": "Tema 1 · Apuntes profesor y TREBEP BOE",
-    "explanation": "La respuesta es No permanente. TREBEP art. 12; Ley 50/1997 art. 10",
+    "explanation": "El personal eventual tiene carácter no permanente.",
     "format": "memoria",
     "id": 1474,
     "subtopic": "Personal eventual"
@@ -28071,17 +28071,17 @@
     "question": "¿Cómo es el nombramiento del personal eventual?",
     "answer": "Libre",
     "options": [
-      "Confianza o asesoramiento especial",
-      "Cesa en todo caso",
+      "Por oposición",
+      "Por concurso de méritos",
       "Libre",
-      "No permanente"
+      "Por concurso-oposición"
     ],
-    "reference": "TREBEP art. 12; Ley 50/1997 art. 10",
+    "reference": "TREBEP art. 12.3",
     "category": "RRHH",
     "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
     "difficulty": 2,
     "source": "Tema 1 · Apuntes profesor y TREBEP BOE",
-    "explanation": "La respuesta es Libre. TREBEP art. 12; Ley 50/1997 art. 10",
+    "explanation": "Tanto el nombramiento como el cese del personal eventual son libres.",
     "format": "memoria",
     "id": 1475,
     "subtopic": "Personal eventual"
@@ -28090,17 +28090,17 @@
     "question": "¿Cómo es el cese del personal eventual?",
     "answer": "Libre",
     "options": [
-      "No permanente",
-      "Cesa en todo caso",
+      "Solo por sanción disciplinaria firme",
+      "Solo al finalizar la legislatura",
       "Libre",
-      "Confianza o asesoramiento especial"
+      "Solo por renuncia voluntaria"
     ],
-    "reference": "TREBEP art. 12; Ley 50/1997 art. 10",
+    "reference": "TREBEP art. 12.3",
     "category": "RRHH",
     "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
     "difficulty": 2,
     "source": "Tema 1 · Apuntes profesor y TREBEP BOE",
-    "explanation": "La respuesta es Libre. TREBEP art. 12; Ley 50/1997 art. 10",
+    "explanation": "El cese es libre y tiene lugar necesariamente cuando cesa la autoridad asesorada.",
     "format": "memoria",
     "id": 1476,
     "subtopic": "Personal eventual"
@@ -28114,12 +28114,12 @@
       "Cesa al cumplirse el plazo del nombramiento, pero no por el cese de la autoridad",
       "Cesa en todo caso"
     ],
-    "reference": "TREBEP art. 12; Ley 50/1997 art. 10",
+    "reference": "TREBEP art. 12.3",
     "category": "RRHH",
     "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
     "difficulty": 2,
     "source": "Tema 1 · Apuntes profesor y TREBEP BOE",
-    "explanation": "La respuesta es Cesa en todo caso. TREBEP art. 12; Ley 50/1997 art. 10",
+    "explanation": "El cese del eventual se produce necesariamente cuando cesa la autoridad a la que presta confianza o asesoramiento.",
     "format": "memoria",
     "id": 1477,
     "subtopic": "Personal eventual"
@@ -28128,17 +28128,17 @@
     "question": "¿Qué valor tiene ser personal eventual para acceder a la función pública?",
     "answer": "No constituye mérito",
     "options": [
-      "Permanece hasta que culmine el proceso selectivo de funcionarios de carrera",
-      "Solo puede mantenerse si el nuevo titular confirma la confianza mediante resolución expresa",
-      "Continúa hasta la siguiente revisión presupuestaria sin posibilidad de cese anticipado",
+      "Constituye mérito obligatorio en todos los procesos",
+      "Exime de acreditar los requisitos de acceso",
+      "Constituye mérito preferente en el concurso",
       "No constituye mérito"
     ],
-    "reference": "TREBEP art. 12; Ley 50/1997 art. 10",
+    "reference": "TREBEP art. 12.4",
     "category": "RRHH",
     "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
     "difficulty": 2,
     "source": "Tema 1 · Apuntes profesor y TREBEP BOE",
-    "explanation": "La respuesta es No constituye mérito. TREBEP art. 12; Ley 50/1997 art. 10",
+    "explanation": "La condición de eventual no puede constituir mérito para el acceso a la función pública ni para la promoción interna.",
     "format": "memoria",
     "id": 1478,
     "subtopic": "Personal eventual"
@@ -28147,17 +28147,17 @@
     "question": "¿Qué órgano determina el número máximo de puestos eventuales?",
     "answer": "Órgano de gobierno respectivo",
     "options": [
-      "Libre",
-      "No permanente",
-      "Confianza o asesoramiento especial",
+      "El órgano de selección",
+      "La mesa de negociación",
+      "El órgano de control interno",
       "Órgano de gobierno respectivo"
     ],
-    "reference": "TREBEP art. 12; Ley 50/1997 art. 10",
+    "reference": "TREBEP art. 12.2",
     "category": "RRHH",
     "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
     "difficulty": 2,
     "source": "Tema 1 · Apuntes profesor y TREBEP BOE",
-    "explanation": "La respuesta es Órgano de gobierno respectivo. TREBEP art. 12; Ley 50/1997 art. 10",
+    "explanation": "Cada órgano de gobierno respectivo establece el número máximo, conforme al marco de las leyes de función pública.",
     "format": "memoria",
     "id": 1479,
     "subtopic": "Personal eventual"
@@ -28167,16 +28167,16 @@
     "answer": "Número y condiciones retributivas",
     "options": [
       "Número y condiciones retributivas",
-      "Confianza o asesoramiento especial",
-      "No permanente",
-      "Libre"
+      "Solo el número de nombramientos anuales",
+      "Solo las condiciones de jornada y horario",
+      "Solo el número de puestos vacantes"
     ],
-    "reference": "TREBEP art. 12; Ley 50/1997 art. 10",
+    "reference": "TREBEP art. 12.2",
     "category": "RRHH",
     "topic": "Tema 1 · Normativa y personal al servicio de las AAPP",
     "difficulty": 2,
     "source": "Tema 1 · Apuntes profesor y TREBEP BOE",
-    "explanation": "La respuesta es Número y condiciones retributivas. TREBEP art. 12; Ley 50/1997 art. 10",
+    "explanation": "El número de personal eventual y sus condiciones retributivas son públicos.",
     "format": "memoria",
     "id": 1480,
     "subtopic": "Personal eventual"
@@ -53535,7 +53535,7 @@
   },
   {
     "id": 2814,
-    "question": "¿Qué régimen general se aplica supletoriamente al personal eventual cuando resulte adecuado a su condición?",
+    "question": "¿Qué régimen general resulta aplicable al personal eventual en lo que sea adecuado a la naturaleza de su condición?",
     "answer": "El de los funcionarios de carrera",
     "options": [
       "El de los funcionarios de carrera",
@@ -53550,7 +53550,7 @@
     "difficulty": 3,
     "format": "inap",
     "source": "TREBEP BOE-A-2015-11719, texto consolidado aportado; artículos indicados",
-    "explanation": "El artículo 12.5 aplica, en lo adecuado, el régimen general de funcionarios de carrera."
+    "explanation": "El artículo 12.5 establece la aplicación del régimen general de los funcionarios de carrera en lo que sea adecuado a la naturaleza de la condición de eventual."
   },
   {
     "id": 2815,
