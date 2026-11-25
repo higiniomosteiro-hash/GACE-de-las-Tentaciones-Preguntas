@@ -69110,12 +69110,12 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "memoria",
     "id": 3627,
-    "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una fundación pública celebra un contrato de servicios de limpieza.",
-    "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+    "question": "¿Qué naturaleza jurídica tiene el contrato en este supuesto? Una fundación pública celebra un contrato de servicios de limpieza.",
+    "answer": "Contrato privado sujeto a la LCSP",
     "options": [
       "Administrativo típico",
       "Administrativo especial",
-      "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+      "Contrato privado sujeto a la LCSP",
       "Negocio o relación excluidos de la LCSP"
     ],
     "reference": "LCSP Arts. 3.3.b y 26.1.b",
@@ -69130,11 +69130,11 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "inap",
     "id": 3628,
-    "question": "Clasifica jurídicamente esta operación: Una mutua colaboradora con la Seguridad Social compra equipos informáticos.",
-    "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+    "question": "¿Qué naturaleza jurídica tiene el contrato en este supuesto? Una mutua colaboradora con la Seguridad Social compra equipos informáticos.",
+    "answer": "Contrato privado sujeto a la LCSP",
     "options": [
       "Administrativo especial",
-      "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+      "Contrato privado sujeto a la LCSP",
       "Negocio o relación excluidos de la LCSP",
       "Administrativo típico"
     ],
@@ -69150,11 +69150,11 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "memoria",
     "id": 3629,
-    "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una sociedad mercantil pública sin condición de AAPP contrata la construcción de un edificio.",
-    "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+    "question": "¿Qué naturaleza jurídica tiene el contrato en este supuesto? Una sociedad mercantil pública sin condición de AAPP contrata la construcción de un edificio.",
+    "answer": "Contrato privado sujeto a la LCSP",
     "options": [
       "Administrativo típico",
-      "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+      "Contrato privado sujeto a la LCSP",
       "Negocio o relación excluidos de la LCSP",
       "Administrativo especial"
     ],
@@ -69170,13 +69170,13 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "memoria",
     "id": 3630,
-    "question": "Clasifica jurídicamente esta operación: Una EPE con actividad comercial y que no es PA contrata suministros.",
-    "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+    "question": "¿Qué naturaleza jurídica tiene el contrato en este supuesto? Una EPE con actividad comercial y que no es PA contrata suministros.",
+    "answer": "Contrato privado sujeto a la LCSP",
     "options": [
       "Administrativo especial",
       "Administrativo típico",
       "Negocio o relación excluidos de la LCSP",
-      "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)"
+      "Contrato privado sujeto a la LCSP"
     ],
     "reference": "LCSP Arts. 3 y 26.1.c",
     "explanation": "Los contratos de SP no PA son privados.",
@@ -69190,10 +69190,10 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "inap",
     "id": 3631,
-    "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una asociación de poderes adjudicadores no AAPP contrata material informático.",
-    "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+    "question": "¿Qué naturaleza jurídica tiene el contrato en este supuesto? Una asociación de poderes adjudicadores no AAPP contrata material informático.",
+    "answer": "Contrato privado sujeto a la LCSP",
     "options": [
-      "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+      "Contrato privado sujeto a la LCSP",
       "Administrativo especial",
       "Administrativo típico",
       "Negocio o relación excluidos de la LCSP"
@@ -69210,10 +69210,10 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "memoria",
     "id": 3632,
-    "question": "Clasifica jurídicamente esta operación: Una AAPP contrata una actuación de interpretación artística incluida en los códigos CPV exceptuados del art. 25.1.a.1.º.",
-    "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+    "question": "¿Qué naturaleza jurídica tiene el contrato en este supuesto? Una AAPP contrata una actuación de interpretación artística incluida en los códigos CPV exceptuados del art. 25.1.a.1.º.",
+    "answer": "Contrato privado sujeto a la LCSP",
     "options": [
-      "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+      "Contrato privado sujeto a la LCSP",
       "Negocio o relación excluidos de la LCSP",
       "Administrativo especial",
       "Administrativo típico"
@@ -69230,12 +69230,12 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "memoria",
     "id": 3633,
-    "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una AAPP contrata un espectáculo de los códigos CPV exceptuados en el art. 25.1.a.1.º.",
-    "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+    "question": "¿Qué naturaleza jurídica tiene el contrato en este supuesto? Una AAPP contrata un espectáculo de los códigos CPV exceptuados en el art. 25.1.a.1.º.",
+    "answer": "Contrato privado sujeto a la LCSP",
     "options": [
       "Administrativo típico",
       "Negocio o relación excluidos de la LCSP",
-      "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+      "Contrato privado sujeto a la LCSP",
       "Administrativo especial"
     ],
     "reference": "LCSP Arts. 25.1.a.1.º y 26",
@@ -69250,13 +69250,13 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "inap",
     "id": 3634,
-    "question": "Clasifica jurídicamente esta operación: Un ministerio concierta servicios financieros comprendidos en CPV 66100000-1 a 66720000-3, que no constituyen un negocio excluido por el artículo 10.",
-    "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+    "question": "¿Qué naturaleza jurídica tiene el contrato en este supuesto? Un ministerio concierta servicios financieros comprendidos en CPV 66100000-1 a 66720000-3, que no constituyen un negocio excluido por el artículo 10.",
+    "answer": "Contrato privado sujeto a la LCSP",
     "options": [
       "Administrativo especial",
       "Negocio o relación excluidos de la LCSP",
       "Administrativo típico",
-      "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)"
+      "Contrato privado sujeto a la LCSP"
     ],
     "reference": "LCSP Arts. 25.1.a.1.º y 26",
     "explanation": "La excepción del artículo 25.1.a.1.º califica estos servicios como privados, siempre que no queden fuera de LCSP por una exclusión específica, como las del artículo 10.",
@@ -69270,11 +69270,11 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "memoria",
     "id": 3635,
-    "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una diputación suscribe una revista profesional mediante un contrato.",
-    "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+    "question": "¿Qué naturaleza jurídica tiene el contrato en este supuesto? Una diputación suscribe una revista profesional mediante un contrato.",
+    "answer": "Contrato privado sujeto a la LCSP",
     "options": [
       "Administrativo típico",
-      "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+      "Contrato privado sujeto a la LCSP",
       "Administrativo especial",
       "Negocio o relación excluidos de la LCSP"
     ],
@@ -69290,12 +69290,12 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "memoria",
     "id": 3636,
-    "question": "Clasifica jurídicamente esta operación: Un organismo autónomo adquiere una suscripción a una publicación periódica.",
-    "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+    "question": "¿Qué naturaleza jurídica tiene el contrato en este supuesto? Un organismo autónomo adquiere una suscripción a una publicación periódica.",
+    "answer": "Contrato privado sujeto a la LCSP",
     "options": [
       "Administrativo especial",
       "Negocio o relación excluidos de la LCSP",
-      "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+      "Contrato privado sujeto a la LCSP",
       "Administrativo típico"
     ],
     "reference": "LCSP Arts. 25.1.a.2.º y 26",
@@ -69310,10 +69310,10 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "inap",
     "id": 3637,
-    "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una universidad pública suscribe una base de datos bibliográfica.",
-    "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+    "question": "¿Qué naturaleza jurídica tiene el contrato en este supuesto? Una universidad pública suscribe una base de datos bibliográfica.",
+    "answer": "Contrato privado sujeto a la LCSP",
     "options": [
-      "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+      "Contrato privado sujeto a la LCSP",
       "Negocio o relación excluidos de la LCSP",
       "Administrativo típico",
       "Administrativo especial"
@@ -69330,13 +69330,13 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "memoria",
     "id": 3638,
-    "question": "Clasifica jurídicamente esta operación: Una AAPP contrata el acceso por suscripción a una base de datos de jurisprudencia.",
-    "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+    "question": "¿Qué naturaleza jurídica tiene el contrato en este supuesto? Una AAPP contrata el acceso por suscripción a una base de datos de jurisprudencia.",
+    "answer": "Contrato privado sujeto a la LCSP",
     "options": [
       "Administrativo especial",
       "Negocio o relación excluidos de la LCSP",
       "Administrativo típico",
-      "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)"
+      "Contrato privado sujeto a la LCSP"
     ],
     "reference": "LCSP Arts. 25.1.a.2.º y 26",
     "explanation": "La suscripción a bases de datos está expresamente exceptuada del contrato administrativo.",
@@ -69350,11 +69350,11 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "memoria",
     "id": 3639,
-    "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Un consorcio que es PA pero no AAPP celebra un contrato de servicios ordinarios.",
-    "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+    "question": "¿Qué naturaleza jurídica tiene el contrato en este supuesto? Un consorcio que es PA pero no AAPP celebra un contrato de servicios ordinarios.",
+    "answer": "Contrato privado sujeto a la LCSP",
     "options": [
       "Administrativo típico",
-      "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+      "Contrato privado sujeto a la LCSP",
       "Administrativo especial",
       "Negocio o relación excluidos de la LCSP"
     ],
@@ -69370,12 +69370,12 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "inap",
     "id": 3640,
-    "question": "Clasifica jurídicamente esta operación: Una sociedad mercantil pública no PA contrata servicios de mantenimiento.",
-    "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+    "question": "¿Qué naturaleza jurídica tiene el contrato en este supuesto? Una sociedad mercantil pública no PA contrata servicios de mantenimiento.",
+    "answer": "Contrato privado sujeto a la LCSP",
     "options": [
       "Administrativo especial",
       "Negocio o relación excluidos de la LCSP",
-      "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+      "Contrato privado sujeto a la LCSP",
       "Administrativo típico"
     ],
     "reference": "LCSP Art. 26.1.c",
@@ -69390,10 +69390,10 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "memoria",
     "id": 3641,
-    "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una fundación pública concierta suministros para un laboratorio.",
-    "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+    "question": "¿Qué naturaleza jurídica tiene el contrato en este supuesto? Una fundación pública concierta suministros para un laboratorio.",
+    "answer": "Contrato privado sujeto a la LCSP",
     "options": [
-      "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+      "Contrato privado sujeto a la LCSP",
       "Negocio o relación excluidos de la LCSP",
       "Administrativo típico",
       "Administrativo especial"
@@ -69410,13 +69410,13 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "memoria",
     "id": 3642,
-    "question": "Clasifica jurídicamente esta operación: Una entidad de derecho público PA que no reúne art. 3.2.b como AAPP adjudica obras.",
-    "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+    "question": "¿Qué naturaleza jurídica tiene el contrato en este supuesto? Una entidad de derecho público PA que no reúne art. 3.2.b como AAPP adjudica obras.",
+    "answer": "Contrato privado sujeto a la LCSP",
     "options": [
       "Negocio o relación excluidos de la LCSP",
       "Administrativo típico",
       "Administrativo especial",
-      "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)"
+      "Contrato privado sujeto a la LCSP"
     ],
     "reference": "LCSP Arts. 3.3.d y 26.1.b",
     "explanation": "La naturaleza privada deriva de la condición de PA no AAPP.",
@@ -69430,12 +69430,12 @@
     "origin": "Entrenamientos especiales de contratos · noviembre 2026",
     "format": "inap",
     "id": 3643,
-    "question": "Una cuestión de oposición plantea lo siguiente. ¿Qué naturaleza tiene?: Una Administración pública contrata un espectáculo incluido en los CPV artísticos expresamente exceptuados por el art. 25.",
-    "answer": "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+    "question": "¿Qué naturaleza jurídica tiene el contrato en este supuesto? Una Administración pública contrata un espectáculo incluido en los CPV artísticos expresamente exceptuados por el art. 25.",
+    "answer": "Contrato privado sujeto a la LCSP",
     "options": [
       "Administrativo típico",
       "Administrativo especial",
-      "Privado (contrato sujeto a la LCSP, con el alcance legal correspondiente)",
+      "Contrato privado sujeto a la LCSP",
       "Negocio o relación excluidos de la LCSP"
     ],
     "reference": "LCSP Arts. 25.1.a.1.º y 26",
@@ -70354,9 +70354,9 @@
     "answer": "Las restantes normas de Derecho administrativo y, en su defecto, las de Derecho privado",
     "options": [
       "Las restantes normas de Derecho administrativo y, en su defecto, las de Derecho privado",
-      "Solo reglas de financiación bancaria",
-      "Solo las bases sindicales",
-      "Directamente Derecho privado en primer lugar"
+      "Las normas de Derecho privado y, subsidiariamente, las de Derecho administrativo",
+      "Las normas de Derecho administrativo, sin aplicación subsidiaria del Derecho privado",
+      "Las normas de Derecho privado, sin aplicación de las restantes normas administrativas"
     ],
     "reference": "LCSP Art. 25.2",
     "explanation": "Primero Derecho administrativo supletorio; en defecto de este, Derecho privado.",
@@ -70413,9 +70413,9 @@
     "question": "Una AAPP formaliza contrato privado de suscripción a base de datos. En defecto de reglas especiales, ¿qué régimen rige su preparación?",
     "answer": "Las reglas de preparación y adjudicación LCSP aplicables a contratos privados de AAPP",
     "options": [
-      "Solo el Derecho de sociedades",
-      "Únicamente el Código Penal",
-      "Solo Derecho civil sin normas de contratación",
+      "Las reglas civiles sobre contratación, con exclusión de las reglas de adjudicación de la LCSP",
+      "Las normas del Libro III de la LCSP aplicables a poderes adjudicadores no Administración pública",
+      "Las normas del Libro III de la LCSP aplicables a entidades que no son poderes adjudicadores",
       "Las reglas de preparación y adjudicación LCSP aplicables a contratos privados de AAPP"
     ],
     "reference": "LCSP Art. 26.2",
@@ -88415,10 +88415,10 @@
     "question": "¿Quién preside el COREPER I durante una presidencia rotatoria del Consejo?",
     "answer": "El representante permanente adjunto del Estado que ejerce la presidencia",
     "options": [
-      "El alto representante",
-      "El presidente del Consejo Europeo",
+      "El representante permanente del Estado que ejerce la presidencia del Consejo",
+      "El representante permanente adjunto del Estado que ejerce la siguiente presidencia del Consejo",
       "El representante permanente adjunto del Estado que ejerce la presidencia",
-      "El secretario general de la Comisión"
+      "El representante permanente del Estado de la anterior presidencia del Consejo"
     ],
     "reference": "TFUE art. 240; organización del Consejo",
     "category": "Unión Europea",
@@ -88427,7 +88427,7 @@
     "difficulty": 3,
     "format": "inap",
     "source": "Tratado de la Unión Europea y Tratado de Funcionamiento de la Unión Europea · GACE A2",
-    "explanation": "Respuesta correcta: El representante permanente adjunto del Estado que ejerce la presidencia. Referencia: TFUE art. 240; organización del Consejo."
+    "explanation": "El COREPER I está compuesto por los representantes permanentes adjuntos. Lo preside el representante permanente adjunto del Estado que ejerce la Presidencia del Consejo de la UE; el COREPER II reúne a los representantes permanentes."
   },
   {
     "id": 4599,
@@ -89403,19 +89403,19 @@
     "question": "¿De dónde procede el personal del Servicio Europeo de Acción Exterior según el art. 27.3 TUE?",
     "answer": "Secretaría General del Consejo, Comisión y servicios diplomáticos nacionales",
     "options": [
-      "Exclusivamente de las embajadas nacionales",
-      "Solo del Parlamento Europeo",
+      "Secretaría General del Consejo, Parlamento Europeo y servicios diplomáticos nacionales",
+      "Comisión, Parlamento Europeo y servicios diplomáticos nacionales",
       "Secretaría General del Consejo, Comisión y servicios diplomáticos nacionales",
-      "Únicamente de la Comisión"
+      "Secretaría General del Consejo, Comisión y Tribunal de Justicia de la Unión Europea"
     ],
-    "reference": "TUE arts. 17-18 y 27; TFUE arts. 218 y 258-260",
+    "reference": "TUE art. 27.3",
     "category": "Unión Europea",
     "topic": "Tema 2 · La organización de la Unión Europea (I)",
     "subtopic": "Alto representante y acción exterior",
     "difficulty": 3,
     "format": "inap",
     "source": "Tratado de la Unión Europea y Tratado de Funcionamiento de la Unión Europea · GACE A2",
-    "explanation": "Respuesta correcta: Secretaría General del Consejo, Comisión y servicios diplomáticos nacionales. Referencia: TUE arts. 17-18 y 27; TFUE arts. 218 y 258-260."
+    "explanation": "El SEAE está integrado por funcionarios de los servicios competentes de la Secretaría General del Consejo y de la Comisión, además de personal en comisión de servicios de los servicios diplomáticos nacionales."
   },
   {
     "id": 4651,
