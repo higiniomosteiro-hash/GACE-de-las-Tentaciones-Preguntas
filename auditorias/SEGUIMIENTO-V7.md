@@ -86,3 +86,12 @@ El inventario JSON original se conserva como fotografía histórica, no como lis
 - Comparación exacta: **53 objetos cambiados**, exclusivamente los IDs documentados en los lotes 2 y 3. **0 posiciones de respuesta correcta desplazadas**, **0 campos de clasificación cambiados**, **0 IDs renumerados**.
 - Inventario: **4.705 principales + 33 adicionales = 4.738; 1.013 inactivas y 3.725 activas** (2.533 memoria y 1.192 INAP). Los 4.738 IDs son únicos; las 4 alternativas por pregunta están presentes, son distintas y contienen una vez la respuesta esperada; ninguna pregunta carece de formato o subtema. El comprobador de duplicados exactos activos (enunciado y respuesta normalizados por categoría/modalidad) no emitió avisos.
 - **0 errores** en esa comprobación estructural personalizada. **No se han ejecutado** el workflow de GitHub Actions, pruebas Android, iPhone o Firebase. Este control no identifica duplicados semánticos, ambigüedades jurídicas o distractores inapropiados fuera de los lotes revisados.
+
+
+## Actualización: duplicados semánticos, pasada 2 (25/11/2026)
+
+- Commit de curación `eb9b784d702c9460b1281c0de1d7fd141adad7d4`, blob `1cae619ee91f1ed6013f0b4170111535688b973b`. Cuatro bajas confirmadas: 305 → conservar 327 (UE, ampliación de 2004); 3471 → conservar 1271 (LCSP 107.3); 3363 → conservar 1149 (LCSP 323); 3343 → conservar 1095 (LCSP 25). Misma modalidad, tema, subtema y concepto. Se conserva 327 en vez de 305 porque figura expresamente en el examen de adhesiones.
+- Se compararon grupos por categoría, tema, subtema, modalidad y respuesta normalizada con similitud de tokens, incluidas referencias diferentes; se revisaron manualmente los pares encontrados. Se preservaron hechos diferentes con igual respuesta (fechas de diferentes normas, ampliaciones, fases constitucionales y supuestos contractuales).
+- Comparación de las 23 sesiones mediante includeIds/includeSubtopics y exclusión de inactivas: conjuntos de IDs idénticos antes y después; todos los cupos cubiertos. No equivale a ejecución del cliente.
+- Inventario actualizado: 4.738 registros, **1.017 inactivos y 3.721 activos** (2.529 memoria, 1.192 INAP). No se editó questions.json. Las cuatro IDs conservan su posición histórica.
+- Pendientes: 191/365 y 1855/2137 son equivalencias conceptuales con subtemas distintos; no retirar sin comprobar cobertura por subtemas y selectores. La revisión semántica no es exhaustiva. Continuar revisión jurídica/editorial por familias y corregir distractores. No fusionar con main ni publicar.
