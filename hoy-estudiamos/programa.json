@@ -258,11 +258,7 @@
       "path": "hoy-estudiamos/personal-directivo-profesional.md",
       "exam": {
         "count": 25,
-        "includeSubtopics": [
-          "Personal directivo profesional",
-          "Dirección · Nombramiento y cese",
-          "Clases y régimen del personal"
-        ],
+        "includeSubtopics": [],
         "excludeInactive": true,
         "includeIds": [
           1481,
@@ -288,7 +284,14 @@
           1501,
           1502,
           1503,
-          1504
+          1504,
+          1608,
+          1609,
+          1610,
+          1611,
+          2671,
+          2677,
+          2815
         ]
       }
     },
@@ -738,10 +741,11 @@
       "exam": {
         "count": 10,
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Repaso transversal de la CE"
-        ],
+        "includeSubtopics": [],
         "includeIds": [
+          133,
+          135,
+          597,
           851,
           870,
           871,
@@ -749,9 +753,9 @@
           2283,
           2326,
           2327,
-          2430,
-          2437,
-          2503
+          2503,
+          2643,
+          3027
         ]
       }
     },
@@ -850,12 +854,11 @@
           184,
           185,
           201,
-          202
+          202,
+          2645
         ],
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Tratados y procedimientos UE"
-        ]
+        "includeSubtopics": []
       }
     },
     {
@@ -896,12 +899,13 @@
           197,
           198,
           199,
-          200
+          200,
+          2644,
+          2646,
+          2649
         ],
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Tratados y procedimientos UE"
-        ]
+        "includeSubtopics": []
       }
     },
     {
@@ -945,12 +949,11 @@
           324,
           325,
           326,
-          327
+          327,
+          2648
         ],
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Tratados y procedimientos UE"
-        ]
+        "includeSubtopics": []
       }
     },
     {
@@ -963,6 +966,12 @@
       "exam": {
         "count": 25,
         "includeIds": [
+          261,
+          262,
+          263,
+          264,
+          265,
+          266,
           328,
           329,
           330,
@@ -981,17 +990,10 @@
           343,
           344,
           345,
-          261,
-          262,
-          263,
-          264,
-          265,
-          266
+          2648
         ],
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Tratados y procedimientos UE"
-        ]
+        "includeSubtopics": []
       }
     },
     {
@@ -1032,9 +1034,7 @@
           259
         ],
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Tratados y procedimientos UE"
-        ]
+        "includeSubtopics": []
       }
     },
     {
@@ -1383,9 +1383,7 @@
       "exam": {
         "count": 25,
         "excludeInactive": true,
-        "includeSubtopics": [
-          "Clases y régimen del personal"
-        ],
+        "includeSubtopics": [],
         "includeIds": [
           1431,
           1432,
@@ -1418,7 +1416,10 @@
           1459,
           1460,
           1461,
-          1462
+          1462,
+          2674,
+          2675,
+          2676
         ]
       }
     }
