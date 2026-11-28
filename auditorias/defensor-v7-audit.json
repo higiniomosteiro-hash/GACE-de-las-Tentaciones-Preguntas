@@ -658,5 +658,1725 @@
     "source": "BOE-A-1981-10325, texto consolidado",
     "explanation": "Consulta el artículo disposición final única de la Ley Orgánica 3/1981 y su contexto en el BOE.",
     "inactive": false
+  },
+  {
+    "id": 900034,
+    "question": "¿Cuál es el título constitucional del monarca?",
+    "answer": "Rey de España",
+    "options": [
+      "Rey del Estado español",
+      "Rey de España",
+      "Príncipe de España",
+      "Rey de las Cortes Generales"
+    ],
+    "reference": "CE 56.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Jefatura del Estado",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "Puede utilizar además los demás títulos correspondientes a la Corona.",
+    "inactive": false
+  },
+  {
+    "id": 900035,
+    "question": "¿Ante qué naciones destaca especialmente la representación internacional del Rey?",
+    "answer": "Las de su comunidad histórica",
+    "options": [
+      "Las de su comunidad histórica",
+      "Las de la Unión Europea",
+      "Las del Consejo de Europa",
+      "Las de la OTAN"
+    ],
+    "reference": "CE 56.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Jefatura del Estado",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El precepto singulariza las naciones de la comunidad histórica de España.",
+    "inactive": false
+  },
+  {
+    "id": 900036,
+    "question": "¿En los sucesores de qué monarca es hereditaria la Corona?",
+    "answer": "Juan Carlos I de Borbón",
+    "options": [
+      "Felipe VI",
+      "Juan Carlos I de Borbón",
+      "Alfonso XII",
+      "Alfonso XIII"
+    ],
+    "reference": "CE 57.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El artículo 57.1 identifica expresamente a Juan Carlos I como legítimo heredero de la dinastía histórica.",
+    "inactive": false
+  },
+  {
+    "id": 900037,
+    "question": "¿Qué criterio sucesorio prevalece antes de comparar el grado?",
+    "answer": "La línea anterior",
+    "options": [
+      "El grado más remoto",
+      "La línea anterior",
+      "La mayor edad",
+      "El sexo masculino"
+    ],
+    "reference": "CE 57.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La prioridad de línea precede a la comparación de grados.",
+    "inactive": false
+  },
+  {
+    "id": 900038,
+    "question": "Dentro de una misma línea sucesoria, ¿qué grado se prefiere?",
+    "answer": "El más próximo",
+    "options": [
+      "El de mayor edad",
+      "El más remoto",
+      "El más próximo",
+      "El fijado por las Cortes"
+    ],
+    "reference": "CE 57.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "Solo dentro de la misma línea se compara la proximidad del grado.",
+    "inactive": false
+  },
+  {
+    "id": 900039,
+    "question": "En el mismo grado, ¿qué preferencia establece la Constitución?",
+    "answer": "El varón a la mujer",
+    "options": [
+      "La mujer al varón",
+      "El varón a la mujer",
+      "La edad sin atender al sexo",
+      "La elección por las Cortes"
+    ],
+    "reference": "CE 57.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La preferencia masculina opera en igualdad de grado, no por encima de la prioridad de línea.",
+    "inactive": false
+  },
+  {
+    "id": 900040,
+    "question": "En el mismo sexo y grado, ¿qué persona tiene preferencia?",
+    "answer": "La de más edad",
+    "options": [
+      "La designada por el Gobierno",
+      "La designada por el Rey",
+      "La de menos edad",
+      "La de más edad"
+    ],
+    "reference": "CE 57.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La edad es el último criterio de preferencia del orden sucesorio.",
+    "inactive": false
+  },
+  {
+    "id": 900041,
+    "question": "¿Qué dignidad ostenta el heredero de la Corona?",
+    "answer": "Príncipe de Asturias",
+    "options": [
+      "Infante de España exclusivamente",
+      "Regente del Reino",
+      "Príncipe de Asturias",
+      "Príncipe de Girona exclusivamente"
+    ],
+    "reference": "CE 57.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La dignidad de Príncipe de Asturias se añade a los demás títulos tradicionalmente vinculados al sucesor.",
+    "inactive": false
+  },
+  {
+    "id": 900042,
+    "question": "¿Quién provee a la sucesión si se extinguen todas las líneas llamadas en Derecho?",
+    "answer": "Las Cortes Generales",
+    "options": [
+      "El Tribunal Constitucional",
+      "El Consejo de Estado",
+      "El Consejo de Ministros",
+      "Las Cortes Generales"
+    ],
+    "reference": "CE 57.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "Las Cortes atienden a los intereses de España.",
+    "inactive": false
+  },
+  {
+    "id": 900043,
+    "question": "¿De quién debe proceder la expresa prohibición matrimonial a efectos de exclusión sucesoria?",
+    "answer": "Del Rey y de las Cortes Generales",
+    "options": [
+      "Del Rey y del Gobierno",
+      "Solo del Congreso",
+      "Del Rey y de las Cortes Generales",
+      "Solo del Rey"
+    ],
+    "reference": "CE 57.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La Constitución exige la prohibición expresa de ambas autoridades.",
+    "inactive": false
+  },
+  {
+    "id": 900044,
+    "question": "¿A quién alcanza la exclusión sucesoria por matrimonio expresamente prohibido?",
+    "answer": "A la persona y sus descendientes",
+    "options": [
+      "A la persona y sus descendientes",
+      "A toda su línea ascendente y colateral",
+      "Solo a la persona",
+      "Solo a sus hijos mayores de edad"
+    ],
+    "reference": "CE 57.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La consecuencia afecta al contrayente con derecho sucesorio y sus descendientes.",
+    "inactive": false
+  },
+  {
+    "id": 900045,
+    "question": "¿Qué tipo de norma resuelve las abdicaciones y renuncias?",
+    "answer": "Ley orgánica",
+    "options": [
+      "Real decreto",
+      "Decreto legislativo",
+      "Ley orgánica",
+      "Ley ordinaria"
+    ],
+    "reference": "CE 57.5",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La reserva de ley orgánica incluye también las dudas de hecho o de derecho sobre el orden sucesorio.",
+    "inactive": false
+  },
+  {
+    "id": 900046,
+    "question": "¿Qué ley orgánica hizo efectiva la abdicación de Juan Carlos I?",
+    "answer": "LO 3/2014, de 18 de junio",
+    "options": [
+      "LO 3/2014, de 18 de junio",
+      "LO 1/2014, de 19 de junio",
+      "LO 3/2015, de 18 de junio",
+      "LO 2/2014, de 18 de junio"
+    ],
+    "reference": "LO 3/2014",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-2014-6476; CEF Tema 4, noviembre 2026",
+    "explanation": "La ley entró en vigor el día de su publicación, el 19 de junio de 2014.",
+    "inactive": false
+  },
+  {
+    "id": 900047,
+    "question": "¿En qué fecha se hizo efectiva la abdicación de Juan Carlos I?",
+    "answer": "19 de junio de 2014",
+    "options": [
+      "22 de noviembre de 2014",
+      "19 de julio de 2014",
+      "19 de junio de 2014",
+      "18 de junio de 2014"
+    ],
+    "reference": "LO 3/2014",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-2014-6476; CEF Tema 4, noviembre 2026",
+    "explanation": "No debe confundirse la fecha de la ley, 18 de junio, con la de publicación y entrada en vigor.",
+    "inactive": false
+  },
+  {
+    "id": 900048,
+    "question": "¿Qué excepción permite al consorte asumir funciones constitucionales?",
+    "answer": "La Regencia",
+    "options": [
+      "La tutela de las Cortes",
+      "El mando militar ordinario",
+      "La sanción de leyes por delegación",
+      "La Regencia"
+    ],
+    "reference": "CE 58",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Regencia",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El artículo 58 solo contempla la excepción de la Regencia.",
+    "inactive": false
+  },
+  {
+    "id": 900049,
+    "question": "¿Quién ejerce prioritariamente la Regencia del Rey menor?",
+    "answer": "Su padre o su madre",
+    "options": [
+      "El tutor testamentario",
+      "Su padre o su madre",
+      "El Presidente del Congreso",
+      "El heredero de la Corona"
+    ],
+    "reference": "CE 59.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Regencia",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "En defecto de sus progenitores, se acude al pariente adulto más próximo en el orden sucesorio.",
+    "inactive": false
+  },
+  {
+    "id": 900050,
+    "question": "¿Quién reconoce la imposibilidad del Rey inhabilitado para ejercer su autoridad?",
+    "answer": "Las Cortes Generales",
+    "options": [
+      "El Tribunal Constitucional",
+      "El Congreso exclusivamente",
+      "El Consejo de Ministros",
+      "Las Cortes Generales"
+    ],
+    "reference": "CE 59.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Regencia",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El reconocimiento corresponde a las Cortes Generales, no a un órgano judicial.",
+    "inactive": false
+  },
+  {
+    "id": 900051,
+    "question": "Si el Rey se inhabilita y el heredero es mayor de edad, ¿quién ejerce la Regencia?",
+    "answer": "El Príncipe heredero",
+    "options": [
+      "El Presidente del Congreso",
+      "El Príncipe heredero",
+      "El padre del Rey",
+      "El tutor del Rey"
+    ],
+    "reference": "CE 59.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Regencia",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "Una vez reconocida la imposibilidad por las Cortes, el heredero adulto entra inmediatamente a ejercerla.",
+    "inactive": false
+  },
+  {
+    "id": 900052,
+    "question": "¿Cuántas personas pueden integrar la Regencia nombrada por las Cortes?",
+    "answer": "Una, tres o cinco",
+    "options": [
+      "Una, dos o tres",
+      "Cinco o siete",
+      "Tres o cinco exclusivamente",
+      "Una, tres o cinco"
+    ],
+    "reference": "CE 59.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Regencia",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La Constitución admite exactamente esas tres composiciones.",
+    "inactive": false
+  },
+  {
+    "id": 900053,
+    "question": "Si nadie tiene derecho a ejercer la Regencia, ¿quién la nombra?",
+    "answer": "Las Cortes Generales",
+    "options": [
+      "El Rey",
+      "Las Cortes Generales",
+      "El Tribunal Supremo",
+      "El Gobierno"
+    ],
+    "reference": "CE 59.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Regencia",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La Regencia parlamentaria es subsidiaria de las personas llamadas constitucionalmente.",
+    "inactive": false
+  },
+  {
+    "id": 900054,
+    "question": "¿Qué requisitos personales exige la Constitución para ser regente?",
+    "answer": "Ser español y mayor de edad",
+    "options": [
+      "Ser español y mayor de edad",
+      "Ser español y mayor de 25 años",
+      "Ser español de nacimiento y mayor de edad",
+      "Ser miembro de la Familia Real"
+    ],
+    "reference": "CE 59.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Regencia",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "No exige nacionalidad española de origen ni pertenencia a la Familia Real.",
+    "inactive": false
+  },
+  {
+    "id": 900055,
+    "question": "¿En nombre de quién se ejerce siempre la Regencia?",
+    "answer": "Del Rey",
+    "options": [
+      "Del pueblo español",
+      "De las Cortes Generales",
+      "Del Rey",
+      "Del Gobierno"
+    ],
+    "reference": "CE 59.5",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Regencia",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El regente ejerce por mandato constitucional en nombre del Rey.",
+    "inactive": false
+  },
+  {
+    "id": 900056,
+    "question": "¿Qué nacionalidad exige la CE al tutor testamentario del Rey menor?",
+    "answer": "Española de nacimiento",
+    "options": [
+      "De cualquier Estado de la UE",
+      "Española, cualquiera que sea su adquisición",
+      "Española de nacimiento",
+      "Española o iberoamericana"
+    ],
+    "reference": "CE 60.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Tutela",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "A diferencia de la Regencia, la tutela testamentaria exige ser español de nacimiento además de mayor de edad.",
+    "inactive": false
+  },
+  {
+    "id": 900057,
+    "question": "¿Quién tiene prioridad como tutor del Rey menor?",
+    "answer": "La persona designada en testamento por el Rey difunto",
+    "options": [
+      "La persona designada en testamento por el Rey difunto",
+      "El Presidente del Gobierno",
+      "El padre o madre en todo caso",
+      "El pariente más próximo en la sucesión"
+    ],
+    "reference": "CE 60.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Tutela",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El nombramiento testamentario válido precede a la tutela de los progenitores.",
+    "inactive": false
+  },
+  {
+    "id": 900058,
+    "question": "A falta de tutor testamentario, ¿mientras qué condición puede ejercer la tutela el padre o la madre?",
+    "answer": "Permanezca viudo",
+    "options": [
+      "No tenga otros hijos",
+      "Sea regente necesariamente",
+      "Permanezca en España",
+      "Permanezca viudo"
+    ],
+    "reference": "CE 60.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Tutela",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La viudedad es una condición específica de la tutela legítima, no de la Regencia.",
+    "inactive": false
+  },
+  {
+    "id": 900059,
+    "question": "¿Quién nombra al tutor del Rey menor en último término?",
+    "answer": "Las Cortes Generales",
+    "options": [
+      "El Consejo de Ministros",
+      "Las Cortes Generales",
+      "El Tribunal Supremo",
+      "El Presidente del Senado"
+    ],
+    "reference": "CE 60.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Tutela",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "Es subsidiario del tutor testamentario y de la tutela del padre o madre viudos.",
+    "inactive": false
+  },
+  {
+    "id": 900060,
+    "question": "¿En quién pueden acumularse tutela y Regencia?",
+    "answer": "Padre, madre o ascendientes directos del Rey",
+    "options": [
+      "Padre, madre o ascendientes directos del Rey",
+      "Cualquier tutor testamentario",
+      "Únicamente el heredero adulto",
+      "Cualquier pariente mayor de edad"
+    ],
+    "reference": "CE 60.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Tutela",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La acumulación es excepcional y se limita a los familiares enumerados.",
+    "inactive": false
+  },
+  {
+    "id": 900061,
+    "question": "¿Con qué es incompatible el ejercicio de la tutela?",
+    "answer": "Todo cargo o representación política",
+    "options": [
+      "Solo la condición de senador",
+      "Cualquier actividad privada",
+      "Solo los cargos ministeriales",
+      "Todo cargo o representación política"
+    ],
+    "reference": "CE 60.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Tutela",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La incompatibilidad constitucional abarca cualquier cargo o representación política.",
+    "inactive": false
+  },
+  {
+    "id": 900062,
+    "question": "¿Ante quién jura el Rey al ser proclamado?",
+    "answer": "Las Cortes Generales",
+    "options": [
+      "El Consejo de Ministros",
+      "El Senado exclusivamente",
+      "El Tribunal Constitucional",
+      "Las Cortes Generales"
+    ],
+    "reference": "CE 61.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Juramento",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La proclamación y juramento tienen lugar ante las Cortes Generales.",
+    "inactive": false
+  },
+  {
+    "id": 900063,
+    "question": "¿Cuándo presta juramento constitucional el Príncipe heredero?",
+    "answer": "Al alcanzar la mayoría de edad",
+    "options": [
+      "Al ser proclamado Rey exclusivamente",
+      "Al alcanzar la mayoría de edad",
+      "Al nacer",
+      "Al ser designado tutor"
+    ],
+    "reference": "CE 61.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Juramento",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El juramento del heredero se produce al alcanzar la mayoría de edad.",
+    "inactive": false
+  },
+  {
+    "id": 900064,
+    "question": "¿Cuándo prestan juramento los regentes?",
+    "answer": "Al hacerse cargo de sus funciones",
+    "options": [
+      "Al cumplirse un año de mandato",
+      "Al finalizar la Regencia",
+      "Al alcanzar la mayoría de edad necesariamente",
+      "Al hacerse cargo de sus funciones"
+    ],
+    "reference": "CE 61.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Juramento",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La referencia temporal es el momento de asumir las funciones.",
+    "inactive": false
+  },
+  {
+    "id": 900065,
+    "question": "¿Qué juramento adicional prestan heredero y regentes?",
+    "answer": "Fidelidad al Rey",
+    "options": [
+      "Fidelidad al Gobierno",
+      "Fidelidad al Presidente del Congreso",
+      "Fidelidad al Rey",
+      "Fidelidad al Tribunal Constitucional"
+    ],
+    "reference": "CE 61.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Juramento",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "Se añade al mismo juramento que presta el Rey al ser proclamado.",
+    "inactive": false
+  },
+  {
+    "id": 900066,
+    "question": "¿En qué plazo se convoca al Congreso electo tras las elecciones?",
+    "answer": "Dentro de 25 días",
+    "options": [
+      "Dentro de 60 días",
+      "Dentro de 25 días",
+      "Dentro de 30 días",
+      "Dentro de 15 días"
+    ],
+    "reference": "CE 68.6",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Funciones",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El plazo se cuenta desde la celebración de las elecciones, no desde la finalización del mandato.",
+    "inactive": false
+  },
+  {
+    "id": 900067,
+    "question": "¿Quién confiere los empleos civiles y militares conforme al artículo 62.f CE?",
+    "answer": "El Rey",
+    "options": [
+      "El Rey",
+      "El Congreso",
+      "El Ministro de Defensa",
+      "El Consejo de Estado"
+    ],
+    "reference": "CE 62.f",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Funciones",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El Rey confiere empleos civiles y militares y concede honores y distinciones de acuerdo con las leyes.",
+    "inactive": false
+  },
+  {
+    "id": 900068,
+    "question": "¿Quién manifiesta el consentimiento del Estado para obligarse mediante tratados?",
+    "answer": "El Rey",
+    "options": [
+      "El Tribunal Constitucional",
+      "El Consejo de Estado",
+      "El Rey",
+      "El Presidente del Congreso"
+    ],
+    "reference": "CE 63.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Relaciones internacionales",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La función del Rey consiste en manifestar el consentimiento con arreglo a la Constitución y las leyes.",
+    "inactive": false
+  },
+  {
+    "id": 900069,
+    "question": "¿En nombre de quién se administra la justicia?",
+    "answer": "Del Rey",
+    "options": [
+      "Del Gobierno",
+      "Del Rey",
+      "Del Tribunal Supremo",
+      "De las Cortes Generales"
+    ],
+    "reference": "CE 117.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Nombramientos",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La justicia emana del pueblo y se administra en nombre del Rey por jueces y magistrados.",
+    "inactive": false
+  },
+  {
+    "id": 900070,
+    "question": "¿A quién corresponde nombrar y relevar a los miembros civiles y militares de la Casa del Rey?",
+    "answer": "Al Rey libremente",
+    "options": [
+      "Al Ministro de la Presidencia",
+      "Al Consejo de Ministros",
+      "Al Presidente del Congreso",
+      "Al Rey libremente"
+    ],
+    "reference": "CE 65.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Casa del Rey",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La Constitución atribuye libremente al Rey el nombramiento y relevo de los miembros civiles y militares de su Casa.",
+    "inactive": false
+  },
+  {
+    "id": 900071,
+    "question": "¿Qué mayoría autoriza el referéndum consultivo?",
+    "answer": "Absoluta del Congreso",
+    "options": [
+      "Absoluta de las Cortes Generales",
+      "Absoluta del Congreso",
+      "Simple del Congreso",
+      "Tres quintos de ambas Cámaras"
+    ],
+    "reference": "CE 92.2; LO 2/1980 art. 6",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Funciones",
+    "format": "memoria",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026; BOE-A-1980-1564",
+    "explanation": "El Congreso autoriza por mayoría absoluta; la propuesta corresponde al Presidente del Gobierno.",
+    "inactive": false
+  },
+  {
+    "id": 900072,
+    "question": "¿A petición de quién puede el Rey presidir el Consejo de Ministros?",
+    "answer": "Del Presidente del Gobierno",
+    "options": [
+      "De cualquier ministro",
+      "Del Presidente del Gobierno",
+      "Del Consejo de Estado",
+      "Del Presidente del Congreso"
+    ],
+    "reference": "CE 62.g",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Funciones",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El Rey puede presidirlo a efectos informativos cuando lo estime oportuno y a petición del Presidente del Gobierno.",
+    "inactive": false
+  },
+  {
+    "id": 900073,
+    "question": "¿A quién corresponde el mando supremo de las Fuerzas Armadas?",
+    "answer": "Al Rey",
+    "options": [
+      "Al Rey",
+      "Al Presidente del Gobierno",
+      "Al Jefe de Estado Mayor de la Defensa",
+      "Al Ministro de Defensa"
+    ],
+    "reference": "CE 62.h",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Funciones",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La atribución constitucional se diferencia de la dirección de la defensa del Estado, que corresponde al Gobierno.",
+    "inactive": false
+  },
+  {
+    "id": 900074,
+    "question": "¿Qué clase de indultos no puede autorizar la ley?",
+    "answer": "Generales",
+    "options": [
+      "Parciales",
+      "Generales",
+      "Condicionados",
+      "Particulares"
+    ],
+    "reference": "CE 62.i",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Funciones",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La prohibición constitucional se refiere a los indultos generales.",
+    "inactive": false
+  },
+  {
+    "id": 900075,
+    "question": "¿De qué instituciones ostenta el Rey el Alto Patronazgo?",
+    "answer": "Las Reales Academias",
+    "options": [
+      "Las Cortes Generales",
+      "Las Reales Academias",
+      "Las universidades públicas",
+      "Los colegios profesionales"
+    ],
+    "reference": "CE 62.j",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Funciones",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El artículo 62.j identifica expresamente a las Reales Academias.",
+    "inactive": false
+  },
+  {
+    "id": 900076,
+    "question": "¿Quién autoriza previamente al Rey para declarar la guerra y hacer la paz?",
+    "answer": "Las Cortes Generales",
+    "options": [
+      "El Congreso exclusivamente",
+      "El Consejo de Defensa Nacional",
+      "El Consejo de Ministros",
+      "Las Cortes Generales"
+    ],
+    "reference": "CE 63.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Relaciones internacionales",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "Se exige autorización previa de las Cortes Generales.",
+    "inactive": false
+  },
+  {
+    "id": 900077,
+    "question": "¿Ante quién están acreditados los representantes diplomáticos extranjeros en España?",
+    "answer": "El Rey",
+    "options": [
+      "El Presidente del Senado",
+      "El Rey",
+      "El Ministro de Asuntos Exteriores",
+      "El Presidente del Gobierno"
+    ],
+    "reference": "CE 63.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Relaciones internacionales",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El artículo 63.1 atribuye la acreditación diplomática al Rey.",
+    "inactive": false
+  },
+  {
+    "id": 900078,
+    "question": "¿Quién refrenda la propuesta de candidato a Presidente del Gobierno?",
+    "answer": "El Presidente del Congreso",
+    "options": [
+      "El ministro competente",
+      "El Presidente del Gobierno saliente",
+      "El Presidente del Senado",
+      "El Presidente del Congreso"
+    ],
+    "reference": "CE 64.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Refrendo",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La propuesta y el nombramiento de Presidente son supuestos de refrendo por el Presidente del Congreso.",
+    "inactive": false
+  },
+  {
+    "id": 900079,
+    "question": "¿Quién refrenda la disolución de las Cámaras por falta de investidura?",
+    "answer": "El Presidente del Congreso",
+    "options": [
+      "El Presidente del Congreso",
+      "El Consejo de Ministros",
+      "El Presidente del Senado",
+      "El Presidente del Gobierno"
+    ],
+    "reference": "CE 64.1; 99.5",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Refrendo",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La disolución del artículo 99 es una de las excepciones a la regla ordinaria de refrendo.",
+    "inactive": false
+  },
+  {
+    "id": 900080,
+    "question": "¿Qué acto del Rey queda expresamente exceptuado del refrendo?",
+    "answer": "Nombrar y relevar miembros de su Casa",
+    "options": [
+      "Nombrar y relevar miembros de su Casa",
+      "Nombrar ministros",
+      "Sancionar leyes",
+      "Convocar elecciones"
+    ],
+    "reference": "CE 56.3; 65.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Refrendo",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La excepción expresa es la del artículo 65.2; no debe extenderse por analogía a otros actos.",
+    "inactive": false
+  },
+  {
+    "id": 900081,
+    "question": "¿De dónde procede la cantidad global para sostener a la Familia y Casa del Rey?",
+    "answer": "De los Presupuestos del Estado",
+    "options": [
+      "De los Presupuestos del Estado",
+      "Del Consejo de Estado",
+      "Del patrimonio del Congreso",
+      "De los Presupuestos de la Unión Europea"
+    ],
+    "reference": "CE 65.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Casa del Rey",
+    "format": "memoria",
+    "difficulty": 1,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El Rey recibe una cantidad global y la distribuye libremente.",
+    "inactive": false
+  },
+  {
+    "id": 900082,
+    "question": "Conforme al artículo 56 de la Constitución, señale la atribución que corresponde al Rey.",
+    "answer": "La representación internacional más alta del Estado español",
+    "options": [
+      "La representación internacional más alta del Estado español",
+      "La dirección de la Administración civil y militar",
+      "La aprobación de los Presupuestos Generales del Estado",
+      "La dirección de la política interior y exterior"
+    ],
+    "reference": "CE 56.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Jefatura del Estado",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La representación internacional corresponde al Rey; la dirección política y administrativa corresponde al Gobierno.",
+    "inactive": false
+  },
+  {
+    "id": 900083,
+    "question": "Un ministro competente refrenda un acto del Rey. Según los artículos 56.3 y 64.2 CE, ¿a quién corresponde la responsabilidad del acto?",
+    "answer": "La responsabilidad del acto corresponde a quien lo refrenda.",
+    "options": [
+      "Las Cortes Generales asumen siempre la responsabilidad de los actos regios.",
+      "La inviolabilidad permite prescindir del refrendo en todos los actos.",
+      "La responsabilidad del acto corresponde a quien lo refrenda.",
+      "El refrendo determina que el Rey responda solidariamente."
+    ],
+    "reference": "CE 56.3; 64.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Jefatura del Estado",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La inviolabilidad y la irresponsabilidad del Rey se combinan con la responsabilidad de las autoridades refrendantes.",
+    "inactive": false
+  },
+  {
+    "id": 900084,
+    "question": "Fallece el primogénito del Rey dejando una hija. El segundo hijo del Rey permanece vivo. ¿A quién favorece la prioridad sucesoria entre ambos descendientes?",
+    "answer": "A la hija del primogénito, por pertenecer a la línea anterior.",
+    "options": [
+      "A la hija del primogénito, por pertenecer a la línea anterior.",
+      "Al segundo hijo del Rey, por tener grado más próximo.",
+      "Al segundo hijo del Rey, por preferencia masculina en cualquier línea.",
+      "A quien designe el Congreso por mayoría absoluta."
+    ],
+    "reference": "CE 57.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "inap",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La prioridad de línea se aplica antes de comparar grado y sexo; la representación protege a los descendientes de la línea anterior.",
+    "inactive": false
+  },
+  {
+    "id": 900085,
+    "question": "Dos hijos del Rey, una hija mayor y un hijo menor, pertenecen a la misma línea y grado. Conforme al artículo 57.1 CE, ¿quién tiene preferencia entre ellos?",
+    "answer": "El hijo menor, por la preferencia del varón en el mismo grado.",
+    "options": [
+      "La hija mayor, porque no existe preferencia por sexo.",
+      "La hija mayor, porque la edad prevalece sobre el sexo.",
+      "Quien sea elegido por las Cortes Generales.",
+      "El hijo menor, por la preferencia del varón en el mismo grado."
+    ],
+    "reference": "CE 57.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La preferencia masculina opera en el mismo grado; la edad decide dentro del mismo sexo.",
+    "inactive": false
+  },
+  {
+    "id": 900086,
+    "question": "Señale la secuencia de criterios de preferencia sucesoria establecida en la Constitución.",
+    "answer": "Línea anterior, grado próximo, varón en el mismo grado y mayor edad en el mismo sexo.",
+    "options": [
+      "Línea posterior, grado remoto, varón y menor edad.",
+      "Varón en cualquier línea, grado próximo y mayor edad.",
+      "Línea anterior, grado próximo, varón en el mismo grado y mayor edad en el mismo sexo.",
+      "Grado próximo, línea anterior, mayor edad y sexo."
+    ],
+    "reference": "CE 57.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El orden de los criterios es esencial para resolver supuestos de representación y primogenitura.",
+    "inactive": false
+  },
+  {
+    "id": 900087,
+    "question": "El título de Príncipe de Asturias corresponde al heredero de la Corona:",
+    "answer": "Desde su nacimiento o desde el hecho que origine el llamamiento.",
+    "options": [
+      "Desde que cumpla la mayoría de edad y preste juramento.",
+      "Desde la aprobación de una ley orgánica individual de nombramiento.",
+      "Desde su nacimiento o desde el hecho que origine el llamamiento.",
+      "Desde que las Cortes Generales reconozcan su capacidad para ejercer la Regencia."
+    ],
+    "reference": "CE 57.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La adquisición de la dignidad no está condicionada a alcanzar la mayoría de edad.",
+    "inactive": false
+  },
+  {
+    "id": 900088,
+    "question": "Señale la afirmación INCORRECTA en relación con las reglas de sucesión a la Corona.",
+    "answer": "Las dudas de hecho sobre el orden sucesorio se resuelven por decreto del Rey.",
+    "options": [
+      "Extinguidas las líneas sucesorias, las Cortes Generales proveen a la sucesión.",
+      "Las renuncias se resuelven por ley orgánica.",
+      "Las abdicaciones se resuelven por ley orgánica.",
+      "Las dudas de hecho sobre el orden sucesorio se resuelven por decreto del Rey."
+    ],
+    "reference": "CE 57.3-5",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "Tanto las dudas de hecho como las de derecho están sujetas a reserva de ley orgánica.",
+    "inactive": false
+  },
+  {
+    "id": 900089,
+    "question": "Una persona con derecho sucesorio contrae matrimonio pese a la prohibición expresa del Rey, pero sin prohibición expresa de las Cortes Generales. ¿Se produce por ese solo hecho la exclusión del artículo 57.4 CE?",
+    "answer": "No, porque el precepto exige la prohibición expresa del Rey y de las Cortes Generales.",
+    "options": [
+      "No, porque el precepto exige la prohibición expresa del Rey y de las Cortes Generales.",
+      "Sí, siempre que la prohibición del Rey se haya comunicado al Congreso.",
+      "Sí, porque basta la prohibición expresa del Rey.",
+      "Sí, pero la exclusión solo afecta a sus descendientes."
+    ],
+    "reference": "CE 57.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "inap",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La conjunción de las dos prohibiciones es requisito del supuesto constitucional.",
+    "inactive": false
+  },
+  {
+    "id": 900090,
+    "question": "¿Qué mayoría exige el Congreso en la votación final sobre el conjunto de una ley orgánica que resuelve una renuncia sucesoria?",
+    "answer": "Mayoría absoluta.",
+    "options": [
+      "Tres quintos.",
+      "Mayoría absoluta.",
+      "Mayoría simple.",
+      "Dos tercios."
+    ],
+    "reference": "CE 57.5; 81.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Sucesión",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La reserva del artículo 57.5 remite a la regla general de aprobación de leyes orgánicas del artículo 81.2.",
+    "inactive": false
+  },
+  {
+    "id": 900091,
+    "question": "La Reina consorte pretende ejercer funciones constitucionales por su sola condición de consorte. Según la CE:",
+    "answer": "No puede asumirlas, salvo en los supuestos previstos para la Regencia.",
+    "options": [
+      "Puede ejercerlas previo refrendo de un ministro, sin necesidad de Regencia.",
+      "Puede ejercerlas durante cualquier ausencia del Rey del territorio nacional.",
+      "No puede asumirlas, salvo en los supuestos previstos para la Regencia.",
+      "Puede ejercerlas si las delega el Rey."
+    ],
+    "reference": "CE 58; 59",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Regencia",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La condición de consorte no confiere por sí sola funciones constitucionales.",
+    "inactive": false
+  },
+  {
+    "id": 900092,
+    "question": "En caso de minoría de edad del Rey, faltando su padre y su madre, ¿a quién corresponde ejercer inmediatamente la Regencia?",
+    "answer": "Al pariente mayor de edad más próximo a suceder en la Corona según el orden constitucional.",
+    "options": [
+      "Al tutor testamentario en todo caso.",
+      "A la persona que el Gobierno designe por real decreto.",
+      "Al pariente mayor de edad más próximo a suceder en la Corona según el orden constitucional.",
+      "Al pariente de mayor edad, con independencia de la línea sucesoria."
+    ],
+    "reference": "CE 59.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Regencia",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "Se atiende a la proximidad en el orden de sucesión y a la mayoría de edad.",
+    "inactive": false
+  },
+  {
+    "id": 900093,
+    "question": "Las Cortes reconocen la imposibilidad del Rey para ejercer su autoridad. El heredero aún es menor de edad. ¿Qué solución prevé la Constitución?",
+    "answer": "Aplicar el régimen del artículo 59.1 hasta que el heredero alcance la mayoría de edad.",
+    "options": [
+      "Nombrar necesariamente una Regencia colegiada de tres personas hasta que el Rey fallezca.",
+      "Aplicar el régimen del artículo 59.1 hasta que el heredero alcance la mayoría de edad.",
+      "Atribuir provisionalmente todas las funciones al Presidente del Congreso.",
+      "Permitir que el heredero menor ejerza inmediatamente la Regencia."
+    ],
+    "reference": "CE 59.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Regencia",
+    "format": "inap",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El artículo 59.2 remite al régimen del apartado primero mientras el heredero sea menor.",
+    "inactive": false
+  },
+  {
+    "id": 900094,
+    "question": "No existe ninguna persona a quien corresponda constitucionalmente la Regencia. ¿Cuál de las siguientes decisiones sería conforme con la CE?",
+    "answer": "Las Cortes Generales nombran una Regencia integrada por cinco personas.",
+    "options": [
+      "Las Cortes Generales nombran una Regencia integrada por cinco personas.",
+      "Las Cortes Generales nombran una Regencia de cuatro personas.",
+      "El Gobierno designa una Regencia de una persona.",
+      "El Congreso nombra una Regencia de dos personas."
+    ],
+    "reference": "CE 59.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Regencia",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El nombramiento corresponde a las Cortes Generales y las composiciones admisibles son uno, tres y cinco integrantes.",
+    "inactive": false
+  },
+  {
+    "id": 900095,
+    "question": "¿Cuál de las siguientes condiciones NO exige expresamente la Constitución para el ejercicio de la Regencia?",
+    "answer": "Ser español de nacimiento.",
+    "options": [
+      "Ser español.",
+      "Ser español de nacimiento.",
+      "Ser mayor de edad.",
+      "Ejercer en nombre del Rey."
+    ],
+    "reference": "CE 59.4-5",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Regencia",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El nacimiento no es requisito de la Regencia; sí lo es para el tutor testamentario.",
+    "inactive": false
+  },
+  {
+    "id": 900096,
+    "question": "El Rey difunto ha designado en testamento como tutor del Rey menor a un español mayor de edad que adquirió la nacionalidad española por residencia. ¿Cumple el requisito de nacionalidad para esa tutela testamentaria?",
+    "answer": "No, pues el tutor testamentario debe ser español de nacimiento.",
+    "options": [
+      "Sí, pues basta con ser español y mayor de edad.",
+      "Sí, si las Cortes Generales reconocen el testamento.",
+      "No, pues el tutor testamentario debe ser español de nacimiento.",
+      "No, porque únicamente puede ser tutor un ascendiente del Rey."
+    ],
+    "reference": "CE 60.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Tutela",
+    "format": "inap",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La nacionalidad española adquirida basta para la Regencia, pero no satisface el requisito del tutor testamentario.",
+    "inactive": false
+  },
+  {
+    "id": 900097,
+    "question": "El padre de un Rey menor vuelve a contraer matrimonio. ¿Qué diferencia establece el texto constitucional entre su posible tutela legítima y su Regencia?",
+    "answer": "La viudedad se exige para la tutela legítima, pero no se establece como requisito de la Regencia.",
+    "options": [
+      "La viudedad se exige para la tutela legítima, pero no se establece como requisito de la Regencia.",
+      "El nuevo matrimonio no afecta a ninguna de las dos instituciones.",
+      "La viudedad se exige para ambos cargos.",
+      "La viudedad se exige para la Regencia, pero no para la tutela."
+    ],
+    "reference": "CE 59.1; 60.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Tutela",
+    "format": "inap",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El artículo 60 condiciona la tutela del progenitor a que permanezca viudo; el artículo 59 no introduce esa condición para la Regencia.",
+    "inactive": false
+  },
+  {
+    "id": 900098,
+    "question": "¿En cuál de los siguientes casos permite la Constitución acumular los cargos de tutor y regente, si concurren los demás requisitos?",
+    "answer": "En la abuela del Rey menor.",
+    "options": [
+      "En la abuela del Rey menor.",
+      "En el hermano del Rey menor.",
+      "En el tío del Rey menor.",
+      "En cualquier persona nombrada por las Cortes Generales."
+    ],
+    "reference": "CE 60.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Tutela",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La abuela es ascendiente directa; hermanos y tíos son parientes colaterales.",
+    "inactive": false
+  },
+  {
+    "id": 900099,
+    "question": "Señale cuál de las siguientes afirmaciones sobre la tutela del Rey menor es correcta.",
+    "answer": "Su ejercicio es incompatible con cualquier cargo o representación política.",
+    "options": [
+      "La tutela termina necesariamente cuando el tutor deja de ejercer la Regencia.",
+      "Su ejercicio es incompatible con cualquier cargo o representación política.",
+      "Su ejercicio es compatible con el cargo de diputado si lo autorizan las Cortes.",
+      "El tutor debe formar parte siempre de la Familia Real."
+    ],
+    "reference": "CE 60.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Tutela",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El artículo 60.2 establece una incompatibilidad general con los cargos y representaciones políticas.",
+    "inactive": false
+  },
+  {
+    "id": 900100,
+    "question": "Al ser proclamado, el Rey jura desempeñar fielmente sus funciones y guardar y hacer guardar la Constitución y las leyes. ¿Qué otros derechos debe jurar respetar?",
+    "answer": "Los derechos de los ciudadanos y de las Comunidades Autónomas.",
+    "options": [
+      "Los derechos de los ciudadanos y de las Comunidades Autónomas.",
+      "Únicamente los derechos fundamentales del artículo 15 al 29.",
+      "Solo los derechos de los ciudadanos españoles residentes en España.",
+      "Los derechos de las Cortes Generales exclusivamente."
+    ],
+    "reference": "CE 61.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Juramento",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El artículo 61.1 incluye expresamente los derechos de ciudadanos y Comunidades Autónomas.",
+    "inactive": false
+  },
+  {
+    "id": 900101,
+    "question": "Señale la afirmación correcta sobre el heredero de la Corona.",
+    "answer": "Puede ostentar la dignidad de Príncipe de Asturias antes de alcanzar la mayoría de edad, momento en el que presta juramento.",
+    "options": [
+      "Solo presta juramento al convertirse en regente.",
+      "Presta juramento constitucional desde el nacimiento.",
+      "Adquiere la dignidad únicamente cuando presta juramento al Rey.",
+      "Puede ostentar la dignidad de Príncipe de Asturias antes de alcanzar la mayoría de edad, momento en el que presta juramento."
+    ],
+    "reference": "CE 57.2; 61.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Juramento",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La dignidad se vincula al nacimiento o al hecho del llamamiento, mientras el juramento se realiza al alcanzar la mayoría de edad.",
+    "inactive": false
+  },
+  {
+    "id": 900102,
+    "question": "Una ley aprobada por las Cortes Generales es remitida al Rey. Según la Constitución, ¿qué actuación corresponde?",
+    "answer": "Sancionarla en quince días, promulgarla y ordenar su inmediata publicación.",
+    "options": [
+      "Someterla a una nueva votación en caso de discrepancia.",
+      "Publicarla sin sanción cuando se trate de una ley orgánica.",
+      "Sancionarla en treinta días o devolverla a las Cortes.",
+      "Sancionarla en quince días, promulgarla y ordenar su inmediata publicación."
+    ],
+    "reference": "CE 62.a; 91",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Funciones",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La sanción es un deber constitucional y el Rey carece de veto legislativo.",
+    "inactive": false
+  },
+  {
+    "id": 900103,
+    "question": "¿Qué diferencia existe entre la disolución de las Cámaras del artículo 99 y la del artículo 115 CE en cuanto al refrendo?",
+    "answer": "La del artículo 99 corresponde al Presidente del Congreso y la del 115 al Presidente del Gobierno.",
+    "options": [
+      "La del artículo 99 corresponde al Presidente del Gobierno y la del 115 al Presidente del Congreso.",
+      "La del artículo 99 corresponde al Presidente del Congreso y la del 115 al Presidente del Gobierno.",
+      "Ambas corresponden al Presidente del Gobierno.",
+      "Ambas corresponden al Presidente del Congreso."
+    ],
+    "reference": "CE 64.1; 99.5; 115.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Refrendo",
+    "format": "inap",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El artículo 64.1 establece un refrendo especial para la disolución del artículo 99; la del 115 sigue la regla ordinaria y la responsabilidad del Presidente del Gobierno.",
+    "inactive": false
+  },
+  {
+    "id": 900104,
+    "question": "En la disolución anticipada prevista en el artículo 115.1 CE, ¿quién puede proponerla bajo su exclusiva responsabilidad?",
+    "answer": "El Presidente del Gobierno, previa deliberación del Consejo de Ministros.",
+    "options": [
+      "El Rey, previa consulta con los grupos parlamentarios.",
+      "El Consejo de Ministros por votación unánime.",
+      "El Presidente del Gobierno, previa deliberación del Consejo de Ministros.",
+      "El Presidente del Congreso, previa autorización del Senado."
+    ],
+    "reference": "CE 115.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Funciones",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La iniciativa corresponde al Presidente del Gobierno; el decreto de disolución al Rey.",
+    "inactive": false
+  },
+  {
+    "id": 900105,
+    "question": "Tras la renovación del Congreso, señale la secuencia constitucional para proponer candidato a la Presidencia del Gobierno.",
+    "answer": "El Rey consulta a los representantes designados por los grupos políticos con representación parlamentaria y propone candidato a través del Presidente del Congreso.",
+    "options": [
+      "El Consejo de Ministros propone candidato y el Congreso refrenda la propuesta.",
+      "El Rey consulta a los representantes designados por los grupos políticos con representación parlamentaria y propone candidato a través del Presidente del Congreso.",
+      "El Rey consulta únicamente a los grupos del Senado y designa directamente al Presidente.",
+      "El Presidente del Congreso consulta a los ministros y elige candidato sin intervención regia."
+    ],
+    "reference": "CE 99.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Funciones",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El artículo 99.1 identifica tanto las consultas previas como el cauce de la propuesta regia.",
+    "inactive": false
+  },
+  {
+    "id": 900106,
+    "question": "Para la convocatoria de un referéndum consultivo sobre una decisión política de especial trascendencia, ¿qué combinación es correcta?",
+    "answer": "Convocatoria del Rey, propuesta del Presidente del Gobierno y autorización del Congreso por mayoría absoluta.",
+    "options": [
+      "Convocatoria del Rey, propuesta del Presidente del Gobierno y autorización del Congreso por mayoría absoluta.",
+      "Convocatoria de las Cortes y autorización previa del Consejo de Ministros.",
+      "Convocatoria del Rey, propuesta del Congreso y autorización del Senado por mayoría simple.",
+      "Convocatoria del Presidente del Gobierno, propuesta del Rey y autorización del Senado."
+    ],
+    "reference": "CE 92.2; LO 2/1980 art. 6",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Funciones",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026; BOE-A-1980-1564",
+    "explanation": "La autorización parlamentaria corresponde al Congreso y la convocatoria formal al Rey.",
+    "inactive": false
+  },
+  {
+    "id": 900107,
+    "question": "Con arreglo al artículo 62.f CE, ¿qué función se atribuye al Rey?",
+    "answer": "Expedir los decretos acordados en Consejo de Ministros.",
+    "options": [
+      "Expedir los decretos acordados en Consejo de Ministros.",
+      "Elaborar los proyectos de ley del Gobierno.",
+      "Dictar los reglamentos de las Cortes Generales.",
+      "Aprobar por iniciativa propia los decretos del Gobierno."
+    ],
+    "reference": "CE 62.f",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Funciones",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El Rey expide los decretos previamente acordados; no asume la potestad reglamentaria gubernamental.",
+    "inactive": false
+  },
+  {
+    "id": 900108,
+    "question": "El Rey estima oportuno presidir una sesión del Consejo de Ministros para ser informado de asuntos de Estado. ¿Qué requisito recoge expresamente el artículo 62.g CE?",
+    "answer": "Que exista petición del Presidente del Gobierno.",
+    "options": [
+      "Que exista autorización por mayoría absoluta del Congreso.",
+      "Que lo apruebe la mayoría de los ministros.",
+      "Que lo solicite el Presidente del Senado.",
+      "Que exista petición del Presidente del Gobierno."
+    ],
+    "reference": "CE 62.g",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Funciones",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La presidencia de estas sesiones se prevé a efectos informativos y a petición del Presidente del Gobierno.",
+    "inactive": false
+  },
+  {
+    "id": 900109,
+    "question": "Señale la atribución que corresponde al Rey y no se confunde con la dirección política y administrativa del Gobierno.",
+    "answer": "El mando supremo de las Fuerzas Armadas.",
+    "options": [
+      "El ejercicio de la potestad reglamentaria.",
+      "El mando supremo de las Fuerzas Armadas.",
+      "La dirección de la Administración militar.",
+      "La dirección de la defensa del Estado."
+    ],
+    "reference": "CE 62.h; 97",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Funciones",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El mando supremo está en el artículo 62.h; las otras funciones se atribuyen al Gobierno en el artículo 97.",
+    "inactive": false
+  },
+  {
+    "id": 900110,
+    "question": "Sobre la prerrogativa real de gracia, señale la opción correcta.",
+    "answer": "No puede aplicarse a los supuestos de responsabilidad criminal del artículo 102 CE.",
+    "options": [
+      "No puede aplicarse a los supuestos de responsabilidad criminal del artículo 102 CE.",
+      "El Rey puede ejercerla sin sujeción a la ley.",
+      "Solo se excluye su aplicación a delitos de traición, pero no a los restantes supuestos del artículo 102.",
+      "La ley puede autorizar indultos generales si lo aprueba el Senado."
+    ],
+    "reference": "CE 62.i; 102.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Funciones",
+    "format": "inap",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El artículo 102.3 excluye todos los supuestos del propio artículo, además de la prohibición general de indultos generales del 62.i.",
+    "inactive": false
+  },
+  {
+    "id": 900111,
+    "question": "En materia de tratados internacionales, ¿qué papel atribuye la Constitución al Rey?",
+    "answer": "Manifestar el consentimiento del Estado conforme a la Constitución y las leyes.",
+    "options": [
+      "Manifestar el consentimiento del Estado conforme a la Constitución y las leyes.",
+      "Resolver en exclusiva las controversias de constitucionalidad de los tratados.",
+      "Autorizar por sí solo la atribución de competencias a organizaciones internacionales.",
+      "Aprobar las leyes orgánicas de autorización sin intervención parlamentaria."
+    ],
+    "reference": "CE 63.2; 93-94",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Relaciones internacionales",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La manifestación formal del consentimiento se diferencia de las autorizaciones exigidas por los artículos 93 y 94.",
+    "inactive": false
+  },
+  {
+    "id": 900112,
+    "question": "Un tratado internacional tiene carácter militar. Antes de manifestar el Rey el consentimiento del Estado, ¿qué exige el artículo 94.1 CE?",
+    "answer": "La autorización previa de las Cortes Generales.",
+    "options": [
+      "La autorización previa de las Cortes Generales.",
+      "La aprobación de un decreto legislativo por el Rey.",
+      "La autorización exclusiva del Ministro de Defensa.",
+      "La autorización del Tribunal Constitucional en todos los casos."
+    ],
+    "reference": "CE 63.2; 94.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Relaciones internacionales",
+    "format": "inap",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "Los tratados militares pertenecen al grupo sometido a autorización previa de las Cortes.",
+    "inactive": false
+  },
+  {
+    "id": 900113,
+    "question": "Según el artículo 63.3 CE, la declaración de guerra y la conclusión de la paz:",
+    "answer": "Corresponden al Rey previa autorización de las Cortes Generales.",
+    "options": [
+      "Corresponden al Rey previa autorización del Congreso exclusivamente.",
+      "Corresponden al Rey previa autorización de las Cortes Generales.",
+      "Corresponden al Gobierno sin autorización parlamentaria.",
+      "Corresponden al Senado mediante acuerdo de mayoría absoluta."
+    ],
+    "reference": "CE 63.3",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Relaciones internacionales",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La Constitución atribuye el acto al Rey y la autorización previa a las Cortes Generales.",
+    "inactive": false
+  },
+  {
+    "id": 900114,
+    "question": "En el nombramiento del Fiscal General del Estado, ¿qué intervención corresponde a cada órgano?",
+    "answer": "El Rey lo nombra, a propuesta del Gobierno, oído el CGPJ.",
+    "options": [
+      "El Congreso lo nombra por mayoría absoluta, a propuesta del Gobierno.",
+      "El Rey lo nombra, a propuesta vinculante del CGPJ, oído el Senado.",
+      "El Rey lo nombra, a propuesta del Gobierno, oído el CGPJ.",
+      "El CGPJ lo nombra, a propuesta del Rey, oído el Gobierno."
+    ],
+    "reference": "CE 124.4",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Nombramientos",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El artículo 124.4 distingue nombramiento, propuesta y audiencia del CGPJ.",
+    "inactive": false
+  },
+  {
+    "id": 900115,
+    "question": "En el sistema institucional autonómico previsto en el artículo 152.1 CE, el Presidente de la Comunidad Autónoma:",
+    "answer": "Es elegido por la Asamblea de entre sus miembros y nombrado por el Rey.",
+    "options": [
+      "Es nombrado por la Asamblea a propuesta del Rey.",
+      "Es elegido por la Asamblea de entre sus miembros y nombrado por el Rey.",
+      "Es elegido por el Consejo de Gobierno y nombrado por el Presidente del Gobierno.",
+      "Es nombrado libremente por el Rey."
+    ],
+    "reference": "CE 152.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Nombramientos",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La elección parlamentaria autonómica y el nombramiento regio son actos distintos.",
+    "inactive": false
+  },
+  {
+    "id": 900116,
+    "question": "¿En cuál de estos casos corresponde constitucionalmente el refrendo al Presidente del Congreso?",
+    "answer": "El nombramiento del Presidente del Gobierno.",
+    "options": [
+      "El nombramiento de los demás miembros del Gobierno.",
+      "La convocatoria ordinaria de un referéndum consultivo.",
+      "El nombramiento del Presidente del Gobierno.",
+      "La expedición de un decreto acordado en Consejo de Ministros."
+    ],
+    "reference": "CE 64.1",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Refrendo",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El nombramiento del Presidente del Gobierno es uno de los tres actos expresamente enumerados en el artículo 64.1.",
+    "inactive": false
+  },
+  {
+    "id": 900117,
+    "question": "Un acto regio que requiere refrendo se dicta sin él. ¿Qué efecto establece expresamente la Constitución?",
+    "answer": "El acto carece de validez.",
+    "options": [
+      "El acto se presume válido mientras no lo revoque el Gobierno.",
+      "El acto es válido, pero genera responsabilidad personal del Rey.",
+      "El acto carece de validez.",
+      "El acto adquiere validez por el mero transcurso de quince días."
+    ],
+    "reference": "CE 56.3; 64; 65.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Refrendo",
+    "format": "inap",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La ausencia del refrendo constitucionalmente exigido implica invalidez, sin perjuicio de la excepción del artículo 65.2.",
+    "inactive": false
+  },
+  {
+    "id": 900118,
+    "question": "Señale la relación correcta entre acto regio y autoridad refrendante.",
+    "answer": "Disolución del artículo 99: Presidente del Congreso.",
+    "options": [
+      "Disolución del artículo 99: Presidente del Congreso.",
+      "Nombramiento de miembros de la Casa del Rey: Presidente del Gobierno necesariamente.",
+      "Propuesta de candidato a Presidente del Gobierno: Ministro de la Presidencia.",
+      "Nombramiento de Presidente del Gobierno: Presidente del Senado."
+    ],
+    "reference": "CE 64.1; 65.2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Refrendo",
+    "format": "inap",
+    "difficulty": 3,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "La disolución por falta de investidura se refrenda por el Presidente del Congreso; el nombramiento y relevo de la Casa están expresamente exceptuados.",
+    "inactive": false
+  },
+  {
+    "id": 900119,
+    "question": "¿Cuál de estas afirmaciones sobre la Familia y Casa del Rey se ajusta al artículo 65 CE?",
+    "answer": "El Rey distribuye libremente la cantidad global que recibe de los Presupuestos del Estado.",
+    "options": [
+      "El Congreso determina individualmente cada gasto de la dotación regia.",
+      "El Consejo de Ministros nombra libremente a los miembros militares de la Casa del Rey.",
+      "El Rey distribuye libremente la cantidad global que recibe de los Presupuestos del Estado.",
+      "El Rey necesita autorización previa del Senado para relevar a los miembros civiles de su Casa."
+    ],
+    "reference": "CE 65.1-2",
+    "category": "Organización del Estado",
+    "topic": "Tema 4 · La Corona",
+    "subtopic": "Casa del Rey",
+    "format": "inap",
+    "difficulty": 2,
+    "source": "BOE-A-1978-31229; CEF Tema 4, noviembre 2026",
+    "explanation": "El Rey distribuye libremente la dotación global y nombra y releva a los miembros civiles y militares de su Casa.",
+    "inactive": false
   }
 ]

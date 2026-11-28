@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-20",
+  "updated": "2026-11-28",
   "startDate": "2026-11-16",
   "timezone": "Europe/Madrid",
   "order": [
@@ -25,7 +25,8 @@
     "gasto",
     "lcsp1",
     "lcsp2",
-    "interinos"
+    "interinos",
+    "corona"
   ],
   "published": [
     {
@@ -1625,6 +1626,65 @@
           2674,
           2675,
           2676
+        ]
+      }
+    },
+    {
+      "date": "2026-12-08",
+      "id": "corona",
+      "title": "La Corona",
+      "subtitle": "Jefatura del Estado, funciones constitucionales del Rey, sucesión, regencia, tutela, juramento y refrendo",
+      "group": "Organización del Estado",
+      "law": "CE arts. 56-65 y concordantes; LO 2/1980; LO 3/2014",
+      "path": "hoy-estudiamos/la-corona.md",
+      "exam": {
+        "count": 25,
+        "excludeInactive": true,
+        "includeSubtopics": [],
+        "includeIds": [
+          900082,
+          900083,
+          900084,
+          900085,
+          900086,
+          900087,
+          900088,
+          900089,
+          900090,
+          900091,
+          900092,
+          900093,
+          900094,
+          900095,
+          900096,
+          900097,
+          900098,
+          900099,
+          900100,
+          900101,
+          900102,
+          900103,
+          900104,
+          900105,
+          900106,
+          900107,
+          900108,
+          900109,
+          900110,
+          900111,
+          900112,
+          900113,
+          900114,
+          900115,
+          900116,
+          900117,
+          900118,
+          900119,
+          862,
+          863,
+          864,
+          865,
+          2940
         ]
       }
     }
